@@ -1,5 +1,14 @@
 [
     {
+        "name": "YU Yunique",
+        "brand": "YU",
+        "codename": "jalebi",
+        "sf_dir": "https://sourceforge.net/projects/dotos-2-x/",
+        "maintainer_name": "Maaz Muzammil",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=7908199",
+        "xda_thread": "#"
+    },
+    {
         "name": "Redmi Note 4",
         "brand": "Xiaomi",
         "codename": "mido",
