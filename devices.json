@@ -8,4 +8,14 @@
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=7471004",
         "xda_thread": "#"
     }
+
+    {
+        "name": "Moto G5S Plus",
+        "brand": "Motorola",
+        "codename": "sanders",
+        "sf_dir": "https://sourceforge.net/projects/dotos-2-x/",
+        "maintainer_name": "Raj Jadeja (raj_jdja)",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=5614198",
+        "xda_thread": "#"
+    }
 ]
