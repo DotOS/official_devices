@@ -16,5 +16,14 @@
         "maintainer_name": "Mohan Cm (mohancm)",
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=7471004",
         "xda_thread": "https://forum.xda-developers.com/mi-a1/development/rom-dotos-2-1-t3767471"
-    }
+     },
+     {
+        "name": "YU Yunique",
+        "brand": "YU",
+        "codename": "jalebi",
+        "sf_dir": "https://sourceforge.net/projects/dotos-2-x/",
+        "maintainer_name": "Maaz Muzammil",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=7908199",
+        "xda_thread": "https://forum.xda-developers.com/yu-yunique/development/unofficial-dotos-t3706164"
+      }
 ]
