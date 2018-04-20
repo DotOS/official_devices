@@ -1,12 +1,12 @@
 [
     {
-        "name": "YU Yunique",
-        "brand": "YU",
-        "codename": "jalebi",
+        "name": "Moto G5S Plus",
+        "brand": "Motorola",
+        "codename": "sanders",
         "sf_dir": "https://sourceforge.net/projects/dotos-2-x/",
-        "maintainer_name": "Maaz Muzammil",
-        "maintainer_url": "https://forum.xda-developers.com/member.php?u=7908199",
-        "xda_thread": "https://forum.xda-developers.com/yu-yunique/development/unofficial-dotos-t3706164"
+        "maintainer_name": "Raj Jadeja (raj_jdja)",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=5614198",
+        "xda_thread": "https://forum.xda-developers.com/moto-g5s-plus/development/rom-dotos-t3770358"
     },
     {
         "name": "Redmi Note 4",
@@ -18,15 +18,6 @@
         "xda_thread": "https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-dotos-2-1-t3765730"
     },
     {
-        "name": "Moto G5S Plus",
-        "brand": "Motorola",
-        "codename": "sanders",
-        "sf_dir": "https://sourceforge.net/projects/dotos-2-x/",
-        "maintainer_name": "Raj Jadeja (raj_jdja)",
-        "maintainer_url": "https://forum.xda-developers.com/member.php?u=5614198",
-        "xda_thread": "https://forum.xda-developers.com/moto-g5s-plus/development/rom-dotos-t3770358"
-    },
-    {
         "name": "Xiaomi Mi A1",
         "brand": "Xiaomi",
         "codename": "tissot",
@@ -34,5 +25,23 @@
         "maintainer_name": "Mohan Cm (mohancm)",
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=7471004",
         "xda_thread": "https://forum.xda-developers.com/mi-a1/development/rom-dotos-2-1-t3767471"
+    },
+   {
+        "name": "YU Yunique",
+        "brand": "YU",
+        "codename": "jalebi",
+        "sf_dir": "https://sourceforge.net/projects/dotos-2-x/",
+        "maintainer_name": "Maaz Muzammil",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=7908199",
+        "xda_thread": "https://forum.xda-developers.com/yu-yunique/development/unofficial-dotos-t3706164"
+    },
+   {
+        "name": "Zuk Z2 Plus",
+        "brand": "Zuk",
+        "codename": "z2_plus",
+        "sf_dir": "https://sourceforge.net/projects/dotos-2-x/z2_plus",
+        "maintainer_name": "Mourya Baruah (miju12)",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=5989777",
+        "xda_thread": "https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-dotos-2-1z2plus-t3768131"
     }
 ]
