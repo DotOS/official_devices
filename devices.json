@@ -1,5 +1,14 @@
 [
     {
+        "name": "Moto G5 Plus",
+        "brand": "Motorola",
+        "codename": "potter",
+        "sf_dir": "https://sourceforge.net/projects/dotos-2-x/files/potter/",
+        "maintainer_name": "Anshuman Mishra (anshuman_1)",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=8352556",
+        "xda_thread": "https://forum.xda-developers.com/g5-plus/development/rom-dotos-2-1-t3766455"
+    },
+    {
         "name": "Moto G5S Plus",
         "brand": "Motorola",
         "codename": "sanders",
