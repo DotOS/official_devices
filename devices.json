@@ -21,7 +21,7 @@
         "name": "Redmi Note 4",
         "brand": "Xiaomi",
         "codename": "mido",
-        "sf_dir": "https://sourceforge.net/projects/dotos-2-x/mido",
+        "sf_dir": "https://sourceforge.net/projects/dotos-2-x/files/mido/",
         "maintainer_name": "Mohan Cm (mohancm)",
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=7471004",
         "xda_thread": "https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-dotos-2-1-t3765730"
@@ -30,7 +30,7 @@
         "name": "Xiaomi Mi A1",
         "brand": "Xiaomi",
         "codename": "tissot",
-        "sf_dir": "https://sourceforge.net/projects/dotos-2-x/tissot",
+        "sf_dir": "https://sourceforge.net/projects/dotos-2-x/files/tissot/",
         "maintainer_name": "Mohan Cm (mohancm)",
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=7471004",
         "xda_thread": "https://forum.xda-developers.com/mi-a1/development/rom-dotos-2-1-t3767471"
@@ -48,7 +48,7 @@
         "name": "Zuk Z2 Plus",
         "brand": "Zuk",
         "codename": "z2_plus",
-        "sf_dir": "https://sourceforge.net/projects/dotos-2-x/z2_plus",
+        "sf_dir": "https://sourceforge.net/projects/dotos-2-x/files/Z2_plus/",
         "maintainer_name": "Mourya Baruah (miju12)",
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=5989777",
         "xda_thread": "https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-dotos-2-1z2plus-t3768131"
