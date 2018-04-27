@@ -9,6 +9,15 @@
         "xda_thread": "https://forum.xda-developers.com/moto-g5s-plus/development/rom-dotos-t3770358"
     },
     {
+        "name": "Z9 Max",
+        "brand": "Nubia",
+        "codename": "nx512j",
+        "sf_dir": "https://sourceforge.net/projects/dotos-2-x/nx512j",
+        "maintainer_name": "Bauuuuu",
+        "maintainer_url": "http://4pda.ru/forum/index.php?showuser=5013849",
+        "xda_thread": "http://4pda.ru/forum/index.php?showtopic=778434&st=50000"
+    },
+    {
         "name": "Redmi Note 4",
         "brand": "Xiaomi",
         "codename": "mido",
