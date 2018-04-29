@@ -18,6 +18,15 @@
         "xda_thread": "http://4pda.ru/forum/index.php?showtopic=778434&st=50000"
     },
     {
+        "name": "Xiaomi Redmi 3S",
+        "brand": "Xiaomi",
+        "codename": "land",
+        "sf_dir": "https://sourceforge.net/projects/dotos-2-x/land",
+        "maintainer_name": "Sipun Ku Mahanta (Darkstar085)",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=6698785",
+        "xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-dot-os-2-1-xiaomi-redmi-3s-t3779721"
+    },
+    {
         "name": "Redmi Note 4",
         "brand": "Xiaomi",
         "codename": "mido",
