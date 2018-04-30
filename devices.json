@@ -54,6 +54,15 @@
         "xda_thread": "https://forum.xda-developers.com/redmi-note-5/development/rom-dotos-2-1-t3776847"
     },
     {
+        "name": "Galaxy J7 Prime",
+        "brand": "Samsung",
+        "codename": "on7xelte",
+        "sf_dir": "https://sourceforge.net/projects/dotos-2-x/on7xelte",
+        "maintainer_name": "Siddhant Naik (darklord1731)",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=8535890",
+        "xda_thread": "https://forum.xda-developers.com/galaxy-j7/samsung-galaxy-j7-prime--j7-on-nxt-exynos7870/rom-dotos-v2-1-j7-prime-nxt-t3774100"
+    },
+    {
         "name": "YU Yunique",
         "brand": "YU",
         "codename": "jalebi",
