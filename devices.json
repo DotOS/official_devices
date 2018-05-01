@@ -27,6 +27,15 @@
         "xda_thread": "https://forum.xda-developers.com/galaxy-j7/samsung-galaxy-j7-prime--j7-on-nxt-exynos7870/rom-dotos-v2-1-j7-prime-nxt-t3774100"
     },
     {
+        "name": "Galaxy J7 (2016)",
+        "brand": "Samsung",
+        "codename": "j7xelte",
+        "sf_dir": "https://sourceforge.net/projects/dotos-2-x/j7xelte",
+        "maintainer_name": "Abhay Ruparel (redking12)",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=7957595",
+        "xda_thread": "https://forum.xda-developers.com/galaxy-j7/samsung-galaxy-j7-2016-exynos-7870-guides-development-and-mods/stable-dotos-j7-16-t3784265"
+    },
+    {
         "name": "Xiaomi Redmi 3S",
         "brand": "Xiaomi",
         "codename": "land",
