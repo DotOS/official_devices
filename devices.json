@@ -81,6 +81,15 @@
         "xda_thread": "https://forum.xda-developers.com/yu-yunique/development/unofficial-dotos-t3706164"
     },
     {
+        "name": "YU Yuphoria",
+        "brand": "YU",
+        "codename": "lettuce",
+        "sf_dir": "https://sourceforge.net/projects/dotos-2-x/lettuce",
+        "maintainer_name": "Abhinavgupta371",
+        "maintainer_url": "http://forums.yuplaygod.com/members/abhinav13.86409/",
+        "xda_thread": "http://forums.yuplaygod.com/threads/official-10-february-2018-rom-weeklies-dotos-v-1-2-final-updated-volte.50787/"
+    },
+    {
         "name": "Zuk Z2 Plus",
         "brand": "Zuk",
         "codename": "z2_plus",
