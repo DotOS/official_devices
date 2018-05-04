@@ -88,5 +88,41 @@
         "maintainer_name": "Mourya Baruah (miju12)",
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=5989777",
         "xda_thread": "https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-dotos-2-1z2plus-t3768131"
+    },
+    {
+        "name": "Galaxy S5 (klte)",
+        "brand": "Samsung",
+        "codename": "klte",
+        "sf_dir": "https://sourceforge.net/projects/dotos-2-x/klte",
+        "maintainer_name": "Brunowp8, IKGapirov",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=7759939",
+        "xda_thread": "https://forum.xda-developers.com/galaxy-s5/unified-development/rom-dotos-2-2-t3785597"
+    },
+    {
+        "name": "Galaxy S5 (klteduos)",
+        "brand": "Samsung",
+        "codename": "klteduos",
+        "sf_dir": "https://sourceforge.net/projects/dotos-2-x/klteduos",
+        "maintainer_name": "Brunowp8, IKGapirov",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=7759939",
+        "xda_thread": "https://forum.xda-developers.com/galaxy-s5/unified-development/rom-dotos-2-2-t3785597"
+    },
+    {
+        "name": "Galaxy S5 (kltedv)",
+        "brand": "Samsung",
+        "codename": "kltedv",
+        "sf_dir": "https://sourceforge.net/projects/dotos-2-x/kltedv",
+        "maintainer_name": "Brunowp8, IKGapirov",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=7759939",
+        "xda_thread": "https://forum.xda-developers.com/galaxy-s5/unified-development/rom-dotos-2-2-t3785597"
+    },
+    {
+        "name": "Galaxy S5 (kltekor)",
+        "brand": "Samsung",
+        "codename": "kltekor",
+        "sf_dir": "https://sourceforge.net/projects/dotos-2-x/kltekor",
+        "maintainer_name": "Brunowp8, IKGapirov",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=7759939",
+        "xda_thread": "https://forum.xda-developers.com/galaxy-s5/unified-development/rom-dotos-2-2-t3785597"
     }
 ]
