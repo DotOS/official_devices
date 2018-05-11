@@ -133,5 +133,14 @@
         "maintainer_name": "Mourya Baruah (miju12)",
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=5989777",
         "xda_thread": "https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-dotos-2-1z2plus-t3768131"
+    },
+    {
+        "name": "Moto G5 Plus",
+        "brand": "Motorola",
+        "codename": "potter",
+        "sf_dir": "https://sourceforge.net/projects/dotos-2-x/potter",
+        "maintainer_name": "Anshuman Mishra",
+        "maintainer_url": "https://telegram.me/anshuman852",
+        "xda_thread": "https://forum.xda-developers.com/g5-plus/development/rom-dotos-2-1-t3766455"
     }
 ]
