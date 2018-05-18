@@ -36,6 +36,15 @@
         "xda_thread": "http://4pda.ru/forum/index.php?showtopic=778434&st=50000"
     },
     {
+        "name": "Z9 mini",
+        "brand": "Nubia",
+        "codename": "nx511j",
+        "sf_dir": "https://sourceforge.net/projects/dotos-2-x/files/nx511j",
+        "maintainer_name": "TTTT555",
+        "maintainer_url": "http://4pda.ru/forum/index.php?showuser=3775328",
+        "xda_thread": "http://4pda.ru/forum/index.php?showtopic=702119&st=50000"
+    },
+    {
         "name": "Galaxy J7 Prime",
         "brand": "Samsung",
         "codename": "on7xelte",
