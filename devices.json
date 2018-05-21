@@ -45,6 +45,15 @@
         "xda_thread": "http://4pda.ru/forum/index.php?showtopic=702119&st=50000"
     },
     {
+	"name": "OnePlus 3/3T",
+	"brand": "OnePlus",
+	"codename": "oneplus3",
+	"sf_dir": "https://sourceforge.net/projects/dotos-2-x/files/oneplus3",
+	"maintainer_name": "Dhanush Krishnan (ded_boi)",
+	"maintainer_url": "https://forum.xda-developers.com/member.php?u=7107153",
+	"xda_thread": "https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/7-1-2-dot-os-1-1-t3713351"
+    },
+    {
         "name": "Galaxy J7 Prime",
         "brand": "Samsung",
         "codename": "on7xelte",
