@@ -3,7 +3,7 @@
         "name": "Moto G4 Plus",
         "brand": "Motorola",
         "codename": "athene",
-        "sf_dir": "https://sourceforge.net/projects/dotos-2-x-athene/files/",
+        "sf_dir": "https://sourceforge.net/projects/dotos-2-x/files/athene",
         "maintainer_name": "Ayan Uchiha Choudhury",
         "maintainer_url": "https://t.me/Ayan_Uchiha_Choudhury",
         "xda_thread": "https://forum.xda-developers.com/moto-g4-plus/development/rom-dot-os-2-xx-t3782354"
