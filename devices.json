@@ -1,5 +1,14 @@
 [
     {
+        "name": "Moto G3",
+        "brand": "Motorola",
+        "codename": "osprey",
+        "sf_dir": "https://sourceforge.net/projects/dotos-2-x/files/osprey",
+        "maintainer_name": "rahul9999",
+        "maintainer_url": "https://t.me/rahul9999xda",
+        "xda_thread": "https://forum.xda-developers.com/2015-moto-g/development/8-1-0r26-dotos-2-2-t3792562"
+    },
+    {
         "name": "Moto G4 Plus",
         "brand": "Motorola",
         "codename": "athene",
