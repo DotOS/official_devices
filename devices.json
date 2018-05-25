@@ -170,4 +170,13 @@
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=5989777",
         "xda_thread": "https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-dotos-2-1z2plus-t3768131"
     }
+    {
+        "name": "Lenovo P2",
+        "brand": "Lenovo",
+        "codename": "kuntao",
+        "sf_dir": "https://sourceforge.net/projects/dotos-2-x/kuntao",
+        "maintainer_name": "B50Corei5",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=8745379",
+        "xda_thread": "https://forum.xda-developers.com/lenovo-p2/development/unoffical-rom-dotos-t3795101"
+    },
 ]
