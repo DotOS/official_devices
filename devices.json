@@ -54,6 +54,15 @@
         "xda_thread": "http://4pda.ru/forum/index.php?showtopic=702119&st=50000"
     },
     {
+        "name": "Oneplus 2",
+        "brand": "Oneplus",
+        "codename": "Oneplus2",
+        "sf_dir": "https://sourceforge.net/projects/dotos-2-x/oneplus2",
+        "maintainer_name": "SimplyJeevS",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=9127067",
+        "xda_thread": "https://forum.xda-developers.com/oneplus-2/development/rom-dotos-v2-2-t3798079"
+    },
+    {
         "name": "OnePlus 3/3T",
         "brand": "OnePlus",
         "codename": "oneplus3",
