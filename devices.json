@@ -162,6 +162,15 @@
         "xda_thread": "https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-dotos-2-1-t3765730"
     },
     {
+	"name": "Redmi 4/4X",
+	"brand": "Xiaomi",
+	"codename": "santoni",
+	"sf_dir": "https://sourceforge.net/projects/dotos-2-x/files/santoni",
+	"maintainer_name": "Swapnil Soni (SwapnilSoni1999)",
+	"maintainer_url": "https://forum.xda-developers.com/member.php?u=6844471",
+	"xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-dotos-2-3-t3802081"
+    },
+    {
         "name": "Xiaomi Mi A1",
         "brand": "Xiaomi",
         "codename": "tissot",
