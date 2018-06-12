@@ -180,6 +180,15 @@
         "xda_thread": "https://forum.xda-developers.com/mi-a1/development/rom-dotos-2-1-t3767471"
     },
     {
+        "name": "Xiaomi Mi Max 2",
+        "brand": "Xiaomi",
+        "codename": "oxygen",
+        "sf_dir": "https://sourceforge.net/projects/dotos-2-x/oxygen",
+        "maintainer_name": "Jayant Bohra (jay-b)",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=4479268",
+        "xda_thread": "https://forum.xda-developers.com/mi-max-2/development/unofficial-dotos-t3802648"
+    },
+    {
         "name": "Redmi 5 Plus",
         "brand": "Xiaomi",
         "codename": "vince",
