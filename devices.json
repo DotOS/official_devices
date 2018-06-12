@@ -171,6 +171,15 @@
 	"xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-dotos-2-3-t3802081"
     },
     {
+        "name": "Xiaomi Mi 5",
+        "brand": "Xiaomi",
+        "codename": "gemini",
+        "sf_dir": "https://sourceforge.net/projects/dotos-2-x/gemini",
+        "maintainer_name": "Is Ouzz",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=4826467",
+        "xda_thread": "https://forum.xda-developers.com/mi-5/development/rom-unofficial-dotos-t3801945"
+    },
+    {
         "name": "Xiaomi Mi A1",
         "brand": "Xiaomi",
         "codename": "tissot",
