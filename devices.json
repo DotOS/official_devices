@@ -171,6 +171,15 @@
 	"xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-dotos-2-3-t3802081"
     },
     {
+        "name": "Redmi 4A",
+        "brand": "Xiaomi",
+        "codename": "rolex",
+        "sf_dir": "https://sourceforge.net/projects/dotos-2-x/rolex",
+        "maintainer_name": "Aryan Patidar",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=8303831",
+        "xda_thread": "https://forum.xda-developers.com/redmi-4a/development/unified-dotos-2-3-t3803278"
+    },
+    {
         "name": "Xiaomi Mi 5",
         "brand": "Xiaomi",
         "codename": "gemini",
