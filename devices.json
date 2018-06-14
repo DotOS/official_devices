@@ -153,13 +153,22 @@
       "xda_thread":"https://forum.xda-developers.com/galaxy-s5/unified-development/rom-dotos-2-2-t3785597"
    },
    {  
-      "name":"Xiaomi Redmi 3S",
+      "name":"Redmi 3S",
       "brand":"Xiaomi",
       "codename":"land",
       "sf_dir":"https://sourceforge.net/projects/dotos-2-x/land",
       "maintainer_name":"Sipun Ku Mahanta (Darkstar085)",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=6698785",
       "xda_thread":"https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-dot-os-2-1-xiaomi-redmi-3s-t3779721"
+   },
+   {
+      "name": "Redmi 4A",
+      "brand": "Xiaomi",
+      "codename": "rolex",
+      "sf_dir": "https://sourceforge.net/projects/dotos-2-x/rolex",
+      "maintainer_name": "Aryan Patidar",
+      "maintainer_url": "https://forum.xda-developers.com/member.php?u=8303831",
+      "xda_thread": "https://forum.xda-developers.com/redmi-4a/development/unified-dotos-2-3-t3803278"
    },
    {  
       "name":"Redmi Note 4",
@@ -180,7 +189,7 @@
       "xda_thread":"https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-dotos-2-3-t3802081"
    },
    {  
-      "name":"Xiaomi Mi 5",
+      "name":"Mi 5",
       "brand":"Xiaomi",
       "codename":"gemini",
       "sf_dir":"https://sourceforge.net/projects/dotos-2-x/gemini",
@@ -189,7 +198,7 @@
       "xda_thread":"https://forum.xda-developers.com/mi-5/development/rom-unofficial-dotos-t3801945"
    },
    {  
-      "name":"Xiaomi Mi A1",
+      "name":"Mi A1",
       "brand":"Xiaomi",
       "codename":"tissot",
       "sf_dir":"https://sourceforge.net/projects/dotos-2-x/tissot",
@@ -198,7 +207,7 @@
       "xda_thread":"https://forum.xda-developers.com/mi-a1/development/rom-dotos-2-1-t3767471"
    },
    {  
-      "name":"Xiaomi Mi Max 2",
+      "name":"Mi Max 2",
       "brand":"Xiaomi",
       "codename":"oxygen",
       "sf_dir":"https://sourceforge.net/projects/dotos-2-x/oxygen",
