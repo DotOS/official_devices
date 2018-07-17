@@ -250,5 +250,14 @@
       "maintainer_name":"Mourya Baruah (miju12)",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=5989777",
       "xda_thread":"https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-dotos-2-1z2plus-t3768131"
+   },
+  {  
+      "name":"Leeco Le pro 3",
+      "brand":"Leeco",
+      "codename":"zl1",
+      "sf_dir":"https://sourceforge.net/projects/dotos-2-x/zl1",
+      "maintainer_name":"Jakub Frelik (Quavosh)",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=8110390",
+      "xda_thread":"https://forum.xda-developers.com/le-pro3/development/rom-dotos-2-3-1-t3809068
    }
 ]
