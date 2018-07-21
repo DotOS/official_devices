@@ -251,6 +251,15 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=5989777",
       "xda_thread":"https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-dotos-2-1z2plus-t3768131"
    },
+   {  
+      "name":"Xiaomi Redmi Note 3",
+      "brand":"Xiaomi",
+      "codename":"Kenzo",
+      "sf_dir":"https://sourceforge.net/projects/dotos-2-x/kenzo",
+      "maintainer_name":"Sagar Rokade",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7312263",
+      "xda_thread":"https://forum.xda-developers.com/redmi-note-3/development/rom-dotos-2-3-1-t3806040"
+   },
   {  
       "name":"Leeco Le pro 3",
       "brand":"Leeco",
