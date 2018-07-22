@@ -267,9 +267,8 @@
       "sf_dir":"https://sourceforge.net/projects/dotos-2-x/zl1",
       "maintainer_name":"Jakub Frelik (Quavosh)",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=8110390",
-      "xda_thread":"https://forum.xda-developers.com/le-pro3/development/rom-dotos-2-3-1-t3809068
-   }
-  
+      "xda_thread":"https://forum.xda-developers.com/le-pro3/development/rom-dotos-2-3-1-t3809068"
+   },
    {
       "name":"Lenovo Vibe K5/K5+",
       "brand":"Lenovo",
@@ -278,6 +277,5 @@
       "maintainer_name":"Chaitanaya Mittal(@Professional_Guider)",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=8726134",
       "xda_thread":"https://forum.xda-developers.com/k5-plus/development/rom-dot-os-2-3-1-t3808122"
-   },
-  
+   }
 ]
