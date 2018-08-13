@@ -286,5 +286,32 @@
       "maintainer_name":"Chaitanaya Mittal(@Professional_Guider)",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=8726134",
       "xda_thread":"https://forum.xda-developers.com/k5-plus/development/rom-dot-os-2-3-1-t3808122"
+   },
+   {
+      "name":"Galaxy Note 3 LTE (hlte)",
+      "brand":"Samsung",
+      "codename":"HLTE",
+      "sf_dir":"",
+      "maintainer_name":"Joshua Primero (jprimero15)",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=6561802",
+      "xda_thread":"https://forum.xda-developers.com/galaxy-note-3/development/rom-dotos-2-4-t3826334"
+   },
+   {
+      "name":"Galaxy Note 3 LTE (hltechn)",
+      "brand":"Samsung",
+      "codename":"HLTECHN",
+      "sf_dir":"",
+      "maintainer_name":"Joshua Primero (jprimero15)",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=6561802",
+      "xda_thread":"https://forum.xda-developers.com/galaxy-note-3/development/rom-dotos-2-4-t3826334"
+   },
+    {
+      "name":"Galaxy Note 3 LTE (hltetmo)",
+      "brand":"Samsung",
+      "codename":"HLTE",
+      "sf_dir":"",
+      "maintainer_name":"Joshua Primero (jprimero15)",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=6561802",
+      "xda_thread":"https://forum.xda-developers.com/galaxy-note-3/development/rom-dotos-2-4-t3826334"
    }
 ]
