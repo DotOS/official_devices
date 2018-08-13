@@ -340,5 +340,14 @@
       "maintainer_name":"Rahul (@rahul1892)",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=6578440",
       "xda_thread":"https://forum.xda-developers.com/moto-g-2014/development/rom-dotos-2-3-1-t3822409"
+   },
+   {
+      "name":"Samsung A5 2016",
+      "brand":"Samsung",
+      "codename":"a5xelte",
+      "sf_dir":"",
+      "maintainer_name":"Himanshu Singhal(bunnyy)",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=8946392",
+      "xda_thread":"https://forum.xda-developers.com/samsung-a-series/development/rom-dotos-v2-2-samsung-a5-2016-t3801074"
    }
 ]
