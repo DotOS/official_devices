@@ -286,5 +286,23 @@
       "maintainer_name":"Chaitanaya Mittal(@Professional_Guider)",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=8726134",
       "xda_thread":"https://forum.xda-developers.com/k5-plus/development/rom-dot-os-2-3-1-t3808122"
+   },
+   {
+      "name":"Moto G",
+      "brand":"Motorola",
+      "codename":"falcon",
+      "sf_dir":"https://sourceforge.net/projects/dotos-2-x/falcon",
+      "maintainer_name":"Rahul (@rahul1892)",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=6578440",
+      "xda_thread":"https://forum.xda-developers.com/moto-g/development/rom-dotos-2-3-1-t3817084"
+   },
+   {
+      "name":"Moto G 2014",
+      "brand":"Motorola",
+      "codename":"titan",
+      "sf_dir":"https://sourceforge.net/projects/dotos-2-x/titan",
+      "maintainer_name":"Rahul (@rahul1892)",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=6578440",
+      "xda_thread":"https://forum.xda-developers.com/moto-g-2014/development/rom-dotos-2-3-1-t3822409"
    }
 ]
