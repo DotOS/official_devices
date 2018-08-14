@@ -278,6 +278,15 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=8110390",
       "xda_thread":"https://forum.xda-developers.com/le-pro3/development/rom-dotos-2-3-1-t3809068"
    },
+  {  
+      "name":"Vega Iron 2",
+      "brand":"Pantech",
+      "codename":"ef63",
+      "sf_dir":"https://sourceforge.net/projects/dotos-2-x/files/ef63",
+      "maintainer_name":"chautruongthinh",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=4894994",
+      "xda_thread":"https://forum.xda-developers.com/android/development/rom-dotos-android-distribution-vega-t3824001"
+   },
    {
       "name":"Lenovo Vibe K5/K5+",
       "brand":"Lenovo",
