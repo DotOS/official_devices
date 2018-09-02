@@ -54,22 +54,13 @@
       "xda_thread":"https://forum.xda-developers.com/moto-g4-plus/development/rom-dot-os-2-xx-t3782354"
    },
    {  
-      "name":"Moto G5",
-      "brand":"Motorola",
-      "codename":"cedric",
-      "sf_dir":"https://sourceforge.net/projects/dotos-2-x/cedric",
-      "maintainer_name":"Bar0ns600",
-      "maintainer_url":"https://forum.xda-developers.com/member.php?u=8341469",
-      "xda_thread":"https://forum.xda-developers.com/g5/development/rom-dotos-2-x-t3788361"
-   },
-   {  
       "name":"Moto G5 Plus",
       "brand":"Motorola",
       "codename":"potter",
       "sf_dir":"https://sourceforge.net/projects/dotos-2-x/potter",
-      "maintainer_name":"Anshuman Mishra",
-      "maintainer_url":"https://telegram.me/anshuman852",
-      "xda_thread":"https://forum.xda-developers.com/g5-plus/development/rom-dotos-2-1-t3766455"
+      "maintainer_name":"Yugesh",
+      "maintainer_url":"https://telegram.me/Manoffun",
+      "xda_thread":"https://forum.xda-developers.com/g5-plus/development/rom-dotos-moto-g5-plus-t3835762"
    },
    {  
       "name":"Moto G5S Plus",
@@ -79,15 +70,6 @@
       "maintainer_name":"Raj Jadeja (raj_jdja)",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=5614198",
       "xda_thread":"https://forum.xda-developers.com/moto-g5s-plus/development/rom-dotos-t3770358"
-   },
-   {  
-      "name":"Z9 Max",
-      "brand":"Nubia",
-      "codename":"nx512j",
-      "sf_dir":"https://sourceforge.net/projects/dotos-2-x/nx512j",
-      "maintainer_name":"Bauuuuu",
-      "maintainer_url":"http://4pda.ru/forum/index.php?showuser=5013849",
-      "xda_thread":"http://4pda.ru/forum/index.php?showtopic=778434&st=50000"
    },
    {  
       "name":"Z9 mini",
@@ -108,15 +90,6 @@
       "xda_thread":"https://forum.xda-developers.com/oneplus-2/development/rom-dotos-v2-2-t3798079"
    },
    {  
-      "name":"OnePlus 3/3T",
-      "brand":"OnePlus",
-      "codename":"oneplus3",
-      "sf_dir":"https://sourceforge.net/projects/dotos-2-x/files/oneplus3",
-      "maintainer_name":"Dhanush Krishnan (ded_boi)",
-      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7107153",
-      "xda_thread":"https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/7-1-2-dot-os-1-1-t3713351"
-   },
-   {  
       "name":"Galaxy J7 Prime",
       "brand":"Samsung",
       "codename":"on7xelte",
@@ -124,15 +97,6 @@
       "maintainer_name":"Siddhant Naik (darklord1731)",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=8535890",
       "xda_thread":"https://forum.xda-developers.com/galaxy-j7/samsung-galaxy-j7-prime--j7-on-nxt-exynos7870/rom-dotos-v2-1-j7-prime-nxt-t3774100"
-   },
-   {  
-      "name":"Galaxy J7 (2016)",
-      "brand":"Samsung",
-      "codename":"j7xelte",
-      "sf_dir":"https://sourceforge.net/projects/dotos-2-x/j7xelte",
-      "maintainer_name":"Abhay Ruparel (redking12)",
-      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7957595",
-      "xda_thread":"https://forum.xda-developers.com/galaxy-j7/samsung-galaxy-j7-2016-exynos-7870-guides-development-and-mods/stable-dotos-j7-16-t3784265"
    },
    {  
       "name":"Galaxy S5 (klte)",
@@ -176,7 +140,7 @@
       "codename":"land",
       "sf_dir":"https://sourceforge.net/projects/dotos-2-x/land",
       "maintainer_name":"Sipun Ku Mahanta (Darkstar085)",
-      "maintainer_url":"https://forum.xda-developers.com/member.php?u=6698785",
+      "maintainer_url":"https://t.me/Darkstar085",
       "xda_thread":"https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-dot-os-2-1-xiaomi-redmi-3s-t3779721"
    },
    {
@@ -196,6 +160,15 @@
       "maintainer_name":"Mohan Cm (mohancm)",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=7471004",
       "xda_thread":"https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-dotos-2-1-t3765730"
+   },
+   {  
+      "name":"Redmi Note 5 Pro",
+      "brand":"Xiaomi",
+      "codename":"whyred",
+      "sf_dir":"https://sourceforge.net/projects/dotos-2-x/whyred",
+      "maintainer_name":"Sipun Ku Mahanta (Darkstar085)",
+      "maintainer_url":"https://t.me/Darkstar085",
+      "xda_thread":""
    },
    {  
       "name":"Redmi 4/4X",
@@ -269,7 +242,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=7312263",
       "xda_thread":"https://forum.xda-developers.com/redmi-note-3/development/rom-dotos-2-3-1-t3806040"
    },
-  {  
+   {  
       "name":"Leeco Le pro 3",
       "brand":"Leeco",
       "codename":"zl1",
