@@ -12,6 +12,6 @@ python3 generate_api.py
 cd api
 git add .
 CHANGED =$(git diff --numstat --cached | wc -l)
-[[$CHANGED -eq 0]] && exit 0
+[[ $CHANGED -eq 0 ]] && exit 0
 git commit -m "generate_api: $(date)"
 git push https://"${GUSER}":"${GPASSWORD}"@github.com/"${GITHUB_REPOSITORY}" api
