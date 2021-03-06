@@ -18,3 +18,8 @@ jobs:
     - name: Validate
       run: |
         bash .github/scripts/runner.sh
+      env:
+        GUSER: ${{secrets.GUSER}}
+        GEMAIL: ${{secrets.GEMAIL}}
+        GPASSWORD: ${{secrets.GPASSWORD}}
+        
