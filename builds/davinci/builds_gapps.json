@@ -1,0 +1,25 @@
+{
+  "response":[
+    {
+      "datetime":1612459475,
+      "filename":"dotOS-R-v5.0.0-davinci-GAPPS-20210218-1647.zip",
+      "id":"888637d68c2e64ed91f3fda631c9cf52",
+      "romtype":"GAPPS",
+      "size":1666374431,
+      "url":"https://downloads.droidontime.com/dot11/davinci/gapps/dotOS-R-v5.0.0-davinci-GAPPS-20210218-1647.zip",
+      "version":"v5.0.0",
+      "changelog":[
+        {
+          "miscTitle":"Great Stuffs",
+          "miscSummary":"Next Level",
+          "settingsTitle":"Settings Collapsing toolbar",
+          "settingsSummary":"",
+          "securityTitle":"",
+          "securitySummary":"",
+          "systemTitle":"",
+          "systemSummary":""
+        }
+      ]
+    }
+  ]
+}

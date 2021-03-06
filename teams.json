@@ -1,0 +1,82 @@
+[
+    {
+        "_id": "hack64",
+        "name": "Marco Rizzo",
+        "url": "https://github.com/hack64",
+        "devices": [
+            "davinci"
+        ]
+    },
+    {
+        "_id": "mohan",
+        "name": "Mohan C M",
+        "url": "https://github.com/mohancm",
+        "devices": [
+            "mido"
+        ]
+    },
+    {
+        "_id": "sweeto143",
+        "name": "Sipun Ku Mahanta",
+        "url": "https://github.com/sweeto143",
+        "devices": [
+            "whyred"
+        ]
+    },
+    {
+        "_id": "SahilSonar",
+        "name": "Sahil Sonar",
+        "url": "https://github.com/SahilSonar",
+        "devices": [
+            "begonia"
+        ]
+    },
+    {
+        "_id": "riteshm321",
+        "name": "Ritzzzz",
+        "url": "https://github.com/riteshm321",
+        "devices": [
+            "raphael"
+        ]
+    },
+    {
+        "_id": "adi153",
+        "name": "Manohar Singh",
+        "url": "https://github.com/adi153",
+        "devices": [
+            "rolex"
+        ]
+    },
+    {
+        "_id": "aseelps",
+        "name": "Aseel P Sathar",
+        "url": "https://github.com/aseelps",
+        "devices": [
+            "vince"
+        ]
+    },
+    {
+        "_id": "dhimanparas20",
+        "name": "Ken Kaneki",
+        "url": "https://github.com/dhimanparas20",
+        "devices": [
+            "X00TD"
+        ]
+    },
+    {
+        "_id": "ShreehariVaasishta",
+        "name": "Shreehari Vaasishta L",
+        "url": "https://github.com/ShreehariVaasishta",
+        "devices": [
+            "miatoll"
+        ]
+    },
+    {
+        "_id": "Gaurav241",
+        "name": "Gaurav",
+        "url": "https://github.com/Gaurav241",
+        "devices": [
+            "oneplus3"
+        ]
+    }
+]

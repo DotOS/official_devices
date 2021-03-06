@@ -1,0 +1,25 @@
+{
+  "response":[
+    {
+      "datetime":1612459475,
+      "filename":"dotOS-R-v5.0.0-mido-GAPPS-20210207-1956.zip",
+      "id":"5b8c16a210485da80826f50379c17030",
+      "romtype":"GAPPS",
+      "size":1666374431,
+      "url":"https://downloads.droidontime.com/dot11/mido/gapps/dotOS-R-v5.0.0-mido-GAPPS-20210207-1956.zip",
+      "version":"v5.0.0",
+      "changelog":[
+        {
+          "miscTitle":"Great Stuffs",
+          "miscSummary":"Next Level",
+          "settingsTitle":"Settings Collapsing toolbar",
+          "settingsSummary":"",
+          "securityTitle":"",
+          "securitySummary":"",
+          "systemTitle":"",
+          "systemSummary":""
+        }
+      ]
+    }
+  ]
+}
