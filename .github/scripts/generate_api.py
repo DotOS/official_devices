@@ -19,8 +19,10 @@ def read_json_file(filepath):
     except:
         report_error(f'{filepath} is not a valid json')
 
+
 devices = read_json_file('master/devices.json')
 teams = read_json_file('master/teams.json')
+
 
 def generate_device_list():
     brands = {}
@@ -30,7 +32,7 @@ def generate_device_list():
 
         brands[device['brand']][device['codename']] = device['name']
 
-    res = json.dumps(brands, indent=3, sort_keys=True) 
+    res = json.dumps(brands, indent=3, sort_keys=True)
 
     device_list_filepath = 'api/devices.json'
     device_list_file = open(device_list_filepath, 'w+')
@@ -79,7 +81,7 @@ def generate_device_api():
                     if param not in _keys:
                         report_error(f"'{param}' not found in {resp}")
                 del response[index]['changelog']
-            
+
             api['builds']['gapps'] = response
 
         vanilla_build = device['version_info'].get('has_vanilla_builds')
@@ -102,6 +104,7 @@ def generate_device_api():
         api_file = open(api_filepath, 'w+')
         api_file.write(api_json + '\n')
         api_file.close()
+
 
 def main():
     generate_device_api()
