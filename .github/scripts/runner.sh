@@ -3,8 +3,10 @@
 cd "$( cd "$(dirname "${BASH_SOURCE[0]}")" >/dev/null 2>&1 && pwd )"
 
 rm -rf master api
-git config --global user.email "${GEMAIL}"
-git config --global user.name "${GUSER}"
+
+git config --global user.email "$GEMAIL"
+git config --global user.name "$GUSER"
+
 git clone https://github.com/"${GITHUB_REPOSITORY}" -b master master
 git clone https://github.com/"${GITHUB_REPOSITORY}" -b api api
 python3 generate_api.py
