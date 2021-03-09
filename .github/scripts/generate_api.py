@@ -34,7 +34,7 @@ def generate_device_list():
 
     res = json.dumps(brands, indent=3, sort_keys=True)
 
-    device_list_filepath = 'api/devices.json'
+    device_list_filepath = 'api/devices/devices.json'
     device_list_file = open(device_list_filepath, 'w+')
     device_list_file.write(res)
     device_list_file.close()
@@ -99,7 +99,7 @@ def generate_device_api():
                 del response[index]['changelog']
             api['builds']['vanilla'] = response
 
-        api_filepath = f'api/{codename}.json'
+        api_filepath = f'api/devices/{codename}.json'
         api_json = json.dumps(api, indent=3, sort_keys=False)
         api_file = open(api_filepath, 'w+')
         api_file.write(api_json + '\n')
