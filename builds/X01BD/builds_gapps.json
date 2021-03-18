@@ -1,0 +1,25 @@
+{
+  "response":[
+    {
+      "datetime":1612459475,
+      "filename":"dotOS-R-v5.0.0-X01BD-GAPPS-20210219-1936.zip",
+      "id":"4e21491a4f0aff4249a13b9cea3401a3",
+      "romtype":"OFFICIAL",
+      "size":1267385917,
+      "url":"https://downloads.droidontime.com/dot11/X01BD/gapps/dotOS-R-v5.0.0-X01BD-GAPPS-20210219-1936.zip",
+      "version":"v5.0.0",
+      "changelog":[
+        {
+          "miscTitle":"Great Stuffs",
+          "miscSummary":"Next Level",
+          "settingsTitle":"Settings Collapsing toolbar",
+          "settingsSummary":"",
+          "securityTitle":"",
+          "securitySummary":"",
+          "systemTitle":"",
+          "systemSummary":""
+        }
+      ]
+    }
+  ]
+}
