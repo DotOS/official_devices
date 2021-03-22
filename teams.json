@@ -94,5 +94,14 @@
         "devices": [
             "oneplus3"
         ]
+    },
+    {
+        "_id": "PixelBoot",
+        "name": "PixelBoot",
+        "url": "https://github.com/PixelBoot",
+        "devices": [
+            "taimen",
+            "walleye"
+        ]
     }
 ]
