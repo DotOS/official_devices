@@ -77,7 +77,8 @@
         "version_info": {
             "has_vanilla_builds": true,
             "has_gapps_builds": false
-        },
+        }
+    },
     {
         "name": "Pixel 2",
         "brand": "Google",
