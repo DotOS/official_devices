@@ -50,6 +50,16 @@
         }
     },
     {
+        "name": "Redmi Note 8 Pro",
+        "brand": "Xiaomi",
+        "codename": "begonia",
+        "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-0-dotos-v5-0-official-begonia-begoniain-non-cfw-2021-02-08.4229621/",
+        "version_info": {
+            "has_vanilla_builds": true,
+            "has_gapps_builds": false
+        }
+    },
+    {
         "name": "Redmi Note 5 / 5 Plus",
         "brand": "Xiaomi",
         "codename": "vince",
