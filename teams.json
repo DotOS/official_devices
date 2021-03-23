@@ -103,5 +103,13 @@
             "taimen",
             "walleye"
         ]
+    },
+    {
+        "_id": "Joker-V2",
+        "name": "Nipin NA",
+        "url": "https://github.com/Joker-V2",
+        "devices": [
+            "violet"
+        ]
     }
 ]

@@ -1,0 +1,25 @@
+{
+  "response":[
+    {
+      "datetime":"1613875755",
+      "filename":"dotOS-R-v5.0.0-violet-OFFICIAL-20210221-0251.zip",
+      "id":"b87d4e16f7ef907adbefd9ee707eb39e",
+      "romtype":"OFFICIAL",
+      "size":"919905002",
+      "url":"https://downloads.droidontime.com/dot11/violet/vanilla/dotOS-R-v5.0.0-violet-OFFICIAL-20210221-0251.zip",
+      "version":"v5.0.0",
+      "changelog":[
+        {
+          "miscTitle":"",
+          "miscSummary":"Check device group release post for a complete changelog",
+          "settingsTitle":"",
+          "settingsSummary":"",
+          "securityTitle":"",
+          "securitySummary":"",
+          "systemTitle":"",
+          "systemSummary":""
+        }
+      ]
+    }
+  ]
+}
