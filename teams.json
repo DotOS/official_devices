@@ -119,5 +119,13 @@
         "devices": [
             "ginkgo"
         ]
+    },
+    {
+        "_id": "HsyHusker",
+        "name": "Husker",
+        "url": "https://github.com/HsyHusker",
+        "devices": [
+            "jd2019"
+        ]
     }
 ]
