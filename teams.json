@@ -111,5 +111,13 @@
         "devices": [
             "violet"
         ]
-    }
+    },
+   {
+        "_id": "midonasr",
+        "name": "Mohamed nasr",
+        "url": "https://github.com/MiDoNaSR545",
+        "devices": [
+            "ysl"
+        ]
+  }
 ]
