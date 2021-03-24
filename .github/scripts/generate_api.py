@@ -4,7 +4,7 @@ import json
 
 
 def report_error(message):
-    print(message)
+    print(message + ', Exiting!')
     sys.exit(1)
 
 

@@ -30,6 +30,16 @@
         }
     },
     {
+        "name": "Redmi Note 8",
+        "brand": "Xiaomi",
+        "codename": "ginkgo",
+        "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-dotos-v5-0-aosp-2021-02-18.4233715/",
+        "version_info": {
+            "has_vanilla_builds": true,
+            "has_gapps_builds": false
+        }
+    },
+    {
         "name": "Redmi Note 5 Pro",
         "brand": "Xiaomi",
         "codename": "whyred",
@@ -47,6 +57,16 @@
         "version_info": {
             "has_vanilla_builds": true,
             "has_gapps_builds": true
+        }
+    },
+    {
+        "name": "Redmi Note 8 Pro",
+        "brand": "Xiaomi",
+        "codename": "begonia",
+        "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-0-dotos-v5-0-official-begonia-begoniain-non-cfw-2021-02-08.4229621/",
+        "version_info": {
+            "has_vanilla_builds": true,
+            "has_gapps_builds": false
         }
     },
     {
@@ -95,8 +115,8 @@
         "codename": "walleye",
         "xda_thread": "",
         "version_info": {
-            "has_vanilla_builds": true,
-            "has_gapps_builds": true
+            "has_vanilla_builds": false,
+            "has_gapps_builds": false
         }
     },
     {
@@ -105,8 +125,18 @@
         "codename": "taimen",
         "xda_thread": "https://forum.xda-developers.com/t/rom-11-unofficial-dotos-v5-0-0-taimen-24-02-2021.4239583/",
         "version_info": {
-            "has_vanilla_builds": true,
-            "has_gapps_builds": true
+            "has_vanilla_builds": false,
+            "has_gapps_builds": false
+        }
+    },
+    {
+        "name": "Lenovo Z5s",
+        "brand": "Lenovo",
+        "codename": "jd2019",
+        "xda_thread": "https://forum.xda-developers.com/t/rom-11-dotos-r-v5-0-unofficial-for-lenovo-z5s-jd2019-26-2-2021.4230967/",
+        "version_info": {
+            "has_vanilla_builds": false,
+            "has_gapps_builds": false
         }
     },
       {

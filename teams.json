@@ -112,6 +112,7 @@
             "violet"
         ]
     },
+
    {
         "_id": "midonasr",
         "name": "Mohamed nasr",
@@ -119,5 +120,21 @@
         "devices": [
             "ysl"
         ]
-  }
+  },
+    {
+        "_id": "Introdructor",
+        "name": "Yash Kachave",
+        "url": "https://github.com/Introdructor",
+        "devices": [
+            "ginkgo"
+        ]
+    },
+    {
+        "_id": "HsyHusker",
+        "name": "Husker",
+        "url": "https://github.com/HsyHusker",
+        "devices": [
+            "jd2019"
+        ]
+    }
 ]
