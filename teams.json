@@ -119,5 +119,13 @@
         "devices": [
             "ginkgo"
         ]
+    },
+    {
+        "_id": "ManshuTyagi",
+        "name": "Himanshu Tyagi",
+        "url": "https://github.com/ManshuTyagi",
+        "devices": [
+            "RMX2001"
+        ]
     }
 ]

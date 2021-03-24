@@ -128,5 +128,15 @@
             "has_vanilla_builds": false,
             "has_gapps_builds": false
         }
+    },
+    {
+        "name": "Realme 6/6i/6s",
+        "brand": "Realme",
+        "codename": "RMX2001",
+        "xda_thread": "https://forum.xda-developers.com/t/rom-official-stable-r-realme6-dotos-5-0-0-19-02-2021.4235963/",
+        "version_info": {
+            "has_vanilla_builds": true,
+            "has_gapps_builds": true
+        }
     }
 ]
