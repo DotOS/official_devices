@@ -111,5 +111,13 @@
         "devices": [
             "violet"
         ]
+    },
+    {
+        "_id": "Introdructor",
+        "name": "Yash Kachave",
+        "url": "https://github.com/Introdructor",
+        "devices": [
+            "ginkgo"
+        ]
     }
 ]
