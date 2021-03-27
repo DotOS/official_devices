@@ -127,5 +127,13 @@
         "devices": [
             "jd2019"
         ]
-    }
+    },
+   {
+        "_id": "MiDoNaSR",
+        "name": "MoHaMeD NaSR",
+        "url": "https://github.com/MiDoNaSR545",
+        "devices": [
+            "ysl"
+        ]
+   }
 ]
