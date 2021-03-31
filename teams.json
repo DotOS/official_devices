@@ -135,5 +135,13 @@
         "devices": [
             "ysl"
         ]
+   },
+   {
+        "_id": "Notakbuzz",
+        "name": "Slayer",
+        "url": "https://github.com/notakbuzz",
+        "devices": [
+            "beryllium"
+        ]
    }
 ]
