@@ -128,12 +128,20 @@
             "jd2019"
         ]
     },
-   {
+    {
         "_id": "MiDoNaSR",
         "name": "MoHaMeD NaSR",
         "url": "https://github.com/MiDoNaSR545",
         "devices": [
             "ysl"
+        ]
+   },
+   {
+        "_id": "Deepak5310",
+        "name": "Deepak Jangir",
+        "url": "https://github.com/Deepak5310",
+        "devices": [
+            "RMX1921"
         ]
    },
    {
