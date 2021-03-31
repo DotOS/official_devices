@@ -1,156 +1,164 @@
 [
-    {
-        "_id": "hack64",
-        "name": "Marco Rizzo",
-        "url": "https://github.com/hack64",
-        "devices": [
-            "davinci"
-        ]
-    },
-    {
-        "_id": "shreejoy",
-        "name": "Shreejoy Dash",
-        "url": "https://github.com/shreejoy",
-        "devices": [
-            "davinci"
-        ]
-    },
-    {
-        "_id": "mohan",
-        "name": "Mohan C M",
-        "url": "https://github.com/mohancm",
-        "devices": [
-            "mido"
-        ]
-    },
-    {
-        "_id": "sweeto143",
-        "name": "Sipun Ku Mahanta",
-        "url": "https://github.com/sweeto143",
-        "devices": [
-            "whyred"
-        ]
-    },
-    {
-        "_id": "SahilSonar",
-        "name": "Sahil Sonar",
-        "url": "https://github.com/SahilSonar",
-        "devices": [
-            "begonia"
-        ]
-    },
-    {
-        "_id": "riteshm321",
-        "name": "Ritzzzz",
-        "url": "https://github.com/riteshm321",
-        "devices": [
-            "raphael"
-        ]
-    },
-    {
-        "_id": "adi153",
-        "name": "Manohar Singh",
-        "url": "https://github.com/adi153",
-        "devices": [
-            "rolex"
-        ]
-    },
-    {
-        "_id": "aseelps",
-        "name": "Aseel P Sathar",
-        "url": "https://github.com/aseelps",
-        "devices": [
-            "vince"
-        ]
-    },
-    {
-        "_id": "dhimanparas20",
-        "name": "Ken Kaneki",
-        "url": "https://github.com/dhimanparas20",
-        "devices": [
-            "X00TD"
-        ]
-    },
-    {
-        "_id": "ShreehariVaasishta",
-        "name": "Shreehari Vaasishta L",
-        "url": "https://github.com/ShreehariVaasishta",
-        "devices": [
-            "miatoll"
-        ]
-    },
-    {
-        "_id": "ElectroPerf",
-        "name": "Kunmun",
-        "url": "https://github.com/ElectroPerf",
-        "devices": [
-            "X01BD"
-        ]
-    },
-    {
-        "_id": "Gaurav241",
-        "name": "Gaurav",
-        "url": "https://github.com/Gaurav241",
-        "devices": [
-            "oneplus3"
-        ]
-    },
-    {
-        "_id": "PixelBoot",
-        "name": "PixelBoot",
-        "url": "https://github.com/PixelBoot",
-        "devices": [
-            "taimen",
-            "walleye"
-        ]
-    },
-    {
-        "_id": "Joker-V2",
-        "name": "Nipin NA",
-        "url": "https://github.com/Joker-V2",
-        "devices": [
-            "violet"
-        ]
-    },
-    {
-        "_id": "Introdructor",
-        "name": "Yash Kachave",
-        "url": "https://github.com/Introdructor",
-        "devices": [
-            "ginkgo"
-        ]
-    },
-    {
-        "_id": "HsyHusker",
-        "name": "Husker",
-        "url": "https://github.com/HsyHusker",
-        "devices": [
-            "jd2019"
-        ]
-    },
-   {
-        "_id": "MiDoNaSR",
-        "name": "MoHaMeD NaSR",
-        "url": "https://github.com/MiDoNaSR545",
-        "devices": [
-            "ysl"
-        ]
-   },
-   {
-        "_id": "Notakbuzz",
-        "name": "Slayer",
-        "url": "https://github.com/notakbuzz",
-        "devices": [
-            "beryllium"
-        ]
-   },
-    {
-        "_id": "karthik990",
-        "name": "Karthik N",
-        "url": "https://github.com/karthik990",
-        "devices": [
-            "cheeseburger",
-            "dumpling"
-        ]
-    }
+  {
+		"_id": "hack64",
+		"name": "Marco Rizzo",
+		"url": "https://github.com/hack64",
+		"devices": [
+			"davinci"
+		]
+	},
+	{
+		"_id": "shreejoy",
+		"name": "Shreejoy Dash",
+		"url": "https://github.com/shreejoy",
+		"devices": [
+			"davinci"
+		]
+	},
+	{
+		"_id": "mohan",
+		"name": "Mohan C M",
+		"url": "https://github.com/mohancm",
+		"devices": [
+			"mido"
+		]
+	},
+	{
+		"_id": "sweeto143",
+		"name": "Sipun Ku Mahanta",
+		"url": "https://github.com/sweeto143",
+		"devices": [
+			"whyred"
+		]
+	},
+	{
+		"_id": "SahilSonar",
+		"name": "Sahil Sonar",
+		"url": "https://github.com/SahilSonar",
+		"devices": [
+			"begonia"
+		]
+	},
+	{
+		"_id": "riteshm321",
+		"name": "Ritzzzz",
+		"url": "https://github.com/riteshm321",
+		"devices": [
+			"raphael"
+		]
+	},
+	{
+		"_id": "adi153",
+		"name": "Manohar Singh",
+		"url": "https://github.com/adi153",
+		"devices": [
+			"rolex"
+		]
+	},
+	{
+		"_id": "aseelps",
+		"name": "Aseel P Sathar",
+		"url": "https://github.com/aseelps",
+		"devices": [
+			"vince"
+		]
+	},
+	{
+		"_id": "dhimanparas20",
+		"name": "Ken Kaneki",
+		"url": "https://github.com/dhimanparas20",
+		"devices": [
+			"X00TD"
+		]
+	},
+	{
+		"_id": "ShreehariVaasishta",
+		"name": "Shreehari Vaasishta L",
+		"url": "https://github.com/ShreehariVaasishta",
+		"devices": [
+			"miatoll"
+		]
+	},
+	{
+		"_id": "ElectroPerf",
+		"name": "Kunmun",
+		"url": "https://github.com/ElectroPerf",
+		"devices": [
+			"X01BD"
+		]
+	},
+	{
+		"_id": "Gaurav241",
+		"name": "Gaurav",
+		"url": "https://github.com/Gaurav241",
+		"devices": [
+			"oneplus3"
+		]
+	},
+	{
+		"_id": "PixelBoot",
+		"name": "PixelBoot",
+		"url": "https://github.com/PixelBoot",
+		"devices": [
+			"taimen",
+			"walleye"
+		]
+	},
+	{
+		"_id": "Joker-V2",
+		"name": "Nipin NA",
+		"url": "https://github.com/Joker-V2",
+		"devices": [
+			"violet"
+		]
+	},
+	{
+		"_id": "Introdructor",
+		"name": "Yash Kachave",
+		"url": "https://github.com/Introdructor",
+		"devices": [
+			"ginkgo"
+		]
+	},
+	{
+		"_id": "HsyHusker",
+		"name": "Husker",
+		"url": "https://github.com/HsyHusker",
+		"devices": [
+			"jd2019"
+		]
+	},
+	{
+		"_id": "MiDoNaSR",
+		"name": "MoHaMeD NaSR",
+		"url": "https://github.com/MiDoNaSR545",
+		"devices": [
+			"ysl"
+		]
+	},
+	{
+		"_id": "Notakbuzz",
+		"name": "Slayer",
+		"url": "https://github.com/notakbuzz",
+		"devices": [
+			"beryllium"
+		]
+	},
+	{
+		"_id": "karthik990",
+		"name": "Karthik N",
+		"url": "https://github.com/karthik990",
+		"devices": [
+			"cheeseburger",
+			"dumpling"
+		]
+	},
+	{
+		"_id": "ManshuTyagi",
+		"name": "Himanshu Tyagi",
+		"url": "https://github.com/ManshuTyagi",
+		"devices": [
+			"RMX2001"
+		]
+	}
 ]

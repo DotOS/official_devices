@@ -1,0 +1,25 @@
+{
+  "response":[
+    {
+      "datetime":1613757900,
+      "filename":"dotOS-R-v5.0.0-RMX2001-OFFICIAL-20210219-1210.zip",
+      "id":"655961efd8928784502c973931a8c3b6",
+      "romtype":"GAPPS",
+      "size":1395864371,
+      "url":"https://downloads.droidontime.com/dot11/RMX2001/gapps/dotOS-R-v5.0.0-RMX2001-OFFICIAL-20210219-1210.zip",
+      "version":"v5.0.0",
+      "changelog":[
+        {
+          "miscTitle":"Great Stuffs",
+          "miscSummary":"Next Level",
+          "settingsTitle":"Settings Collapsing toolbar",
+          "settingsSummary":"",
+          "securityTitle":"",
+          "securitySummary":"",
+          "systemTitle":"",
+          "systemSummary":""
+        }
+      ]
+    }
+  ]
+}
