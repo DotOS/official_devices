@@ -143,5 +143,14 @@
         "devices": [
             "beryllium"
         ]
-   }
+   },
+    {
+        "_id": "karthik990",
+        "name": "Karthik N",
+        "url": "https://github.com/karthik990",
+        "devices": [
+            "cheeseburger",
+            "dumpling"
+        ]
+    },
 ]
