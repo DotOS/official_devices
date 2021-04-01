@@ -188,4 +188,14 @@
 			"has_gapps_builds": true
 		}
 	}
+ 	{
+		"name": "Mi Mix 2",
+		"brand": "Xiaomi",
+		"codename": "chiron",
+		"xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-dotos-v5-0.4245535/",
+		"version_info": {
+			"has_vanilla_builds": false,
+			"has_gapps_builds": true
+		}
+	}
 ]
