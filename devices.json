@@ -187,5 +187,15 @@
 			"has_vanilla_builds": true,
 			"has_gapps_builds": true
 		}
+	},
+	{
+		"name": "Redmi 6 Pro",
+		"brand": "Xiaomi",
+		"codename": "sakura",
+		"xda_thread": "https://forum.xda-developers.com/t/rom-android-11-dotos-redmi-6-pro-official-sakura.4231767/",
+		"version_info": {
+			"has_vanilla_builds": false,
+			"has_gapps_builds": false
+		}
 	}
 ]

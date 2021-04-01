@@ -160,5 +160,13 @@
 		"devices": [
 			"RMX2001"
 		]
+	},
+	{
+		"_id": "geopd",
+		"name": "Geo Emmanuel",
+		"url": "https://github.com/geopd",
+		"devices": [
+			"sakura"
+		]
 	}
 ]
