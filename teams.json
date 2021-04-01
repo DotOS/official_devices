@@ -161,4 +161,12 @@
 			"RMX2001"
 		]
 	}
+	{
+		"_id": "WhiterWalt",
+		"name": "Marcin Winter",
+		"url": "https://github.com/WhiterWalt",
+		"devices": [
+			"chiron"
+		]
+	}
 ]
