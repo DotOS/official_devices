@@ -179,6 +179,16 @@
 		}
 	},
 	{
+		"name": "Realme XT",
+		"brand": "Realme",
+		"codename": "RMX1921",
+		"xda_thread": "https://forum.xda-developers.com/t/dotos-v5-0-0-rmx1921.4243945/",
+		"version_info": {
+			"has_vanilla_builds": false,
+			"has_gapps_builds": false
+		}
+	},
+	{
 		"name": "Realme 6/6i/6s",
 		"brand": "Realme",
 		"codename": "RMX2001",
