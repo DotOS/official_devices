@@ -63,6 +63,14 @@
 			"vince"
 		]
 	},
+    	{
+        	"_id":"TechWiz007",
+        	"name":"Bhargav Gajare",
+        	"url":"https://github.com/TechWiz007",
+        	"devices":[
+            	"jasmine_sprout"
+        	]
+    	},
 	{
 		"_id": "dhimanparas20",
 		"name": "Ken Kaneki",
