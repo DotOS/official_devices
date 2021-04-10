@@ -176,5 +176,13 @@
 		"devices": [
 			"RMX2001"
 		]
+	},
+	{
+		"_id": "KyuoFoxHuyu",
+		"name": "Kyuofox",
+		"url": "https://github.com/KyuoFoxHuyu",
+		"devices": [
+			"dipper"
+		]
 	}
 ]

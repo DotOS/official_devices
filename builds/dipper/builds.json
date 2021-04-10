@@ -1,0 +1,25 @@
+{
+  "response":[
+    {
+      "datetime":1613666741,
+      "filename":"dotOS-R-v5.0.0-dipper-OFFICIAL-20210219-0223.zip",
+      "id":"e3ec3c8ea1f39ba5d1e6ccdebee5bccf",
+      "romtype":"OFFICIAL",
+      "size":864026624,
+      "url":"https://downloads.droidontime.com/dot11/dipper/vanilla/dotOS-R-v5.0.0-dipper-OFFICIAL-20210219-0223.zip",
+      "version":"v5.0.0",
+      "changelog":[
+        {
+          "miscTitle":"Great Stuffs",
+          "miscSummary":"Next Level",
+          "settingsTitle":"Settings Collapsing toolbar",
+          "settingsSummary":"",
+          "securityTitle":"",
+          "securitySummary":"",
+          "systemTitle":"",
+          "systemSummary":""
+        }
+      ]
+    }
+  ]
+}
