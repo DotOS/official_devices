@@ -145,6 +145,14 @@
 		]
 	},
 	{
+		"_id": "geopd",
+		"name": "Geo Emmanuel",
+		"url": "https://github.com/geopd",
+		"devices": [
+			"sakura"
+		]
+	},
+	{
 		"_id": "Notakbuzz",
 		"name": "Slayer",
 		"url": "https://github.com/notakbuzz",
