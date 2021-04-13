@@ -8,14 +8,6 @@
 		]
 	},
 	{
-		"_id": "shreejoy",
-		"name": "Shreejoy Dash",
-		"url": "https://github.com/shreejoy",
-		"devices": [
-			"davinci"
-		]
-	},
-	{
 		"_id": "mohan",
 		"name": "Mohan C M",
 		"url": "https://github.com/mohancm",
