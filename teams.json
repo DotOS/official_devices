@@ -184,5 +184,13 @@
 		"devices": [
 			"dipper"
 		]
+	},
+	{
+		"_id": "WhiterWalt",
+		"name": "WhiterWalt",
+		"url": "https://github.com/WhiterWalt",
+		"devices": [
+			"chiron"
+		]
 	}
 ]
