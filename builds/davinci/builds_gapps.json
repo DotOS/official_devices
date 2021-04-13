@@ -6,12 +6,12 @@
       "id":"c9b45f3a756bb84a9cc7ce2ffe10da7d",
       "romtype":"GAPPS",
       "size":"1738274132",
-      "url":"https://sourceforge.net/projects/dotos-downloads/files/dot11/davinci/gapps/dotOS-R-v5.0.1-davinci-GAPPS-20210412-1905.zip/download",
+      "url":"https://downloads.droidontime.com/dot11/davinci/gapps/dotOS-R-v5.0.1-davinci-GAPPS-20210412-1905.zip",
       "version":"v5.0.1",
       "changelog":[
         {
           "miscTitle":"",
-          "miscSummary":"Updated translations from crowdin\n UI/UX improvements\n Stability and underhood improvements",
+          "miscSummary":"Updated translations from crowdin\nUI/UX improvements\nStability and underhood improvements",
           "settingsTitle":"",
           "settingsSummary":"",
           "securityTitle":"",

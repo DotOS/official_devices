@@ -6,12 +6,12 @@
       "id":"0304bc40ee9e6a17ad067d0ccf3271c2",
       "romtype":"OFFICIAL",
       "size":"1265707191",
-      "url":"https://sourceforge.net/projects/dotos-downloads/files/dot11/davinci/vanilla/dotOS-R-v5.0.1-davinci-OFFICIAL-20210412-1930.zip/download",
+      "url":"https://downloads.droidontime.com/dot11/davinci/vanilla/dotOS-R-v5.0.1-davinci-OFFICIAL-20210412-1930.zip",
       "version":"v5.0.1",
       "changelog":[
         {
           "miscTitle":"",
-          "miscSummary":"Updated translations from crowdin\n UI/UX improvements\n Stability and underhood improvements",
+          "miscSummary":"Updated translations from crowdin\nUI/UX improvements\nStability and underhood improvements",
           "settingsTitle":"",
           "settingsSummary":"",
           "securityTitle":"",
