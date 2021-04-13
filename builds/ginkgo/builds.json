@@ -1,23 +1,23 @@
 {
   "response":[
     {
-      "datetime":"1613875755",
-      "filename":"dotOS-R-v5.0.0-ginkgo-OFFICIAL-20210218-1018.zip",
-      "id":"060e4b8013a4ae06bed14b3029a9ae46",
+      "datetime":"1618271901",
+      "filename":"dotOS-R-v5.0.1-ginkgo-OFFICIAL-20210412-2358.zip",
+      "id":"9eefd2625890a87dab6c795f6c19a6f7",
       "romtype":"OFFICIAL",
-      "size":"919905002",
-      "url":"https://downloads.droidontime.com/dot11/ginkgo/vanilla/dotOS-R-v5.0.0-ginkgo-OFFICIAL-20210218-1018.zip",
-      "version":"v5.0.0",
+      "size":"931346276",
+      "url":"https://sourceforge.net/projects/dotos-downloads/files/dot11/ginkgo/vanilla/dotOS-R-v5.0.1-ginkgo-OFFICIAL-20210412-2358.zip/download",
+      "version":"v5.0.1",
       "changelog":[
         {
           "miscTitle":"",
-          "miscSummary":"Check device group release post for a complete changelog",
+          "miscSummary":"Updated translations from crowdin\n UI/UX improvements\n Stability and underhood improvements",
           "settingsTitle":"",
           "settingsSummary":"",
           "securityTitle":"",
-          "securitySummary":"",
+          "securitySummary":"Updated to April Security Patches (r34)",
           "systemTitle":"",
-          "systemSummary":""
+          "systemSummary":"Added Volte icon\nAdded SFUNY Lockscreen Clock\nAdded Hardware keys lights support\nAdded back SystemUI Tuner (Settings / System)\nAdded Auto-brightness button in QSPanel\nAdded DataUsage view in QSPanel\nAdded auto-detect support for OEM fast chargers\nAdded Heads-up tile\nAdded flag to disable cutout space (Notched devices)\nDisabled safe volume everywhere\nFixes for traffic indicator\nFixes for FluidClock preview\nFixes for some random SystemUI crashes\nAdded Silky UI\nAdded QSPanel Opaqueness switch\nMinor fixes on the UI\nUpdated dot stats to new API"
         }
       ]
     }
