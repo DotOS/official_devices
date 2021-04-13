@@ -1,23 +1,23 @@
 {
-  "response":[
+  "response": [
     {
-      "datetime":1612459475,
-      "filename":"dotOS-R-v5.0.0-mido-GAPPS-20210207-1956.zip",
-      "id":"5b8c16a210485da80826f50379c17030",
-      "romtype":"GAPPS",
-      "size":1666374431,
-      "url":"https://downloads.droidontime.com/dot11/mido/gapps/dotOS-R-v5.0.0-mido-GAPPS-20210207-1956.zip",
-      "version":"v5.0.0",
-      "changelog":[
+      "datetime": "1618324744",
+      "filename": "dotOS-R-v5.0.1-mido-GAPPS-20210413-1440.zip",
+      "id": "6267513a9cf3c637ecbf14dbfc1e824a",
+      "romtype": "GAPPS",
+      "size": "1066454058",
+      "url": "https://downloads.droidontime.com/dot11/mido/gapps/dotOS-R-v5.0.1-mido-GAPPS-20210413-1440.zip",
+      "version": "v5.0.1",
+      "changelog": [
         {
-          "miscTitle":"Great Stuffs",
-          "miscSummary":"Next Level",
-          "settingsTitle":"Settings Collapsing toolbar",
-          "settingsSummary":"",
-          "securityTitle":"",
-          "securitySummary":"",
-          "systemTitle":"",
-          "systemSummary":""
+          "miscTitle": "",
+          "miscSummary": "Updated translations from crowdin\n UI/UX improvements\n Stability and underhood improvements",
+          "settingsTitle": "",
+          "settingsSummary": "",
+          "securityTitle": "",
+          "securitySummary": "Updated to April Security Patches (r34)",
+          "systemTitle": "",
+          "systemSummary": "Added Volte icon\nAdded SFUNY Lockscreen Clock\nAdded Hardware keys lights support\nAdded back SystemUI Tuner (Settings / System)\nAdded Auto-brightness button in QSPanel\nAdded DataUsage view in QSPanel\nAdded auto-detect support for OEM fast chargers\nAdded Heads-up tile\nAdded flag to disable cutout space (Notched devices)\nDisabled safe volume everywhere\nFixes for traffic indicator\nFixes for FluidClock preview\nFixes for some random SystemUI crashes\nAdded Silky UI\nAdded QSPanel Opaqueness switch\nMinor fixes on the UI\nUpdated dot stats to new API"
         }
       ]
     }
