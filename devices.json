@@ -239,6 +239,16 @@
 		}
 	},
 	{
+		"name": "Redmi K20 Pro",
+		"brand": "Xiaomi",
+		"codename": "raphael",
+		"xda_thread": "https://forum.xda-developers.com/t/rom-11-0-0-dotos-v5-0-official-raphael-raphaelin-07-02-21.4229575/",
+		"version_info": {
+			"has_vanilla_builds": true,
+			"has_gapps_builds": true
+		}
+	},
+	{
 		"name": "Mi Mix 2",
 		"brand": "Xiaomi",
 		"codename": "Chiron",

@@ -1,0 +1,25 @@
+{
+  "response":[
+    {
+      "datetime":"1618326007",
+      "filename":"dotOS-R-v5.0.1-raphael-GAPPS-20210413-1500.zip",
+      "id":"856f2cc3396eb4ad3b6f2a2b3e670e70",
+      "romtype":"GAPPS",
+      "size":"1153799320",
+      "url":"https://downloads.droidontime.com/dot11/raphael/gapps/dotOS-R-v5.0.1-raphael-GAPPS-20210413-1500.zip",
+      "version":"v5.0.1",
+      "changelog":[
+        {
+          "miscTitle":"",
+          "miscSummary":"Updated translations from crowdin\nUI/UX improvements\nStability and underhood improvements",
+          "settingsTitle":"",
+          "settingsSummary":"",
+          "securityTitle":"",
+          "securitySummary":"Updated to April Security Patches (r34)",
+          "systemTitle":"",
+          "systemSummary":"Added Volte icon\nAdded SFUNY Lockscreen Clock\nAdded Hardware keys lights support\nAdded back SystemUI Tuner (Settings / System)\nAdded Auto-brightness button in QSPanel\nAdded DataUsage view in QSPanel\nAdded auto-detect support for OEM fast chargers\nAdded Heads-up tile\nAdded flag to disable cutout space (Notched devices)\nDisabled safe volume everywhere\nFixes for traffic indicator\nFixes for FluidClock preview\nFixes for some random SystemUI crashes\nAdded Silky UI\nAdded QSPanel Opaqueness switch\nMinor fixes on the UI\nUpdated dot stats to new API"
+        }
+      ]
+    }
+  ]
+}
