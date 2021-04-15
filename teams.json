@@ -207,6 +207,15 @@
         "url": "https://github.com/zjunior06",
         "devices": [
             "potter"
+	},
+	{
+		"_id": "Nyoutaaa",
+		"name": "Nyoutaaa",
+		"url": "https://github.com/Nyoutaaa",
+		"devices": [
+			"starqltechn",
+			"star2qltechn",
+			"crownqltechn"
 		]
 	}
 ]
