@@ -154,7 +154,7 @@
 		"codename": "ysl",
 		"xda_thread": "https://forum.xda-developers.com/t/dotos-5-0.4233041/",
 		"version_info": {
-			"has_vanilla_builds": true
+			"has_vanilla_builds": true,
 			"has_gapps_builds": true
 		}
 	},
