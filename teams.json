@@ -200,5 +200,13 @@
 		"devices": [
 			"chiron"
 		]
+    },
+    {
+        "_id": "zjunior06",
+        "name": "Zilberto Junior",
+        "url": "https://github.com/zjunior06",
+        "devices": [
+            "potter"
+		]
 	}
 ]
