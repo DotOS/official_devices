@@ -103,6 +103,14 @@
 			"taimen",
 			"walleye"
 		]
+        },
+        {
+                "_id": "CHRISL7",
+                "name": "Wanderson R",
+                "url": "https://github.com/chrisw444",
+                "devices": [
+                        "lavender"
+                ]
 	},
 	{
 		"_id": "Joker-V2",
