@@ -1,0 +1,25 @@
+{
+  "response":[
+    {
+      "datetime":"1618567360",
+      "filename":"dotOS-R-v5.0.1-phoenix-GAPPS-20210416-1006.zip",
+      "id":"63d8365ef8a5bf908fe0cfe269b61b3e",
+      "romtype":"GAPPS",
+      "size":"1262652073",
+      "url":"https://downloads.droidontime.com/dot11/phoenix/gapps/dotOS-R-v5.0.1-phoenix-GAPPS-20210416-1006.zip",
+      "version":"v5.0.1",
+      "changelog":[
+        {
+          "miscTitle":"",
+          "miscSummary":"Check device group release post for a complete changelog",
+          "settingsTitle":"",
+          "settingsSummary":"",
+          "securityTitle":"",
+          "securitySummary":"",
+          "systemTitle":"",
+          "systemSummary":""
+        }
+      ]
+    }
+  ]
+}

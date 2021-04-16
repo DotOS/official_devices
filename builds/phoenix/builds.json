@@ -1,0 +1,25 @@
+{
+  "response":[
+    {
+      "datetime":"1618560147",
+      "filename":"dotOS-R-v5.0.1-phoenix-OFFICIAL-20210416-0804.zip",
+      "id":"836760960",
+      "romtype":"OFFICIAL",
+      "size":"934415608",
+      "url":"https://downloads.droidontime.com/dot11/phoenix/vanilla/dotOS-R-v5.0.1-phoenix-OFFICIAL-20210416-0804.zip",
+      "version":"v5.0.1",
+      "changelog":[
+        {
+          "miscTitle":"",
+          "miscSummary":"Check device group release post for a complete changelog",
+          "settingsTitle":"",
+          "settingsSummary":"",
+          "securityTitle":"",
+          "securitySummary":"",
+          "systemTitle":"",
+          "systemSummary":""
+        }
+      ]
+    }
+  ]
+}

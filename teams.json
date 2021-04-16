@@ -160,6 +160,14 @@
 			"beryllium"
 		]
 	},
+        {
+                "_id": "harveyspectar",
+                "name": "PRAViN Prajapati",
+                "url": "https://github.com/harveyspectar",
+                "devices": [
+                        "phoenix"
+                ]
+        },
 	{
 		"_id": "karthik990",
 		"name": "Karthik N",
