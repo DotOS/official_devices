@@ -216,5 +216,13 @@
         "devices": [
             "potter"
 		]
-	}
+    },
+    {
+        "_id": "sevralt",
+        "name": "Alexander Chycherin",
+        "url": "https://github.com/sevralt",
+        "devices": [
+            "fajita"
+                ]
+        }
 ]
