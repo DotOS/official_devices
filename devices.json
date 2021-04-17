@@ -297,5 +297,15 @@
                 "has_vanilla_builds": true,
                 "has_gapps_builds": true
                 }
-        }
+        },
+	{
+		"name": "Mi A1",
+		"brand": "Xiaomi",
+		"codename": "tissot",
+		"xda_thread": "https://forum.xda-developers.com/t/rom-11-0-dotos-5-0-1-official-2021-04-16.4261445/",
+		"version_info": {
+			"has_vanilla_builds": true,
+			"has_gapps_builds": false
+		}
+	}
 ]

@@ -224,5 +224,13 @@
         "devices": [
             "fajita"
                 ]
-        }
+    },
+    {
+        "_id": "Takeshiro04",
+        "name": "Takeshiro Seijuro",
+        "url": "https://github.com/Takeshiro04",
+        "devices": [
+            "tissot"
+                ]
+	}
 ]
