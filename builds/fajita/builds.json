@@ -1,23 +1,23 @@
 {
   "response":[
     {
-      "datetime":1618598000,
-      "filename":"dotOS-R-v5.0.1-fajita-OFFICIAL-20210416-1838.zip",
-      "id":"cdf5fccdfa57dee0f1873fe3081bdd96",
-      "romtype":"OFFICIAL",
-      "size":715614488,
-      "url":"https://downloads.droidontime.com/dot11/fajita/vanilla/dotOS-R-v5.0.1-fajita-OFFICIAL-20210416-1838.zip",
-      "version":"v5.0.1",
+      "datetime": "1618681675",
+      "filename": "dotOS-R-v5.0.1-fajita-OFFICIAL-20210417-1759.zip",
+      "id": "0903d28e1d8ed60cc0e5ffbf50505576",
+      "romtype": "OFFICIAL",
+      "size": "715032817",
+      "url": "https://downloads.droidontime.com/dot11/fajita/vanilla/dotOS-R-v5.0.1-fajita-OFFICIAL-20210417-1759.zip",
+      "version": "v5.0.1",
       "changelog":[
         {
-          "miscTitle":"",
-          "miscSummary":"Updated translations from crowdin\n UI/UX improvements\n Stability and underhood improvements",
-          "settingsTitle":"",
-          "settingsSummary":"",
-          "securityTitle":"",
-          "securitySummary":"Updated to April Security Patches (r34)",
-          "systemTitle":"",
-          "systemSummary":"Added Volte icon\nAdded SFUNY Lockscreen Clock\nAdded Hardware keys lights support\nAdded back SystemUI Tuner (Settings / System)\nAdded Auto-brightness button in QSPanel\nAdded DataUsage view in QSPanel\nAdded auto-detect support for OEM fast chargers\nAdded Heads-up tile\nAdded flag to disable cutout space (Notched devices)\nDisabled safe volume everywhere\nFixes for traffic indicator\nFixes for FluidClock preview\nFixes for some random SystemUI crashes\nAdded Silky UI\nAdded QSPanel Opaqueness switch\nMinor fixes on the UI\nUpdated dot stats to new API"
+          "miscTitle": "",
+          "miscSummary": "",
+          "settingsTitle": "",
+          "settingsSummary": "",
+          "securityTitle": "",
+          "securitySummary": "",
+          "systemTitle": "",
+          "systemSummary": "Fixed video play back in apps"
         }
       ]
     }
