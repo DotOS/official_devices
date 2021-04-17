@@ -1,0 +1,25 @@
+{
+  "response":[
+    {
+      "datetime":"1618673256",
+      "filename":"dotOS-R-v5.0.1-miatoll-OFFICIAL-20210417-1528.zip",
+      "id":"4d701da4a21f6d95592e17bc2c0265a8",
+      "romtype":"OFFICIAL",
+      "size":"1127525766",
+      "url":"https://downloads.droidontime.com/dot11/miatoll/vanilla/dotOS-R-v5.0.1-miatoll-OFFICIAL-20210417-1528.zip",
+      "version":"v5.0.1",
+      "changelog":[
+        {
+          "miscTitle":"",
+          "miscSummary":"Check device group release post for a complete changelog",
+          "settingsTitle":"",
+          "settingsSummary":"",
+          "securityTitle":"",
+          "securitySummary":"",
+          "systemTitle":"",
+          "systemSummary":""
+        }
+      ]
+    }
+  ]
+}

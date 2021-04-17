@@ -1,0 +1,25 @@
+{
+  "response":[
+    {
+      "datetime":"1618676010",
+      "filename":"dotOS-R-v5.0.1-miatoll-GAPPS-20210417-1614.zip",
+      "id":"1a6dbb49f61e58afe22f82a97ae4d99e",
+      "romtype":"GAPPS",
+      "size":"1526948077",
+      "url":"https://downloads.droidontime.com/dot11/miatoll/gapps/dotOS-R-v5.0.1-miatoll-GAPPS-20210417-1614.zip",
+      "version":"v5.0.1",
+      "changelog":[
+        {
+          "miscTitle":"",
+          "miscSummary":"Check device group release post for a complete changelog",
+          "settingsTitle":"",
+          "settingsSummary":"",
+          "securityTitle":"",
+          "securitySummary":"",
+          "systemTitle":"",
+          "systemSummary":""
+        }
+      ]
+    }
+  ]
+}
