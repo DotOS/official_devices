@@ -1,23 +1,23 @@
 {
   "response":[
     {
-      "datetime":1613756700,
-      "filename":"dotOS-R-v5.0.0-RMX2001-OFFICIAL-20210218-2141.zip",
-      "id":"6602f70d470c79078beeba1fdd7dc205",
+      "datetime":1618649595,
+      "filename":"dotOS-R-v5.0.1-RMX2001-OFFICIAL-20210417-0740.zip",
+      "id":"5d0fbb8301950ea99b042359d46ced11",
       "romtype":"OFFICIAL",
-      "size":619708416,
-      "url":"https://downloads.droidontime.com/dot11/RMX2001/vanilla/dotOS-R-v5.0.0-RMX2001-OFFICIAL-20210218-2141.zip",
-      "version":"v5.0.0",
+      "size":644874240,
+      "url":"https://downloads.droidontime.com/dot11/RMX2001/vanilla/dotOS-R-v5.0.1-RMX2001-OFFICIAL-20210417-0740.zip",
+      "version":"v5.0.1",
       "changelog":[
         {
-          "miscTitle":"Great Stuffs",
-          "miscSummary":"Next Level",
+          "miscTitle":"",
+          "miscSummary":"Fixed DT2W\nAdded New Features in Realme Settings\nUpdated Power Profile Config\nFixed unexpected disconnects from weak 5 GHz Wi-Fi networks",
           "settingsTitle":"Settings Collapsing toolbar",
           "settingsSummary":"",
           "securityTitle":"",
-          "securitySummary":"",
+          "securitySummary":"Updated to April Security Patches (r34)",
           "systemTitle":"",
-          "systemSummary":""
+          "systemSummary":"Added Volte icon\nAdded SFUNY Lockscreen Clock\nAdded Hardware keys lights support\nAdded back SystemUI Tuner (Settings / System)\nAdded Auto-brightness button in QSPanel\nAdded DataUsage view in QSPanel\nAdded auto-detect support for OEM fast chargers\nAdded Heads-up tile\nAdded flag to disable cutout space (Notched devices)\nDisabled safe volume everywhere\nFixes for traffic indicator\nFixes for FluidClock preview\nFixes for some random SystemUI crashes\nAdded Silky UI\nAdded QSPanel Opaqueness switch\nMinor fixes on the UI\nUpdated dot stats to new API"
         }
       ]
     }

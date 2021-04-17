@@ -1,23 +1,23 @@
 {
   "response":[
     {
-      "datetime":1613757900,
-      "filename":"dotOS-R-v5.0.0-RMX2001-OFFICIAL-20210219-1210.zip",
-      "id":"655961efd8928784502c973931a8c3b6",
+      "datetime":1618647284,
+      "filename":"dotOS-R-v5.0.1-RMX2001-OFFICIAL-20210417-0656.zip",
+      "id":"a7fa2bbe103f213b5cbf97969673d5d8",
       "romtype":"GAPPS",
-      "size":1395864371,
-      "url":"https://downloads.droidontime.com/dot11/RMX2001/gapps/dotOS-R-v5.0.0-RMX2001-OFFICIAL-20210219-1210.zip",
-      "version":"v5.0.0",
+      "size":1288490188,
+      "url":"https://downloads.droidontime.com/dot11/RMX2001/gapps/dotOS-R-v5.0.1-RMX2001-OFFICIAL-20210417-0656.zip",
+      "version":"v5.0.1",
       "changelog":[
         {
-          "miscTitle":"Great Stuffs",
-          "miscSummary":"Next Level",
+          "miscTitle":"",
+          "miscSummary":"Fixed DT2W\nAdded New Features in Realme Settings\nUpdated Power Profile Config\nFixed unexpected disconnects from weak 5 GHz Wi-Fi networks",
           "settingsTitle":"Settings Collapsing toolbar",
           "settingsSummary":"",
           "securityTitle":"",
-          "securitySummary":"",
+          "securitySummary":"Updated to April Security Patches (r34)",
           "systemTitle":"",
-          "systemSummary":""
+          "systemSummary":"Added Volte icon\nAdded SFUNY Lockscreen Clock\nAdded Hardware keys lights support\nAdded back SystemUI Tuner (Settings / System)\nAdded Auto-brightness button in >
         }
       ]
     }
