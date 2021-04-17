@@ -94,8 +94,8 @@
       		"codename":"jasmine_sprout",
       		"xda_thread":"https://forum.xda-developers.com/t/stable-official-20210322-dotos-5-0-for-mi-a2-jasmine_sprout.4250683/",
       		"version_info":{
-         		"has_vanilla_builds":false,
-         		"has_gapps_builds":false
+         		"has_vanilla_builds":true,
+         		"has_gapps_builds":true
       		}
    	},
 	{

@@ -1,0 +1,25 @@
+{
+  "response":[
+    {
+      "datetime":1618642623,
+      "filename":"dotOS-R-v5.0.1-jasmine_sprout-GAPPS-20210417-0701.zip",
+      "id":"74b3a09477db048cf57e8de6902ffd8c",
+      "romtype":"GAPPS",
+      "size":1147000797,
+      "url":"https://downloads.droidontime.com/dot11/jasmine_sprout/gapps/dotOS-R-v5.0.1-jasmine_sprout-GAPPS-20210417-0701.zip",
+      "version":"v5.0.1",
+      "changelog":[
+        {
+          "miscTitle":"Official build",
+          "miscSummary":"",
+          "settingsTitle":"",
+          "settingsSummary":"",
+          "securityTitle":"",
+          "securitySummary":"",
+          "systemTitle":"",
+          "systemSummary":""
+        }
+      ]
+    }
+  ]
+}
