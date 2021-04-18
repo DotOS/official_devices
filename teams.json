@@ -109,7 +109,16 @@
                 "name": "Wanderson R",
                 "url": "https://github.com/chrisw444",
                 "devices": [
-                        "lavender"
+                        "lavender",
+                        "surya"
+                ]
+        },
+        {
+                "_id": "Sambit",
+                "name": "Sambit",
+                "url": "https://github.com/stellabyte2",
+                "devices": [
+                        "surya"
                 ]
 	},
 	{
