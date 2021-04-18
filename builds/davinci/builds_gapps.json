@@ -1,23 +1,23 @@
 {
   "response":[
     {
-      "datetime":"1618593640",
-      "filename":"dotOS-R-v5.0.1-davinci-GAPPS-20210416-1722.zip",
-      "id":"fb7aa205217e3df7e3702eb279ae4d55",
+      "datetime":"1618750160",
+      "filename":"dotOS-R-v5.0.1-davinci-GAPPS-20210418-1250.zip",
+      "id":"df9b0f30328cd284116658e002fccbc6",
       "romtype":"GAPPS",
-      "size":"1737682253",
-      "url":"https://downloads.droidontime.com/dot11/davinci/gapps/dotOS-R-v5.0.1-davinci-GAPPS-20210416-1722.zip",
+      "size":"1737686669",
+      "url":"https://downloads.droidontime.com/dot11/davinci/gapps/dotOS-R-v5.0.1-davinci-GAPPS-20210418-1250.zip",
       "version":"v5.0.1",
       "changelog":[
         {
           "miscTitle":"",
-          "miscSummary":"",
+          "miscSummary":"Fixed right channel not being reproduced on speakers",
           "settingsTitle":"",
-          "settingsSummary":"Fixed a bug that caused volume panel to crash when selecting bluetooth devices",
+          "settingsSummary":"",
           "securityTitle":"",
           "securitySummary":"",
           "systemTitle":"",
-          "systemSummary":"Fixed an issue that caused Customization app to crash when using certain languages (eg. Turkish)"
+          "systemSummary":""
         }
       ]
     }

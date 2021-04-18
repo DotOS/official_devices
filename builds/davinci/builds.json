@@ -1,23 +1,23 @@
 {
   "response":[
     {
-      "datetime":"1618595077",
-      "filename":"dotOS-R-v5.0.1-davinci-OFFICIAL-20210416-1746.zip",
-      "id":"6fe23ed83cc1e010a2e7cfbcb3ec2f02",
+      "datetime":"1618753073",
+      "filename":"dotOS-R-v5.0.1-davinci-OFFICIAL-20210418-1339.zip",
+      "id":"f5154155ed9789c958465c7c5dc31b0b",
       "romtype":"OFFICIAL",
-      "size":"1265624263",
-      "url":"https://downloads.droidontime.com/dot11/davinci/vanilla/dotOS-R-v5.0.1-davinci-OFFICIAL-20210416-1746.zip",
+      "size":"1265629835",
+      "url":"https://downloads.droidontime.com/dot11/davinci/vanilla/dotOS-R-v5.0.1-davinci-OFFICIAL-20210418-1339.zip",
       "version":"v5.0.1",
       "changelog":[
         {
           "miscTitle":"",
-          "miscSummary":"",
+          "miscSummary":"Fixed right channel not being reproduced on speakers",
           "settingsTitle":"",
-          "settingsSummary":"Fixed a bug that caused volume panel to crash when selecting bluetooth devices",
+          "settingsSummary":"",
           "securityTitle":"",
           "securitySummary":"",
           "systemTitle":"",
-          "systemSummary":"Fixed an issue that caused Customization app to crash when using certain languages (eg. Turkish)"
+          "systemSummary":""
         }
       ]
     }
