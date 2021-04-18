@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1618324744",
-      "filename": "dotOS-R-v5.0.1-mido-GAPPS-20210413-1440.zip",
-      "id": "6267513a9cf3c637ecbf14dbfc1e824a",
+      "datetime": "1618733393",
+      "filename": "dotOS-R-v5.0.1-mido-GAPPS-20210418-0811.zip",
+      "id": "cb08d2717b78252f65e8acef2eb5ea1e",
       "romtype": "GAPPS",
-      "size": "1066454058",
-      "url": "https://downloads.droidontime.com/dot11/mido/gapps/dotOS-R-v5.0.1-mido-GAPPS-20210413-1440.zip",
+      "size": "1062548134",
+      "url": "https://downloads.droidontime.com/dot11/mido/gapps/dotOS-R-v5.0.1-mido-GAPPS-20210418-0811.zip",
       "version": "v5.0.1",
       "changelog": [
         {
