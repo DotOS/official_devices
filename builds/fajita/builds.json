@@ -1,12 +1,12 @@
 {
   "response":[
     {
-      "datetime": "1618681675",
-      "filename": "dotOS-R-v5.0.1-fajita-OFFICIAL-20210417-1759.zip",
-      "id": "0903d28e1d8ed60cc0e5ffbf50505576",
+      "datetime": "1618776054",
+      "filename": "dotOS-R-v5.0.1-fajita-OFFICIAL-20210418-2005.zip",
+      "id": "cdd214b112869bbff7c7f9ff43c8b035",
       "romtype": "OFFICIAL",
-      "size": "715032817",
-      "url": "https://downloads.droidontime.com/dot11/fajita/vanilla/dotOS-R-v5.0.1-fajita-OFFICIAL-20210417-1759.zip",
+      "size": "715033089",
+      "url": "https://downloads.droidontime.com/dot11/fajita/vanilla/dotOS-R-v5.0.1-fajita-OFFICIAL-20210418-2005.zip",
       "version": "v5.0.1",
       "changelog":[
         {
@@ -17,7 +17,7 @@
           "securityTitle": "",
           "securitySummary": "",
           "systemTitle": "",
-          "systemSummary": "Fixed video play back in apps"
+          "systemSummary": "Fixed OTA Updater"
         }
       ]
     }

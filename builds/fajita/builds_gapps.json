@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1618678165",
-      "filename": "dotOS-R-v5.0.1-fajita-GAPPS-20210417-1656.zip",
-      "id": "7f76763799d801ac8e2b598c59f60375",
+      "datetime": "1618855186",
+      "filename": "dotOS-R-v5.0.1-fajita-GAPPS-20210419-1807.zip",
+      "id": "0dd492c6cb34ececf76d297b782dd2a1",
       "romtype": "GAPPS",
-      "size": "1053247548",
-      "url": "https://downloads.droidontime.com/dot11/fajita/gapps/dotOS-R-v5.0.1-fajita-GAPPS-20210417-1656.zip",
+      "size": "1053222120",
+      "url": "https://downloads.droidontime.com/dot11/fajita/gapps/dotOS-R-v5.0.1-fajita-GAPPS-20210419-1807.zip",
       "version": "v5.0.1",
       "changelog": [
         {
@@ -17,7 +17,7 @@
           "securityTitle": "",
           "securitySummary": "",
           "systemTitle": "",
-          "systemSummary": "Fixed video play back in apps"
+          "systemSummary": "Fixed OTA Updater"
         }
       ]
     }
