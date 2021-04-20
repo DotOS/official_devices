@@ -1,0 +1,25 @@
+{
+  "response":[
+    {
+      "datetime":"1618453726",
+      "filename":"dotOS-R-v5.0.1-star2qltechn-OFFICIAL-20210415-0230.zip",
+      "id":"9ea5c112e2881bb81d00895460b8479f",
+      "romtype":"OFFICIAL",
+      "size":"580518953",
+      "url":"https://downloads.droidontime.com/dot11/star2qltechn/vanilla/dotOS-R-v5.0.1-star2qltechn-OFFICIAL-20210415-0230.zip",
+      "version":"v5.0.1",
+      "changelog":[
+        {
+          "miscTitle":"",
+          "miscSummary":"Updated translations from crowdin\nUI/UX improvements\nStability and underhood improvements",
+          "settingsTitle":"",
+          "settingsSummary":"",
+          "securityTitle":"",
+          "securitySummary":"Updated to April Security Patches (r34)",
+          "systemTitle":"",
+          "systemSummary":""
+        }
+      ]
+    }
+  ]
+}
