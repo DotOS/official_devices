@@ -241,5 +241,13 @@
         "devices": [
             "tissot"
                 ]
-	}
+	},
+	{
+        "_id": "CYB3R0ID694",
+        "name": "Sanket Mhatre",
+        "url": "https://github.com/CYB3R0ID694/",
+        "devices": [
+            "enchilada"
+                ]
+    }
 ]
