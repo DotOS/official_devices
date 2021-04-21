@@ -161,6 +161,14 @@
 			"sakura"
 		]
 	},
+		{
+		"_id": "jefinhodatnt",
+		"name": "Jeferson L",
+		"url": "https://github.com/jefinhodatnt",
+		"devices": [
+			"tulip"
+		]
+	},
 	{
 		"_id": "Notakbuzz",
 		"name": "Slayer",
