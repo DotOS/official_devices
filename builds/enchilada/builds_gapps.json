@@ -1,16 +1,16 @@
 {
-  "response":[
+  "response": [
     {
-      "datetime":1618766093,
-      "filename":"dotOS-R-v5.0.1-enchilada-OFFICIAL-20210418-1714.zip",
-      "id":"0f5dccd515713bb1fb164badc9288443",
-      "romtype":"OFFICIAL",
-      "size":675944767,
-      "url":"https://downloads.droidontime.com/dot11/enchilada/vanilla/dotOS-R-v5.0.1-enchilada-OFFICIAL-20210418-1714.zip",
-      "version":"v5.0.1",
-      "changelog":[
+      "datetime": "1619152845",
+      "filename": "dotOS-R-v5.0.1-enchilada-GAPPS-20210423-0440.zip",
+      "id": "19ab68f891f2a4bd371e2d842522e01c",
+      "romtype": "GAPPS",
+      "size": "1041177427",
+      "url": "https://downloads.droidontime.com/dot11/enchilada/gapps/dotOS-R-v5.0.1-enchilada-GAPPS-20210423-0440.zip",
+      "version": "v5.0.1",
+      "changelog": [
         {
-          "miscTitle":"",
+          "miscTitle": "",
           "miscSummary":"Updated translations from crowdin\n UI/UX improvements\n Stability and underhood improvements",
           "settingsTitle":"",
           "settingsSummary":"",
