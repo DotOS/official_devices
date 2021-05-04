@@ -249,5 +249,13 @@
         "devices": [
             "enchilada"
                 ]
+    },
+    {
+        "_id": "viralbanda",
+        "name": "Ali Shahawez Khan",
+        "url": "https://github.com/viralbanda",
+        "devices": [
+            "RMX1851"
+                ]
     }
 ]
