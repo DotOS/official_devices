@@ -1,0 +1,25 @@
+{
+  "response":[
+    {
+      "datetime":"1618456397",
+      "filename":"dotOS-R-v5.0.1-crownqltechn-OFFICIAL-20210415-0315.zip",
+      "id":"f21e40e6dc1970b4ca09f948a371883b",
+      "romtype":"OFFICIAL",
+      "size":"579204699",
+      "url":"https://downloads.droidontime.com/dot11/star2qltechn/vanilla/dotOS-R-v5.0.1-crownqltechn-OFFICIAL-20210415-0315.zip",
+      "version":"v5.0.1",
+      "changelog":[
+        {
+          "miscTitle":"",
+          "miscSummary":"Updated translations from crowdin\nUI/UX improvements\nStability and underhood improvements",
+          "settingsTitle":"",
+          "settingsSummary":"",
+          "securityTitle":"",
+          "securitySummary":"Updated to April Security Patches (r34)",
+          "systemTitle":"",
+          "systemSummary":""
+        }
+      ]
+    }
+  ]
+}

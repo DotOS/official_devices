@@ -1,0 +1,25 @@
+{
+  "response":[
+    {
+      "datetime":"1618451244",
+      "filename":"dotOS-R-v5.0.1-star2qltechn-GAPPS-20210415-0149.zip",
+      "id":"af2221eec47315b41ea2d0baf41f72f9",
+      "romtype":"GAPPS",
+      "size":"989456218",
+      "url":"https://downloads.droidontime.com/dot11/star2qltechn/gapps/dotOS-R-v5.0.1-star2qltechn-GAPPS-20210415-0149.zip",
+      "version":"v5.0.1",
+      "changelog":[
+        {
+          "miscTitle":"",
+          "miscSummary":"Updated translations from crowdin\nUI/UX improvements\nStability and underhood improvements",
+          "settingsTitle":"",
+          "settingsSummary":"",
+          "securityTitle":"",
+          "securitySummary":"Updated to April Security Patches (r34)",
+          "systemTitle":"",
+          "systemSummary":""
+        }
+      ]
+    }
+  ]
+}
