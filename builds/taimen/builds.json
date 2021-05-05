@@ -1,0 +1,25 @@
+{
+  "response":[
+    {
+      "datetime":1620242261,
+      "filename":"dotOS-R-v5.0.1-taimen-OFFICIAL-20210505-1931.zip",
+      "id":"944c0bb6977267c7e5a35fa26e081105",
+      "romtype":"OFFICIAL",
+      "size":721821432,
+      "url":"https://downloads.droidontime.com/dot11/taimen/vanilla/dotOS-R-v5.0.1-taimen-OFFICIAL-20210505-1931.zip",
+      "version":"v5.0.1",
+      "changelog":[
+        {
+          "miscTitle": "",
+          "miscSummary": "Updated translations from crowdin\n UI/UX improvements\n Stability and underhood improvements",
+          "settingsTitle": "",
+          "settingsSummary": "",
+          "securityTitle": "",
+          "securitySummary": "Updated to April Security Patches (r34)",
+          "systemTitle": "",
+          "systemSummary": "Added Volte icon\nAdded SFUNY Lockscreen Clock\nAdded Hardware keys lights support\nAdded back SystemUI Tuner (Settings / System)\nAdded Auto-brightness button in QSPanel\nAdded DataUsage view in QSPanel\nAdded auto-detect support for OEM fast chargers\nAdded Heads-up tile\nAdded flag to disable cutout space (Notched devices)\nDisabled safe volume everywhere\nFixes for traffic indicator\nFixes for FluidClock preview\nFixes for some random SystemUI crashes\nAdded Silky UI\nAdded QSPanel Opaqueness switch\nMinor fixes on the UI\nUpdated dot stats to new API"
+        }
+      ]
+    }
+  ]
+}
