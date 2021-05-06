@@ -265,6 +265,14 @@
         "devices": [
             "RMX1851"
                 ]
+    },
+	{
+        "_id": "AndroidHQ254",
+        "name": "Dennis Murimi",
+        "url": "https://github.com/AndroidHQ254/",
+        "devices": [
+            "toco"
+                ]
     }
 
 ]
