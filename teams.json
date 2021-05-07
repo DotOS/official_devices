@@ -273,6 +273,13 @@
         "devices": [
             "toco"
                 ]
+    },
+	{
+        "_id": "AOiSPdev",
+        "name": "AOiSPdev",
+        "url": "https://github.com/TTTT55/",
+        "devices": [
+            "pine"
+                ]
     }
-
 ]
