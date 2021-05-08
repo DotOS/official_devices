@@ -1,17 +1,17 @@
 {
   "response":[
     {
-      "datetime":1620322955,
-      "filename":"dotOS-R-v5.0.1-toco-GAPPS-20210506-1744.zip",
-      "id":"8f00146aaa06d6db479daeb1d6fd72d2",
+      "datetime":1620511740,
+      "filename":"dotOS-R-v5.0.1-toco-GAPPS-20210508-2210.zip",
+      "id":"316ad07c8fa89cd0d3037d8a64edbc40",
       "romtype":"GAPPS",
-      "size":1463594417,
-      "url":"https://downloads.droidontime.com/dot11/toco/gapps/dotOS-R-v5.0.1-toco-GAPPS-20210506-1744.zip",
+      "size":1456302117,
+      "url":"https://downloads.droidontime.com/dot11/toco/gapps/dotOS-R-v5.0.1-toco-GAPPS-20210508-2210.zip",
       "version":"v5.0.1",
       "changelog":[
         {
           "miscTitle":"",
-          "miscSummary":"Fixed DT2W\nUpdate redfin fingerprint",
+          "miscSummary":"Switch to user build",
           "settingsTitle":"",
           "settingsSummary":"",
           "securityTitle":"",

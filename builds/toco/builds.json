@@ -1,17 +1,17 @@
 {
   "response":[
     {
-      "datetime":1620320754,
-      "filename":"dotOS-R-v5.0.1-toco-OFFICIAL-20210506-1707.zip",
-      "id":"da54061cf29ddd3923caabcf29102a79",
+      "datetime":1620512991,
+      "filename":"dotOS-R-v5.0.1-toco-OFFICIAL-20210508-2231.zip",
+      "id":"a9b174730dda7e53e83b045f521c8812",
       "romtype":"OFFICIAL",
-      "size":1066586519,
-      "url":"https://downloads.droidontime.com/dot11/toco/vanilla/dotOS-R-v5.0.1-toco-OFFICIAL-20210506-1707.zip",
+      "size":993852138,
+      "url":"https://downloads.droidontime.com/dot11/toco/vanilla/dotOS-R-v5.0.1-toco-OFFICIAL-20210508-2231.zip",
       "version":"v5.0.1",
       "changelog":[
         {
           "miscTitle":"",
-          "miscSummary":"Fixed DT2W\nUpdate redfin fingerprint",
+          "miscSummary":"Switch to user build\nFix vanilla build\nDrop GCam in vanilla build",
           "settingsTitle":"",
           "settingsSummary":"",
           "securityTitle":"",
