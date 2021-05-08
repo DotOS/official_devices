@@ -15,11 +15,11 @@
           "settingsTitle": "",
           "settingsSummary": "Fixed crash in customisation app on switching to certain regional languages",
           "securityTitle": "",
-          "securitySummary": "Updated to May Security Patches (r37)",
+          "securitySummary": "Updated to May Security Patches (r36)",
           "systemTitle": "",
           "systemSummary": "",
 	  "deviceTitle": "",
-  	  "deviceSummary": "Fixed issues with broken internal audio in screen record\n Upstreamed and fixed a lot of kernel side stuffs\n Switched to user-enforcing builds\n Added motorola dolby which works in enforcing\n A lot of under the hood fixes",
+  	  "deviceSummary": "Fixed issues with broken internal audio in screen record\n Upstreamed and fixed a lot of kernel side stuffs\n Switched to user-enforcing builds\n Added motorola dolby which works in enforcing\n A lot of under the hood fixes"
         }
       ]
     }
