@@ -281,5 +281,13 @@
         "devices": [
             "pine"
                 ]
+    },
+    {
+        "_id": "ejbtrd",
+        "name": "ejbtrd",
+        "url": "https://github.com/ejbtrd/",
+        "devices": [
+            "apollo"
+        ]
     }
 ]
