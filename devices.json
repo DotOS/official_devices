@@ -367,5 +367,15 @@
 		"has_vanilla_builds": false,
 		"has_gapps_builds": false
 	}
+},
+{
+        "name": "Z2 Plus",
+        "brand": "ZUK",
+        "codename": "z2_plus",
+        "xda_thread": "https://forum.xda-developers.com/t/rom-11-unofficial-dotos-v5-0-1-for-zuk-z2_plus-r.4232277/",
+        "version_info": {
+            "has_vanilla_builds": true,
+            "has_gapps_builds": false
+	}
 }
 ]
