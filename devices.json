@@ -367,5 +367,15 @@
 		"has_vanilla_builds": false,
 		"has_gapps_builds": false
 	}
+},
+{
+	"name": "Redmi Note9 Pro 5G/Mi10i/Mi10T Lite",
+	"brand": "Xiaomi",
+	"codename": "gauguin",
+	"xda_thread": "",
+	"version_info": {
+		"has_vanilla_builds": false,
+		"has_gapps_builds": false
+	}
 }
 ]

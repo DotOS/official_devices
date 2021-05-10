@@ -281,5 +281,13 @@
         "devices": [
             "pine"
                 ]
+    },
+	{
+        "_id": "DtHnAme",
+        "name": "DtHnAme",
+        "url": "https://github.com/DtHnAme/",
+        "devices": [
+            "gauguin"
+                ]
     }
 ]
