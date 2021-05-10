@@ -281,5 +281,13 @@
         "devices": [
             "pine"
                 ]
+    },
+        {
+        "_id": "HeltonVezzoni",
+        "name": "Helton Vezzoni",
+        "url": "https://github.com/HeltonMax",
+        "devices": [
+            "albus"
+		]
     }
 ]
