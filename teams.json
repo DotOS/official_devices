@@ -308,5 +308,13 @@
 	   "devices":[
 		  "gauguin"
 	   ]
+	},
+	{
+	   "_id":"ReallySnow",
+	   "name":"ReallySnow",
+	   "url":"https://github.com/ReallySnow",
+	   "devices":[
+		  "z2_plus"
+	   ]
 	}
  ]
