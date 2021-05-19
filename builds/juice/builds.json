@@ -1,0 +1,25 @@
+{
+  "response":[
+    {
+      "datetime":"1618635431",
+      "filename":"dotOS-R-v5.0.1-juice-OFFICIAL-20210516-2007.zip",
+      "id":"2308f77f376ffc4f98e87354a623853d",
+      "romtype":"OFFICIAL",
+      "size":"771644946",
+      "url":"https://downloads.droidontime.com/dot11/juice/vanilla/dotOS-R-v5.0.1-vince-OFFICIAL-20210516-0458.zip",
+      "version":"v5.0.1",
+      "changelog":[
+        {
+          "miscTitle":"NEW UI",
+          "miscSummary":"Updated translations from crowdin\n UI/UX improvements\n Stability and underhood improvements",
+          "settingsTitle":"",
+          "settingsSummary":"",
+          "securityTitle":"",
+          "securitySummary":"Updated to MAY Security Patches (r36)",
+          "systemTitle":"",
+          "systemSummary":"NEW STUFFS"
+        }
+      ]
+    }
+  ]
+}

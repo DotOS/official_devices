@@ -109,6 +109,16 @@
 	}
 },
 {
+	"name": "POCO M3 / Redmi 9T nfc/9 Power / note 9 4G",
+	"brand": "Xiaomi",
+	"codename": "juice",
+	"xda_thread": "https://forum.xda-developers.com/t/rom-android-11-dotos-poco-m3-redmi-9t-redmi-9-power-redmi-note-9-4g-juice-official.4279019/",
+	"version_info": {
+		"has_vanilla_builds": true,
+		"has_gapps_builds": true
+	}
+},
+{
 	"name": "Mi A2",
 	"brand": "Xiaomi",
 	"codename": "jasmine_sprout",

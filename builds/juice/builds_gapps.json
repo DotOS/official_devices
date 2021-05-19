@@ -1,0 +1,25 @@
+{
+  "response":[
+    {
+      "datetime":"1621169432",
+      "filename":"dotOS-R-v5.0.1-juice-GAPPS-20210516-1250.zip",
+      "id":"34c4bb714322228ff0aebfb3a9009996",
+      "romtype":"GAPPS",
+      "size":"1007421954",
+      "url":"https://downloads.droidontime.com/dot11/juice/gapps/dotOS-R-v5.0.1-juice-GAPPS-20210516-1250.zip",
+      "version":"v5.0.1",
+      "changelog":[
+        {
+          "miscTitle":"NEW UI",
+          "miscSummary":"Updated translations from crowdin\n UI/UX improvements\n Stability and underhood improvements",
+          "settingsTitle":"",
+          "settingsSummary":"",
+          "securityTitle":"",
+          "securitySummary":"Updated to MAY Security Patches (r36)",
+          "systemTitle":"",
+          "systemSummary":"NEW STUFFS"
+        }
+      ]
+    }
+  ]
+}
