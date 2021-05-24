@@ -332,5 +332,13 @@
 		"devices": [
 			"sweet"
 		]
+	},
+	{
+		"_id": "xstefen",
+		"name": "xstefen",
+		"url": "https://github.com/xstefen/",
+		"devices": [
+			"kebab"
+		]
 	}
  ]
