@@ -326,19 +326,27 @@
 	   ]
 	},
 	{
-		"_id": "grewal",
-		"name": "Adarsh Grewal",
-		"url": "https://github.com/AdarshGrewal/",
-		"devices": [
-			"sweet"
-		]
+	   "_id":"grewal",
+	   "name":"Adarsh Grewal",
+	   "url":"https://github.com/AdarshGrewal/",
+	   "devices":[
+		  "sweet"
+	   ]
 	},
 	{
-		"_id": "xstefen",
-		"name": "xstefen",
-		"url": "https://github.com/xstefen/",
-		"devices": [
-			"kebab"
-		]
+	   "_id":"xstefen",
+	   "name":"xstefen",
+	   "url":"https://github.com/xstefen/",
+	   "devices":[
+		  "kebab"
+	   ]
+	},
+	{
+	   "_id":"luckYViii",
+	   "name":"Ahmed",
+	   "url":"https://github.com/luckYViii",
+	   "devices":[
+		  "vayu"
+	   ]
 	}
  ]

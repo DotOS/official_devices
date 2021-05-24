@@ -450,23 +450,33 @@
 	   }
 	},
 	{
-		"name": "Redmi Note 10 Pro/Pro Max",
-		"brand": "Xiaomi",
-		"codename": "sweet",
-		"xda_thread": "https://forum.xda-developers.com/t/rom-dotos-android-11-sweet.4271097/",
-		"version_info": {
-			"has_vanilla_builds": false,
-			"has_gapps_builds": false
-		}
+	   "name":"Redmi Note 10 Pro/Pro Max",
+	   "brand":"Xiaomi",
+	   "codename":"sweet",
+	   "xda_thread":"https://forum.xda-developers.com/t/rom-dotos-android-11-sweet.4271097/",
+	   "version_info":{
+		  "has_vanilla_builds":false,
+		  "has_gapps_builds":false
+	   }
 	},
 	{
-		"name": "OnePlus 8T",
-		"brand": "OnePlus",
-		"codename": "kebab",
-		"xda_thread": "https://forum.xda-developers.com/t/rom-11-8t-dotos-v5-0-1-unofficial-gapps.4251511/",
-		"version_info": {
-			"has_vanilla_builds": false,
-			"has_gapps_builds": false
-		}
+	   "name":"OnePlus 8T",
+	   "brand":"OnePlus",
+	   "codename":"kebab",
+	   "xda_thread":"https://forum.xda-developers.com/t/rom-11-8t-dotos-v5-0-1-unofficial-gapps.4251511/",
+	   "version_info":{
+		  "has_vanilla_builds":false,
+		  "has_gapps_builds":false
+	   }
+	},
+	{
+	   "name":"Poco X3 Pro",
+	   "brand":"Xiaomi",
+	   "codename":"vayu",
+	   "xda_thread":"https://forum.xda-developers.com/t/rom-unofficial-dotos-5-0-1-android-11-0-vayu-bhima.4273177/",
+	   "version_info":{
+		  "has_vanilla_builds":false,
+		  "has_gapps_builds":false
+	   }
 	}
  ]
