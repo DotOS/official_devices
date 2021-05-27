@@ -111,7 +111,7 @@
 	},
 	{
 	   "name":"POCO M3 / Redmi 9T nfc/9 Power / note 9 4G",
-	   "brand":"Xiaomi",
+	   "brand":"POCO",
 	   "codename":"juice",
 	   "xda_thread":"https://forum.xda-developers.com/t/rom-android-11-dotos-poco-m3-redmi-9t-redmi-9-power-redmi-note-9-4g-juice-official.4279019/",
 	   "version_info":{
@@ -231,7 +231,7 @@
 	},
 	{
 	   "name":"Poco F1",
-	   "brand":"Xiaomi",
+	   "brand":"POCO",
 	   "codename":"beryllium",
 	   "xda_thread":"https://forum.xda-developers.com/t/rom-11-0-official-16-02-2021-dot-os-for-the-xiaomi-poco-f1.4234317/",
 	   "version_info":{
@@ -241,7 +241,7 @@
 	},
 	{
 	   "name":"Poco X2",
-	   "brand":"Xiaomi",
+	   "brand":"POCO",
 	   "codename":"phoenix",
 	   "xda_thread":"https://forum.xda-developers.com/t/dotos-for-x2-k30-gapps-09-02-21-unofficial.4231299/",
 	   "version_info":{
@@ -301,7 +301,7 @@
 	},
 	{
 	   "name":"Poco M2 Pro/Redmi Note 9S/Pro/Pro Max",
-	   "brand":"Xiaomi",
+	   "brand":"POCO",
 	   "codename":"miatoll",
 	   "xda_thread":"https://forum.xda-developers.com/t/rom-official-dotos-5-11-0-miatoll-gram-joyeuse-curtana-excalubur.4230793/",
 	   "version_info":{
@@ -491,7 +491,7 @@
 	},
 	{
 	   "name":"Poco X3 Pro",
-	   "brand":"Xiaomi",
+	   "brand":"POCO",
 	   "codename":"vayu",
 	   "xda_thread":"https://forum.xda-developers.com/t/rom-unofficial-dotos-5-0-1-android-11-0-vayu-bhima.4273177/",
 	   "version_info":{
