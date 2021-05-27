@@ -26,7 +26,7 @@
 	   "xda_thread":"https://forum.xda-developers.com/t/rom-unified-dotos-official-redmi4a-5a-v5-0-0.4231155/",
 	   "version_info":{
 		  "has_vanilla_builds":true,
-		  "has_gapps_builds":false
+		  "has_gapps_builds":true
 	   }
 	},
 	{
@@ -36,7 +36,7 @@
 	   "xda_thread":"https://forum.xda-developers.com/t/rom-11-0-official-dotos-v5-0-1-aosp-2021-04-13.4233715/",
 	   "version_info":{
 		  "has_vanilla_builds":true,
-		  "has_gapps_builds":false
+		  "has_gapps_builds":true
 	   }
 	},
 	{
@@ -46,7 +46,7 @@
 	   "xda_thread":"https://forum.xda-developers.com/t/official-eleven-dotos-for-whyred-16-04-2021.3900498/",
 	   "version_info":{
 		  "has_vanilla_builds":true,
-		  "has_gapps_builds":false
+		  "has_gapps_builds":true
 	   }
 	},
 	{
@@ -66,7 +66,7 @@
 	   "xda_thread":"https://forum.xda-developers.com/t/rom-aosp-dotos-5-0-1-xiaomi-redmi-note-7-7s-lavender-official.4262291/",
 	   "version_info":{
 		  "has_vanilla_builds":true,
-		  "has_gapps_builds":false
+		  "has_gapps_builds":true
 	   }
 	},
 	{
@@ -96,7 +96,7 @@
 	   "xda_thread":"https://forum.xda-developers.com/t/rom-11-0-0-dotos-v5-0-official-begonia-begoniain-non-cfw-2021-02-08.4229621/",
 	   "version_info":{
 		  "has_vanilla_builds":true,
-		  "has_gapps_builds":false
+		  "has_gapps_builds":true
 	   }
 	},
 	{
@@ -215,7 +215,7 @@
 	   "codename":"beryllium",
 	   "xda_thread":"https://forum.xda-developers.com/t/rom-11-0-official-16-02-2021-dot-os-for-the-xiaomi-poco-f1.4234317/",
 	   "version_info":{
-		  "has_vanilla_builds":false,
+		  "has_vanilla_builds":true,
 		  "has_gapps_builds":true
 	   }
 	},
@@ -316,7 +316,7 @@
 	   "xda_thread":"https://forum.xda-developers.com/t/rom-11-dotos-5-0-1-for-potter-official.4261731/",
 	   "version_info":{
 		  "has_vanilla_builds":true,
-		  "has_gapps_builds":false
+		  "has_gapps_builds":true
 	   }
 	},
 	{
@@ -336,7 +336,7 @@
 	   "xda_thread":"https://forum.xda-developers.com/t/rom-11-0-dotos-5-0-1-official-2021-04-16.4261445/",
 	   "version_info":{
 		  "has_vanilla_builds":true,
-		  "has_gapps_builds":false
+		  "has_gapps_builds":true
 	   }
 	},
 	{
@@ -375,8 +375,8 @@
 	   "codename":"pine",
 	   "xda_thread":"",
 	   "version_info":{
-		  "has_vanilla_builds":false,
-		  "has_gapps_builds":false
+		  "has_vanilla_builds":true,
+		  "has_gapps_builds":true
 	   }
 	},
 	{
@@ -385,8 +385,8 @@
 	   "codename":"apollo",
 	   "xda_thread":"",
 	   "version_info":{
-		  "has_vanilla_builds":false,
-		  "has_gapps_builds":false
+		  "has_vanilla_builds":true,
+		  "has_gapps_builds":true
 	   }
 	},
 	{
@@ -445,8 +445,8 @@
 	   "codename":"albus",
 	   "xda_thread":"https://forum.xda-developers.com/t/rom-11-motoz2play-dotos-5-0-1-unofficial-07-05-2021-albus.4260441/",
 	   "version_info":{
-		  "has_vanilla_builds":false,
-		  "has_gapps_builds":false
+		  "has_vanilla_builds":true,
+		  "has_gapps_builds":true
 	   }
 	},
 	{
@@ -455,8 +455,8 @@
 	   "codename":"sweet",
 	   "xda_thread":"https://forum.xda-developers.com/t/rom-dotos-android-11-sweet.4271097/",
 	   "version_info":{
-		  "has_vanilla_builds":false,
-		  "has_gapps_builds":false
+		  "has_vanilla_builds":true,
+		  "has_gapps_builds":true
 	   }
 	},
 	{
@@ -475,8 +475,8 @@
 	   "codename":"vayu",
 	   "xda_thread":"https://forum.xda-developers.com/t/rom-unofficial-dotos-5-0-1-android-11-0-vayu-bhima.4273177/",
 	   "version_info":{
-		  "has_vanilla_builds":false,
-		  "has_gapps_builds":false
+		  "has_vanilla_builds":true,
+		  "has_gapps_builds":true
 	   }
 	},
 	{
@@ -485,8 +485,8 @@
 	   	"codename":"hotdogb",
 	   	"xda_thread":"https://forum.xda-developers.com/t/rom-11-dotos-v5-0-1-gapps.4278983/",
 	   	"version_info":{
-		  "has_vanilla_builds":false,
-		  "has_gapps_builds":false
+		  "has_vanilla_builds":true,
+		  "has_gapps_builds":true
 		}
 	}
  ]
