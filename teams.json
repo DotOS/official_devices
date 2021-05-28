@@ -119,7 +119,6 @@
 	   "name":"Wanderson R",
 	   "url":"https://github.com/chrisw444",
 	   "devices":[
-		  "lavender",
 		  "surya"
 	   ]
 	},
@@ -372,6 +371,14 @@
 		"url": "https://github.com/mohancm/",
 		"devices": [
 			"GSI"
+		]
+	},
+	{
+		"_id":"zaidkhan0997",
+		"name":"Zaid Khan",
+		"url":"https://github.com/zaidkhan0997",
+		"devices":[
+		   "lavender"
 		]
 	}
  ]
