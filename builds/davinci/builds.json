@@ -1,25 +1,25 @@
 {
-  "response":[
-    {
-      "datetime":"1618753073",
-      "filename":"dotOS-R-v5.0.1-davinci-OFFICIAL-20210418-1339.zip",
-      "id":"f5154155ed9789c958465c7c5dc31b0b",
-      "romtype":"OFFICIAL",
-      "size":"1265629835",
-      "url":"https://downloads.droidontime.com/dot11/davinci/vanilla/dotOS-R-v5.0.1-davinci-OFFICIAL-20210418-1339.zip",
-      "version":"v5.0.1",
-      "changelog":[
+    "response": [
         {
-          "miscTitle":"",
-          "miscSummary":"Fixed right channel not being reproduced on speakers",
-          "settingsTitle":"",
-          "settingsSummary":"",
-          "securityTitle":"",
-          "securitySummary":"",
-          "systemTitle":"",
-          "systemSummary":""
+            "datetime": "1622172634",
+            "filename": "dotOS-R-v5.1-davinci-OFFICIAL-20210528-0250.zip",
+            "id": "7aeffb7cce3c09fbb614565081926ebc",
+            "romtype": "OFFICIAL",
+            "size": "1300218458",
+            "url": "https://downloads.droidontime.com/dot11/davinci/vanilla/dotOS-R-v5.1-davinci-OFFICIAL-20210528-0250.zip",
+            "version": "v5.1",
+            "changelog": [
+                {
+                    "miscTitle": "",
+                    "miscSummary": "",
+                    "settingsTitle": "Huge revamp",
+                    "settingsSummary": "\u2022 New dashboard look\n\u2022 Fixed avatar icon on dashboard\n\u2022 Implemented Silky UI\n\u2022 Multiple sections revamped to match guidelines\n\u2022 AboutDevice card revamped\n\u2022 Revamped Customizations app\n...\n\u2022 Full changelog : https://changelogs.droidontime.com/",
+                    "securityTitle": "",
+                    "securitySummary": "\u2022 Moved to user builds\n\u2022 Signature changed to dot's own keys",
+                    "systemTitle": "User Interface",
+                    "systemSummary": "\u2022 Implemented MonetWannabe wallpaper-based theme engine\n\u2022 Redesigned QSPanel\n\u2022 Added Applock\n...\n\u2022 Full changelog : https://changelogs.droidontime.com/"
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }
