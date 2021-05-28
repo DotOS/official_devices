@@ -1,25 +1,25 @@
 {
-    "response":[
-      {
-        "datetime":"",
-        "filename":"",
-        "id":"",
-        "romtype":"",
-        "size":"",
-        "url":"",
-        "version":"",
-        "changelog":[
-          {
-            "miscTitle": "",
-            "miscSummary": "",
-            "settingsTitle": "",
-            "settingsSummary": "",
-            "securityTitle": "",
-            "securitySummary": "",
-            "systemTitle": "",
-            "systemSummary": ""
-          }
-        ]
-      }
+    "response": [
+        {
+            "datetime": "1622209399",
+            "filename": "dotOS-R-v5.1-pine-GAPPS-20210528-1336.zip",
+            "id": "230685504810aeffa5eeb9a7c9e1a615",
+            "romtype": "GAPPS",
+            "size": "1294674338",
+            "url": "https://downloads.droidontime.com/dot11/pine/gapps/dotOS-R-v5.1-pine-GAPPS-20210528-1336.zip",
+            "version": "v5.1",
+            "changelog": [
+                {
+                    "miscTitle": "",
+                    "miscSummary": "",
+                    "settingsTitle": "Huge revamp",
+                    "settingsSummary": "\u2022 New dashboard look\n\u2022 Fixed avatar icon on dashboard\n\u2022 Implemented Silky UI\n\u2022 Multiple sections revamped to match guidelines\n\u2022 AboutDevice card revamped\n\u2022 Revamped Customizations app\n...\n\u2022 Full changelog : https://changelogs.droidontime.com/",
+                    "securityTitle": "",
+                    "securitySummary": "\u2022 Moved to user builds\n\u2022 Signature changed to dot's own keys",
+                    "systemTitle": "User Interface",
+                    "systemSummary": "\u2022 Implemented MonetWannabe wallpaper-based theme engine\n\u2022 Redesigned QSPanel\n\u2022 Added Applock\n...\n\u2022 Full changelog : https://changelogs.droidontime.com/"
+                }
+            ]
+        }
     ]
-  }
+}
