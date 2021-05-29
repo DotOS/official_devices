@@ -1,25 +1,25 @@
 {
-  "response":[
-    {
-      "datetime":"1618198710",
-      "filename":"dotOS-R-v5.0.1-beryllium-GAPPS-20210412-0341.zip",
-      "id":"4b1d8e236b89ed8e068bb33c007c4f0e",
-      "romtype":"GAPPS",
-      "size":"1244985335",
-      "url":"https://downloads.droidontime.com/dot11/beryllium/gapps/dotOS-R-v5.0.1-beryllium-GAPPS-20210412-0341.zip",
-      "version":"v5.0.1",
-      "changelog":[
+    "response": [
         {
-          "miscTitle":"",
-          "miscSummary":"Updated translations from crowdin\n UI/UX improvements\n Stability and underhood improvements",
-          "settingsTitle":"",
-          "settingsSummary":"",
-          "securityTitle":"",
-          "securitySummary":"Updated to April Security Patches (r34)",
-          "systemTitle":"",
-          "systemSummary":"Added Volte icon\nAdded SFUNY Lockscreen Clock\nAdded Hardware keys lights support\nAdded back SystemUI Tuner (Settings / System)\nAdded Auto-brightness button in QSPanel\nAdded DataUsage view in QSPanel\nAdded auto-detect support for OEM fast chargers\nAdded Heads-up tile\nAdded flag to disable cutout space (Notched devices)\nDisabled safe volume everywhere\nFixes for traffic indicator\nFixes for FluidClock preview\nFixes for some random SystemUI crashes\nAdded Silky UI\nAdded QSPanel Opaqueness switch\nMinor fixes on the UI\nUpdated dot stats to new API"
+            "datetime": "1622282261",
+            "filename": "dotOS-R-v5.1-beryllium-GAPPS-20210529-0951.zip",
+            "id": "9a8a03a59ea2391a46f45bebaec6cd71",
+            "romtype": "GAPPS",
+            "size": "1320551084",
+            "url": "https://downloads.droidontime.com/dot11/beryllium/gapps/dotOS-R-v5.1-beryllium-GAPPS-20210529-0951.zip",
+            "version": "v5.1",
+            "changelog": [
+                {
+                    "miscTitle": "",
+                    "miscSummary": "",
+                    "settingsTitle": "Huge revamp",
+                    "settingsSummary": "\u2022 New dashboard look\n\u2022 Fixed avatar icon on dashboard\n\u2022 Implemented Silky UI\n\u2022 Multiple sections revamped to match guidelines\n\u2022 AboutDevice card revamped\n\u2022 Revamped Customizations app\n...\n\u2022 Full changelog : https://changelogs.droidontime.com/",
+                    "securityTitle": "",
+                    "securitySummary": "\u2022 Moved to user builds\n\u2022 Signature changed to dot's own keys",
+                    "systemTitle": "User Interface",
+                    "systemSummary": "\u2022 Implemented MonetWannabe wallpaper-based theme engine\n\u2022 Redesigned QSPanel\n\u2022 Added Applock\n...\n\u2022 Full changelog : https://changelogs.droidontime.com/"
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }
