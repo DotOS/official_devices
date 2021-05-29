@@ -1,25 +1,25 @@
 {
-  "response":[
-    {
-      "datetime":1620248805,
-      "filename":"dotOS-R-v5.0.1-walleye-OFFICIAL-20210505-2110.zip",
-      "id":"8d9d26d0e6f055cdf87505513d742f63",
-      "romtype":"OFFICIAL",
-      "size":714044412,
-      "url":"https://downloads.droidontime.com/dot11/walleye/vanilla/dotOS-R-v5.0.1-walleye-OFFICIAL-20210505-2110.zip",
-      "version":"v5.0.1",
-      "changelog":[
+    "response": [
         {
-          "miscTitle": "",
-          "miscSummary": "Updated translations from crowdin\n UI/UX improvements\n Stability and underhood improvements",
-          "settingsTitle": "",
-          "settingsSummary": "",
-          "securityTitle": "",
-          "securitySummary": "Updated to April Security Patches (r34)",
-          "systemTitle": "",
-          "systemSummary": "Added Volte icon\nAdded SFUNY Lockscreen Clock\nAdded Hardware keys lights support\nAdded back SystemUI Tuner (Settings / System)\nAdded Auto-brightness button in QSPanel\nAdded DataUsage view in QSPanel\nAdded auto-detect support for OEM fast chargers\nAdded Heads-up tile\nAdded flag to disable cutout space (Notched devices)\nDisabled safe volume everywhere\nFixes for traffic indicator\nFixes for FluidClock preview\nFixes for some random SystemUI crashes\nAdded Silky UI\nAdded QSPanel Opaqueness switch\nMinor fixes on the UI\nUpdated dot stats to new API"
+            "datetime": "1622285684",
+            "filename": "dotOS-R-v5.1-walleye-OFFICIAL-20210529-1018.zip",
+            "id": "0b3976c01f8122be3b02650166196290",
+            "romtype": "OFFICIAL",
+            "size": "742440845",
+            "url": "https://downloads.droidontime.com/dot11/walleye/vanilla/dotOS-R-v5.1-walleye-OFFICIAL-20210529-1018.zip",
+            "version": "v5.1",
+            "changelog": [
+                {
+                    "miscTitle": "",
+                    "miscSummary": "",
+                    "settingsTitle": "Huge revamp",
+                    "settingsSummary": "\u2022 New dashboard look\n\u2022 Fixed avatar icon on dashboard\n\u2022 Implemented Silky UI\n\u2022 Multiple sections revamped to match guidelines\n\u2022 AboutDevice card revamped\n\u2022 Revamped Customizations app\n...\n\u2022 Full changelog : https://changelogs.droidontime.com/",
+                    "securityTitle": "",
+                    "securitySummary": "\u2022 Moved to user builds\n\u2022 Signature changed to dot's own keys",
+                    "systemTitle": "User Interface",
+                    "systemSummary": "\u2022 Implemented MonetWannabe wallpaper-based theme engine\n\u2022 Redesigned QSPanel\n\u2022 Added Applock\n...\n\u2022 Full changelog : https://changelogs.droidontime.com/"
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }
