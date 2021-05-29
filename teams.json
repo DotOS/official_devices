@@ -356,5 +356,13 @@
 		"devices": [
 			"hotdogb"
 		]
+	},
+	{
+		"_id": "community",
+		"name": "Community Maintained",
+		"url": "https://github.com/mohancm/",
+		"devices": [
+			"GSI"
+		]
 	}
  ]

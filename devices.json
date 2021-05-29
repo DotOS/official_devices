@@ -488,5 +488,15 @@
 		  "has_vanilla_builds":true,
 		  "has_gapps_builds":true
 		}
+	},
+	{
+		"name":"Arm64 A/B",
+	   	"brand":"Android",
+	   	"codename":"GSI",
+	   	"xda_thread":"#",
+	   	"version_info":{
+		  "has_vanilla_builds":true,
+		  "has_gapps_builds":true
+		}
 	}
  ]
