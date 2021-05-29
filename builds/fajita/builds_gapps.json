@@ -1,25 +1,25 @@
 {
-  "response": [
-    {
-      "datetime": "1618855186",
-      "filename": "dotOS-R-v5.0.1-fajita-GAPPS-20210419-1807.zip",
-      "id": "0dd492c6cb34ececf76d297b782dd2a1",
-      "romtype": "GAPPS",
-      "size": "1053222120",
-      "url": "https://downloads.droidontime.com/dot11/fajita/gapps/dotOS-R-v5.0.1-fajita-GAPPS-20210419-1807.zip",
-      "version": "v5.0.1",
-      "changelog": [
+    "response": [
         {
-          "miscTitle": "",
-          "miscSummary": "",
-          "settingsTitle": "",
-          "settingsSummary": "",
-          "securityTitle": "",
-          "securitySummary": "",
-          "systemTitle": "",
-          "systemSummary": "Fixed OTA Updater"
+            "datetime": "1622305434",
+            "filename": "dotOS-R-v5.1-fajita-GAPPS-20210529-1619.zip",
+            "id": "6bf9fb195c235e32679a0fb9d2e96d8b",
+            "romtype": "GAPPS",
+            "size": "1105731252",
+            "url": "https://downloads.droidontime.com/dot11/fajita/gapps/dotOS-R-v5.1-fajita-GAPPS-20210529-1619.zip",
+            "version": "v5.1",
+            "changelog": [
+                {
+                    "miscTitle": "",
+                    "miscSummary": "",
+                    "settingsTitle": "Huge revamp",
+                    "settingsSummary": "\u2022 New dashboard look\n\u2022 Fixed avatar icon on dashboard\n\u2022 Implemented Silky UI\n\u2022 Multiple sections revamped to match guidelines\n\u2022 AboutDevice card revamped\n\u2022 Revamped Customizations app\n...\n\u2022 Full changelog : https://changelogs.droidontime.com/",
+                    "securityTitle": "",
+                    "securitySummary": "\u2022 Moved to user builds\n\u2022 Signature changed to dot's own keys",
+                    "systemTitle": "User Interface",
+                    "systemSummary": "\u2022 Implemented MonetWannabe wallpaper-based theme engine\n\u2022 Redesigned QSPanel\n\u2022 Added Applock\n...\n\u2022 Full changelog : https://changelogs.droidontime.com/"
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }
