@@ -1,25 +1,25 @@
 {
-  "response":[
-    {
-      "datetime":"1620457323",
-      "filename":"dotOS-R-v5.0.1-violet-OFFICIAL-20210508-0705.zip",
-      "id":"2f7a96e7e20d129c8ea6326dcd4ceb77",
-      "romtype":"OFFICIAL",
-      "size":"931114888",
-      "url":"https://downloads.droidontime.com/dot11/violet/vanilla/dotOS-R-v5.0.1-violet-OFFICIAL-20210508-0705.zip",
-      "version":"v5.0.1",
-      "changelog":[
+    "response": [
         {
-          "miscTitle":"",
-          "miscSummary":"Check device group release post for a complete changelog",
-          "settingsTitle":"",
-          "settingsSummary":"",
-          "securityTitle":"",
-          "securitySummary":"",
-          "systemTitle":"",
-          "systemSummary":""
+            "datetime": "1622253231",
+            "filename": "dotOS-R-v5.1-violet-OFFICIAL-20210529-0116.zip",
+            "id": "54b2f1577dfd26bf6ae397b5895776bb",
+            "romtype": "OFFICIAL",
+            "size": "926781975",
+            "url": "https://downloads.droidontime.com/dot11/violet/vanilla/dotOS-R-v5.1-violet-OFFICIAL-20210529-0116.zip",
+            "version": "v5.1",
+            "changelog": [
+                {
+                    "miscTitle": "",
+                    "miscSummary": "",
+                    "settingsTitle": "Huge revamp",
+                    "settingsSummary": "\u2022 New dashboard look\n\u2022 Fixed avatar icon on dashboard\n\u2022 Implemented Silky UI\n\u2022 Multiple sections revamped to match guidelines\n\u2022 AboutDevice card revamped\n\u2022 Revamped Customizations app\n...\n\u2022 Full changelog : https://changelogs.droidontime.com/",
+                    "securityTitle": "",
+                    "securitySummary": "\u2022 Moved to user builds\n\u2022 Signature changed to dot's own keys",
+                    "systemTitle": "User Interface",
+                    "systemSummary": "\u2022 Implemented MonetWannabe wallpaper-based theme engine\n\u2022 Redesigned QSPanel\n\u2022 Added Applock\n...\n\u2022 Full changelog : https://changelogs.droidontime.com/"
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }

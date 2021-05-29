@@ -1,25 +1,25 @@
 {
-  "response":[
-    {
-      "datetime":"1620465839",
-      "filename":"dotOS-R-v5.0.1-violet-GAPPS-20210508-0927.zip",
-      "id":"34d2d158594ee4ab79a2b18d1b92a404",
-      "romtype":"GAPPS",
-      "size":"1354776984",
-      "url":"https://downloads.droidontime.com/dot11/violet/gapps/dotOS-R-v5.0.1-violet-GAPPS-20210508-0927.zip",
-      "version":"v5.0.1",
-      "changelog":[
+    "response": [
         {
-          "miscTitle":"",
-          "miscSummary":"Check device group release post for a complete changelog",
-          "settingsTitle":"",
-          "settingsSummary":"",
-          "securityTitle":"",
-          "securitySummary":"",
-          "systemTitle":"",
-          "systemSummary":""
+            "datetime": "1622254703",
+            "filename": "dotOS-R-v5.1-violet-GAPPS-20210529-0211.zip",
+            "id": "4c7047f9fc9b0f9cc223ded830e4568c",
+            "romtype": "GAPPS",
+            "size": "1361601956",
+            "url": "https://downloads.droidontime.com/dot11/violet/gapps/dotOS-R-v5.1-violet-GAPPS-20210529-0211.zip",
+            "version": "v5.1",
+            "changelog": [
+                {
+                    "miscTitle": "",
+                    "miscSummary": "",
+                    "settingsTitle": "Huge revamp",
+                    "settingsSummary": "\u2022 New dashboard look\n\u2022 Fixed avatar icon on dashboard\n\u2022 Implemented Silky UI\n\u2022 Multiple sections revamped to match guidelines\n\u2022 AboutDevice card revamped\n\u2022 Revamped Customizations app\n...\n\u2022 Full changelog : https://changelogs.droidontime.com/",
+                    "securityTitle": "",
+                    "securitySummary": "\u2022 Moved to user builds\n\u2022 Signature changed to dot's own keys",
+                    "systemTitle": "User Interface",
+                    "systemSummary": "\u2022 Implemented MonetWannabe wallpaper-based theme engine\n\u2022 Redesigned QSPanel\n\u2022 Added Applock\n...\n\u2022 Full changelog : https://changelogs.droidontime.com/"
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }
