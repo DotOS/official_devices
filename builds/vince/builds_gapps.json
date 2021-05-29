@@ -1,25 +1,25 @@
 {
-  "response":[
-    {
-      "datetime":"1618303748",
-      "filename":" dotOS-R-v5.0.1-vince-GAPPS-20210417-0432.zip",
-      "id":"34c4bb714322228ff0aebfb3a9009996",
-      "romtype":"GAPPS",
-      "size":"1181279008",
-      "url":"https://downloads.droidontime.com/dot11/vince/gapps/dotOS-R-v5.0.1-vince-GAPPS-20210417-0432.zip",
-      "version":"v5.0.1",
-      "changelog":[
+    "response": [
         {
-          "miscTitle":"",
-          "miscSummary":"",
-          "settingsTitle":"",
-          "settingsSummary":"",
-          "securityTitle":"Fixed a bug that caused volume panel to crash when selecting bluetooth devices",
-          "securitySummary":"",
-          "systemTitle":"",
-          "systemSummary":"Fixed an issue that caused Customization app to crash when using certain languages (eg. Turkish)"
+            "datetime": "1622249543",
+            "filename": "dotOS-R-v5.1-vince-GAPPS-20210529-0044.zip",
+            "id": "a1156ee47f8d6f2b6249c1e78320d77b",
+            "romtype": "GAPPS",
+            "size": "1183704635",
+            "url": "https://downloads.droidontime.com/dot11/vince/gapps/dotOS-R-v5.1-vince-GAPPS-20210529-0044.zip",
+            "version": "v5.1",
+            "changelog": [
+                {
+                    "miscTitle": "",
+                    "miscSummary": "",
+                    "settingsTitle": "Huge revamp",
+                    "settingsSummary": "\u2022 New dashboard look\n\u2022 Fixed avatar icon on dashboard\n\u2022 Implemented Silky UI\n\u2022 Multiple sections revamped to match guidelines\n\u2022 AboutDevice card revamped\n\u2022 Revamped Customizations app\n...\n\u2022 Full changelog : https://changelogs.droidontime.com/",
+                    "securityTitle": "",
+                    "securitySummary": "\u2022 Moved to user builds\n\u2022 Signature changed to dot's own keys",
+                    "systemTitle": "User Interface",
+                    "systemSummary": "\u2022 Implemented MonetWannabe wallpaper-based theme engine\n\u2022 Redesigned QSPanel\n\u2022 Added Applock\n...\n\u2022 Full changelog : https://changelogs.droidontime.com/"
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }
