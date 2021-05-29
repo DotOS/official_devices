@@ -1,27 +1,25 @@
 {
-  "response":[
-    {
-      "datetime":1620390248,
-      "filename":"dotOS-R-v5.0.1-X01BD-OFFICIAL-20210507-1224.zip",
-      "id":"903f51f3cfebb88958eed7f0d7c8c9e4",
-      "romtype":"OFFICIAL",
-      "size":753385250,
-      "url":"https://downloads.droidontime.com/dot11/X01BD/vanilla/dotOS-R-v5.0.1-X01BD-OFFICIAL-20210507-1224.zip",
-      "version":"v5.0.1",
-      "changelog":[
+    "response": [
         {
-          "miscTitle": "",
-          "miscSummary": "Updated translations from crowdin\n UI/UX improvements\n Stability and underhood improvements",
-          "settingsTitle": "",
-          "settingsSummary": "Fixed crash in customisation app on switching to certain regional languages",
-          "securityTitle": "",
-          "securitySummary": "Updated to May Security Patches (r36)",
-          "systemTitle": "",
-          "systemSummary": "",
-	  "deviceTitle": "",
-  	  "deviceSummary": "Fixed issues with broken internal audio in screen record\n Upstreamed and fixed a lot of kernel side stuffs\n Switched to user-enforcing builds\n Added motorola dolby which works in enforcing\n A lot of under the hood fixes"
+            "datetime": "1622267236",
+            "filename": "dotOS-R-v5.1-X01BD-OFFICIAL-20210529-0510.zip",
+            "id": "6e376f8b2a6822156d76c03ddd667416",
+            "romtype": "OFFICIAL",
+            "size": "743095275",
+            "url": "https://downloads.droidontime.com/dot11/X01BD/vanilla/dotOS-R-v5.1-X01BD-OFFICIAL-20210529-0510.zip",
+            "version": "v5.1",
+            "changelog": [
+                {
+                    "miscTitle": "",
+                    "miscSummary": "",
+                    "settingsTitle": "Huge revamp",
+                    "settingsSummary": "\u2022 New dashboard look\n\u2022 Fixed avatar icon on dashboard\n\u2022 Implemented Silky UI\n\u2022 Multiple sections revamped to match guidelines\n\u2022 AboutDevice card revamped\n\u2022 Revamped Customizations app\n...\n\u2022 Full changelog : https://changelogs.droidontime.com/",
+                    "securityTitle": "",
+                    "securitySummary": "\u2022 Moved to user builds\n\u2022 Signature changed to dot's own keys",
+                    "systemTitle": "User Interface",
+                    "systemSummary": "\u2022 Implemented MonetWannabe wallpaper-based theme engine\n\u2022 Redesigned QSPanel\n\u2022 Added Applock\n...\n\u2022 Full changelog : https://changelogs.droidontime.com/"
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }
