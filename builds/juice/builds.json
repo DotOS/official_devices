@@ -1,25 +1,25 @@
 {
-  "response":[
-    {
-      "datetime":"1618635431",
-      "filename":"dotOS-R-v5.0.1-juice-OFFICIAL-20210516-2007.zip",
-      "id":"2308f77f376ffc4f98e87354a623853d",
-      "romtype":"OFFICIAL",
-      "size":"771644946",
-      "url":"https://downloads.droidontime.com/dot11/juice/vanilla/dotOS-R-v5.0.1-vince-OFFICIAL-20210516-0458.zip",
-      "version":"v5.0.1",
-      "changelog":[
+    "response": [
         {
-          "miscTitle":"NEW UI",
-          "miscSummary":"Updated translations from crowdin\n UI/UX improvements\n Stability and underhood improvements",
-          "settingsTitle":"",
-          "settingsSummary":"",
-          "securityTitle":"",
-          "securitySummary":"Updated to MAY Security Patches (r36)",
-          "systemTitle":"",
-          "systemSummary":"NEW STUFFS"
+            "datetime": "1622271618",
+            "filename": "dotOS-R-v5.1-juice-OFFICIAL-20210529-0625.zip",
+            "id": "df51e7f4d05d7516838405a890931fda",
+            "romtype": "OFFICIAL",
+            "size": "671484085",
+            "url": "https://downloads.droidontime.com/dot11/juice/vanilla/dotOS-R-v5.1-juice-OFFICIAL-20210529-0625.zip",
+            "version": "v5.1",
+            "changelog": [
+                {
+                    "miscTitle": "",
+                    "miscSummary": "",
+                    "settingsTitle": "Huge revamp",
+                    "settingsSummary": "\u2022 New dashboard look\n\u2022 Fixed avatar icon on dashboard\n\u2022 Implemented Silky UI\n\u2022 Multiple sections revamped to match guidelines\n\u2022 AboutDevice card revamped\n\u2022 Revamped Customizations app\n...\n\u2022 Full changelog : https://changelogs.droidontime.com/",
+                    "securityTitle": "",
+                    "securitySummary": "\u2022 Moved to user builds\n\u2022 Signature changed to dot's own keys",
+                    "systemTitle": "User Interface",
+                    "systemSummary": "\u2022 Implemented MonetWannabe wallpaper-based theme engine\n\u2022 Redesigned QSPanel\n\u2022 Added Applock\n...\n\u2022 Full changelog : https://changelogs.droidontime.com/"
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }
