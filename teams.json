@@ -65,6 +65,14 @@
 		  "jasmine_sprout"
 	   ]
 	},
+        {
+           "_id":"RonaldSt",
+           "name":"Ronald Santos",
+           "url":"https://github.com/ronald-b",
+           "devices":[
+                  "wayne"
+           ]
+        },
 	{
 	   "_id":"dhimanparas20",
 	   "name":"Ken Kaneki",
