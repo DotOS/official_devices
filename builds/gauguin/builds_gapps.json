@@ -1,0 +1,25 @@
+{
+    "response": [
+        {
+            "datetime": "1622406636",
+            "filename": "dotOS-R-v5.1-gauguin-GAPPS-20210530-2024.zip",
+            "id": "c0c73f487efbb9c2a1542cd08171e58e",
+            "romtype": "GAPPS",
+            "size": "1190878174",
+            "url": "https://downloads.droidontime.com/dot11/gauguin/gapps/dotOS-R-v5.1-gauguin-GAPPS-20210530-2024.zip",
+            "version": "v5.1",
+            "changelog": [
+                {
+                    "miscTitle": "",
+                    "miscSummary": "",
+                    "settingsTitle": "Huge revamp",
+                    "settingsSummary": "\u2022 New dashboard look\n\u2022 Fixed avatar icon on dashboard\n\u2022 Implemented Silky UI\n\u2022 Multiple sections revamped to match guidelines\n\u2022 AboutDevice card revamped\n\u2022 Revamped Customizations app\n...\n\u2022 Full changelog : https://changelogs.droidontime.com/",
+                    "securityTitle": "",
+                    "securitySummary": "\u2022 Moved to user builds\n\u2022 Signature changed to dot's own keys",
+                    "systemTitle": "User Interface",
+                    "systemSummary": "\u2022 Implemented MonetWannabe wallpaper-based theme engine\n\u2022 Redesigned QSPanel\n\u2022 Added Applock\n...\n\u2022 Full changelog : https://changelogs.droidontime.com/"
+                }
+            ]
+        }
+    ]
+}

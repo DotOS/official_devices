@@ -425,8 +425,8 @@
 	   "codename":"gauguin",
 	   "xda_thread":"",
 	   "version_info":{
-		  "has_vanilla_builds":false,
-		  "has_gapps_builds":false
+		  "has_vanilla_builds":true,
+		  "has_gapps_builds":true
 	   }
 	},
 	{
