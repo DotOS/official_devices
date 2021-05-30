@@ -498,5 +498,15 @@
 		  "has_vanilla_builds":true,
 		  "has_gapps_builds":true
 		}
+	},
+	{
+		"name":"Oneplus 7T Pro",
+	   	"brand":"Oneplus",
+	   	"codename":"hotdog",
+	   	"xda_thread":"#",
+	   	"version_info":{
+		  "has_vanilla_builds":true,
+		  "has_gapps_builds":true
+		}
 	}
  ]
