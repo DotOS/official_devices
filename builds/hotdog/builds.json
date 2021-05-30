@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": "1622192594",
-            "filename": "dotOS-R-v5.1-hotdogb-OFFICIAL-20210528-0826.zip",
-            "id": "6aeb69397b34ebe89b880b7d7d28aec1",
+            "datetime": "1622400262",
+            "filename": "dotOS-R-v5.1-hotdog-OFFICIAL-20210530-1807.zip",
+            "id": "ccdd27c5f03b6f9931a36071a905145d",
             "romtype": "OFFICIAL",
-            "size": "864685070",
-            "url": "https://downloads.droidontime.com/dot11/hotdogb/vanilla/dotOS-R-v5.1-hotdogb-OFFICIAL-20210528-0826.zip",
+            "size": "900591884",
+            "url": "https://downloads.droidontime.com/dot11/hotdog/vanilla/dotOS-R-v5.1-hotdog-OFFICIAL-20210530-1807.zip",
             "version": "v5.1",
             "changelog": [
                 {
