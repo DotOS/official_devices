@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": "",
-            "filename": "",
-            "id": "",
+            "datetime": "1622462542",
+            "filename": "dotOS-R-v5.1-z2_plus-OFFICIAL-20210531-1125.zip",
+            "id": "0cea67dfef04e172a4f9026cb01736bd",
             "romtype": "OFFICIAL",
-            "size": "0",
-            "url": "https://downloads.droidontime.com/dot11/z2_plus/vanilla/",
+            "size": "748839357",
+            "url": "https://downloads.droidontime.com/dot11/z2_plus/vanilla/dotOS-R-v5.1-z2_plus-OFFICIAL-20210531-1125.zip",
             "version": "v5.1",
             "changelog": [
                 {

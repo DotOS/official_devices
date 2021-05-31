@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": "",
-            "filename": "",
-            "id": "",
+            "datetime": "1622463656",
+            "filename": "dotOS-R-v5.1-z2_plus-GAPPS-20210531-1215.zip",
+            "id": "d174d4d8df7a3f33cd13adbd100f28af",
             "romtype": "GAPPS",
-            "size": "0",
-            "url": "https://downloads.droidontime.com/dot11/z2_plus/gapps/",
+            "size": "1186499698",
+            "url": "https://downloads.droidontime.com/dot11/z2_plus/gapps/dotOS-R-v5.1-z2_plus-GAPPS-20210531-1215.zip",
             "version": "v5.1",
             "changelog": [
                 {
