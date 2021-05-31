@@ -1,25 +1,25 @@
 {
-  "response":[
-    {
-      "datetime":"1618676010",
-      "filename":"dotOS-R-v5.0.1-miatoll-GAPPS-20210417-1614.zip",
-      "id":"1a6dbb49f61e58afe22f82a97ae4d99e",
-      "romtype":"GAPPS",
-      "size":"1526948077",
-      "url":"https://downloads.droidontime.com/dot11/miatoll/gapps/dotOS-R-v5.0.1-miatoll-GAPPS-20210417-1614.zip",
-      "version":"v5.0.1",
-      "changelog":[
+    "response": [
         {
-          "miscTitle":"",
-          "miscSummary":"Check device group release post for a complete changelog",
-          "settingsTitle":"",
-          "settingsSummary":"",
-          "securityTitle":"",
-          "securitySummary":"",
-          "systemTitle":"",
-          "systemSummary":""
+            "datetime": "1622458154",
+            "filename": "dotOS-R-v5.1-miatoll-GAPPS-20210531-1041.zip",
+            "id": "8df4454047a08520404bf98226531a02",
+            "romtype": "GAPPS",
+            "size": "1573337538",
+            "url": "https://downloads.droidontime.com/dot11/miatoll/gapps/dotOS-R-v5.1-miatoll-GAPPS-20210531-1041.zip",
+            "version": "v5.1",
+            "changelog": [
+                {
+                    "miscTitle": "",
+                    "miscSummary": "",
+                    "settingsTitle": "Huge revamp",
+                    "settingsSummary": "\u2022 New dashboard look\n\u2022 Fixed avatar icon on dashboard\n\u2022 Implemented Silky UI\n\u2022 Multiple sections revamped to match guidelines\n\u2022 AboutDevice card revamped\n\u2022 Revamped Customizations app\n...\n\u2022 Full changelog : https://changelogs.droidontime.com/",
+                    "securityTitle": "",
+                    "securitySummary": "\u2022 Moved to user builds\n\u2022 Signature changed to dot's own keys",
+                    "systemTitle": "User Interface",
+                    "systemSummary": "\u2022 Implemented MonetWannabe wallpaper-based theme engine\n\u2022 Redesigned QSPanel\n\u2022 Added Applock\n...\n\u2022 Full changelog : https://changelogs.droidontime.com/"
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }
