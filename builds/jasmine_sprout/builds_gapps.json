@@ -1,25 +1,25 @@
 {
-  "response":[
-    {
-      "datetime":1618642623,
-      "filename":"dotOS-R-v5.0.1-jasmine_sprout-GAPPS-20210417-0701.zip",
-      "id":"74b3a09477db048cf57e8de6902ffd8c",
-      "romtype":"GAPPS",
-      "size":1147000797,
-      "url":"https://downloads.droidontime.com/dot11/jasmine_sprout/gapps/dotOS-R-v5.0.1-jasmine_sprout-GAPPS-20210417-0701.zip",
-      "version":"v5.0.1",
-      "changelog":[
+    "response": [
         {
-          "miscTitle":"Official build",
-          "miscSummary":"",
-          "settingsTitle":"",
-          "settingsSummary":"",
-          "securityTitle":"",
-          "securitySummary":"",
-          "systemTitle":"",
-          "systemSummary":""
+            "datetime": "1622522500",
+            "filename": "dotOS-R-v5.1-jasmine_sprout-GAPPS-20210601-0431.zip",
+            "id": "4a755f5096cbeed2977ab64cdac2fdc7",
+            "romtype": "GAPPS",
+            "size": "1219159142",
+            "url": "https://downloads.droidontime.com/dot11/jasmine_sprout/gapps/dotOS-R-v5.1-jasmine_sprout-GAPPS-20210601-0431.zip",
+            "version": "v5.1",
+            "changelog": [
+                {
+                    "miscTitle": "",
+                    "miscSummary": "",
+                    "settingsTitle": "Huge revamp",
+                    "settingsSummary": "\u2022 New dashboard look\n\u2022 Fixed avatar icon on dashboard\n\u2022 Implemented Silky UI\n\u2022 Multiple sections revamped to match guidelines\n\u2022 AboutDevice card revamped\n\u2022 Revamped Customizations app\n...\n\u2022 Full changelog : https://changelogs.droidontime.com/",
+                    "securityTitle": "",
+                    "securitySummary": "\u2022 Moved to user builds\n\u2022 Signature changed to dot's own keys",
+                    "systemTitle": "User Interface",
+                    "systemSummary": "\u2022 Implemented MonetWannabe wallpaper-based theme engine\n\u2022 Redesigned QSPanel\n\u2022 Added Applock\n...\n\u2022 Full changelog : https://changelogs.droidontime.com/"
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }
