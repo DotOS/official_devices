@@ -1,0 +1,113 @@
+{
+  "devs":[
+    {
+      "name":"Mohan CM & Iacob Ionut",
+      "github":"mohancm",
+      "device":"Xiaomi Redmi Note 4X (mido)"
+    },
+    {
+      "name":"Marco Rizzo",
+      "github":"hack64",
+      "device":"Xiaomi Mi 9T (davinci)"
+    },
+    {
+      "name":"Sipun Ku Mahanta",
+      "github":"sweeto143",
+      "device":"Xiaomi Redmi Note 5 Pro (whyred)"
+    },
+    {
+      "name":"Sahil Sonar",
+      "github":"SahilSonar",
+      "device":"Xiaomi Redmi Note 8 Pro (begonia)"
+    },
+    {
+      "name":"Ritzzzz",
+      "github":"riteshm321",
+      "device":"Xiaomi Mi 9T Pro (raphael)"
+    },
+    {
+      "name":"Manohar Singh",
+      "github":"adi153",
+      "device":"Xiaomi Redmi 4A (rolex)"
+    },
+    {
+      "name":"Aseel P Sathar",
+      "github":"aseelps",
+      "device":"Xiaomi Redmi Note 5/ Plus (vince), Xiaomi Poco M3 / Redmi 9T nfc / 9 Power / Note 9 4G (juice)"
+    },
+    {
+      "name":"Ken Kaneki",
+      "github":"dhimanparas20",
+      "device":"Asus Zenfone Max Pro M1 (X00TD)"
+    },
+    {
+      "name":"Venkat3620",
+      "github":"venkat3620",
+      "device":"Xiaomi Mi A2 (jasmine_sprout)"
+    },
+    {
+      "name":"Shreehari Vaasishta L",
+      "github":"ShreehariVaasishta",
+      "device":"Poco M2 Pro (miatoll)"
+    },
+    {
+      "name":"Gaurav",
+      "github":"Gaurav241",
+      "device":"OnePlus 3/3T(oneplus3)"
+    },
+    {
+      "name":"Himanshu Tyagi",
+      "github":"ManshuTyagi",
+      "device":"Realme 6/ 6i/ 6s (RMX2001)"
+    },
+    {
+      "name":"Ahmed",
+      "github":"luckYViii",
+      "device":"Poco X3 Pro (vayu)"
+    },
+    {
+      "name":"Kunmun",
+      "github":"ElectroPerf",
+      "device":"Asus Zenfone Max Pro M2 (X01BD)"
+    },
+    { "name":"Introdructor",
+      "github":"Introdructor",
+      "device":"Xiaomi Redmi Note 8 (ginkgo)"
+    },
+    {
+      "name":"Nipin NA (Joker-V2)",
+      "github":"Joker-V2",
+      "device":"Xiaomi Redmi Note 7 Pro (violet)"
+    },
+    {
+      "name":"Zilberto Junior (zjunior06)",
+      "github":"zjunior06",
+      "device":"Moto G5 Plus (potter)"
+    },
+    {
+      "name":"AOiSPdev",
+      "github":"TTTT55",
+      "device":"Xiaomi Redmi 7A (pine)"
+    },
+    {
+      "name":"Alexander Chycherin",
+      "github":"SevralT",
+      "device":"OnePlus 6T"
+    },
+    {
+      "name":"Slayer",
+      "github":"notakbuzz",
+      "device":"Poco F1 (beryllium)"
+    },
+    {
+      "name":"DtHnAme",
+      "github":"DtHnAme",
+      "device":"Redmi Note 9 Pro 5G/Mi10i/Mi 10t Lite (gauguin)"
+    },
+    {
+      "name":"ReallySnow",
+      "github":"ReallySnow",
+      "device":"ZUK Z2 Plus (z2_plus)"
+    }
+  ]
+}
