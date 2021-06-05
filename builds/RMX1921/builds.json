@@ -1,0 +1,25 @@
+{
+    "response": [
+        {
+            "datetime": "1622400262",
+            "filename": "dotOS-R-v5.1-hotdog-OFFICIAL-20210530-1807.zip",
+            "id": "ccdd27c5f03b6f9931a36071a905145d",
+            "romtype": "OFFICIAL",
+            "size": "900591884",
+            "url": "https://downloads.droidontime.com/dot11/hotdog/vanilla/dotOS-R-v5.1-hotdog-OFFICIAL-20210530-1807.zip",
+            "version": "v5.1",
+            "changelog": [
+                {
+                    "miscTitle": "",
+                    "miscSummary": "",
+                    "settingsTitle": "Huge revamp",
+                    "settingsSummary": "\u2022 New dashboard look\n\u2022 Fixed avatar icon on dashboard\n\u2022 Implemented Silky UI\n\u2022 Multiple sections revamped to match guidelines\n\u2022 AboutDevice card revamped\n\u2022 Revamped Customizations app\n...\n\u2022 Full changelog : https://changelogs.droidontime.com/",
+                    "securityTitle": "",
+                    "securitySummary": "\u2022 Moved to user builds\n\u2022 Signature changed to dot's own keys",
+                    "systemTitle": "User Interface",
+                    "systemSummary": "\u2022 Implemented MonetWannabe wallpaper-based theme engine\n\u2022 Redesigned QSPanel\n\u2022 Added Applock\n...\n\u2022 Full changelog : https://changelogs.droidontime.com/"
+                }
+            ]
+        }
+    ]
+}
