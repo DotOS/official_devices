@@ -1,25 +1,25 @@
 {
-  "response":[
-    {
-      "datetime":"1618456397",
-      "filename":"dotOS-R-v5.0.1-crownqltechn-OFFICIAL-20210415-0315.zip",
-      "id":"f21e40e6dc1970b4ca09f948a371883b",
-      "romtype":"OFFICIAL",
-      "size":"579204699",
-      "url":"https://downloads.droidontime.com/dot11/star2qltechn/vanilla/dotOS-R-v5.0.1-crownqltechn-OFFICIAL-20210415-0315.zip",
-      "version":"v5.0.1",
-      "changelog":[
+    "response": [
         {
-          "miscTitle":"",
-          "miscSummary":"Updated translations from crowdin\nUI/UX improvements\nStability and underhood improvements",
-          "settingsTitle":"",
-          "settingsSummary":"",
-          "securityTitle":"",
-          "securitySummary":"Updated to April Security Patches (r34)",
-          "systemTitle":"",
-          "systemSummary":""
+            "datetime": "1622912165",
+            "filename": "dotOS-R-v5.1-crownqltechn-OFFICIAL-20210605-1622.zip",
+            "id": "d7a68fdf378a4ee26dc871ecfafe9aac",
+            "romtype": "OFFICIAL",
+            "size": "613371488",
+            "url": "https://downloads.droidontime.com/dot11/crownqltechn/vanilla/dotOS-R-v5.1-crownqltechn-OFFICIAL-20210605-1622.zip",
+            "version": "v5.1",
+            "changelog": [
+                {
+                    "miscTitle": "",
+                    "miscSummary": "",
+                    "settingsTitle": "Huge revamp",
+                    "settingsSummary": "\u2022 New dashboard look\n\u2022 Fixed avatar icon on dashboard\n\u2022 Implemented Silky UI\n\u2022 Multiple sections revamped to match guidelines\n\u2022 AboutDevice card revamped\n\u2022 Revamped Customizations app\n...\n\u2022 Full changelog : https://changelogs.droidontime.com/",
+                    "securityTitle": "",
+                    "securitySummary": "\u2022 Moved to user builds\n\u2022 Signature changed to dot's own keys",
+                    "systemTitle": "User Interface",
+                    "systemSummary": "\u2022 Implemented MonetWannabe wallpaper-based theme engine\n\u2022 Redesigned QSPanel\n\u2022 Added Applock\n...\n\u2022 Full changelog : https://changelogs.droidontime.com/"
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }
