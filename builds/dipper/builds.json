@@ -1,25 +1,25 @@
 {
-  "response":[
-    {
-      "datetime":1620491352,
-      "filename":"dotOS-R-v5.0.1-dipper-OFFICIAL-20210508-1630.zip",
-      "id":"0c741378444061a3ef123c9ae18e029a",
-      "romtype":"OFFICIAL",
-      "size":883609704,
-      "url":"https://downloads.droidontime.com/dot11/dipper/vanilla/dotOS-R-v5.0.1-dipper-OFFICIAL-20210508-1630.zip",
-      "version":"v5.0.1",
-      "changelog":[
+    "response": [
         {
-          "miscTitle":"",
-          "miscSummary":"Check device group release post for a complete changelog",
-          "settingsTitle":"",
-          "settingsSummary":"",
-          "securityTitle":"",
-          "securitySummary": "Updated to May Security Patches (r36)",
-          "systemTitle":"",
-          "systemSummary":""
+            "datetime": "1622916581",
+            "filename": "dotOS-R-v5.1-dipper-OFFICIAL-20210605-1732.zip",
+            "id": "4e2a2665f909b57b48f98c0e08c607b7",
+            "romtype": "OFFICIAL",
+            "size": "907666350",
+            "url": "https://downloads.droidontime.com/dot11/dipper/vanilla/dotOS-R-v5.1-dipper-OFFICIAL-20210605-1732.zip",
+            "version": "v5.1",
+            "changelog": [
+                {
+                    "miscTitle": "",
+                    "miscSummary": "",
+                    "settingsTitle": "Huge revamp",
+                    "settingsSummary": "\u2022 New dashboard look\n\u2022 Fixed avatar icon on dashboard\n\u2022 Implemented Silky UI\n\u2022 Multiple sections revamped to match guidelines\n\u2022 AboutDevice card revamped\n\u2022 Revamped Customizations app\n...\n\u2022 Full changelog : https://changelogs.droidontime.com/",
+                    "securityTitle": "",
+                    "securitySummary": "\u2022 Moved to user builds\n\u2022 Signature changed to dot's own keys",
+                    "systemTitle": "User Interface",
+                    "systemSummary": "\u2022 Implemented MonetWannabe wallpaper-based theme engine\n\u2022 Redesigned QSPanel\n\u2022 Added Applock\n...\n\u2022 Full changelog : https://changelogs.droidontime.com/"
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }
