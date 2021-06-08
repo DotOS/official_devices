@@ -90,6 +90,14 @@
 	   ]
 	},
 	{
+		"_id":"Nguyenhung9x",
+		"name":"Nguyenhung9xdev",
+		"url":"https://github.com/nguyenhung9x2020",
+		"devices":[
+		   "X01AD"
+		]
+	 },
+	{
 	   "_id":"ElectroPerf",
 	   "name":"Kunmun",
 	   "url":"https://github.com/ElectroPerf",

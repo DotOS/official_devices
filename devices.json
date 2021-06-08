@@ -150,6 +150,16 @@
 	   }
 	},
 	{
+		"name":"Zenfone Max M2",
+		"brand":"Asus",
+		"codename":"X01AD",
+		"xda_thread":"https://forum.xda-developers.com/t/rom-unofficial-11-0-x01ad-dotos-5-0-1.4223541/",
+		"version_info":{
+		   "has_vanilla_builds":false,
+		   "has_gapps_builds":false
+		}
+	 },
+	{
 	   "name":"Zenfone Max Pro M2",
 	   "brand":"Asus",
 	   "codename":"X01BD",
@@ -471,7 +481,7 @@
 	},
 	{
 	   "name":"OnePlus 8T",
-	   "brand":"OnePlus",
+	   "brand":"Oneplus",
 	   "codename":"kebab",
 	   "xda_thread":"https://forum.xda-developers.com/t/rom-11-8t-dotos-v5-0-1-unofficial-gapps.4251511/",
 	   "version_info":{
