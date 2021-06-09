@@ -396,5 +396,14 @@
 		"lavender"
 	]
 
+},
+{
+	"_id": "zapmicro",
+	"name": "Martin",
+	"url": "https://github.com/zapmicro",
+	"devices": [
+		"sargo",
+		"bonito"
+	]
 }
 ]
