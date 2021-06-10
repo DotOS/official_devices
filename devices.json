@@ -90,6 +90,16 @@
 	   }
 	},
 	{
+		"name":"Motorola moto X4",
+	   	"brand":"Motorola",
+	   	"codename":"payton",
+	   	"xda_thread":"https://forum.xda-developers.com/f/moto-x4-roms-kernels-recoveries-other-develop.6916/",
+	   	"version_info":{
+		  "has_vanilla_builds":true,
+		  "has_gapps_builds":true
+		}
+	},
+	{
 	   "name":"Redmi Note 8 Pro",
 	   "brand":"Xiaomi",
 	   "codename":"begonia",
