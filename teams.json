@@ -388,5 +388,12 @@
 		"devices":[
 		   "lavender"
 		]
-	}
+	},
+		{
+		"_id": "aadityazeo",
+		"name": "AadityaZeo",
+		"url": "https://github.com/aadityazeo",
+		"devices": [
+			"payton"
+		]
  ]
