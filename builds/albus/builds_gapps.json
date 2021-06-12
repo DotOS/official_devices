@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": "1623363525",
-            "filename": "dotOS-R-v5.1.1-albus-GAPPS-20210610-2213.zip",
-            "id": "24c006d4f851acd401206f886b08fea1",
+            "datetime": "1623537490",
+            "filename": "dotOS-R-v5.1.1-albus-GAPPS-20210612-2232.zip",
+            "id": "",
             "romtype": "GAPPS",
-            "size": "1257518397",
-            "url": "https://downloads.droidontime.com/dot11/albus/gapps/dotOS-R-v5.1.1-albus-GAPPS-20210610-2213.zip",
+            "size": "",
+            "url": "https://downloads.droidontime.com/dot11/albus/gapps/dotOS-R-v5.1.1-albus-GAPPS-20210612-2232.zip",
             "version": "v5.1.1",
             "changelog": [
                 {
