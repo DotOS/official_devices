@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": "1623409841",
-            "filename": "dotOS-R-v5.1.1-hotdog-GAPPS-20210611-1106.zip",
-            "id": "f8db94c36904d22c6a6d9327e0c9800a",
+            "datetime": "1623617114",
+            "filename": "dotOS-R-v5.1.1-hotdog-GAPPS-20210613-2040.zip",
+            "id": "fe0acc1b249785831611defb246f73cb",
             "romtype": "GAPPS",
-            "size": "1271247496",
-            "url": "https://downloads.droidontime.com/dot11/hotdog/gapps/dotOS-R-v5.1.1-hotdog-GAPPS-20210611-1106.zip",
+            "size": "1275726721",
+            "url": "https://downloads.droidontime.com/dot11/hotdog/gapps/dotOS-R-v5.1.1-hotdog-GAPPS-20210613-2040.zip",
             "version": "v5.1.1",
             "changelog": [
                 {
