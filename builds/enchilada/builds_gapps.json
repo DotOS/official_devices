@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": "1623398457",
-            "filename": "dotOS-R-v5.1.1-enchilada-GAPPS-20210611-0756.zip",
-            "id": "6f561d2386ff1e18f7486af49b11261a",
+            "datetime": "1623597994",
+            "filename": "dotOS-R-v5.1.1-enchilada-GAPPS-20210613-1522.zip",
+            "id": "4e9d6d812efd1aa83f38cf76e314e279",
             "romtype": "GAPPS",
-            "size": "1103834368",
-            "url": "https://downloads.droidontime.com/dot11/enchilada/gapps/dotOS-R-v5.1.1-enchilada-GAPPS-20210611-0756.zip",
+            "size": "1103831784",
+            "url": "https://downloads.droidontime.com/dot11/enchilada/gapps/dotOS-R-v5.1.1-enchilada-GAPPS-20210613-1522.zip",
             "version": "v5.1.1",
             "changelog": [
                 {
