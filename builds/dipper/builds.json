@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": "1623392270",
-            "filename": "dotOS-R-v5.1.1-dipper-OFFICIAL-20210611-0538.zip",
-            "id": "82df9721644ed52ecdd97bdcb32049af",
+            "datetime": "1623587053",
+            "filename": "dotOS-R-v5.1.1-dipper-OFFICIAL-20210613-1143.zip",
+            "id": "0d3746dc5ff9bbb4f312b9bb2c6a6267",
             "romtype": "OFFICIAL",
-            "size": "909043009",
-            "url": "https://downloads.droidontime.com/dot11/dipper/vanilla/dotOS-R-v5.1.1-dipper-OFFICIAL-20210611-0538.zip",
+            "size": "908965914",
+            "url": "https://downloads.droidontime.com/dot11/dipper/vanilla/dotOS-R-v5.1.1-dipper-OFFICIAL-20210613-1143.zip",
             "version": "v5.1.1",
             "changelog": [
                 {

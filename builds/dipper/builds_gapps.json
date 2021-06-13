@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": "1623393776",
-            "filename": "dotOS-R-v5.1.1-dipper-GAPPS-20210611-0636.zip",
-            "id": "9b01c423c87c6e28680dc0973a334b9a",
+            "datetime": "1623588546",
+            "filename": "dotOS-R-v5.1.1-dipper-GAPPS-20210613-1242.zip",
+            "id": "d1b4c2b288c95f84f1f957444c49f89a",
             "romtype": "GAPPS",
-            "size": "1347735783",
-            "url": "https://downloads.droidontime.com/dot11/dipper/gapps/dotOS-R-v5.1.1-dipper-GAPPS-20210611-0636.zip",
+            "size": "1347662657",
+            "url": "https://downloads.droidontime.com/dot11/dipper/gapps/dotOS-R-v5.1.1-dipper-GAPPS-20210613-1242.zip",
             "version": "v5.1.1",
             "changelog": [
                 {
