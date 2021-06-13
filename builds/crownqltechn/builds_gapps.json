@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": "1623383252",
-            "filename": "dotOS-R-v5.1.1-crownqltechn-GAPPS-20210611-0342.zip",
-            "id": "f8e5f4f4a1662fc8faadbdc4b041f0c0",
+            "datetime": "1623577937",
+            "filename": "dotOS-R-v5.1.1-crownqltechn-GAPPS-20210613-0947.zip",
+            "id": "d54ade353665ab47e4c0b668a958f69b",
             "romtype": "GAPPS",
-            "size": "1048168983",
-            "url": "https://downloads.droidontime.com/dot11/crownqltechn/gapps/dotOS-R-v5.1.1-crownqltechn-GAPPS-20210611-0342.zip",
+            "size": "1048125341",
+            "url": "https://downloads.droidontime.com/dot11/crownqltechn/gapps/dotOS-R-v5.1.1-crownqltechn-GAPPS-20210613-0947.zip",
             "version": "v5.1.1",
             "changelog": [
                 {
