@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": "1623377414",
-            "filename": "dotOS-R-v5.1.1-beryllium-OFFICIAL-20210611-0131.zip",
-            "id": "8b2c4c06c81ef6d31f56666df244cfdc",
+            "datetime": "1623566943",
+            "filename": "dotOS-R-v5.1.1-beryllium-OFFICIAL-20210613-0609.zip",
+            "id": "b0b0586a957b371fdbce639f50090878",
             "romtype": "OFFICIAL",
-            "size": "895124712",
-            "url": "https://downloads.droidontime.com/dot11/beryllium/vanilla/dotOS-R-v5.1.1-beryllium-OFFICIAL-20210611-0131.zip",
+            "size": "894500584",
+            "url": "https://downloads.droidontime.com/dot11/beryllium/vanilla/dotOS-R-v5.1.1-beryllium-OFFICIAL-20210613-0609.zip",
             "version": "v5.1.1",
             "changelog": [
                 {

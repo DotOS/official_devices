@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": "1623378814",
-            "filename": "dotOS-R-v5.1.1-beryllium-GAPPS-20210611-0226.zip",
-            "id": "ae160f80e5f7a6f12980a495f1f6bc0e",
+            "datetime": "1623568439",
+            "filename": "dotOS-R-v5.1.1-beryllium-GAPPS-20210613-0707.zip",
+            "id": "3b12dc7b7908c49933d62584396d4be5",
             "romtype": "GAPPS",
-            "size": "1334076378",
-            "url": "https://downloads.droidontime.com/dot11/beryllium/gapps/dotOS-R-v5.1.1-beryllium-GAPPS-20210611-0226.zip",
+            "size": "1333605349",
+            "url": "https://downloads.droidontime.com/dot11/beryllium/gapps/dotOS-R-v5.1.1-beryllium-GAPPS-20210613-0707.zip",
             "version": "v5.1.1",
             "changelog": [
                 {
