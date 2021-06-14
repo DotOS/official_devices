@@ -1,23 +1,23 @@
 {
     "response": [
         {
-            "datetime": "1622207840",
-            "filename": "dotOS-R-v5.1-pine-OFFICIAL-20210528-1238.zip",
-            "id": "0523b2a45cd392b8c3a6dfaed7cb05d5",
+            "datetime": "1623642776",
+            "filename": "dotOS-R-v5.1.1-pine-OFFICIAL-20210614-0312.zip",
+            "id": "72d5bad10079f1449f185bb7a2e03e07",
             "romtype": "OFFICIAL",
-            "size": "855086281",
-            "url": "https://downloads.droidontime.com/dot11/pine/vanilla/dotOS-R-v5.1-pine-OFFICIAL-20210528-1238.zip",
-            "version": "v5.1",
+            "size": "869259364",
+            "url": "https://downloads.droidontime.com/dot11/pine/vanilla/dotOS-R-v5.1.1-pine-OFFICIAL-20210614-0312.zip",
+            "version": "v5.1.1",
             "changelog": [
                 {
-                    "miscTitle": "",
-                    "miscSummary": "",
-                    "settingsTitle": "Huge revamp",
-                    "settingsSummary": "\u2022 New dashboard look\n\u2022 Fixed avatar icon on dashboard\n\u2022 Implemented Silky UI\n\u2022 Multiple sections revamped to match guidelines\n\u2022 AboutDevice card revamped\n\u2022 Revamped Customizations app\n...\n\u2022 Full changelog : https://changelogs.droidontime.com/",
-                    "securityTitle": "",
-                    "securitySummary": "\u2022 Moved to user builds\n\u2022 Signature changed to dot's own keys",
-                    "systemTitle": "User Interface",
-                    "systemSummary": "\u2022 Implemented MonetWannabe wallpaper-based theme engine\n\u2022 Redesigned QSPanel\n\u2022 Added Applock\n...\n\u2022 Full changelog : https://changelogs.droidontime.com/"
+                    "miscTitle": "New features",
+                    "miscSummary": "\u2022 Screen-off animations\n\u2022 Fixed lockscreen visualizer\n\u2022 Improved Wallpaper Section inside Customizations.",
+                    "settingsTitle": "Small layout fixes",
+                    "settingsSummary": "\u2022 Now Display size and Font size sections can be scrolled without issue.",
+                    "securityTitle": "June Buletin",
+                    "securitySummary": "\u2022 New June Security Patch merged",
+                    "systemTitle": "MonetWannabe fixes",
+                    "systemSummary": "\u2022 Fixes for 3rd party apps (including Solid Explorer) "
                 }
             ]
         }
