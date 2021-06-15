@@ -1,532 +1,541 @@
-[
-	{
-	   "name":"Redmi Note 4",
-	   "brand":"Xiaomi",
-	   "codename":"mido",
-	   "xda_thread":"https://forum.xda-developers.com/t/rom-android-11-dotos-5-0-1-redmi-note-4-official-mido-13-04-2021.4230293/",
-	   "version_info":{
-		  "has_vanilla_builds":true,
-		  "has_gapps_builds":true
-	   }
-	},
-	{
-	   "name":"Mi 9T",
-	   "brand":"Xiaomi",
-	   "codename":"davinci",
-	   "xda_thread":"https://forum.xda-developers.com/t/rom-11-0-official-dotos-v5-0-1-aosp-2021-12-04.4230253/",
-	   "version_info":{
-		  "has_vanilla_builds":true,
-		  "has_gapps_builds":true
-	   }
-	},
-	{
-	   "name":"Redmi 4A/5a",
-	   "brand":"Xiaomi",
-	   "codename":"rolex",
-	   "xda_thread":"https://forum.xda-developers.com/t/rom-unified-dotos-official-redmi4a-5a-v5-0-0.4231155/",
-	   "version_info":{
-		  "has_vanilla_builds":true,
-		  "has_gapps_builds":true
-	   }
-	},
-	{
-	   "name":"Redmi Note 8",
-	   "brand":"Xiaomi",
-	   "codename":"ginkgo",
-	   "xda_thread":"https://forum.xda-developers.com/t/rom-11-0-official-dotos-v5-0-1-aosp-2021-04-13.4233715/",
-	   "version_info":{
-		  "has_vanilla_builds":true,
-		  "has_gapps_builds":true
-	   }
-	},
-	{
-	   "name":"Redmi Note 5 Pro",
-	   "brand":"Xiaomi",
-	   "codename":"whyred",
-	   "xda_thread":"https://forum.xda-developers.com/t/official-eleven-dotos-for-whyred-16-04-2021.3900498/",
-	   "version_info":{
-		  "has_vanilla_builds":true,
-		  "has_gapps_builds":true
-	   }
-	},
-	{
-	   "name":"Redmi Note 6 Pro",
-	   "brand":"Xiaomi",
-	   "codename":"tulip",
-	   "xda_thread":"https://forum.xda-developers.com/t/rom-11-official-dotos-5-0-1-tulip.4265211/",
-	   "version_info":{
-		  "has_vanilla_builds":true,
-		  "has_gapps_builds":false
-	   }
-	},
-	{
-	   "name":"Redmi Note 7/7s",
-	   "brand":"Xiaomi",
-	   "codename":"lavender",
-	   "xda_thread":"https://forum.xda-developers.com/t/rom-aosp-dotos-5-0-1-xiaomi-redmi-note-7-7s-lavender-official.4262291/",
-	   "version_info":{
-		  "has_vanilla_builds":true,
-		  "has_gapps_builds":true
-	   }
-	},
-	{
-	   "name":"POCO X3 NFC",
-	   "brand":"POCO",
-	   "codename":"surya",
-	   "xda_thread":"https://https://forum.xda-developers.com/t/rom-official-11-0-dot-os-v5-0-poco-x3-surya-karna-18-04-2021.4227955/",
-	   "version_info":{
-		  "has_vanilla_builds":true,
-		  "has_gapps_builds":true
-	   }
-	},
-	{
-	   "name":"Redmi Note 7 Pro",
-	   "brand":"Xiaomi",
-	   "codename":"violet",
-	   "xda_thread":"https://forum.xda-developers.com/t/rom-11-x-official-dotos-violet.4230215/",
-	   "version_info":{
-		  "has_vanilla_builds":true,
-		  "has_gapps_builds":true
-	   }
-	},
-	{
-	   "name":"Redmi Note 8 Pro",
-	   "brand":"Xiaomi",
-	   "codename":"begonia",
-	   "xda_thread":"https://forum.xda-developers.com/t/rom-11-0-0-dotos-v5-0-official-begonia-begoniain-non-cfw-2021-02-08.4229621/",
-	   "version_info":{
-		  "has_vanilla_builds":true,
-		  "has_gapps_builds":true
-	   }
-	},
-	{
-	   "name":"Redmi Note 5 / 5 Plus",
-	   "brand":"Xiaomi",
-	   "codename":"vince",
-	   "xda_thread":"https://forum.xda-developers.com/t/rom-android-11-dotos-redmi-note-5-5-plus-official-vince.4231307/",
-	   "version_info":{
-		  "has_vanilla_builds":true,
-		  "has_gapps_builds":true
-	   }
-	},
-	{
-	   "name":"POCO M3 / Redmi 9T nfc/9 Power / note 9 4G",
-	   "brand":"POCO",
-	   "codename":"juice",
-	   "xda_thread":"https://forum.xda-developers.com/t/rom-android-11-dotos-poco-m3-redmi-9t-redmi-9-power-redmi-note-9-4g-juice-official.4279019/",
-	   "version_info":{
-		  "has_vanilla_builds":true,
-		  "has_gapps_builds":true
-	   }
-	},
-	{
-	   "name":"Mi A2",
-	   "brand":"Xiaomi",
-	   "codename":"jasmine_sprout",
-	   "xda_thread":"https://forum.xda-developers.com/t/stable-official-20210322-dotos-5-0-for-mi-a2-jasmine_sprout.4250683/",
-	   "version_info":{
-		  "has_vanilla_builds":true,
-		  "has_gapps_builds":true
-	   }
-	},
-        {
-           "name":"Mi 6X",
-           "brand":"Xiaomi",
-           "codename":"wayne",
-           "xda_thread":"https://forum.xda-developers.com/t/rom-11-official-dotos-mi-6x-wayne.4232501/",
-           "version_info":{
-                  "has_vanilla_builds":true,
-                  "has_gapps_builds":true
-           }
-        },
-	{
-	   "name":"Zenfone Max Pro M1",
-	   "brand":"Asus",
-	   "codename":"X00TD",
-	   "xda_thread":"https://forum.xda-developers.com/t/official-eleven-dotos-for-whyred-22-02-2021.3900498/",
-	   "version_info":{
-		  "has_vanilla_builds":true,
-		  "has_gapps_builds":true
-	   }
-	},
-	{
-		"name":"Zenfone Max M2",
-		"brand":"Asus",
-		"codename":"X01AD",
-		"xda_thread":"https://forum.xda-developers.com/t/rom-unofficial-11-0-x01ad-dotos-5-0-1.4223541/",
-		"version_info":{
-		   "has_vanilla_builds":false,
-		   "has_gapps_builds":false
-		}
-	 },
-	{
-	   "name":"Zenfone Max Pro M2",
-	   "brand":"Asus",
-	   "codename":"X01BD",
-	   "xda_thread":"https://forum.xda-developers.com/t/dotos-v5-0-0-official-asus-zenfone-max-pro-m2-asus_x01bda.4222499/",
-	   "version_info":{
-		  "has_vanilla_builds":true,
-		  "has_gapps_builds":true
-	   }
-	},
-	{
-	   "name":"OnePlus 3/3T",
-	   "brand":"Oneplus",
-	   "codename":"oneplus3",
-	   "xda_thread":"https://forum.xda-developers.com/t/rom-11-0-official-dotos-v5-0-oneplus3-3t-2021-02-13.4232593/",
-	   "version_info":{
-		  "has_vanilla_builds":true,
-		  "has_gapps_builds":true
-	   }
-	},
-	{
-	   "name":"Pixel 2",
-	   "brand":"Google",
-	   "codename":"walleye",
-	   "xda_thread":"https://forum.xda-developers.com/t/rom-11-official-dotos-v5-0-1-walleye.4272765/",
-	   "version_info":{
-		  "has_vanilla_builds":true,
-		  "has_gapps_builds":true
-	   }
-	},
-	{
-	   "name":"Pixel 2XL",
-	   "brand":"Google",
-	   "codename":"taimen",
-	   "xda_thread":"https://forum.xda-developers.com/t/rom-11-unofficial-dotos-v5-0-0-taimen-24-02-2021.4239583/",
-	   "version_info":{
-		  "has_vanilla_builds":true,
-		  "has_gapps_builds":true
-	   }
-	},
-	{
-	   "name":"Z5s",
-	   "brand":"Lenovo",
-	   "codename":"jd2019",
-	   "xda_thread":"https://forum.xda-developers.com/t/rom-11-dotos-r-v5-0-1-official-for-lenovo-z5s-jd2019-13-04-2021.4230967/",
-	   "version_info":{
-		  "has_vanilla_builds":false,
-		  "has_gapps_builds":true
-	   }
-	},
-	{
-	   "name":"Redmi S2",
-	   "brand":"Xiaomi",
-	   "codename":"ysl",
-	   "xda_thread":"https://forum.xda-developers.com/t/dotos-5-0.4233041/",
-	   "version_info":{
-		  "has_vanilla_builds":true,
-		  "has_gapps_builds":true
-	   }
-	},
-	{
-	   "name":"Redmi 6 Pro",
-	   "brand":"Xiaomi",
-	   "codename":"sakura",
-	   "xda_thread":"https://forum.xda-developers.com/t/rom-android-11-dotos-redmi-6-pro-official-sakura.4231767/",
-	   "version_info":{
-		  "has_vanilla_builds":true,
-		  "has_gapps_builds":true
-	   }
-	},
-	{
-	   "name":"Poco F1",
-	   "brand":"POCO",
-	   "codename":"beryllium",
-	   "xda_thread":"https://forum.xda-developers.com/t/rom-11-0-official-16-02-2021-dot-os-for-the-xiaomi-poco-f1.4234317/",
-	   "version_info":{
-		  "has_vanilla_builds":true,
-		  "has_gapps_builds":true
-	   }
-	},
-	{
-	   "name":"Poco X2",
-	   "brand":"POCO",
-	   "codename":"phoenix",
-	   "xda_thread":"https://forum.xda-developers.com/t/dotos-for-x2-k30-gapps-09-02-21-unofficial.4231299/",
-	   "version_info":{
-		  "has_vanilla_builds":true,
-		  "has_gapps_builds":true
-	   }
-	},
-	{
-	   "name":"Oneplus 5",
-	   "brand":"Oneplus",
-	   "codename":"cheeseburger",
-	   "xda_thread":"https://forum.xda-developers.com/t/rom-11-0-dotos-5-0-oneplus-5-t-official-22-mar-2021.4233475/",
-	   "version_info":{
-		  "has_vanilla_builds":true,
-		  "has_gapps_builds":true
-	   }
-	},
-	{
-	   "name":"Oneplus 5T",
-	   "brand":"Oneplus",
-	   "codename":"dumpling",
-	   "xda_thread":"https://forum.xda-developers.com/t/rom-11-0-dotos-5-0-oneplus-5-t-official-22-mar-2021.4233475/",
-	   "version_info":{
-		  "has_vanilla_builds":true,
-		  "has_gapps_builds":true
-	   }
-	},
-	{
-	   "name":"Realme XT",
-	   "brand":"Realme",
-	   "codename":"RMX1921",
-	   "xda_thread":"https://forum.xda-developers.com/t/dotos-v5-0-0-rmx1921.4243945/",
-	   "version_info":{
-		  "has_vanilla_builds":true,
-		  "has_gapps_builds":true
-	   }
-	},
-	{
-	   "name":"Realme 6/6i/6s",
-	   "brand":"Realme",
-	   "codename":"RMX2001",
-	   "xda_thread":"https://forum.xda-developers.com/t/rom-official-stable-r-realme6-update-dotos-5-0-1-17-04-2021.4263399/",
-	   "version_info":{
-		  "has_vanilla_builds":true,
-		  "has_gapps_builds":true
-	   }
-	},
-	{
-	   "name":"Xiaomi 8",
-	   "brand":"Xiaomi",
-	   "codename":"dipper",
-	   "xda_thread":"https://forum.xda-developers.com/t/rom-official-stable-r-dotos-5-0-1-08-05-2021.4230437/",
-	   "version_info":{
-		  "has_vanilla_builds":true,
-		  "has_gapps_builds":true
-	   }
-	},
-	{
-	   "name":"Poco M2 Pro/Redmi Note 9S/Pro/Pro Max",
-	   "brand":"POCO",
-	   "codename":"miatoll",
-	   "xda_thread":"https://forum.xda-developers.com/t/rom-official-dotos-5-11-0-miatoll-gram-joyeuse-curtana-excalubur.4230793/",
-	   "version_info":{
-		  "has_vanilla_builds":true,
-		  "has_gapps_builds":true
-	   }
-	},
-	{
-	   "name":"Redmi K20 Pro",
-	   "brand":"Xiaomi",
-	   "codename":"raphael",
-	   "xda_thread":"https://forum.xda-developers.com/t/rom-11-0-0-dotos-v5-0-official-raphael-raphaelin-07-02-21.4229575/",
-	   "version_info":{
-		  "has_vanilla_builds":true,
-		  "has_gapps_builds":true
-	   }
-	},
-	{
-	   "name":"Mi Mix 2",
-	   "brand":"Xiaomi",
-	   "codename":"chiron",
-	   "xda_thread":"https://forum.xda-developers.com/t/rom-11-0-official-dotos-v5-0.4245535",
-	   "version_info":{
-		  "has_vanilla_builds":true,
-		  "has_gapps_builds":true
-	   }
-	},
-	{
-	   "name":"Moto G5 Plus",
-	   "brand":"Motorola",
-	   "codename":"potter",
-	   "xda_thread":"https://forum.xda-developers.com/t/rom-11-dotos-5-0-1-for-potter-official.4261731/",
-	   "version_info":{
-		  "has_vanilla_builds":true,
-		  "has_gapps_builds":true
-	   }
-	},
-	{
-	   "name":"OnePlus 6T",
-	   "brand":"Oneplus",
-	   "codename":"fajita",
-	   "xda_thread":"https://forum.xda-developers.com/t/rom-11-official-dotos-5-0-1-fajita.4257317/",
-	   "version_info":{
-		  "has_vanilla_builds":true,
-		  "has_gapps_builds":true
-	   }
-	},
-	{
-	   "name":"Mi A1",
-	   "brand":"Xiaomi",
-	   "codename":"tissot",
-	   "xda_thread":"https://forum.xda-developers.com/t/rom-11-0-dotos-5-0-1-official-2021-04-16.4261445/",
-	   "version_info":{
-		  "has_vanilla_builds":true,
-		  "has_gapps_builds":true
-	   }
-	},
-	{
-	   "name":"OnePlus 6",
-	   "brand":"Oneplus",
-	   "codename":"enchilada",
-	   "xda_thread":"https://forum.xda-developers.com/t/rom-unofficial-dotos-5-0-0-enchilada-11-0-0-r_xx.4232243/",
-	   "version_info":{
-		  "has_vanilla_builds":true,
-		  "has_gapps_builds":true
-	   }
-	},
-	{
-	   "name":"Realme 3 Pro",
-	   "brand":"Realme",
-	   "codename":"RMX1851",
-	   "xda_thread":"https://forum.xda-developers.com/t/dotos-r-v5-0-1-unofficial-for-realme-3-pro-rmx1851.4232545/",
-	   "version_info":{
-		  "has_vanilla_builds":true,
-		  "has_gapps_builds":true
-	   }
-	},
-	{
-	   "name":"Mi Note 10 Lite",
-	   "brand":"Xiaomi",
-	   "codename":"toco",
-	   "xda_thread":"https://forum.xda-developers.com/t/rom-11-toco-official-dotos-v5-0-1.4235853/",
-	   "version_info":{
-		  "has_vanilla_builds":true,
-		  "has_gapps_builds":true
-	   }
-	},
-	{
-	   "name":"Redmi 7A",
-	   "brand":"Xiaomi",
-	   "codename":"pine",
-	   "xda_thread":"",
-	   "version_info":{
-		  "has_vanilla_builds":true,
-		  "has_gapps_builds":true
-	   }
-	},
-	{
-	   "name":"Mi 10T/10T Pro",
-	   "brand":"Xiaomi",
-	   "codename":"apollo",
-	   "xda_thread":"",
-	   "version_info":{
-		  "has_vanilla_builds":true,
-		  "has_gapps_builds":true
-	   }
-	},
-	{
-	   "name":"Samsung Galaxy S9",
-	   "brand":"Samsung",
-	   "codename":"starqltechn",
-	   "xda_thread":"https://forum.xda-developers.com/t/rom-android-11-dotos-samsunggalaxy-s9-official-starqltechn.4261665/",
-	   "version_info":{
-		  "has_vanilla_builds":true,
-		  "has_gapps_builds":true
-	   }
-	},
-	{
-	   "name":"Samsung Galaxy S9+",
-	   "brand":"Samsung",
-	   "codename":"star2qltechn",
-	   "xda_thread":"https://forum.xda-developers.com/t/rom-android-11-dotos-samsunggalaxy-s9-official-starqltechn.4261665/",
-	   "version_info":{
-		  "has_vanilla_builds":true,
-		  "has_gapps_builds":true
-	   }
-	},
-	{
-	   "name":"Samsung Galaxy N9",
-	   "brand":"Samsung",
-	   "codename":"crownqltechn",
-	   "xda_thread":"https://forum.xda-developers.com/t/rom-android-11-dotos-samsung-galaxy-n9-official-crownqltechn.4262581/",
-	   "version_info":{
-		  "has_vanilla_builds":true,
-		  "has_gapps_builds":true
-	   }
-	},
-	{
-	   "name":"Redmi Note9 Pro 5G/Mi10i/Mi10T Lite",
-	   "brand":"Xiaomi",
-	   "codename":"gauguin",
-	   "xda_thread":"",
-	   "version_info":{
-		  "has_vanilla_builds":true,
-		  "has_gapps_builds":true
-	   }
-	},
-	{
-	   "name":"Z2 Plus",
-	   "brand":"ZUK",
-	   "codename":"z2_plus",
-	   "xda_thread":"https://forum.xda-developers.com/t/rom-11-unofficial-dotos-v5-0-1-for-zuk-z2_plus-r.4232277/",
-	   "version_info":{
-		  "has_vanilla_builds":true,
-		  "has_gapps_builds":true
-	   }
-	},
-	{
-	   "name":"Moto Z2 Play",
-	   "brand":"Motorola",
-	   "codename":"albus",
-	   "xda_thread":"https://forum.xda-developers.com/t/rom-11-motoz2play-dotos-5-0-1-unofficial-07-05-2021-albus.4260441/",
-	   "version_info":{
-		  "has_vanilla_builds":true,
-		  "has_gapps_builds":true
-	   }
-	},
-	{
-	   "name":"Redmi Note 10 Pro/Pro Max",
-	   "brand":"Xiaomi",
-	   "codename":"sweet",
-	   "xda_thread":"https://forum.xda-developers.com/t/rom-dotos-android-11-sweet.4271097/",
-	   "version_info":{
-		  "has_vanilla_builds":true,
-		  "has_gapps_builds":true
-	   }
-	},
-	{
-	   "name":"OnePlus 8T",
-	   "brand":"Oneplus",
-	   "codename":"kebab",
-	   "xda_thread":"https://forum.xda-developers.com/t/rom-11-8t-dotos-v5-0-1-unofficial-gapps.4251511/",
-	   "version_info":{
-		  "has_vanilla_builds":false,
-		  "has_gapps_builds":false
-	   }
-	},
-	{
-	   "name":"Poco X3 Pro",
-	   "brand":"POCO",
-	   "codename":"vayu",
-	   "xda_thread":"https://forum.xda-developers.com/t/rom-unofficial-dotos-5-0-1-android-11-0-vayu-bhima.4273177/",
-	   "version_info":{
-		  "has_vanilla_builds":true,
-		  "has_gapps_builds":true
-	   }
-	},
-	{
-		"name":"Oneplus 7T",
-	   	"brand":"Oneplus",
-	   	"codename":"hotdogb",
-	   	"xda_thread":"https://forum.xda-developers.com/t/rom-11-dotos-v5-0-1-gapps.4278983/",
-	   	"version_info":{
-		  "has_vanilla_builds":true,
-		  "has_gapps_builds":true
-		}
-	},
-	{
-		"name":"Arm64 A/B",
-	   	"brand":"Android",
-	   	"codename":"GSI",
-	   	"xda_thread":"#",
-	   	"version_info":{
-		  "has_vanilla_builds":true,
-		  "has_gapps_builds":true
-		}
-	},
-	{
-		"name":"Oneplus 7T Pro",
-	   	"brand":"Oneplus",
-	   	"codename":"hotdog",
-	   	"xda_thread":"#",
-	   	"version_info":{
-		  "has_vanilla_builds":true,
-		  "has_gapps_builds":true
-		}
+[{
+	"name": "Redmi Note 4",
+	"brand": "Xiaomi",
+	"codename": "mido",
+	"xda_thread": "https://forum.xda-developers.com/t/rom-android-11-dotos-5-0-1-redmi-note-4-official-mido-13-04-2021.4230293/",
+	"version_info": {
+		"has_vanilla_builds": true,
+		"has_gapps_builds": true
 	}
- ]
+},
+{
+	"name": "Mi 9T",
+	"brand": "Xiaomi",
+	"codename": "davinci",
+	"xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-dotos-v5-0-1-aosp-2021-12-04.4230253/",
+	"version_info": {
+		"has_vanilla_builds": true,
+		"has_gapps_builds": true
+	}
+},
+{
+	"name": "Redmi 4A/5a",
+	"brand": "Xiaomi",
+	"codename": "rolex",
+	"xda_thread": "https://forum.xda-developers.com/t/rom-unified-dotos-official-redmi4a-5a-v5-0-0.4231155/",
+	"version_info": {
+		"has_vanilla_builds": true,
+		"has_gapps_builds": true
+	}
+},
+{
+	"name": "Redmi Note 8",
+	"brand": "Xiaomi",
+	"codename": "ginkgo",
+	"xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-dotos-v5-0-1-aosp-2021-04-13.4233715/",
+	"version_info": {
+		"has_vanilla_builds": true,
+		"has_gapps_builds": true
+	}
+},
+{
+	"name": "Redmi Note 5 Pro",
+	"brand": "Xiaomi",
+	"codename": "whyred",
+	"xda_thread": "https://forum.xda-developers.com/t/official-eleven-dotos-for-whyred-16-04-2021.3900498/",
+	"version_info": {
+		"has_vanilla_builds": true,
+		"has_gapps_builds": true
+	}
+},
+{
+	"name": "Redmi Note 6 Pro",
+	"brand": "Xiaomi",
+	"codename": "tulip",
+	"xda_thread": "https://forum.xda-developers.com/t/rom-11-official-dotos-5-0-1-tulip.4265211/",
+	"version_info": {
+		"has_vanilla_builds": true,
+		"has_gapps_builds": false
+	}
+},
+{
+	"name": "Redmi Note 7/7s",
+	"brand": "Xiaomi",
+	"codename": "lavender",
+	"xda_thread": "https://forum.xda-developers.com/t/rom-aosp-dotos-5-0-1-xiaomi-redmi-note-7-7s-lavender-official.4262291/",
+	"version_info": {
+		"has_vanilla_builds": true,
+		"has_gapps_builds": true
+	}
+},
+{
+	"name": "POCO X3 NFC",
+	"brand": "POCO",
+	"codename": "surya",
+	"xda_thread": "https://https://forum.xda-developers.com/t/rom-official-11-0-dot-os-v5-0-poco-x3-surya-karna-18-04-2021.4227955/",
+	"version_info": {
+		"has_vanilla_builds": true,
+		"has_gapps_builds": true
+	}
+},
+{
+	"name": "Redmi Note 7 Pro",
+	"brand": "Xiaomi",
+	"codename": "violet",
+	"xda_thread": "https://forum.xda-developers.com/t/rom-11-x-official-dotos-violet.4230215/",
+	"version_info": {
+		"has_vanilla_builds": true,
+		"has_gapps_builds": true
+	}
+},
+{
+	"name": "Redmi Note 8 Pro",
+	"brand": "Xiaomi",
+	"codename": "begonia",
+	"xda_thread": "https://forum.xda-developers.com/t/rom-11-0-0-dotos-v5-0-official-begonia-begoniain-non-cfw-2021-02-08.4229621/",
+	"version_info": {
+		"has_vanilla_builds": true,
+		"has_gapps_builds": true
+	}
+},
+{
+	"name": "Redmi Note 5 / 5 Plus",
+	"brand": "Xiaomi",
+	"codename": "vince",
+	"xda_thread": "https://forum.xda-developers.com/t/rom-android-11-dotos-redmi-note-5-5-plus-official-vince.4231307/",
+	"version_info": {
+		"has_vanilla_builds": true,
+		"has_gapps_builds": true
+	}
+},
+{
+	"name": "POCO M3 / Redmi 9T nfc/9 Power / note 9 4G",
+	"brand": "POCO",
+	"codename": "juice",
+	"xda_thread": "https://forum.xda-developers.com/t/rom-android-11-dotos-poco-m3-redmi-9t-redmi-9-power-redmi-note-9-4g-juice-official.4279019/",
+	"version_info": {
+		"has_vanilla_builds": true,
+		"has_gapps_builds": true
+	}
+},
+{
+	"name": "Mi A2",
+	"brand": "Xiaomi",
+	"codename": "jasmine_sprout",
+	"xda_thread": "https://forum.xda-developers.com/t/stable-official-20210322-dotos-5-0-for-mi-a2-jasmine_sprout.4250683/",
+	"version_info": {
+		"has_vanilla_builds": true,
+		"has_gapps_builds": true
+	}
+},
+{
+	"name": "Mi 6X",
+	"brand": "Xiaomi",
+	"codename": "wayne",
+	"xda_thread": "https://forum.xda-developers.com/t/rom-11-official-dotos-mi-6x-wayne.4232501/",
+	"version_info": {
+		"has_vanilla_builds": true,
+		"has_gapps_builds": true
+	}
+},
+{
+	"name": "Zenfone Max Pro M1",
+	"brand": "Asus",
+	"codename": "X00TD",
+	"xda_thread": "https://forum.xda-developers.com/t/official-eleven-dotos-for-whyred-22-02-2021.3900498/",
+	"version_info": {
+		"has_vanilla_builds": true,
+		"has_gapps_builds": true
+	}
+},
+{
+	"name": "Zenfone Max M2",
+	"brand": "Asus",
+	"codename": "X01AD",
+	"xda_thread": "https://forum.xda-developers.com/t/rom-unofficial-11-0-x01ad-dotos-5-0-1.4223541/",
+	"version_info": {
+		"has_vanilla_builds": false,
+		"has_gapps_builds": false
+	}
+},
+{
+	"name": "Zenfone Max Pro M2",
+	"brand": "Asus",
+	"codename": "X01BD",
+	"xda_thread": "https://forum.xda-developers.com/t/dotos-v5-0-0-official-asus-zenfone-max-pro-m2-asus_x01bda.4222499/",
+	"version_info": {
+		"has_vanilla_builds": true,
+		"has_gapps_builds": true
+	}
+},
+{
+	"name": "OnePlus 3/3T",
+	"brand": "Oneplus",
+	"codename": "oneplus3",
+	"xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-dotos-v5-0-oneplus3-3t-2021-02-13.4232593/",
+	"version_info": {
+		"has_vanilla_builds": true,
+		"has_gapps_builds": true
+	}
+},
+{
+	"name": "Pixel 2",
+	"brand": "Google",
+	"codename": "walleye",
+	"xda_thread": "https://forum.xda-developers.com/t/rom-11-official-dotos-v5-0-1-walleye.4272765/",
+	"version_info": {
+		"has_vanilla_builds": true,
+		"has_gapps_builds": true
+	}
+},
+{
+	"name": "Pixel 2XL",
+	"brand": "Google",
+	"codename": "taimen",
+	"xda_thread": "https://forum.xda-developers.com/t/rom-11-unofficial-dotos-v5-0-0-taimen-24-02-2021.4239583/",
+	"version_info": {
+		"has_vanilla_builds": true,
+		"has_gapps_builds": true
+	}
+},
+{
+	"name": "Z5s",
+	"brand": "Lenovo",
+	"codename": "jd2019",
+	"xda_thread": "https://forum.xda-developers.com/t/rom-11-dotos-r-v5-0-1-official-for-lenovo-z5s-jd2019-13-04-2021.4230967/",
+	"version_info": {
+		"has_vanilla_builds": false,
+		"has_gapps_builds": true
+	}
+},
+{
+	"name": "Redmi S2",
+	"brand": "Xiaomi",
+	"codename": "ysl",
+	"xda_thread": "https://forum.xda-developers.com/t/dotos-5-0.4233041/",
+	"version_info": {
+		"has_vanilla_builds": true,
+		"has_gapps_builds": true
+	}
+},
+{
+	"name": "Redmi 6 Pro",
+	"brand": "Xiaomi",
+	"codename": "sakura",
+	"xda_thread": "https://forum.xda-developers.com/t/rom-android-11-dotos-redmi-6-pro-official-sakura.4231767/",
+	"version_info": {
+		"has_vanilla_builds": true,
+		"has_gapps_builds": true
+	}
+},
+{
+	"name": "Poco F1",
+	"brand": "POCO",
+	"codename": "beryllium",
+	"xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-16-02-2021-dot-os-for-the-xiaomi-poco-f1.4234317/",
+	"version_info": {
+		"has_vanilla_builds": true,
+		"has_gapps_builds": true
+	}
+},
+{
+	"name": "Poco X2",
+	"brand": "POCO",
+	"codename": "phoenix",
+	"xda_thread": "https://forum.xda-developers.com/t/dotos-for-x2-k30-gapps-09-02-21-unofficial.4231299/",
+	"version_info": {
+		"has_vanilla_builds": true,
+		"has_gapps_builds": true
+	}
+},
+{
+	"name": "Oneplus 5",
+	"brand": "Oneplus",
+	"codename": "cheeseburger",
+	"xda_thread": "https://forum.xda-developers.com/t/rom-11-0-dotos-5-0-oneplus-5-t-official-22-mar-2021.4233475/",
+	"version_info": {
+		"has_vanilla_builds": true,
+		"has_gapps_builds": true
+	}
+},
+{
+	"name": "Oneplus 5T",
+	"brand": "Oneplus",
+	"codename": "dumpling",
+	"xda_thread": "https://forum.xda-developers.com/t/rom-11-0-dotos-5-0-oneplus-5-t-official-22-mar-2021.4233475/",
+	"version_info": {
+		"has_vanilla_builds": true,
+		"has_gapps_builds": true
+	}
+},
+{
+	"name": "Realme XT",
+	"brand": "Realme",
+	"codename": "RMX1921",
+	"xda_thread": "https://forum.xda-developers.com/t/dotos-v5-0-0-rmx1921.4243945/",
+	"version_info": {
+		"has_vanilla_builds": true,
+		"has_gapps_builds": true
+	}
+},
+{
+	"name": "Realme 6/6i/6s",
+	"brand": "Realme",
+	"codename": "RMX2001",
+	"xda_thread": "https://forum.xda-developers.com/t/rom-official-stable-r-realme6-update-dotos-5-0-1-17-04-2021.4263399/",
+	"version_info": {
+		"has_vanilla_builds": true,
+		"has_gapps_builds": true
+	}
+},
+{
+	"name": "Xiaomi 8",
+	"brand": "Xiaomi",
+	"codename": "dipper",
+	"xda_thread": "https://forum.xda-developers.com/t/rom-official-stable-r-dotos-5-0-1-08-05-2021.4230437/",
+	"version_info": {
+		"has_vanilla_builds": true,
+		"has_gapps_builds": true
+	}
+},
+{
+	"name": "Poco M2 Pro/Redmi Note 9S/Pro/Pro Max",
+	"brand": "POCO",
+	"codename": "miatoll",
+	"xda_thread": "https://forum.xda-developers.com/t/rom-official-dotos-5-11-0-miatoll-gram-joyeuse-curtana-excalubur.4230793/",
+	"version_info": {
+		"has_vanilla_builds": true,
+		"has_gapps_builds": true
+	}
+},
+{
+	"name": "Redmi K20 Pro",
+	"brand": "Xiaomi",
+	"codename": "raphael",
+	"xda_thread": "https://forum.xda-developers.com/t/rom-11-0-0-dotos-v5-0-official-raphael-raphaelin-07-02-21.4229575/",
+	"version_info": {
+		"has_vanilla_builds": true,
+		"has_gapps_builds": true
+	}
+},
+{
+	"name": "Mi Mix 2",
+	"brand": "Xiaomi",
+	"codename": "chiron",
+	"xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-dotos-v5-0.4245535",
+	"version_info": {
+		"has_vanilla_builds": true,
+		"has_gapps_builds": true
+	}
+},
+{
+	"name": "Moto G5 Plus",
+	"brand": "Motorola",
+	"codename": "potter",
+	"xda_thread": "https://forum.xda-developers.com/t/rom-11-dotos-5-0-1-for-potter-official.4261731/",
+	"version_info": {
+		"has_vanilla_builds": true,
+		"has_gapps_builds": true
+	}
+},
+{
+	"name": "OnePlus 6T",
+	"brand": "Oneplus",
+	"codename": "fajita",
+	"xda_thread": "https://forum.xda-developers.com/t/rom-11-official-dotos-5-0-1-fajita.4257317/",
+	"version_info": {
+		"has_vanilla_builds": true,
+		"has_gapps_builds": true
+	}
+},
+{
+	"name": "Mi A1",
+	"brand": "Xiaomi",
+	"codename": "tissot",
+	"xda_thread": "https://forum.xda-developers.com/t/rom-11-0-dotos-5-0-1-official-2021-04-16.4261445/",
+	"version_info": {
+		"has_vanilla_builds": true,
+		"has_gapps_builds": true
+	}
+},
+{
+	"name": "OnePlus 6",
+	"brand": "Oneplus",
+	"codename": "enchilada",
+	"xda_thread": "https://forum.xda-developers.com/t/rom-unofficial-dotos-5-0-0-enchilada-11-0-0-r_xx.4232243/",
+	"version_info": {
+		"has_vanilla_builds": true,
+		"has_gapps_builds": true
+	}
+},
+{
+	"name": "Realme 3 Pro",
+	"brand": "Realme",
+	"codename": "RMX1851",
+	"xda_thread": "https://forum.xda-developers.com/t/dotos-r-v5-0-1-unofficial-for-realme-3-pro-rmx1851.4232545/",
+	"version_info": {
+		"has_vanilla_builds": true,
+		"has_gapps_builds": true
+	}
+},
+{
+	"name": "Mi Note 10 Lite",
+	"brand": "Xiaomi",
+	"codename": "toco",
+	"xda_thread": "https://forum.xda-developers.com/t/rom-11-toco-official-dotos-v5-0-1.4235853/",
+	"version_info": {
+		"has_vanilla_builds": true,
+		"has_gapps_builds": true
+	}
+},
+{
+	"name": "Redmi 7A",
+	"brand": "Xiaomi",
+	"codename": "pine",
+	"xda_thread": "",
+	"version_info": {
+		"has_vanilla_builds": true,
+		"has_gapps_builds": true
+	}
+},
+{
+	"name": "Mi 10T/10T Pro",
+	"brand": "Xiaomi",
+	"codename": "apollo",
+	"xda_thread": "",
+	"version_info": {
+		"has_vanilla_builds": true,
+		"has_gapps_builds": true
+	}
+},
+{
+	"name": "Samsung Galaxy S9",
+	"brand": "Samsung",
+	"codename": "starqltechn",
+	"xda_thread": "https://forum.xda-developers.com/t/rom-android-11-dotos-samsunggalaxy-s9-official-starqltechn.4261665/",
+	"version_info": {
+		"has_vanilla_builds": true,
+		"has_gapps_builds": true
+	}
+},
+{
+	"name": "Samsung Galaxy S9+",
+	"brand": "Samsung",
+	"codename": "star2qltechn",
+	"xda_thread": "https://forum.xda-developers.com/t/rom-android-11-dotos-samsunggalaxy-s9-official-starqltechn.4261665/",
+	"version_info": {
+		"has_vanilla_builds": true,
+		"has_gapps_builds": true
+	}
+},
+{
+	"name": "Samsung Galaxy N9",
+	"brand": "Samsung",
+	"codename": "crownqltechn",
+	"xda_thread": "https://forum.xda-developers.com/t/rom-android-11-dotos-samsung-galaxy-n9-official-crownqltechn.4262581/",
+	"version_info": {
+		"has_vanilla_builds": true,
+		"has_gapps_builds": true
+	}
+},
+{
+	"name": "Redmi Note9 Pro 5G/Mi10i/Mi10T Lite",
+	"brand": "Xiaomi",
+	"codename": "gauguin",
+	"xda_thread": "",
+	"version_info": {
+		"has_vanilla_builds": true,
+		"has_gapps_builds": true
+	}
+},
+{
+	"name": "Z2 Plus",
+	"brand": "ZUK",
+	"codename": "z2_plus",
+	"xda_thread": "https://forum.xda-developers.com/t/rom-11-unofficial-dotos-v5-0-1-for-zuk-z2_plus-r.4232277/",
+	"version_info": {
+		"has_vanilla_builds": true,
+		"has_gapps_builds": true
+	}
+},
+{
+	"name": "Moto Z2 Play",
+	"brand": "Motorola",
+	"codename": "albus",
+	"xda_thread": "https://forum.xda-developers.com/t/rom-11-motoz2play-dotos-5-0-1-unofficial-07-05-2021-albus.4260441/",
+	"version_info": {
+		"has_vanilla_builds": true,
+		"has_gapps_builds": true
+	}
+},
+{
+	"name": "Redmi Note 10 Pro/Pro Max",
+	"brand": "Xiaomi",
+	"codename": "sweet",
+	"xda_thread": "https://forum.xda-developers.com/t/rom-dotos-android-11-sweet.4271097/",
+	"version_info": {
+		"has_vanilla_builds": true,
+		"has_gapps_builds": true
+	}
+},
+{
+	"name": "OnePlus 8T",
+	"brand": "Oneplus",
+	"codename": "kebab",
+	"xda_thread": "https://forum.xda-developers.com/t/rom-11-8t-dotos-v5-0-1-unofficial-gapps.4251511/",
+	"version_info": {
+		"has_vanilla_builds": false,
+		"has_gapps_builds": false
+	}
+},
+{
+	"name": "Poco X3 Pro",
+	"brand": "POCO",
+	"codename": "vayu",
+	"xda_thread": "https://forum.xda-developers.com/t/rom-unofficial-dotos-5-0-1-android-11-0-vayu-bhima.4273177/",
+	"version_info": {
+		"has_vanilla_builds": true,
+		"has_gapps_builds": true
+	}
+},
+{
+	"name": "Oneplus 7T",
+	"brand": "Oneplus",
+	"codename": "hotdogb",
+	"xda_thread": "https://forum.xda-developers.com/t/rom-11-dotos-v5-0-1-gapps.4278983/",
+	"version_info": {
+		"has_vanilla_builds": true,
+		"has_gapps_builds": true
+	}
+},
+{
+	"name": "Arm64 A/B",
+	"brand": "Android",
+	"codename": "GSI",
+	"xda_thread": "#",
+	"version_info": {
+		"has_vanilla_builds": true,
+		"has_gapps_builds": true
+	}
+},
+{
+	"name": "Motorola moto X4",
+	"brand": "Motorola",
+	"codename": "payton",
+	"xda_thread": "https://forum.xda-developers.com/f/moto-x4-roms-kernels-recoveries-other-develop.6916/",
+	"version_info": {
+		"has_vanilla_builds": false,
+		"has_gapps_builds": false
+	}
+},
+{
+	"name": "Oneplus 7T Pro",
+	"brand": "Oneplus",
+	"codename": "hotdog",
+	"xda_thread": "#",
+	"version_info": {
+		"has_vanilla_builds": true,
+		"has_gapps_builds": true
+	}
+}
+]

@@ -1,392 +1,400 @@
-[
-	{
-	   "_id":"hack64",
-	   "name":"Marco Rizzo",
-	   "url":"https://github.com/hack64",
-	   "devices":[
-		  "davinci"
-	   ]
-	},
-	{
-	   "_id":"mohan",
-	   "name":"Mohan C M",
-	   "url":"https://github.com/mohancm",
-	   "devices":[
-		  "mido",
-		  "hotdog"
-	   ]
-	},
-	{
-	   "_id":"sweeto143",
-	   "name":"Sipun Ku Mahanta",
-	   "url":"https://github.com/sweeto143",
-	   "devices":[
-		  "whyred"
-	   ]
-	},
-	{
-	   "_id":"SahilSonar",
-	   "name":"Sahil Sonar",
-	   "url":"https://github.com/SahilSonar",
-	   "devices":[
-		  "begonia"
-	   ]
-	},
-	{
-	   "_id":"riteshm321",
-	   "name":"Ritzzzz",
-	   "url":"https://github.com/riteshm321",
-	   "devices":[
-		  "raphael"
-	   ]
-	},
-	{
-	   "_id":"adi153",
-	   "name":"Manohar Singh",
-	   "url":"https://github.com/adi153",
-	   "devices":[
-		  "rolex"
-	   ]
-	},
-	{
-	   "_id":"aseelps",
-	   "name":"Aseel P Sathar",
-	   "url":"https://github.com/aseelps",
-	   "devices":[
-		  "vince",
-		  "juice"
-	   ]
-	},
-	{
-	   "_id":"TechWiz007",
-	   "name":"Bhargav Gajare",
-	   "url":"https://github.com/TechWiz007",
-	   "devices":[
-		  "jasmine_sprout"
-	   ]
-	},
-        {
-           "_id":"RonaldSt",
-           "name":"Ronald Santos",
-           "url":"https://github.com/ronald-b",
-           "devices":[
-                  "wayne"
-           ]
-        },
-	{
-	   "_id":"dhimanparas20",
-	   "name":"Ken Kaneki",
-	   "url":"https://github.com/dhimanparas20",
-	   "devices":[
-		  "X00TD"
-	   ]
-	},
-	{
-	   "_id":"ShreehariVaasishta",
-	   "name":"Shreehari Vaasishta L",
-	   "url":"https://github.com/ShreehariVaasishta",
-	   "devices":[
-		  "miatoll"
-	   ]
-	},
-	{
-		"_id":"Nguyenhung9x",
-		"name":"Nguyenhung9xdev",
-		"url":"https://github.com/nguyenhung9x2020",
-		"devices":[
-		   "X01AD"
-		]
-	 },
-	{
-	   "_id":"ElectroPerf",
-	   "name":"Kunmun",
-	   "url":"https://github.com/ElectroPerf",
-	   "devices":[
-		  "X01BD"
-	   ]
-	},
-	{
-	   "_id":"Gaurav241",
-	   "name":"Gaurav",
-	   "url":"https://github.com/Gaurav241",
-	   "devices":[
-		  "oneplus3"
-	   ]
-	},
-	{
-	   "_id":"PixelBoot",
-	   "name":"PixelBoot",
-	   "url":"https://github.com/PixelBoot",
-	   "devices":[
-		  "taimen",
-		  "walleye"
-	   ]
-	},
-	{
-	   "_id":"CHRISL7",
-	   "name":"Wanderson R",
-	   "url":"https://github.com/chrisw444",
-	   "devices":[
-		  "surya"
-	   ]
-	},
-	{
-	   "_id":"Sambit",
-	   "name":"Sambit",
-	   "url":"https://github.com/stellabyte2",
-	   "devices":[
-		  "surya"
-	   ]
-	},
-	{
-	   "_id":"Joker-V2",
-	   "name":"Nipin NA",
-	   "url":"https://github.com/Joker-V2",
-	   "devices":[
-		  "violet"
-	   ]
-	},
-	{
-	   "_id":"Introdructor",
-	   "name":"Yash Kachave",
-	   "url":"https://github.com/Introdructor",
-	   "devices":[
-		  "ginkgo"
-	   ]
-	},
-	{
-	   "_id":"HsyHusker",
-	   "name":"Husker",
-	   "url":"https://github.com/HsyHusker",
-	   "devices":[
-		  "jd2019"
-	   ]
-	},
-	{
-	   "_id":"MiDoNaSR",
-	   "name":"MoHaMeD NaSR",
-	   "url":"https://github.com/MiDoNaSR545",
-	   "devices":[
-		  "ysl"
-	   ]
-	},
-	{
-	   "_id":"geopd",
-	   "name":"Geo Emmanuel",
-	   "url":"https://github.com/geopd",
-	   "devices":[
-		  "sakura"
-	   ]
-	},
-	{
-	   "_id":"jefinhodatnt",
-	   "name":"Jeferson L",
-	   "url":"https://github.com/jefinhodatnt",
-	   "devices":[
-		  "tulip"
-	   ]
-	},
-	{
-	   "_id":"Notakbuzz",
-	   "name":"Slayer",
-	   "url":"https://github.com/notakbuzz",
-	   "devices":[
-		  "beryllium"
-	   ]
-	},
-	{
-	   "_id":"harveyspectar",
-	   "name":"PRAViN Prajapati",
-	   "url":"https://github.com/harveyspectar",
-	   "devices":[
-		  "phoenix"
-	   ]
-	},
-	{
-	   "_id":"karthik990",
-	   "name":"Karthik N",
-	   "url":"https://github.com/karthik990",
-	   "devices":[
-		  "cheeseburger",
-		  "dumpling"
-	   ]
-	},
-	{
-	   "_id":"Deepak5310",
-	   "name":"Deepak Jangir",
-	   "url":"https://github.com/Deepak5310",
-	   "devices":[
-		  "RMX1921"
-	   ]
-	},
-	{
-	   "_id":"ManshuTyagi",
-	   "name":"Himanshu Tyagi",
-	   "url":"https://github.com/ManshuTyagi",
-	   "devices":[
-		  "RMX2001"
-	   ]
-	},
-	{
-	   "_id":"KyuoFoxHuyu",
-	   "name":"Kyuofox",
-	   "url":"https://github.com/KyuoFoxHuyu",
-	   "devices":[
-		  "dipper"
-	   ]
-	},
-	{
-	   "_id":"WhiterWalt",
-	   "name":"WhiterWalt",
-	   "url":"https://github.com/WhiterWalt",
-	   "devices":[
-		  "chiron"
-	   ]
-	},
-	{
-	   "_id":"zjunior06",
-	   "name":"Zilberto Junior",
-	   "url":"https://github.com/zjunior06",
-	   "devices":[
-		  "potter"
-	   ]
-	},
-	{
-	   "_id":"sevralt",
-	   "name":"Alexander Chycherin",
-	   "url":"https://github.com/sevralt",
-	   "devices":[
-		  "fajita"
-	   ]
-	},
-	{
-	   "_id":"Takeshiro04",
-	   "name":"Takeshiro Seijuro",
-	   "url":"https://github.com/Takeshiro04",
-	   "devices":[
-		  "tissot"
-	   ]
-	},
-	{
-	   "_id":"CYB3R0ID694",
-	   "name":"Sanket Mhatre",
-	   "url":"https://github.com/CYB3R0ID694/",
-	   "devices":[
-		  "enchilada"
-	   ]
-	},
-	{
-	   "_id":"viralbanda",
-	   "name":"Ali Shahawez Khan",
-	   "url":"https://github.com/viralbanda/",
-	   "devices":[
-		  "RMX1851"
-	   ]
-	},
-	{
-	   "_id":"AndroidHQ254",
-	   "name":"Dennis Murimi",
-	   "url":"https://github.com/AndroidHQ254/",
-	   "devices":[
-		  "toco"
-	   ]
-	},
-	{
-	   "_id":"AOiSPdev",
-	   "name":"AOiSPdev",
-	   "url":"https://github.com/TTTT55/",
-	   "devices":[
-		  "pine"
-	   ]
-	},
-	{
-	   "_id":"ejbtrd",
-	   "name":"ejbtrd",
-	   "url":"https://github.com/ejbtrd/",
-	   "devices":[
-		  "apollo"
-	   ]
-	},
-	{
-	   "_id":"Nyoutaaa",
-	   "name":"Nyoutaaa",
-	   "url":"https://github.com/Nyoutaaa",
-	   "devices":[
-		  "starqltechn",
-		  "star2qltechn",
-		  "crownqltechn"
-	   ]
-	},
-	{
-	   "_id":"DtHnAme",
-	   "name":"DtHnAme",
-	   "url":"https://github.com/DtHnAme/",
-	   "devices":[
-		  "gauguin"
-	   ]
-	},
-	{
-	   "_id":"ReallySnow",
-	   "name":"ReallySnow",
-	   "url":"https://github.com/ReallySnow",
-	   "devices":[
-		  "z2_plus"
-	   ]
-	},
-	{
-	   "_id":"HeltonVezzoni",
-	   "name":"Helton Vezzoni",
-	   "url":"https://github.com/HeltonMax",
-	   "devices":[
-		  "albus"
-	   ]
-	},
-	{
-	   "_id":"grewal",
-	   "name":"Adarsh Grewal",
-	   "url":"https://github.com/AdarshGrewal/",
-	   "devices":[
-		  "sweet"
-	   ]
-	},
-	{
-	   "_id":"xstefen",
-	   "name":"xstefen",
-	   "url":"https://github.com/xstefen/",
-	   "devices":[
-		  "kebab"
-	   ]
-	},
-	{
-	   "_id":"luckYViii",
-	   "name":"Ahmed",
-	   "url":"https://github.com/luckYViii",
-	   "devices":[
-		  "vayu"
-	   ]
-	},
-	{
-		"_id": "matt0301",
-		"name": "Matheus Vieira",
-		"url": "https://github.com/matt0301/",
-		"devices": [
-			"hotdogb"
-		]
-	},
-	{
-		"_id": "community",
-		"name": "Community Maintained",
-		"url": "https://github.com/mohancm/",
-		"devices": [
-			"GSI"
-		]
-	},
-	{
-		"_id":"zaidkhan0997",
-		"name":"Zaid Khan",
-		"url":"https://github.com/zaidkhan0997",
-		"devices":[
-		   "lavender"
-		]
-	}
- ]
+[{
+	"_id": "hack64",
+	"name": "Marco Rizzo",
+	"url": "https://github.com/hack64",
+	"devices": [
+		"davinci"
+	]
+},
+{
+	"_id": "mohan",
+	"name": "Mohan C M",
+	"url": "https://github.com/mohancm",
+	"devices": [
+		"mido",
+		"hotdog"
+	]
+},
+{
+	"_id": "sweeto143",
+	"name": "Sipun Ku Mahanta",
+	"url": "https://github.com/sweeto143",
+	"devices": [
+		"whyred"
+	]
+},
+{
+	"_id": "SahilSonar",
+	"name": "Sahil Sonar",
+	"url": "https://github.com/SahilSonar",
+	"devices": [
+		"begonia"
+	]
+},
+{
+	"_id": "riteshm321",
+	"name": "Ritzzzz",
+	"url": "https://github.com/riteshm321",
+	"devices": [
+		"raphael"
+	]
+},
+{
+	"_id": "adi153",
+	"name": "Manohar Singh",
+	"url": "https://github.com/adi153",
+	"devices": [
+		"rolex"
+	]
+},
+{
+	"_id": "aseelps",
+	"name": "Aseel P Sathar",
+	"url": "https://github.com/aseelps",
+	"devices": [
+		"vince",
+		"juice"
+	]
+},
+{
+	"_id": "TechWiz007",
+	"name": "Bhargav Gajare",
+	"url": "https://github.com/TechWiz007",
+	"devices": [
+		"jasmine_sprout"
+	]
+},
+{
+	"_id": "RonaldSt",
+	"name": "Ronald Santos",
+	"url": "https://github.com/ronald-b",
+	"devices": [
+		"wayne"
+	]
+},
+{
+	"_id": "dhimanparas20",
+	"name": "Ken Kaneki",
+	"url": "https://github.com/dhimanparas20",
+	"devices": [
+		"X00TD"
+	]
+},
+{
+	"_id": "ShreehariVaasishta",
+	"name": "Shreehari Vaasishta L",
+	"url": "https://github.com/ShreehariVaasishta",
+	"devices": [
+		"miatoll"
+	]
+},
+{
+	"_id": "Nguyenhung9x",
+	"name": "Nguyenhung9xdev",
+	"url": "https://github.com/nguyenhung9x2020",
+	"devices": [
+		"X01AD"
+	]
+},
+{
+	"_id": "ElectroPerf",
+	"name": "Kunmun",
+	"url": "https://github.com/ElectroPerf",
+	"devices": [
+		"X01BD"
+	]
+},
+{
+	"_id": "Gaurav241",
+	"name": "Gaurav",
+	"url": "https://github.com/Gaurav241",
+	"devices": [
+		"oneplus3"
+	]
+},
+{
+	"_id": "PixelBoot",
+	"name": "PixelBoot",
+	"url": "https://github.com/PixelBoot",
+	"devices": [
+		"taimen",
+		"walleye"
+	]
+},
+{
+	"_id": "CHRISL7",
+	"name": "Wanderson R",
+	"url": "https://github.com/chrisw444",
+	"devices": [
+		"surya"
+	]
+},
+{
+	"_id": "Sambit",
+	"name": "Sambit",
+	"url": "https://github.com/stellabyte2",
+	"devices": [
+		"surya"
+	]
+},
+{
+	"_id": "Joker-V2",
+	"name": "Nipin NA",
+	"url": "https://github.com/Joker-V2",
+	"devices": [
+		"violet"
+	]
+},
+{
+	"_id": "Introdructor",
+	"name": "Yash Kachave",
+	"url": "https://github.com/Introdructor",
+	"devices": [
+		"ginkgo"
+	]
+},
+{
+	"_id": "HsyHusker",
+	"name": "Husker",
+	"url": "https://github.com/HsyHusker",
+	"devices": [
+		"jd2019"
+	]
+},
+{
+	"_id": "MiDoNaSR",
+	"name": "MoHaMeD NaSR",
+	"url": "https://github.com/MiDoNaSR545",
+	"devices": [
+		"ysl"
+	]
+},
+{
+	"_id": "geopd",
+	"name": "Geo Emmanuel",
+	"url": "https://github.com/geopd",
+	"devices": [
+		"sakura"
+	]
+},
+{
+	"_id": "jefinhodatnt",
+	"name": "Jeferson L",
+	"url": "https://github.com/jefinhodatnt",
+	"devices": [
+		"tulip"
+	]
+},
+{
+	"_id": "Notakbuzz",
+	"name": "Slayer",
+	"url": "https://github.com/notakbuzz",
+	"devices": [
+		"beryllium"
+	]
+},
+{
+	"_id": "harveyspectar",
+	"name": "PRAViN Prajapati",
+	"url": "https://github.com/harveyspectar",
+	"devices": [
+		"phoenix"
+	]
+},
+{
+	"_id": "karthik990",
+	"name": "Karthik N",
+	"url": "https://github.com/karthik990",
+	"devices": [
+		"cheeseburger",
+		"dumpling"
+	]
+},
+{
+	"_id": "Deepak5310",
+	"name": "Deepak Jangir",
+	"url": "https://github.com/Deepak5310",
+	"devices": [
+		"RMX1921"
+	]
+},
+{
+	"_id": "ManshuTyagi",
+	"name": "Himanshu Tyagi",
+	"url": "https://github.com/ManshuTyagi",
+	"devices": [
+		"RMX2001"
+	]
+},
+{
+	"_id": "KyuoFoxHuyu",
+	"name": "Kyuofox",
+	"url": "https://github.com/KyuoFoxHuyu",
+	"devices": [
+		"dipper"
+	]
+},
+{
+	"_id": "WhiterWalt",
+	"name": "WhiterWalt",
+	"url": "https://github.com/WhiterWalt",
+	"devices": [
+		"chiron"
+	]
+},
+{
+	"_id": "zjunior06",
+	"name": "Zilberto Junior",
+	"url": "https://github.com/zjunior06",
+	"devices": [
+		"potter"
+	]
+},
+{
+	"_id": "sevralt",
+	"name": "Alexander Chycherin",
+	"url": "https://github.com/sevralt",
+	"devices": [
+		"fajita"
+	]
+},
+{
+	"_id": "Takeshiro04",
+	"name": "Takeshiro Seijuro",
+	"url": "https://github.com/Takeshiro04",
+	"devices": [
+		"tissot"
+	]
+},
+{
+	"_id": "CYB3R0ID694",
+	"name": "Sanket Mhatre",
+	"url": "https://github.com/CYB3R0ID694/",
+	"devices": [
+		"enchilada"
+	]
+},
+{
+	"_id": "viralbanda",
+	"name": "Ali Shahawez Khan",
+	"url": "https://github.com/viralbanda/",
+	"devices": [
+		"RMX1851"
+	]
+},
+{
+	"_id": "AndroidHQ254",
+	"name": "Dennis Murimi",
+	"url": "https://github.com/AndroidHQ254/",
+	"devices": [
+		"toco"
+	]
+},
+{
+	"_id": "AOiSPdev",
+	"name": "AOiSPdev",
+	"url": "https://github.com/TTTT55/",
+	"devices": [
+		"pine"
+	]
+},
+{
+	"_id": "ejbtrd",
+	"name": "ejbtrd",
+	"url": "https://github.com/ejbtrd/",
+	"devices": [
+		"apollo"
+	]
+},
+{
+	"_id": "Nyoutaaa",
+	"name": "Nyoutaaa",
+	"url": "https://github.com/Nyoutaaa",
+	"devices": [
+		"starqltechn",
+		"star2qltechn",
+		"crownqltechn"
+	]
+},
+{
+	"_id": "DtHnAme",
+	"name": "DtHnAme",
+	"url": "https://github.com/DtHnAme/",
+	"devices": [
+		"gauguin"
+	]
+},
+{
+	"_id": "ReallySnow",
+	"name": "ReallySnow",
+	"url": "https://github.com/ReallySnow",
+	"devices": [
+		"z2_plus"
+	]
+},
+{
+	"_id": "HeltonVezzoni",
+	"name": "Helton Vezzoni",
+	"url": "https://github.com/HeltonMax",
+	"devices": [
+		"albus"
+	]
+},
+{
+	"_id": "grewal",
+	"name": "Adarsh Grewal",
+	"url": "https://github.com/AdarshGrewal/",
+	"devices": [
+		"sweet"
+	]
+},
+{
+	"_id": "xstefen",
+	"name": "xstefen",
+	"url": "https://github.com/xstefen/",
+	"devices": [
+		"kebab"
+	]
+},
+{
+	"_id": "luckYViii",
+	"name": "Ahmed",
+	"url": "https://github.com/luckYViii",
+	"devices": [
+		"vayu"
+	]
+},
+{
+	"_id": "matt0301",
+	"name": "Matheus Vieira",
+	"url": "https://github.com/matt0301/",
+	"devices": [
+		"hotdogb"
+	]
+},
+{
+	"_id": "aadityazeo",
+	"name": "AadityaZeo",
+	"url": "https://github.com/aadityazeo",
+	"devices": [
+		"payton"
+	]
+},
+{
+	"_id": "community",
+	"name": "Community Maintained",
+	"url": "https://github.com/mohancm/",
+	"devices": [
+		"GSI"
+	]
+},
+{
+	"_id": "zaidkhan0997",
+	"name": "Zaid Khan",
+	"url": "https://github.com/zaidkhan0997",
+	"devices": [
+		"lavender"
+	]
+
+}
+]
