@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1623358741,
-            "filename": "dotOS-R-v5.1.1-whyred-GAPPS-20210610-2053.zip",
-            "id": "984dabc5808d050948e1470e59bac837",
+            "datetime": "1623716968",
+            "filename": "dotOS-R-v5.1.1-whyred-GAPPS-20210615-0024.zip",
+            "id": "c24fdb2683bedc8da580d8e27b9f247d",
             "romtype": "GAPPS",
-            "size": 1197132142,
-            "url": "https://downloads.droidontime.com/dot11/whyred/gapps/dotOS-R-v5.1.1-whyred-GAPPS-20210610-2053.zip",
+            "size": "1201174479",
+            "url": "https://downloads.droidontime.com/dot11/whyred/gapps/dotOS-R-v5.1.1-whyred-GAPPS-20210615-0024.zip",
             "version": "v5.1.1",
             "changelog": [
                 {
