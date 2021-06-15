@@ -1,0 +1,25 @@
+{
+    "response": [
+        {
+            "datetime": "1623790513",
+            "filename": "dotOS-R-v5.1.1-payton-GAPPS-20210615-2051.zip",
+            "id": "2bd2450d7952355a23447f2933d697f0",
+            "romtype": "GAPPS",
+            "size": "1088840116",
+            "url": "https://downloads.droidontime.com/dot11/payton/gapps/dotOS-R-v5.1.1-payton-GAPPS-20210615-2051.zip",
+            "version": "v5.1.1",
+            "changelog": [
+                {
+                    "miscTitle": "New features",
+                    "miscSummary": "\u2022 Screen-off animations\n\u2022 Fixed lockscreen visualizer\n\u2022 Improved Wallpaper Section inside Customizations.",
+                    "settingsTitle": "Small layout fixes",
+                    "settingsSummary": "\u2022 Now Display size and Font size sections can be scrolled without issue.",
+                    "securityTitle": "June Buletin",
+                    "securitySummary": "\u2022 New June Security Patch merged",
+                    "systemTitle": "MonetWannabe fixes",
+                    "systemSummary": "\u2022 Fixes for 3rd party apps (including Solid Explorer) "
+                }
+            ]
+        }
+    ]
+}
