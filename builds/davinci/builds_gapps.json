@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": "1623583149",
-            "filename": "dotOS-R-v5.1.1-davinci-GAPPS-20210613-1111.zip",
-            "id": "0b3c7e43ee9e07ee3d1c5175b8fb7799",
+            "datetime": "1623736922",
+            "filename": "dotOS-R-v5.1.1-davinci-GAPPS-20210615-0554.zip",
+            "id": "d448ae65c99a7f282f0c32c6cd1e4702",
             "romtype": "GAPPS",
-            "size": "1804265549",
-            "url": "https://downloads.droidontime.com/dot11/davinci/gapps/dotOS-R-v5.1.1-davinci-GAPPS-20210613-1111.zip",
+            "size": "1807506828",
+            "url": "https://downloads.droidontime.com/dot11/davinci/gapps/dotOS-R-v5.1.1-davinci-GAPPS-20210615-0554.zip",
             "version": "v5.1.1",
             "changelog": [
                 {
