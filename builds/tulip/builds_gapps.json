@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": "1623827121",
-            "filename": "dotOS-R-v5.1.1-tulip-OFFICIAL-20210616-0627.zip",
-            "id": "b8349003c91d4c2e1747c54dff0b1a47",
-            "romtype": "OFFICIAL",
-            "size": "818161626",
-            "url": "https://downloads.droidontime.com/dot11/tulip/vanilla/dotOS-R-v5.1.1-tulip-OFFICIAL-20210616-0627.zip",
+            "datetime": "1623828397",
+            "filename": "dotOS-R-v5.1.1-tulip-GAPPS-20210616-0721.zip",
+            "id": "5b892aa1e35191634ebb6a3eaeeceb62",
+            "romtype": "GAPPS",
+            "size": "1252679291",
+            "url": "https://downloads.droidontime.com/dot11/tulip/gapps/dotOS-R-v5.1.1-tulip-GAPPS-20210616-0721.zip",
             "version": "v5.1.1",
             "changelog": [
                 {
