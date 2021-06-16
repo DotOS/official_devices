@@ -1,0 +1,25 @@
+{
+    "response": [
+        {
+            "datetime": "1623817400",
+            "filename": "dotOS-R-v5.1.1-sargo-OFFICIAL-20210616-0344.zip",
+            "id": "7bf53144d8db5b35f866e79129509551",
+            "romtype": "OFFICIAL",
+            "size": "858335650",
+            "url": "https://downloads.droidontime.com/dot11/sargo/vanilla/dotOS-R-v5.1.1-sargo-OFFICIAL-20210616-0344.zip",
+            "version": "v5.1.1",
+            "changelog": [
+                {
+                    "miscTitle": "New features",
+                    "miscSummary": "\u2022 Screen-off animations\n\u2022 Fixed lockscreen visualizer\n\u2022 Improved Wallpaper Section inside Customizations.",
+                    "settingsTitle": "Small layout fixes",
+                    "settingsSummary": "\u2022 Now Display size and Font size sections can be scrolled without issue.",
+                    "securityTitle": "June Buletin",
+                    "securitySummary": "\u2022 New June Security Patch merged",
+                    "systemTitle": "MonetWannabe fixes",
+                    "systemSummary": "\u2022 Fixes for 3rd party apps (including Solid Explorer) "
+                }
+            ]
+        }
+    ]
+}
