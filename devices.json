@@ -509,13 +509,33 @@
 	}
 },
 {
-	"name": "Arm64 A/B",
+	"name": "GSI - Arm64 A/B",
 	"brand": "Android",
-	"codename": "GSI",
+	"codename": "arm64",
 	"xda_thread": "#",
 	"version_info": {
 		"has_vanilla_builds": true,
 		"has_gapps_builds": true
+	}
+},
+{
+	"name": "GSI - Arm A/B",
+	"brand": "Android",
+	"codename": "arm",
+	"xda_thread": "#",
+	"version_info": {
+		"has_vanilla_builds": true,
+		"has_gapps_builds": false
+	}
+},
+{
+	"name": "GSI - A64 A/B",
+	"brand": "Android",
+	"codename": "a64",
+	"xda_thread": "#",
+	"version_info": {
+		"has_vanilla_builds": true,
+		"has_gapps_builds": false
 	}
 },
 {

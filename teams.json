@@ -385,7 +385,9 @@
 	"name": "Community Maintained",
 	"url": "https://github.com/mohancm/",
 	"devices": [
-		"GSI"
+		"a64",
+		"arm",
+		"arm64"
 	]
 },
 {
