@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": "1623557585",
-            "filename": "dotOS-R-v5.1.1-apollo-GAPPS-20210613-0404.zip",
-            "id": "52a7466c9f3bd8e79dd8d526de4dfbf6",
+            "datetime": "1624513255",
+            "filename": "dotOS-R-v5.1.1-apollo-GAPPS-20210624-0532.zip",
+            "id": "fc508671f1bf5e82302ce54d7faf28db",
             "romtype": "GAPPS",
-            "size": "1609608894",
-            "url": "https://downloads.droidontime.com/dot11/apollo/gapps/dotOS-R-v5.1.1-apollo-GAPPS-20210613-0404.zip",
+            "size": "1608406185",
+            "url": "https://downloads.droidontime.com/dot11/apollo/gapps/dotOS-R-v5.1.1-apollo-GAPPS-20210624-0532.zip",
             "version": "v5.1.1",
             "changelog": [
                 {
