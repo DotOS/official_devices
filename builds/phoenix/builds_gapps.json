@@ -1,23 +1,23 @@
 {
     "response": [
         {
-            "datetime": "1623638860",
-            "filename": "dotOS-R-v5.1.1-phoenix-GAPPS-20210614-0240.zip",
-            "id": "700f3d2b3e63634d05bed76d2abe7966",
+            "datetime": "1626615433",
+            "filename": "dotOS-R-v5.1.2-phoenix-GAPPS-20210718-1329.zip",
+            "id": "148092af460b064386926d78f236358b",
             "romtype": "GAPPS",
-            "size": "1463052840",
-            "url": "https://downloads.droidontime.com/dot11/phoenix/gapps/dotOS-R-v5.1.1-phoenix-GAPPS-20210614-0240.zip",
-            "version": "v5.1.1",
+            "size": "1464087799",
+            "url": "https://downloads.droidontime.com/dot11/phoenix/gapps/dotOS-R-v5.1.2-phoenix-GAPPS-20210718-1329.zip",
+            "version": "v5.1.2",
             "changelog": [
                 {
                     "miscTitle": "New features",
-                    "miscSummary": "\u2022 Screen-off animations\n\u2022 Fixed lockscreen visualizer\n\u2022 Improved Wallpaper Section inside Customizations.",
+                    "miscSummary": "\u2022 Added colored statusbar icons toggle \n\u2022 Added Programming IDE lockscreen clock \n\u2022 Added Samsung Lockscreen clock \n\u2022 Added dual tone clock.",
                     "settingsTitle": "Small layout fixes",
-                    "settingsSummary": "\u2022 Now Display size and Font size sections can be scrolled without issue.",
-                    "securityTitle": "June Buletin",
-                    "securitySummary": "\u2022 New June Security Patch merged",
-                    "systemTitle": "MonetWannabe fixes",
-                    "systemSummary": "\u2022 Fixes for 3rd party apps (including Solid Explorer) "
+                    "settingsSummary": "\u2022 Face Unlock improvements.",
+                    "securityTitle": "July Bulletin",
+                    "securitySummary": "\u2022 July Security Patch merged",
+                    "systemTitle": "Locksceen clock fixes",
+                    "systemSummary": "\u2022 Fixes for Lockscreen clock when qspanel is expanded\n\u2022 fixed Theme reset after reboot\n\u2022 privacy indicators are back\n\u2022 Merged translations"
                 }
             ]
         }
