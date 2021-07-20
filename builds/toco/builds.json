@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": "1626661544",
-            "filename": "dotOS-R-v5.1.2-toco-GAPPS-20210719-0143.zip",
-            "id": "f207de6b8a7fa1313a85813698b6b939",
+            "datetime": "1626802542",
+            "filename": "dotOS-R-v5.1.2-toco-OFFICIAL-20210720-1654.zip",
+            "id": "9c716eb0a13ea0d754cdd31c6f1640b3",
             "romtype": "OFFICIAL",
-            "size": "1599717556",
-            "url": "https://downloads.droidontime.com/dot11/toco/vanilla/dotOS-R-v5.1.2-toco-GAPPS-20210719-0143.zip",
+            "size": "1122225947",
+            "url": "https://downloads.droidontime.com/dot11/toco/vanilla/dotOS-R-v5.1.2-toco-OFFICIAL-20210720-1654.zip",
             "version": "v5.1.2",
             "changelog": [
                 {
