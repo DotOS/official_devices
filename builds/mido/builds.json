@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": "1626548879",
-            "filename": "dotOS-R-v5.1.2-mido-OFFICIAL-20210717-1831.zip",
-            "id": "bf4da265491dac8fd2e09433743bd93e",
+            "datetime": "1626740628",
+            "filename": "dotOS-R-v5.1.2-mido-OFFICIAL-20210719-2345.zip",
+            "id": "ec5df4e8a59235be3d7c74556e338c75",
             "romtype": "OFFICIAL",
-            "size": "678335132",
-            "url": "https://downloads.droidontime.com/dot11/mido/vanilla/dotOS-R-v5.1.2-mido-OFFICIAL-20210717-1831.zip",
+            "size": "678729502",
+            "url": "https://downloads.droidontime.com/dot11/mido/vanilla/dotOS-R-v5.1.2-mido-OFFICIAL-20210719-2345.zip",
             "version": "v5.1.2",
             "changelog": [
                 {
