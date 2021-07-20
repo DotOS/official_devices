@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": "1626553269",
-            "filename": "dotOS-R-v5.1.2-albus-OFFICIAL-20210717-1942.zip",
-            "id": "3dd4ede5d929414bca7c4bac7d2586eb",
+            "datetime": "1626746896",
+            "filename": "dotOS-R-v5.1.2-albus-OFFICIAL-20210720-0130.zip",
+            "id": "753df0ffeb4089865ae6e736b011f9f5",
             "romtype": "OFFICIAL",
-            "size": "765724419",
-            "url": "https://downloads.droidontime.com/dot11/albus/vanilla/dotOS-R-v5.1.2-albus-OFFICIAL-20210717-1942.zip",
+            "size": "765737527",
+            "url": "https://downloads.droidontime.com/dot11/albus/vanilla/dotOS-R-v5.1.2-albus-OFFICIAL-20210720-0130.zip",
             "version": "v5.1.2",
             "changelog": [
                 {
