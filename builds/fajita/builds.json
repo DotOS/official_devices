@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": "1626593264",
-            "filename": "dotOS-R-v5.1.2-fajita-OFFICIAL-20210718-0650.zip",
-            "id": "98b27228b24b925fab3b8a71cf89ed73",
+            "datetime": "1626818167",
+            "filename": "dotOS-R-v5.1.2-fajita-OFFICIAL-20210720-2119.zip",
+            "id": "acb69848345329b421ab99b7687bb2bd",
             "romtype": "OFFICIAL",
-            "size": "752328799",
-            "url": "https://downloads.droidontime.com/dot11/fajita/vanilla/dotOS-R-v5.1.2-fajita-OFFICIAL-20210718-0650.zip",
+            "size": "752328827",
+            "url": "https://downloads.droidontime.com/dot11/fajita/vanilla/dotOS-R-v5.1.2-fajita-OFFICIAL-20210720-2119.zip",
             "version": "v5.1.2",
             "changelog": [
                 {
