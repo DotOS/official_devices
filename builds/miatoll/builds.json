@@ -1,23 +1,23 @@
 {
     "response": [
         {
-            "datetime": "1622456329",
-            "filename": "dotOS-R-v5.1-miatoll-OFFICIAL-20210531-0939.zip",
-            "id": "aab07309c7e5860bd69be4286f7977a8",
+            "datetime": "1626786158",
+            "filename": "dotOS-R-v5.1.2-miatoll-OFFICIAL-20210720-1220.zip",
+            "id": "7b4081411b127e6a7bf72ba254e54a22",
             "romtype": "OFFICIAL",
-            "size": "1180313852",
-            "url": "https://downloads.droidontime.com/dot11/miatoll/vanilla/dotOS-R-v5.1-miatoll-OFFICIAL-20210531-0939.zip",
-            "version": "v5.1",
+            "size": "1180738213",
+            "url": "https://downloads.droidontime.com/dot11/miatoll/vanilla/dotOS-R-v5.1.2-miatoll-OFFICIAL-20210720-1220.zip",
+            "version": "v5.1.2",
             "changelog": [
                 {
-                    "miscTitle": "",
-                    "miscSummary": "",
-                    "settingsTitle": "Huge revamp",
-                    "settingsSummary": "\u2022 New dashboard look\n\u2022 Fixed avatar icon on dashboard\n\u2022 Implemented Silky UI\n\u2022 Multiple sections revamped to match guidelines\n\u2022 AboutDevice card revamped\n\u2022 Revamped Customizations app\n...\n\u2022 Full changelog : https://changelogs.droidontime.com/",
-                    "securityTitle": "",
-                    "securitySummary": "\u2022 Moved to user builds\n\u2022 Signature changed to dot's own keys",
-                    "systemTitle": "User Interface",
-                    "systemSummary": "\u2022 Implemented MonetWannabe wallpaper-based theme engine\n\u2022 Redesigned QSPanel\n\u2022 Added Applock\n...\n\u2022 Full changelog : https://changelogs.droidontime.com/"
+                    "miscTitle": "New features",
+                    "miscSummary": "\u2022 Added colored statusbar icons toggle \n\u2022 Added Programming IDE lockscreen clock \n\u2022 Added Samsung Lockscreen clock \n\u2022 Added dual tone clock.",
+                    "settingsTitle": "Small layout fixes",
+                    "settingsSummary": "\u2022 Face Unlock improvements.",
+                    "securityTitle": "July Bulletin",
+                    "securitySummary": "\u2022 July Security Patch merged",
+                    "systemTitle": "Locksceen clock fixes",
+                    "systemSummary": "\u2022 Fixes for Lockscreen clock when qspanel is expanded\n\u2022 fixed Theme reset after reboot\n\u2022 privacy indicators are back\n\u2022 Merged translations"
                 }
             ]
         }
