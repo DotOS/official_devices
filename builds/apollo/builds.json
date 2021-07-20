@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": "1626558136",
-            "filename": "dotOS-R-v5.1.2-apollo-OFFICIAL-20210717-2100.zip",
-            "id": "fef4412de93c3b6e5edbf4a22ccd799d",
+            "datetime": "1626751800",
+            "filename": "dotOS-R-v5.1.2-apollo-OFFICIAL-20210720-0248.zip",
+            "id": "307c8721ebe11386284388e27c7541fa",
             "romtype": "OFFICIAL",
-            "size": "1177001388",
-            "url": "https://downloads.droidontime.com/dot11/apollo/vanilla/dotOS-R-v5.1.2-apollo-OFFICIAL-20210717-2100.zip",
+            "size": "1177002115",
+            "url": "https://downloads.droidontime.com/dot11/apollo/vanilla/dotOS-R-v5.1.2-apollo-OFFICIAL-20210720-0248.zip",
             "version": "v5.1.2",
             "changelog": [
                 {
