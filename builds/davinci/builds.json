@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": "1626577932",
-            "filename": "dotOS-R-v5.1.2-davinci-OFFICIAL-20210718-0231.zip",
-            "id": "79134b14baa5f2af4a6b8cf0fb5361ce",
+            "datetime": "1626774954",
+            "filename": "dotOS-R-v5.1.2-davinci-OFFICIAL-20210720-0915.zip",
+            "id": "b71239182aa63c3d09a14127de789092",
             "romtype": "OFFICIAL",
-            "size": "1305638088",
-            "url": "https://downloads.droidontime.com/dot11/davinci/vanilla/dotOS-R-v5.1.2-davinci-OFFICIAL-20210718-0231.zip",
+            "size": "1305667265",
+            "url": "https://downloads.droidontime.com/dot11/davinci/vanilla/dotOS-R-v5.1.2-davinci-OFFICIAL-20210720-0915.zip",
             "version": "v5.1.2",
             "changelog": [
                 {
