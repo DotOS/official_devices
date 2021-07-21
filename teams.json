@@ -409,19 +409,27 @@
 	]
 },
 {
-    "_id": "enweazudaniel",
-    "name": "Enweazu Daniel",
-    "url": "https://github.com/enweazudaniel",
-    "devices": [
-        "jason"
-    ]
+	"_id": "enweazudaniel",
+	"name": "Enweazu Daniel",
+	"url": "https://github.com/enweazudaniel",
+	"devices": [
+		"jason"
+	]
 },
 {
-    "_id": "Naxo79",
-    "name": "Ignacio Garcia",
-    "url": "https://github.com/Naxo79",
-    "devices": [
-        "ocean"
-    ]
+	"_id": "Naxo79",
+	"name": "Ignacio Garcia",
+	"url": "https://github.com/Naxo79",
+	"devices": [
+		"ocean"
+	]
+},
+{
+	"_id": "shield44",
+	"name": "Android404",
+	"url": "https://github.com/shield44",
+	"devices": [
+		"olivewood"
+	]
 }
 ]
