@@ -29,6 +29,16 @@
 	}
 },
 {
+    "name": "Redmi 8A Dual",
+    "brand": "Xiaomi",
+    "codename": "olivewood",
+    "xda_thread": "https://forum.xda-developers.com/t/rom-android11-redmi-8a-dual-dot-os-unofficial-02-07-2021.4270865/",
+	"version_info": {
+        "has_vanilla_builds": false,
+		"has_gapps_builds": false
+    }
+},
+{
 	"name": "Redmi Note 8",
 	"brand": "Xiaomi",
 	"codename": "ginkgo",

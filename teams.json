@@ -415,5 +415,13 @@
     "devices": [
         "jason"
     ]
+},
+{
+    "_id": "shield44",
+    "name": "Android404",
+    "url": "https://github.com/shield44",
+    "devices": [
+        "olivewood"
+    ]
 }
 ]
