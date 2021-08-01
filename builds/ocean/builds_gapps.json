@@ -1,0 +1,25 @@
+{
+    "response": [
+        {
+            "datetime": "1627784143",
+            "filename": "dotOS-R-v5.1.2-ocean-GAPPS-20210801-0212.zip",
+            "id": "fe93a0126af8f04935a9899807b92a01",
+            "romtype": "GAPPS",
+            "size": "1069887197",
+            "url": "https://downloads.droidontime.com/dot11/ocean/gapps/dotOS-R-v5.1.2-ocean-GAPPS-20210801-0212.zip",
+            "version": "v5.1.2",
+            "changelog": [
+                {
+                    "miscTitle": "New features",
+                    "miscSummary": "\u2022 Added colored statusbar icons toggle \n\u2022 Added Programming IDE lockscreen clock \n\u2022 Added Samsung Lockscreen clock \n\u2022 Added dual tone clock.",
+                    "settingsTitle": "Small layout fixes",
+                    "settingsSummary": "\u2022 Face Unlock improvements.",
+                    "securityTitle": "July Bulletin",
+                    "securitySummary": "\u2022 July Security Patch merged",
+                    "systemTitle": "Locksceen clock fixes",
+                    "systemSummary": "\u2022 Fixes for Lockscreen clock when qspanel is expanded\n\u2022 fixed Theme reset after reboot\n\u2022 privacy indicators are back\n\u2022 Merged translations"
+                }
+            ]
+        }
+    ]
+}
