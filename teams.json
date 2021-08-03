@@ -431,5 +431,13 @@
 	"devices": [
 		"olivewood"
 	]
+},
+{
+	"_id": "deadlylxrd",
+	"name": "deadlylxrd",
+	"url": "https://github.com/IAmDeadlylxrd",
+	"devices": [
+		"olive"
+	]
 }
 ]

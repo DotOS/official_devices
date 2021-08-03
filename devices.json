@@ -29,6 +29,16 @@
 	}
 },
 {
+	"name": "Redmi 8",
+	"brand": "Xiaomi",
+	"codename": "olive",
+	"xda_thread": "https://forum.xda-developers.com/t/rom-aosp-11-0-unofficial-olive-dotos-v5-1-2-for-redmi-8.4302385/",
+	"version_info": {
+		"has_vanilla_builds": false,
+		"has_gapps_builds": false
+	}
+},
+{
 	"name": "Redmi 8A Dual",
 	"brand": "Xiaomi",
 	"codename": "olivewood",
