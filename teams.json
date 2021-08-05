@@ -439,5 +439,13 @@
 	"devices": [
 		"olive"
 	]
+},
+{
+	"_id": "GeorgeDachamp",
+	"name": "GeorgeDachamp",
+	"url": "https://github.com/GeorgeDachamp",
+	"devices": [
+		"guacamole"	
+	]
 }
 ]
