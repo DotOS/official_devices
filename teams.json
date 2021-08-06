@@ -7,6 +7,14 @@
 	]
 },
 {
+        "_id": "Ebin_A",
+        "name": "Ebin A",
+        "url": "https://github.com/arulebin",
+        "devices": [
+                "rosy"
+        ]
+},
+{
 	"_id": "mohan",
 	"name": "Mohan C M",
 	"url": "https://github.com/mohancm",

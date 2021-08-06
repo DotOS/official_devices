@@ -39,6 +39,16 @@
 	}
 },
 {
+        "name": "Redmi 5",
+        "brand": "Xiaomi",
+        "codename": "rosy",
+        "xda_thread": "https://forum.xda-developers.com/t/rom-unofficial-dotos-5-0-redmi5-rosy-android-11.4231269/",
+        "version_info": {
+                "has_vanilla_builds": false,
+                "has_gapps_builds": false
+        }
+},
+{
 	"name": "Redmi 8A Dual",
 	"brand": "Xiaomi",
 	"codename": "olivewood",
