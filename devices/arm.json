@@ -1,0 +1,27 @@
+{
+	"codename": "arm",
+	"deviceName": "GSI - ARM (A only)",
+	"brandName": "Android",
+	"otaEnabled": false,
+	"latestVersion": "v5.1.3",
+	"discontinued": false,
+	"deviceChangelog": null,
+	"releases": [
+		{
+			"type": "vanilla",
+			"generatedAt": 1628949431,
+			"fileName": "dotOS-R-v5.1.3-arm_a-VANILLA-OFFICIAL.img.xz",
+			"url": "https://downloads.droidontime.com/dot11/gsi_images/arm/vanilla/dotOS-R-v5.1.3-arm_a-VANILLA-OFFICIAL.img.xz",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "a44e3064063b1178191a9b91e4973aa7",
+			"size": 562639200,
+			"version": "v5.1.3"
+		}
+	],
+	"links": { "xda": null, "telegram": null },
+	"maintainerInfo": {
+		"name": "Community Maintained",
+		"profileURL": "https://github.com/mohancm/"
+	}
+}

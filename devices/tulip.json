@@ -1,0 +1,41 @@
+{
+  "codename": "tulip",
+  "deviceName": "Redmi Note 6 Pro",
+  "brandName": "Xiaomi",
+  "otaEnabled": true,
+  "latestVersion": "v5.1.3",
+  "discontinued": false,
+  "deviceChangelog": null,
+  "releases": [
+    {
+      "type": "vanilla",
+      "generatedAt": 1628796465,
+      "fileName": "dotOS-R-v5.1.3-tulip-OFFICIAL-20210812-1849.zip",
+      "url": "https://downloads.droidontime.com/dot11/tulip/vanilla/dotOS-R-v5.1.3-tulip-OFFICIAL-20210812-1849.zip",
+      "requireCleanFlash": false,
+      "images": null,
+      "hash": "b515e3dc91de407bb134aaa49aef0a5b",
+      "size": 818771728,
+      "version": "v5.1.3"
+    },
+    {
+      "type": "gapps",
+      "generatedAt": 1628797682,
+      "fileName": "dotOS-R-v5.1.3-tulip-GAPPS-20210812-1942.zip",
+      "url": "https://downloads.droidontime.com/dot11/tulip/gapps/dotOS-R-v5.1.3-tulip-GAPPS-20210812-1942.zip",
+      "requireCleanFlash": false,
+      "images": null,
+      "hash": "fc24c4746a44ef36919452303cb5c67c",
+      "size": 1253139600,
+      "version": "v5.1.3"
+    }
+  ],
+  "links": {
+    "xda": "https://forum.xda-developers.com/t/rom-11-official-dotos-5-0-1-tulip.4265211/",
+    "telegram": null
+  },
+  "maintainerInfo": {
+    "name": "Jeferson L",
+    "profileURL": "https://github.com/jefinhodatnt"
+  }
+}

@@ -1,0 +1,27 @@
+{
+	"codename": "a64",
+	"deviceName": "GSI - A64 (A only)",
+	"brandName": "Android",
+	"otaEnabled": false,
+	"latestVersion": "v5.1.3",
+	"discontinued": false,
+	"deviceChangelog": null,
+	"releases": [
+		{
+			"type": "vanilla",
+			"generatedAt": 1628949431,
+			"fileName": "dotOS-R-v5.1.3-a64_a-VANILLA-OFFICIAL.img.xz",
+			"url": "https://downloads.droidontime.com/dot11/gsi_images/a64/vanilla/dotOS-R-v5.1.3-a64_a-VANILLA-OFFICIAL.img.xz",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "35295d424e338040c349f9718892a374",
+			"size": 541053244,
+			"version": "v5.1.3"
+		}
+	],
+	"links": { "xda": null, "telegram": null },
+	"maintainerInfo": {
+		"name": "Community Maintained",
+		"profileURL": "https://github.com/mohancm/"
+	}
+}

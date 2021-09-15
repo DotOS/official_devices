@@ -1,0 +1,94 @@
+{
+	"Android": {
+		"a64": "GSI - A64 A only",
+		"arm": "GSI - Arm A only",
+		"arm64": "GSI - Arm64 A/B",
+		"arm64-ab-vndklite": "GSI - Arm64 A/B vndklite",
+		"arm64_a-only": "GSI - Arm64 A Only"
+	},
+	"Asus": {
+		"X00QD": "Zenfone 5",
+		"X00TD": "Zenfone Max Pro M1",
+		"X01AD": "Zenfone Max M2",
+		"X01BD": "Zenfone Max Pro M2"
+	},
+	"Google": {
+		"bonito": "Pixel 3a XL",
+		"sargo": "Pixel 3a",
+		"taimen": "Pixel 2XL",
+		"walleye": "Pixel 2"
+	},
+	"Lenovo": {
+		"jd2019": "Z5s"
+	},
+	"Motorola": {
+		"albus": "Moto Z2 Play",
+		"ocean": "Moto G7 Power",
+		"payton": "Motorola moto X4",
+		"potter": "Moto G5 Plus",
+		"sanders": "Moto G (5S) Plus"
+	},
+	"Oneplus": {
+		"cheeseburger": "Oneplus 5",
+		"dumpling": "Oneplus 5T",
+		"enchilada": "OnePlus 6",
+		"fajita": "OnePlus 6T",
+		"guacamole": "Oneplus 7 Pro",
+		"hotdog": "Oneplus 7T Pro",
+		"hotdogb": "Oneplus 7T",
+		"kebab": "OnePlus 8T",
+		"oneplus3": "OnePlus 3/3T"
+	},
+	"POCO": {
+		"beryllium": "Poco F1",
+		"juice": "POCO M3 / Redmi 9T nfc/9 Power / note 9 4G",
+		"miatoll": "Poco M2 Pro/Redmi Note 9S/Pro/Pro Max",
+		"phoenix": "Poco X2",
+		"surya": "POCO X3 NFC",
+		"vayu": "Poco X3 Pro"
+	},
+	"Realme": {
+		"RMX1851": "Realme 3 Pro",
+		"RMX1921": "Realme XT",
+		"RMX2001": "Realme 6/6i/6s"
+	},
+	"Samsung": {
+		"crownqltechn": "Samsung Galaxy N9",
+		"star2qltechn": "Samsung Galaxy S9+",
+		"starqltechn": "Samsung Galaxy S9"
+	},
+	"Xiaomi": {
+		"apollo": "Mi 10T/10T Pro",
+		"begonia": "Redmi Note 8 Pro",
+		"chiron": "Mi Mix 2",
+		"davinci": "Mi 9T",
+		"dipper": "Xiaomi 8",
+		"gauguin": "Redmi Note9 Pro 5G/Mi10i/Mi10T Lite",
+		"ginkgo": "Redmi Note 8",
+		"jasmine_sprout": "Mi A2",
+		"jason": "Mi Note 3",
+		"lavender": "Redmi Note 7/7s",
+		"mido": "Redmi Note 4",
+		"olive": "Redmi 8",
+		"olivewood": "Redmi 8A Dual",
+		"onclite": "Redmi 7",
+		"perseus": "Mi Mix 3",
+		"pine": "Redmi 7A",
+		"raphael": "Redmi K20 Pro",
+		"rolex": "Redmi 4A/5a",
+		"rosy": "Redmi 5",
+		"sakura": "Redmi 6 Pro",
+		"sweet": "Redmi Note 10 Pro/Pro Max",
+		"tissot": "Mi A1",
+		"toco": "Mi Note 10 Lite",
+		"tulip": "Redmi Note 6 Pro",
+		"vince": "Redmi Note 5 / 5 Plus",
+		"violet": "Redmi Note 7 Pro",
+		"wayne": "Mi 6X",
+		"whyred": "Redmi Note 5 Pro",
+		"ysl": "Redmi S2"
+	},
+	"ZUK": {
+		"z2_plus": "Z2 Plus"
+	}
+}

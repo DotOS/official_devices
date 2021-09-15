@@ -1,0 +1,41 @@
+{
+  "codename": "potter",
+  "deviceName": "Moto G5 Plus",
+  "brandName": "Motorola",
+  "otaEnabled": true,
+  "latestVersion": "v5.1.3",
+  "discontinued": false,
+  "deviceChangelog": null,
+  "releases": [
+    {
+      "type": "vanilla",
+      "generatedAt": 1628564102,
+      "fileName": "dotOS-R-v5.1.3-potter-OFFICIAL-20210810-0221.zip",
+      "url": "https://downloads.droidontime.com/dot11/potter/vanilla/dotOS-R-v5.1.3-potter-OFFICIAL-20210810-0221.zip",
+      "requireCleanFlash": false,
+      "images": null,
+      "hash": "7a5eaefe3a552017bb3aa01afb112264",
+      "size": 732258977,
+      "version": "v5.1.3"
+    },
+    {
+      "type": "gapps",
+      "generatedAt": 1628565294,
+      "fileName": "dotOS-R-v5.1.3-potter-GAPPS-20210810-0309.zip",
+      "url": "https://downloads.droidontime.com/dot11/potter/gapps/dotOS-R-v5.1.3-potter-GAPPS-20210810-0309.zip",
+      "requireCleanFlash": false,
+      "images": null,
+      "hash": "de047edb20dc7f9aff1afb08018408f3",
+      "size": 1170290160,
+      "version": "v5.1.3"
+    }
+  ],
+  "links": {
+    "xda": "https://forum.xda-developers.com/t/rom-11-dotos-5-0-1-for-potter-official.4261731/",
+    "telegram": null
+  },
+  "maintainerInfo": {
+    "name": "Zilberto Junior",
+    "profileURL": "https://github.com/zjunior06"
+  }
+}

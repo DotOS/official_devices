@@ -1,0 +1,41 @@
+{
+	"codename": "RMX1851",
+	"deviceName": "Realme 3 Pro",
+	"brandName": "Realme",
+	"otaEnabled": true,
+	"latestVersion": "v5.0.1",
+	"discontinued": true,
+	"deviceChangelog": null,
+	"releases": [
+		{
+			"type": "vanilla",
+			"generatedAt": 1620187063,
+			"fileName": "dotOS-R-v5.0.1-RMX1851-OFFICIAL-20210505-0400.zip",
+			"url": "https://downloads.droidontime.com/dot11/RMX1851/vanilla/dotOS-R-v5.0.1-RMX1851-OFFICIAL-20210505-0400.zip",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "36f7194fd6f27baaa1a50edb17e387a9",
+			"size": 663650036,
+			"version": "v5.0.1"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1620241472,
+			"fileName": "dotOS-R-v5.0.1-RMX1851-GAPPS-20210505-1905.zip",
+			"url": "https://downloads.droidontime.com/dot11/RMX1851/gapps/dotOS-R-v5.0.1-RMX1851-GAPPS-20210505-1905.zip",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "d80fb633ad9c2ecdeb6efd8f484d8bb0",
+			"size": 1077376293,
+			"version": "v5.0.1"
+		}
+	],
+	"links": {
+		"xda": "https://forum.xda-developers.com/t/dotos-r-v5-0-1-unofficial-for-realme-3-pro-rmx1851.4232545/",
+		"telegram": null
+	},
+	"maintainerInfo": {
+		"name": "Ali Shahawez Khan",
+		"profileURL": "https://github.com/viralbanda/"
+	}
+}

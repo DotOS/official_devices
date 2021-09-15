@@ -1,0 +1,18 @@
+{
+	"codename": "kebab",
+	"deviceName": "OnePlus 8T",
+	"brandName": "Oneplus",
+	"otaEnabled": true,
+	"latestVersion": null,
+	"discontinued": true,
+	"deviceChangelog": null,
+	"releases": null,
+	"links": {
+		"xda": "https://forum.xda-developers.com/t/rom-11-8t-dotos-v5-0-1-unofficial-gapps.4251511/",
+		"telegram": null
+	},
+	"maintainerInfo": {
+		"name": "xstefen",
+		"profileURL": "https://github.com/xstefen/"
+	}
+}

@@ -1,0 +1,41 @@
+{
+  "codename": "wayne",
+  "deviceName": "Mi 6X",
+  "brandName": "Xiaomi",
+  "otaEnabled": true,
+  "latestVersion": "v5.1.3",
+  "discontinued": false,
+  "deviceChangelog": null,
+  "releases": [
+    {
+      "type": "vanilla",
+      "generatedAt": 1628634526,
+      "fileName": "dotOS-R-v5.1.3-wayne-OFFICIAL-20210810-2149.zip",
+      "url": "https://downloads.droidontime.com/dot11/wayne/vanilla/dotOS-R-v5.1.3-wayne-OFFICIAL-20210810-2149.zip",
+      "requireCleanFlash": false,
+      "images": null,
+      "hash": "abc31749e96fc3ca4df3edc4f66edb9c",
+      "size": 861708246,
+      "version": "v5.1.3"
+    },
+    {
+      "type": "gapps",
+      "generatedAt": 1628636478,
+      "fileName": "dotOS-R-v5.1.3-wayne-GAPPS-20210810-2249.zip",
+      "url": "https://downloads.droidontime.com/dot11/wayne/gapps/dotOS-R-v5.1.3-wayne-GAPPS-20210810-2249.zip",
+      "requireCleanFlash": false,
+      "images": null,
+      "hash": "c4f29a121fe22611b7571d33768a9c8e",
+      "size": 1299999141,
+      "version": "v5.1.3"
+    }
+  ],
+  "links": {
+    "xda": "https://forum.xda-developers.com/t/rom-11-official-dotos-mi-6x-wayne.4232501/",
+    "telegram": null
+  },
+  "maintainerInfo": {
+    "name": "Ronald Santos",
+    "profileURL": "https://github.com/ronald-b"
+  }
+}

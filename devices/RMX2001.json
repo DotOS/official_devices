@@ -1,0 +1,41 @@
+{
+	"codename": "RMX2001",
+	"deviceName": "Realme 6/6i/6s",
+	"brandName": "Realme",
+	"otaEnabled": true,
+	"latestVersion": "v5.0.1",
+	"discontinued": true,
+	"deviceChangelog": null,
+	"releases": [
+		{
+			"type": "vanilla",
+			"generatedAt": 1618649595,
+			"fileName": "dotOS-R-v5.0.1-RMX2001-OFFICIAL-20210417-0740.zip",
+			"url": "https://downloads.droidontime.com/dot11/RMX2001/vanilla/dotOS-R-v5.0.1-RMX2001-OFFICIAL-20210417-0740.zip",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "5d0fbb8301950ea99b042359d46ced11",
+			"size": 644874240,
+			"version": "v5.0.1"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1618647284,
+			"fileName": "dotOS-R-v5.0.1-RMX2001-OFFICIAL-20210417-0656.zip",
+			"url": "https://downloads.droidontime.com/dot11/RMX2001/gapps/dotOS-R-v5.0.1-RMX2001-OFFICIAL-20210417-0656.zip",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "a7fa2bbe103f213b5cbf97969673d5d8",
+			"size": 1288490188,
+			"version": "v5.0.1"
+		}
+	],
+	"links": {
+		"xda": "https://forum.xda-developers.com/t/rom-official-stable-r-realme6-update-dotos-5-0-1-17-04-2021.4263399/",
+		"telegram": null
+	},
+	"maintainerInfo": {
+		"name": "Himanshu Tyagi",
+		"profileURL": "https://github.com/ManshuTyagi"
+	}
+}

@@ -1,0 +1,38 @@
+{
+	"codename": "apollo",
+	"deviceName": "Mi 10T/10T Pro",
+	"brandName": "Xiaomi",
+	"otaEnabled": true,
+	"latestVersion": "v5.1.3",
+	"discontinued": false,
+	"deviceChangelog": null,
+	"releases": [
+		{
+			"type": "vanilla",
+			"generatedAt": 1628801443,
+			"fileName": "dotOS-R-v5.1.3-apollo-OFFICIAL-20210812-2008.zip",
+			"url": "https://downloads.droidontime.com/dot11/apollo/vanilla/dotOS-R-v5.1.3-apollo-OFFICIAL-20210812-2008.zip",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "ee314bb6c16f44d7de0be839287d1f7e",
+			"size": 1176188685,
+			"version": "v5.1.3"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1628803288,
+			"fileName": "dotOS-R-v5.1.3-apollo-GAPPS-20210812-2113.zip",
+			"url": "https://downloads.droidontime.com/dot11/apollo/gapps/dotOS-R-v5.1.3-apollo-GAPPS-20210812-2113.zip",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "cf77ad8d47dc433f76c036bf267d7b71",
+			"size": 1598754638,
+			"version": "v5.1.3"
+		}
+	],
+	"links": { "xda": "", "telegram": null },
+	"maintainerInfo": {
+		"name": "ejbtrd",
+		"profileURL": "https://github.com/ejbtrd/"
+	}
+}

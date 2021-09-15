@@ -1,0 +1,41 @@
+{
+	"codename": "chiron",
+	"deviceName": "Mi Mix 2",
+	"brandName": "Xiaomi",
+	"otaEnabled": true,
+	"latestVersion": "v5.0.1",
+	"discontinued": true,
+	"deviceChangelog": null,
+	"releases": [
+		{
+			"type": "vanilla",
+			"generatedAt": 1618421388,
+			"fileName": "dotOS-R-v5.0.1-chiron-20210414-1731.zip",
+			"url": "https://downloads.droidontime.com/dot11/chiron/vanilla/dotOS-R-v5.0.1-chiron-20210414-1731.zip",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "ee7af991eb06f7ee26b22905525b1dc0",
+			"size": 696652421,
+			"version": "v5.0.1"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1618402022,
+			"fileName": "dotOS-R-v5.0.1-chiron-GAPPS-20210414-1207.zip",
+			"url": "https://downloads.droidontime.com/dot11/chiron/gapps/dotOS-R-v5.0.1-chiron-GAPPS-20210414-1207.zip",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "937a2a270f51f21eb0992fca8b14c88c",
+			"size": 1105541599,
+			"version": "v5.0.1"
+		}
+	],
+	"links": {
+		"xda": "https://forum.xda-developers.com/t/rom-11-0-official-dotos-v5-0.4245535",
+		"telegram": null
+	},
+	"maintainerInfo": {
+		"name": "WhiterWalt",
+		"profileURL": "https://github.com/WhiterWalt"
+	}
+}

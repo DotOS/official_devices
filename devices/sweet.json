@@ -1,0 +1,41 @@
+{
+  "codename": "sweet",
+  "deviceName": "Redmi Note 10 Pro/Pro Max",
+  "brandName": "Xiaomi",
+  "otaEnabled": true,
+  "latestVersion": "v5.1.3",
+  "discontinued": false,
+  "deviceChangelog": null,
+  "releases": [
+    {
+      "type": "vanilla",
+      "generatedAt": 1628603463,
+      "fileName": "dotOS-R-v5.1.3-sweet-OFFICIAL-20210810-1312.zip",
+      "url": "https://downloads.droidontime.com/dot11/sweet/vanilla/dotOS-R-v5.1.3-sweet-OFFICIAL-20210810-1312.zip",
+      "requireCleanFlash": false,
+      "images": null,
+      "hash": "2e7d0fa7f66788305291d93396d23212",
+      "size": 670921418,
+      "version": "v5.1.3"
+    },
+    {
+      "type": "gapps",
+      "generatedAt": 1628604856,
+      "fileName": "dotOS-R-v5.1.3-sweet-GAPPS-20210810-1408.zip",
+      "url": "https://downloads.droidontime.com/dot11/sweet/gapps/dotOS-R-v5.1.3-sweet-GAPPS-20210810-1408.zip",
+      "requireCleanFlash": false,
+      "images": null,
+      "hash": "2d020f0c9c9f51d89529b04d46f994be",
+      "size": 1089725487,
+      "version": "v5.1.3"
+    }
+  ],
+  "links": {
+    "xda": "https://forum.xda-developers.com/t/rom-dotos-android-11-sweet.4271097/",
+    "telegram": null
+  },
+  "maintainerInfo": {
+    "name": "Adarsh Grewal",
+    "profileURL": "https://github.com/AdarshGrewal/"
+  }
+}

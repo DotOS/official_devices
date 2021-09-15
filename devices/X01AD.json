@@ -1,0 +1,41 @@
+{
+  "codename": "X01AD",
+  "deviceName": "Zenfone Max M2",
+  "brandName": "Asus",
+  "otaEnabled": true,
+  "latestVersion": "v5.1.2",
+  "discontinued": false,
+  "deviceChangelog": null,
+  "releases": [
+    {
+      "type": "vanilla",
+      "generatedAt": 1626822785,
+      "fileName": "dotOS-R-v5.1.2-X01AD-OFFICIAL-20210720-2233.zip",
+      "url": "https://downloads.droidontime.com/dot11/X01AD/vanilla/dotOS-R-v5.1.2-X01AD-OFFICIAL-20210720-2233.zip",
+      "requireCleanFlash": false,
+      "images": null,
+      "hash": "4d36d9f2ad10329ac3da34766d1a4bdc",
+      "size": 705048729,
+      "version": "v5.1.2"
+    },
+    {
+      "type": "gapps",
+      "generatedAt": 1626823843,
+      "fileName": "dotOS-R-v5.1.2-X01AD-GAPPS-20210720-2325.zip",
+      "url": "https://downloads.droidontime.com/dot11/X01AD/gapps/dotOS-R-v5.1.2-X01AD-GAPPS-20210720-2325.zip",
+      "requireCleanFlash": false,
+      "images": null,
+      "hash": "5412f9918f808ed650fabe3f7d27c5e5",
+      "size": 1144118565,
+      "version": "v5.1.2"
+    }
+  ],
+  "links": {
+    "xda": "https://forum.xda-developers.com/t/rom-unofficial-11-0-x01ad-dotos-5-0-1.4223541/",
+    "telegram": null
+  },
+  "maintainerInfo": {
+    "name": "Nguyenhung9xdev",
+    "profileURL": "https://github.com/nguyenhung9x2020"
+  }
+}

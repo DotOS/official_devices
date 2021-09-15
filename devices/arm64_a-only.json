@@ -1,0 +1,24 @@
+{
+	"codename": "arm64_a-only",
+	"deviceName": "GSI - ARM64 (A only)",
+	"brandName": "Android",
+	"otaEnabled": false,
+	"latestVersion": "v5.1.3",
+	"discontinued": false,
+	"deviceChangelog": null,
+	"releases": [
+		{
+			"type": "vanilla",
+			"generatedAt": 1624190469,
+			"fileName": "dotOS-R-v5.1.3-arm64-aonly-VANILLA-OFFICIAL.img.xz",
+			"url": "https://downloads.droidontime.com/dot11/gsi_images/arm64/vanilla/dotOS-R-v5.1.3-arm64-aonly-VANILLA-OFFICIAL.img.xz",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "09ba4bb3bc765324a8fa80e10ce5ed94",
+			"size": 745651980,
+			"version": "v5.1.3"
+		}
+	],
+	"links": { "xda": null, "telegram": null },
+	"maintainerInfo": null
+}

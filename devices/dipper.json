@@ -1,0 +1,41 @@
+{
+  "codename": "dipper",
+  "deviceName": "Xiaomi 8",
+  "brandName": "Xiaomi",
+  "otaEnabled": true,
+  "latestVersion": "v5.1.3",
+  "discontinued": false,
+  "deviceChangelog": null,
+  "releases": [
+    {
+      "type": "vanilla",
+      "generatedAt": 1628484987,
+      "fileName": "dotOS-R-v5.1.3-dipper-OFFICIAL-20210809-0416.zip",
+      "url": "https://downloads.droidontime.com/dot11/dipper/vanilla/dotOS-R-v5.1.3-dipper-OFFICIAL-20210809-0416.zip",
+      "requireCleanFlash": false,
+      "images": null,
+      "hash": "9ba5c4976a4425a247192bd31488f59c",
+      "size": 910609073,
+      "version": "v5.1.3"
+    },
+    {
+      "type": "gapps",
+      "generatedAt": 1628486353,
+      "fileName": "dotOS-R-v5.1.3-dipper-GAPPS-20210809-0512.zip",
+      "url": "https://downloads.droidontime.com/dot11/dipper/gapps/dotOS-R-v5.1.3-dipper-GAPPS-20210809-0512.zip",
+      "requireCleanFlash": false,
+      "images": null,
+      "hash": "0e0558caf0ffa7ac932082442cd583ee",
+      "size": 1353965663,
+      "version": "v5.1.3"
+    }
+  ],
+  "links": {
+    "xda": "https://forum.xda-developers.com/t/rom-official-stable-r-dotos-5-0-1-08-05-2021.4230437/",
+    "telegram": null
+  },
+  "maintainerInfo": {
+    "name": "Kyuofox",
+    "profileURL": "https://github.com/KyuoFoxHuyu"
+  }
+}

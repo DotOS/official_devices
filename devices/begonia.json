@@ -1,0 +1,41 @@
+{
+	"codename": "begonia",
+	"deviceName": "Redmi Note 8 Pro",
+	"brandName": "Xiaomi",
+	"otaEnabled": true,
+	"latestVersion": "v5.1.1",
+	"discontinued": true,
+	"deviceChangelog": null,
+	"releases": [
+		{
+			"type": "vanilla",
+			"generatedAt": 1623759509,
+			"fileName": "dotOS-R-v5.1.1-begonia-OFFICIAL-20210615-1137.zip",
+			"url": "https://downloads.droidontime.com/dot11/begonia/vanilla/dotOS-R-v5.1.1-begonia-OFFICIAL-20210615-1137.zip",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "494bc6f6fcda468bb3ab55941d1bf363",
+			"size": 990060561,
+			"version": "v5.1.1"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1623761149,
+			"fileName": "dotOS-R-v5.1.1-begonia-GAPPS-20210615-1238.zip",
+			"url": "https://downloads.droidontime.com/dot11/begonia/gapps/dotOS-R-v5.1.1-begonia-GAPPS-20210615-1238.zip",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "ad2072b36eace83802040db9c6327a0f",
+			"size": 1433202235,
+			"version": "v5.1.1"
+		}
+	],
+	"links": {
+		"xda": "https://forum.xda-developers.com/t/rom-11-0-0-dotos-v5-0-official-begonia-begoniain-non-cfw-2021-02-08.4229621/",
+		"telegram": null
+	},
+	"maintainerInfo": {
+		"name": "Sahil Sonar",
+		"profileURL": "https://github.com/SahilSonar"
+	}
+}

@@ -1,0 +1,41 @@
+{
+	"codename": "juice",
+	"deviceName": "POCO M3 / Redmi 9T nfc/9 Power / note 9 4G",
+	"brandName": "POCO",
+	"otaEnabled": true,
+	"latestVersion": "v5.1.2",
+	"discontinued": true,
+	"deviceChangelog": null,
+	"releases": [
+		{
+			"type": "vanilla",
+			"generatedAt": 1626604490,
+			"fileName": "dotOS-R-v5.1.2-juice-OFFICIAL-20210718-0956.zip",
+			"url": "https://downloads.droidontime.com/dot11/juice/vanilla/dotOS-R-v5.1.2-juice-OFFICIAL-20210718-0956.zip",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "fc83c597b084a84aa1e0d13dd6efd6b1",
+			"size": 678938337,
+			"version": "v5.1.2"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1626605832,
+			"fileName": "dotOS-R-v5.1.2-juice-GAPPS-20210718-1051.zip",
+			"url": "https://downloads.droidontime.com/dot11/juice/gapps/dotOS-R-v5.1.2-juice-GAPPS-20210718-1051.zip",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "a458c48b779aa240805ccc7d29f6abfb",
+			"size": 1062944107,
+			"version": "v5.1.2"
+		}
+	],
+	"links": {
+		"xda": "https://forum.xda-developers.com/t/rom-android-11-dotos-poco-m3-redmi-9t-redmi-9-power-redmi-note-9-4g-juice-official.4279019/",
+		"telegram": null
+	},
+	"maintainerInfo": {
+		"name": "Aseel P Sathar",
+		"profileURL": "https://github.com/aseelps"
+	}
+}

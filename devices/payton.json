@@ -1,0 +1,41 @@
+{
+  "codename": "payton",
+  "deviceName": "Motorola moto X4",
+  "brandName": "Motorola",
+  "otaEnabled": true,
+  "latestVersion": "v5.1.3",
+  "discontinued": false,
+  "deviceChangelog": null,
+  "releases": [
+    {
+      "type": "vanilla",
+      "generatedAt": 1628549234,
+      "fileName": "dotOS-R-v5.1.3-payton-OFFICIAL-20210809-2208.zip",
+      "url": "https://downloads.droidontime.com/dot11/payton/vanilla/dotOS-R-v5.1.3-payton-OFFICIAL-20210809-2208.zip",
+      "requireCleanFlash": false,
+      "images": null,
+      "hash": "fdead4218991df4eb9a19e103c66462e",
+      "size": 687362014,
+      "version": "v5.1.3"
+    },
+    {
+      "type": "gapps",
+      "generatedAt": 1628550209,
+      "fileName": "dotOS-R-v5.1.3-payton-GAPPS-20210809-2259.zip",
+      "url": "https://downloads.droidontime.com/dot11/payton/gapps/dotOS-R-v5.1.3-payton-GAPPS-20210809-2259.zip",
+      "requireCleanFlash": false,
+      "images": null,
+      "hash": "17d2a1938a8d53dc64086465ca789fc9",
+      "size": 1080672560,
+      "version": "v5.1.3"
+    }
+  ],
+  "links": {
+    "xda": "https://forum.xda-developers.com/f/moto-x4-roms-kernels-recoveries-other-develop.6916/",
+    "telegram": null
+  },
+  "maintainerInfo": {
+    "name": "AadityaZeo",
+    "profileURL": "https://github.com/aadityazeo"
+  }
+}

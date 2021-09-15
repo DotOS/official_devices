@@ -1,0 +1,59 @@
+{
+	"codename": "rolex",
+	"deviceName": "Redmi 4A/5a",
+	"brandName": "Xiaomi",
+	"otaEnabled": true,
+	"latestVersion": "v5.2",
+	"discontinued": false,
+	"deviceChangelog": null,
+	"releases": [
+		{
+			"type": "vanilla",
+			"generatedAt": 1631662925,
+			"fileName": "dotOS-R-v5.2-rolex-OFFICIAL-20210914-2343.zip",
+			"url": "https://api.droidontime.com/api/download/rolex/v5.2/vanilla",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/rolex/v5.2/vanilla/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/rolex/v5.2/vanilla/recovery"
+				}
+			],
+			"hash": "cd421d119eabdb50ae89c5f89a4d2c5b",
+			"size": 708564457,
+			"version": "v5.2"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1631665806,
+			"fileName": "dotOS-R-v5.2-rolex-GAPPS-20210915-0031.zip",
+			"url": "https://api.droidontime.com/api/download/rolex/v5.2/gapps",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/rolex/v5.2/gapps/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/rolex/v5.2/gapps/recovery"
+				}
+			],
+			"hash": "0cb43ba41a589c4e920a2d88ac2cc412",
+			"size": 1152799328,
+			"version": "v5.2"
+		}
+	],
+	"links": {
+		"xda": "https://forum.xda-developers.com/t/rom-unified-dotos-official-redmi4a-5a-v5-0-0.4231155/",
+		"telegram": null
+	},
+	"maintainerInfo": {
+		"name": "Manohar Singh",
+		"profileURL": "https://github.com/adi153"
+	}
+}

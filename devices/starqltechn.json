@@ -1,0 +1,41 @@
+{
+  "codename": "starqltechn",
+  "deviceName": "Samsung Galaxy S9",
+  "brandName": "Samsung",
+  "otaEnabled": true,
+  "latestVersion": "v5.1.3",
+  "discontinued": false,
+  "deviceChangelog": null,
+  "releases": [
+    {
+      "type": "vanilla",
+      "generatedAt": 1628589548,
+      "fileName": "dotOS-R-v5.1.3-starqltechn-OFFICIAL-20210810-0921.zip",
+      "url": "https://downloads.droidontime.com/dot11/starqltechn/vanilla/dotOS-R-v5.1.3-starqltechn-OFFICIAL-20210810-0921.zip",
+      "requireCleanFlash": false,
+      "images": null,
+      "hash": "807948477048ffb9e2153eadcc695592",
+      "size": 616071223,
+      "version": "v5.1.3"
+    },
+    {
+      "type": "gapps",
+      "generatedAt": 1628590644,
+      "fileName": "dotOS-R-v5.1.3-starqltechn-GAPPS-20210810-1012.zip",
+      "url": "https://downloads.droidontime.com/dot11/starqltechn/gapps/dotOS-R-v5.1.3-starqltechn-GAPPS-20210810-1012.zip",
+      "requireCleanFlash": false,
+      "images": null,
+      "hash": "1e498d0dd1a58d5f5e8b6601fc95f018",
+      "size": 1053832285,
+      "version": "v5.1.3"
+    }
+  ],
+  "links": {
+    "xda": "https://forum.xda-developers.com/t/rom-android-11-dotos-samsunggalaxy-s9-official-starqltechn.4261665/",
+    "telegram": null
+  },
+  "maintainerInfo": {
+    "name": "Nyoutaaa",
+    "profileURL": "https://github.com/Nyoutaaa"
+  }
+}

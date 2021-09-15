@@ -1,0 +1,41 @@
+{
+  "codename": "jasmine_sprout",
+  "deviceName": "Mi A2",
+  "brandName": "Xiaomi",
+  "otaEnabled": true,
+  "latestVersion": "v5.1.3",
+  "discontinued": false,
+  "deviceChangelog": null,
+  "releases": [
+    {
+      "type": "vanilla",
+      "generatedAt": 1628523153,
+      "fileName": "dotOS-R-v5.1.3-jasmine_sprout-OFFICIAL-20210809-1454.zip",
+      "url": "https://downloads.droidontime.com/dot11/jasmine_sprout/vanilla/dotOS-R-v5.1.3-jasmine_sprout-OFFICIAL-20210809-1454.zip",
+      "requireCleanFlash": false,
+      "images": null,
+      "hash": "e06299137475c19c3b82c2698f9fbb5a",
+      "size": 808730223,
+      "version": "v5.1.3"
+    },
+    {
+      "type": "gapps",
+      "generatedAt": 1628524305,
+      "fileName": "dotOS-R-v5.1.3-jasmine_sprout-GAPPS-20210809-1547.zip",
+      "url": "https://downloads.droidontime.com/dot11/jasmine_sprout/gapps/dotOS-R-v5.1.3-jasmine_sprout-GAPPS-20210809-1547.zip",
+      "requireCleanFlash": false,
+      "images": null,
+      "hash": "92ea301e01963d265103b814cd992618",
+      "size": 1259480497,
+      "version": "v5.1.3"
+    }
+  ],
+  "links": {
+    "xda": "https://forum.xda-developers.com/t/stable-official-20210322-dotos-5-0-for-mi-a2-jasmine_sprout.4250683/",
+    "telegram": null
+  },
+  "maintainerInfo": {
+    "name": "Bhargav Gajare",
+    "profileURL": "https://github.com/TechWiz007"
+  }
+}
