@@ -1,10 +1,10 @@
 {
 	"Android": {
-		"a64": "GSI - A64 A only",
-		"arm": "GSI - Arm A only",
-		"arm64": "GSI - Arm64 A/B",
-		"arm64-ab-vndklite": "GSI - Arm64 A/B vndklite",
-		"arm64_a-only": "GSI - Arm64 A Only"
+		"a64": "GSI - A64 (A only)",
+		"arm": "GSI - ARM (A only)",
+		"arm64": "GSI - ARM64 (A/B)",
+		"arm64-ab-vndklite": "GSI - ARM64 (A/B vndklite)",
+		"arm64_a-only": "GSI - ARM64 (A only)"
 	},
 	"Asus": {
 		"X00QD": "Zenfone 5",
