@@ -1,41 +1,41 @@
 {
-  "codename": "ysl",
-  "deviceName": "Redmi S2",
-  "brandName": "Xiaomi",
-  "otaEnabled": true,
-  "latestVersion": "v5.1.3",
-  "discontinued": false,
-  "deviceChangelog": null,
-  "releases": [
-    {
-      "type": "vanilla",
-      "generatedAt": 1628655129,
-      "fileName": "dotOS-R-v5.1.3-ysl-OFFICIAL-20210811-0332.zip",
-      "url": "https://downloads.droidontime.com/dot11/ysl/vanilla/dotOS-R-v5.1.3-ysl-OFFICIAL-20210811-0332.zip",
-      "requireCleanFlash": false,
-      "images": null,
-      "hash": "d2b15ef996240bb4f02b426863220534",
-      "size": 749109363,
-      "version": "v5.1.3"
-    },
-    {
-      "type": "gapps",
-      "generatedAt": 1628656971,
-      "fileName": "dotOS-R-v5.1.3-ysl-GAPPS-20210811-0434.zip",
-      "url": "https://downloads.droidontime.com/dot11/ysl/gapps/dotOS-R-v5.1.3-ysl-GAPPS-20210811-0434.zip",
-      "requireCleanFlash": false,
-      "images": null,
-      "hash": "105824f6cd7ac943fb98cf24e8f8c1e1",
-      "size": 1188437337,
-      "version": "v5.1.3"
-    }
-  ],
-  "links": {
-    "xda": "https://forum.xda-developers.com/t/dotos-5-0.4233041/",
-    "telegram": null
-  },
-  "maintainerInfo": {
-    "name": "MoHaMeD NaSR",
-    "profileURL": "https://github.com/MiDoNaSR545"
-  }
+	"codename": "ysl",
+	"deviceName": "Redmi S2",
+	"brandName": "Xiaomi",
+	"otaEnabled": true,
+	"latestVersion": "v5.1.3",
+	"discontinued": false,
+	"deviceChangelog": null,
+	"releases": [
+		{
+			"type": "vanilla",
+			"generatedAt": 1628655129,
+			"fileName": "dotOS-R-v5.1.3-ysl-OFFICIAL-20210811-0332.zip",
+			"url": "https://downloads.droidontime.com/dot11/ysl/vanilla/dotOS-R-v5.1.3-ysl-OFFICIAL-20210811-0332.zip",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "d2b15ef996240bb4f02b426863220534",
+			"size": 749109363,
+			"version": "v5.1.3"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1628656971,
+			"fileName": "dotOS-R-v5.1.3-ysl-GAPPS-20210811-0434.zip",
+			"url": "https://downloads.droidontime.com/dot11/ysl/gapps/dotOS-R-v5.1.3-ysl-GAPPS-20210811-0434.zip",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "105824f6cd7ac943fb98cf24e8f8c1e1",
+			"size": 1188437337,
+			"version": "v5.1.3"
+		}
+	],
+	"links": {
+		"xda": "https://forum.xda-developers.com/t/dotos-5-0.4233041/",
+		"telegram": null
+	},
+	"maintainerInfo": {
+		"name": "MoHaMeD NaSR",
+		"profileURL": "https://github.com/MiDoNaSR545"
+	}
 }

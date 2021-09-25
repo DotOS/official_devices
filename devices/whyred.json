@@ -1,41 +1,41 @@
 {
-  "codename": "whyred",
-  "deviceName": "Redmi Note 5 Pro",
-  "brandName": "Xiaomi",
-  "otaEnabled": true,
-  "latestVersion": "v5.1.3",
-  "discontinued": false,
-  "deviceChangelog": null,
-  "releases": [
-    {
-      "type": "vanilla",
-      "generatedAt": 1628640394,
-      "fileName": "dotOS-R-v5.1.3-whyred-OFFICIAL-20210810-2327.zip",
-      "url": "https://downloads.droidontime.com/dot11/whyred/vanilla/dotOS-R-v5.1.3-whyred-OFFICIAL-20210810-2327.zip",
-      "requireCleanFlash": false,
-      "images": null,
-      "hash": "cc053fb1a362412c3f25758257226f1b",
-      "size": 775439121,
-      "version": "v5.1.3"
-    },
-    {
-      "type": "gapps",
-      "generatedAt": 1628641734,
-      "fileName": "dotOS-R-v5.1.3-whyred-GAPPS-20210811-0023.zip",
-      "url": "https://downloads.droidontime.com/dot11/whyred/gapps/dotOS-R-v5.1.3-whyred-GAPPS-20210811-0023.zip",
-      "requireCleanFlash": false,
-      "images": null,
-      "hash": "a21ff54d5378c0800420cd1e944c1c33",
-      "size": 1209807856,
-      "version": "v5.1.3"
-    }
-  ],
-  "links": {
-    "xda": "https://forum.xda-developers.com/t/official-eleven-dotos-for-whyred-16-04-2021.3900498/",
-    "telegram": null
-  },
-  "maintainerInfo": {
-    "name": "Sipun Ku Mahanta",
-    "profileURL": "https://github.com/sweeto143"
-  }
+	"codename": "whyred",
+	"deviceName": "Redmi Note 5 Pro",
+	"brandName": "Xiaomi",
+	"otaEnabled": true,
+	"latestVersion": "v5.1.3",
+	"discontinued": false,
+	"deviceChangelog": null,
+	"releases": [
+		{
+			"type": "vanilla",
+			"generatedAt": 1628640394,
+			"fileName": "dotOS-R-v5.1.3-whyred-OFFICIAL-20210810-2327.zip",
+			"url": "https://downloads.droidontime.com/dot11/whyred/vanilla/dotOS-R-v5.1.3-whyred-OFFICIAL-20210810-2327.zip",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "cc053fb1a362412c3f25758257226f1b",
+			"size": 775439121,
+			"version": "v5.1.3"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1628641734,
+			"fileName": "dotOS-R-v5.1.3-whyred-GAPPS-20210811-0023.zip",
+			"url": "https://downloads.droidontime.com/dot11/whyred/gapps/dotOS-R-v5.1.3-whyred-GAPPS-20210811-0023.zip",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "a21ff54d5378c0800420cd1e944c1c33",
+			"size": 1209807856,
+			"version": "v5.1.3"
+		}
+	],
+	"links": {
+		"xda": "https://forum.xda-developers.com/t/official-eleven-dotos-for-whyred-16-04-2021.3900498/",
+		"telegram": null
+	},
+	"maintainerInfo": {
+		"name": "Sipun Ku Mahanta",
+		"profileURL": "https://github.com/sweeto143"
+	}
 }

@@ -1,41 +1,41 @@
 {
-  "codename": "jason",
-  "deviceName": "Mi Note 3",
-  "brandName": "Xiaomi",
-  "otaEnabled": true,
-  "latestVersion": "v5.1.3",
-  "discontinued": false,
-  "deviceChangelog": null,
-  "releases": [
-    {
-      "type": "vanilla",
-      "generatedAt": 1628527741,
-      "fileName": "dotOS-R-v5.1.3-jason-OFFICIAL-20210809-1609.zip",
-      "url": "https://downloads.droidontime.com/dot11/jason/vanilla/dotOS-R-v5.1.3-jason-OFFICIAL-20210809-1609.zip",
-      "requireCleanFlash": false,
-      "images": null,
-      "hash": "50a2c0af7feaf1b47d649cdc1f743872",
-      "size": 819436493,
-      "version": "v5.1.3"
-    },
-    {
-      "type": "gapps",
-      "generatedAt": 1628528879,
-      "fileName": "dotOS-R-v5.1.3-jason-GAPPS-20210809-1702.zip",
-      "url": "https://downloads.droidontime.com/dot11/jason/gapps/dotOS-R-v5.1.3-jason-GAPPS-20210809-1702.zip",
-      "requireCleanFlash": false,
-      "images": null,
-      "hash": "a6fea3c07a3aa41cb3d4c77059dbada2",
-      "size": 1253678658,
-      "version": "v5.1.3"
-    }
-  ],
-  "links": {
-    "xda": "https://forum.xda-developers.com/t/rom-11-unofficial-dotos-v5-1-1-aosp-jason.4268815/",
-    "telegram": null
-  },
-  "maintainerInfo": {
-    "name": "Enweazu Daniel",
-    "profileURL": "https://github.com/enweazudaniel"
-  }
+	"codename": "jason",
+	"deviceName": "Mi Note 3",
+	"brandName": "Xiaomi",
+	"otaEnabled": true,
+	"latestVersion": "v5.1.3",
+	"discontinued": false,
+	"deviceChangelog": null,
+	"releases": [
+		{
+			"type": "vanilla",
+			"generatedAt": 1628527741,
+			"fileName": "dotOS-R-v5.1.3-jason-OFFICIAL-20210809-1609.zip",
+			"url": "https://downloads.droidontime.com/dot11/jason/vanilla/dotOS-R-v5.1.3-jason-OFFICIAL-20210809-1609.zip",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "50a2c0af7feaf1b47d649cdc1f743872",
+			"size": 819436493,
+			"version": "v5.1.3"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1628528879,
+			"fileName": "dotOS-R-v5.1.3-jason-GAPPS-20210809-1702.zip",
+			"url": "https://downloads.droidontime.com/dot11/jason/gapps/dotOS-R-v5.1.3-jason-GAPPS-20210809-1702.zip",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "a6fea3c07a3aa41cb3d4c77059dbada2",
+			"size": 1253678658,
+			"version": "v5.1.3"
+		}
+	],
+	"links": {
+		"xda": "https://forum.xda-developers.com/t/rom-11-unofficial-dotos-v5-1-1-aosp-jason.4268815/",
+		"telegram": null
+	},
+	"maintainerInfo": {
+		"name": "Enweazu Daniel",
+		"profileURL": "https://github.com/enweazudaniel"
+	}
 }

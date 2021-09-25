@@ -1,41 +1,41 @@
 {
-  "codename": "enchilada",
-  "deviceName": "OnePlus 6",
-  "brandName": "Oneplus",
-  "otaEnabled": true,
-  "latestVersion": "v5.1.3",
-  "discontinued": false,
-  "deviceChangelog": null,
-  "releases": [
-    {
-      "type": "vanilla",
-      "generatedAt": 1628494808,
-      "fileName": "dotOS-R-v5.1.3-enchilada-OFFICIAL-20210809-0703.zip",
-      "url": "https://downloads.droidontime.com/dot11/enchilada/vanilla/dotOS-R-v5.1.3-enchilada-OFFICIAL-20210809-0703.zip",
-      "requireCleanFlash": false,
-      "images": null,
-      "hash": "6fb69850af741d8c6f491773a066bcd9",
-      "size": 718011513,
-      "version": "v5.1.3"
-    },
-    {
-      "type": "gapps",
-      "generatedAt": 1628495973,
-      "fileName": "dotOS-R-v5.1.3-enchilada-GAPPS-20210809-0755.zip",
-      "url": "https://downloads.droidontime.com/dot11/enchilada/gapps/dotOS-R-v5.1.3-enchilada-GAPPS-20210809-0755.zip",
-      "requireCleanFlash": false,
-      "images": null,
-      "hash": "778a88155cceca2b4f72b5b2be3ed0c0",
-      "size": 1108323134,
-      "version": "v5.1.3"
-    }
-  ],
-  "links": {
-    "xda": "https://forum.xda-developers.com/t/rom-unofficial-dotos-5-0-0-enchilada-11-0-0-r_xx.4232243/",
-    "telegram": null
-  },
-  "maintainerInfo": {
-    "name": "Sanket Mhatre",
-    "profileURL": "https://github.com/CYB3R0ID694/"
-  }
+	"codename": "enchilada",
+	"deviceName": "OnePlus 6",
+	"brandName": "Oneplus",
+	"otaEnabled": true,
+	"latestVersion": "v5.1.3",
+	"discontinued": false,
+	"deviceChangelog": null,
+	"releases": [
+		{
+			"type": "vanilla",
+			"generatedAt": 1628494808,
+			"fileName": "dotOS-R-v5.1.3-enchilada-OFFICIAL-20210809-0703.zip",
+			"url": "https://downloads.droidontime.com/dot11/enchilada/vanilla/dotOS-R-v5.1.3-enchilada-OFFICIAL-20210809-0703.zip",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "6fb69850af741d8c6f491773a066bcd9",
+			"size": 718011513,
+			"version": "v5.1.3"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1628495973,
+			"fileName": "dotOS-R-v5.1.3-enchilada-GAPPS-20210809-0755.zip",
+			"url": "https://downloads.droidontime.com/dot11/enchilada/gapps/dotOS-R-v5.1.3-enchilada-GAPPS-20210809-0755.zip",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "778a88155cceca2b4f72b5b2be3ed0c0",
+			"size": 1108323134,
+			"version": "v5.1.3"
+		}
+	],
+	"links": {
+		"xda": "https://forum.xda-developers.com/t/rom-unofficial-dotos-5-0-0-enchilada-11-0-0-r_xx.4232243/",
+		"telegram": null
+	},
+	"maintainerInfo": {
+		"name": "Sanket Mhatre",
+		"profileURL": "https://github.com/CYB3R0ID694/"
+	}
 }

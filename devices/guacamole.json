@@ -1,41 +1,41 @@
 {
-  "codename": "guacamole",
-  "deviceName": "Oneplus 7 Pro",
-  "brandName": "Oneplus",
-  "otaEnabled": true,
-  "latestVersion": "v5.1.3",
-  "discontinued": false,
-  "deviceChangelog": null,
-  "releases": [
-    {
-      "type": "vanilla",
-      "generatedAt": 1628693037,
-      "fileName": "dotOS-R-v5.1.3-guacamole-OFFICIAL-20210811-1404.zip",
-      "url": "https://downloads.droidontime.com/dot11/guacamole/vanilla/dotOS-R-v5.1.3-guacamole-OFFICIAL-20210811-1404.zip",
-      "requireCleanFlash": false,
-      "images": null,
-      "hash": "74debe3bd25663b5c631d21d53a85758",
-      "size": 865368290,
-      "version": "v5.1.3"
-    },
-    {
-      "type": "gapps",
-      "generatedAt": 1628694135,
-      "fileName": "dotOS-R-v5.1.3-guacamole-GAPPS-20210811-1457.zip",
-      "url": "https://downloads.droidontime.com/dot11/guacamole/gapps/dotOS-R-v5.1.3-guacamole-GAPPS-20210811-1457.zip",
-      "requireCleanFlash": false,
-      "images": null,
-      "hash": "2b4ac8fdef725bdc2b10bb30fa11b0fb",
-      "size": 1184249921,
-      "version": "v5.1.3"
-    }
-  ],
-  "links": {
-    "xda": "https://forum.xda-developers.com/t/rom-unofficial-11-x-guacamole-dotos.4313767/",
-    "telegram": null
-  },
-  "maintainerInfo": {
-    "name": "GeorgeDachamp",
-    "profileURL": "https://github.com/GeorgeDachamp"
-  }
+	"codename": "guacamole",
+	"deviceName": "Oneplus 7 Pro",
+	"brandName": "Oneplus",
+	"otaEnabled": true,
+	"latestVersion": "v5.1.3",
+	"discontinued": false,
+	"deviceChangelog": null,
+	"releases": [
+		{
+			"type": "vanilla",
+			"generatedAt": 1628693037,
+			"fileName": "dotOS-R-v5.1.3-guacamole-OFFICIAL-20210811-1404.zip",
+			"url": "https://downloads.droidontime.com/dot11/guacamole/vanilla/dotOS-R-v5.1.3-guacamole-OFFICIAL-20210811-1404.zip",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "74debe3bd25663b5c631d21d53a85758",
+			"size": 865368290,
+			"version": "v5.1.3"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1628694135,
+			"fileName": "dotOS-R-v5.1.3-guacamole-GAPPS-20210811-1457.zip",
+			"url": "https://downloads.droidontime.com/dot11/guacamole/gapps/dotOS-R-v5.1.3-guacamole-GAPPS-20210811-1457.zip",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "2b4ac8fdef725bdc2b10bb30fa11b0fb",
+			"size": 1184249921,
+			"version": "v5.1.3"
+		}
+	],
+	"links": {
+		"xda": "https://forum.xda-developers.com/t/rom-unofficial-11-x-guacamole-dotos.4313767/",
+		"telegram": null
+	},
+	"maintainerInfo": {
+		"name": "GeorgeDachamp",
+		"profileURL": "https://github.com/GeorgeDachamp"
+	}
 }

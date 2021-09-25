@@ -1,41 +1,41 @@
 {
-  "codename": "X00TD",
-  "deviceName": "Zenfone Max Pro M1",
-  "brandName": "Asus",
-  "otaEnabled": true,
-  "latestVersion": "v5.1.3",
-  "discontinued": false,
-  "deviceChangelog": null,
-  "releases": [
-    {
-      "type": "vanilla",
-      "generatedAt": 1628645228,
-      "fileName": "dotOS-R-v5.1.3-X00TD-OFFICIAL-20210811-0048.zip",
-      "url": "https://downloads.droidontime.com/dot11/X00TD/vanilla/dotOS-R-v5.1.3-X00TD-OFFICIAL-20210811-0048.zip",
-      "requireCleanFlash": false,
-      "images": null,
-      "hash": "5b0ad085796dafbf56d83ca1c3549a4d",
-      "size": 794189632,
-      "version": "v5.1.3"
-    },
-    {
-      "type": "gapps",
-      "generatedAt": 1628646460,
-      "fileName": "dotOS-R-v5.1.3-X00TD-GAPPS-20210811-0142.zip",
-      "url": "https://downloads.droidontime.com/dot11/X00TD/gapps/dotOS-R-v5.1.3-X00TD-GAPPS-20210811-0142.zip",
-      "requireCleanFlash": false,
-      "images": null,
-      "hash": "6b355291e4b40ff9a873bbef9aa48e9c",
-      "size": 1236009910,
-      "version": "v5.1.3"
-    }
-  ],
-  "links": {
-    "xda": "https://forum.xda-developers.com/t/official-eleven-dotos-for-whyred-22-02-2021.3900498/",
-    "telegram": null
-  },
-  "maintainerInfo": {
-    "name": "Ken Kaneki",
-    "profileURL": "https://github.com/dhimanparas20"
-  }
+	"codename": "X00TD",
+	"deviceName": "Zenfone Max Pro M1",
+	"brandName": "Asus",
+	"otaEnabled": true,
+	"latestVersion": "v5.1.3",
+	"discontinued": false,
+	"deviceChangelog": null,
+	"releases": [
+		{
+			"type": "vanilla",
+			"generatedAt": 1628645228,
+			"fileName": "dotOS-R-v5.1.3-X00TD-OFFICIAL-20210811-0048.zip",
+			"url": "https://downloads.droidontime.com/dot11/X00TD/vanilla/dotOS-R-v5.1.3-X00TD-OFFICIAL-20210811-0048.zip",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "5b0ad085796dafbf56d83ca1c3549a4d",
+			"size": 794189632,
+			"version": "v5.1.3"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1628646460,
+			"fileName": "dotOS-R-v5.1.3-X00TD-GAPPS-20210811-0142.zip",
+			"url": "https://downloads.droidontime.com/dot11/X00TD/gapps/dotOS-R-v5.1.3-X00TD-GAPPS-20210811-0142.zip",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "6b355291e4b40ff9a873bbef9aa48e9c",
+			"size": 1236009910,
+			"version": "v5.1.3"
+		}
+	],
+	"links": {
+		"xda": "https://forum.xda-developers.com/t/official-eleven-dotos-for-whyred-22-02-2021.3900498/",
+		"telegram": null
+	},
+	"maintainerInfo": {
+		"name": "Ken Kaneki",
+		"profileURL": "https://github.com/dhimanparas20"
+	}
 }

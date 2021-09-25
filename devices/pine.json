@@ -1,38 +1,38 @@
 {
-  "codename": "pine",
-  "deviceName": "Redmi 7A",
-  "brandName": "Xiaomi",
-  "otaEnabled": true,
-  "latestVersion": "v5.1.3",
-  "discontinued": false,
-  "deviceChangelog": null,
-  "releases": [
-    {
-      "type": "vanilla",
-      "generatedAt": 1628559268,
-      "fileName": "dotOS-R-v5.1.3-pine-OFFICIAL-20210810-0053.zip",
-      "url": "https://downloads.droidontime.com/dot11/pine/vanilla/dotOS-R-v5.1.3-pine-OFFICIAL-20210810-0053.zip",
-      "requireCleanFlash": false,
-      "images": null,
-      "hash": "c70fe1b69216f0ada507502ca799ac46",
-      "size": 869681459,
-      "version": "v5.1.3"
-    },
-    {
-      "type": "gapps",
-      "generatedAt": 1628560702,
-      "fileName": "dotOS-R-v5.1.3-pine-GAPPS-20210810-0151.zip",
-      "url": "https://downloads.droidontime.com/dot11/pine/gapps/dotOS-R-v5.1.3-pine-GAPPS-20210810-0151.zip",
-      "requireCleanFlash": false,
-      "images": null,
-      "hash": "d1add541aa3f09d645190fc78a209b96",
-      "size": 1313590937,
-      "version": "v5.1.3"
-    }
-  ],
-  "links": { "xda": "", "telegram": null },
-  "maintainerInfo": {
-    "name": "AOiSPdev",
-    "profileURL": "https://github.com/TTTT55/"
-  }
+	"codename": "pine",
+	"deviceName": "Redmi 7A",
+	"brandName": "Xiaomi",
+	"otaEnabled": true,
+	"latestVersion": "v5.1.3",
+	"discontinued": false,
+	"deviceChangelog": null,
+	"releases": [
+		{
+			"type": "vanilla",
+			"generatedAt": 1628559268,
+			"fileName": "dotOS-R-v5.1.3-pine-OFFICIAL-20210810-0053.zip",
+			"url": "https://downloads.droidontime.com/dot11/pine/vanilla/dotOS-R-v5.1.3-pine-OFFICIAL-20210810-0053.zip",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "c70fe1b69216f0ada507502ca799ac46",
+			"size": 869681459,
+			"version": "v5.1.3"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1628560702,
+			"fileName": "dotOS-R-v5.1.3-pine-GAPPS-20210810-0151.zip",
+			"url": "https://downloads.droidontime.com/dot11/pine/gapps/dotOS-R-v5.1.3-pine-GAPPS-20210810-0151.zip",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "d1add541aa3f09d645190fc78a209b96",
+			"size": 1313590937,
+			"version": "v5.1.3"
+		}
+	],
+	"links": { "xda": "", "telegram": null },
+	"maintainerInfo": {
+		"name": "AOiSPdev",
+		"profileURL": "https://github.com/TTTT55/"
+	}
 }

@@ -1,18 +1,18 @@
 {
-  "codename": "rosy",
-  "deviceName": "Redmi 5",
-  "brandName": "Xiaomi",
-  "otaEnabled": true,
-  "latestVersion": null,
-  "discontinued": false,
-  "deviceChangelog": null,
-  "releases": null,
-  "links": {
-    "xda": "https://forum.xda-developers.com/t/rom-unofficial-dotos-5-0-redmi5-rosy-android-11.4231269/",
-    "telegram": null
-  },
-  "maintainerInfo": {
-    "name": "Ebin A",
-    "profileURL": "https://github.com/arulebin"
-  }
+	"codename": "rosy",
+	"deviceName": "Redmi 5",
+	"brandName": "Xiaomi",
+	"otaEnabled": true,
+	"latestVersion": null,
+	"discontinued": false,
+	"deviceChangelog": null,
+	"releases": null,
+	"links": {
+		"xda": "https://forum.xda-developers.com/t/rom-unofficial-dotos-5-0-redmi5-rosy-android-11.4231269/",
+		"telegram": null
+	},
+	"maintainerInfo": {
+		"name": "Ebin A",
+		"profileURL": "https://github.com/arulebin"
+	}
 }

@@ -1,41 +1,41 @@
 {
-  "codename": "hotdogb",
-  "deviceName": "Oneplus 7T",
-  "brandName": "Oneplus",
-  "otaEnabled": true,
-  "latestVersion": "v5.1.3",
-  "discontinued": false,
-  "deviceChangelog": null,
-  "releases": [
-    {
-      "type": "vanilla",
-      "generatedAt": 1628518726,
-      "fileName": "dotOS-R-v5.1.3-hotdogb-OFFICIAL-20210809-1340.zip",
-      "url": "https://downloads.droidontime.com/dot11/hotdogb/vanilla/dotOS-R-v5.1.3-hotdogb-OFFICIAL-20210809-1340.zip",
-      "requireCleanFlash": false,
-      "images": null,
-      "hash": "5ba25e78397165884daeae3e2308f786",
-      "size": 867212300,
-      "version": "v5.1.3"
-    },
-    {
-      "type": "gapps",
-      "generatedAt": 1628519807,
-      "fileName": "dotOS-R-v5.1.3-hotdogb-GAPPS-20210809-1432.zip",
-      "url": "https://downloads.droidontime.com/dot11/hotdogb/gapps/dotOS-R-v5.1.3-hotdogb-GAPPS-20210809-1432.zip",
-      "requireCleanFlash": false,
-      "images": null,
-      "hash": "58c42734ccfebf0ab8b8ffb2bc6ab36a",
-      "size": 1266855162,
-      "version": "v5.1.3"
-    }
-  ],
-  "links": {
-    "xda": "https://forum.xda-developers.com/t/rom-11-dotos-v5-0-1-gapps.4278983/",
-    "telegram": null
-  },
-  "maintainerInfo": {
-    "name": "Matheus Vieira",
-    "profileURL": "https://github.com/matt0301/"
-  }
+	"codename": "hotdogb",
+	"deviceName": "Oneplus 7T",
+	"brandName": "Oneplus",
+	"otaEnabled": true,
+	"latestVersion": "v5.1.3",
+	"discontinued": false,
+	"deviceChangelog": null,
+	"releases": [
+		{
+			"type": "vanilla",
+			"generatedAt": 1628518726,
+			"fileName": "dotOS-R-v5.1.3-hotdogb-OFFICIAL-20210809-1340.zip",
+			"url": "https://downloads.droidontime.com/dot11/hotdogb/vanilla/dotOS-R-v5.1.3-hotdogb-OFFICIAL-20210809-1340.zip",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "5ba25e78397165884daeae3e2308f786",
+			"size": 867212300,
+			"version": "v5.1.3"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1628519807,
+			"fileName": "dotOS-R-v5.1.3-hotdogb-GAPPS-20210809-1432.zip",
+			"url": "https://downloads.droidontime.com/dot11/hotdogb/gapps/dotOS-R-v5.1.3-hotdogb-GAPPS-20210809-1432.zip",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "58c42734ccfebf0ab8b8ffb2bc6ab36a",
+			"size": 1266855162,
+			"version": "v5.1.3"
+		}
+	],
+	"links": {
+		"xda": "https://forum.xda-developers.com/t/rom-11-dotos-v5-0-1-gapps.4278983/",
+		"telegram": null
+	},
+	"maintainerInfo": {
+		"name": "Matheus Vieira",
+		"profileURL": "https://github.com/matt0301/"
+	}
 }

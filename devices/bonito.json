@@ -1,41 +1,41 @@
 {
-  "codename": "bonito",
-  "deviceName": "Pixel 3a XL",
-  "brandName": "Google",
-  "otaEnabled": true,
-  "latestVersion": "v5.1.3",
-  "discontinued": false,
-  "deviceChangelog": null,
-  "releases": [
-    {
-      "type": "vanilla",
-      "generatedAt": 1628464479,
-      "fileName": "dotOS-R-v5.1.3-bonito-OFFICIAL-20210808-2235.zip",
-      "url": "https://downloads.droidontime.com/dot11/bonito/vanilla/dotOS-R-v5.1.3-bonito-OFFICIAL-20210808-2235.zip",
-      "requireCleanFlash": false,
-      "images": null,
-      "hash": "627ed7a4ccd794bdad009593e428b4a3",
-      "size": 858016890,
-      "version": "v5.1.3"
-    },
-    {
-      "type": "gapps",
-      "generatedAt": 1628465884,
-      "fileName": "dotOS-R-v5.1.3-bonito-GAPPS-20210808-2331.zip",
-      "url": "https://downloads.droidontime.com/dot11/bonito/gapps/dotOS-R-v5.1.3-bonito-GAPPS-20210808-2331.zip",
-      "requireCleanFlash": false,
-      "images": null,
-      "hash": "30de9913e88f5ecf41bee09d9c1a2d02",
-      "size": 1289488512,
-      "version": "v5.1.3"
-    }
-  ],
-  "links": {
-    "xda": "https://forum.xda-developers.com/t/https://forum.xda-developers.com/t/rom-android-11-bonito-dotos-v5-x-unofficial.4288615/",
-    "telegram": null
-  },
-  "maintainerInfo": {
-    "name": "Martin",
-    "profileURL": "https://github.com/zapmicro"
-  }
+	"codename": "bonito",
+	"deviceName": "Pixel 3a XL",
+	"brandName": "Google",
+	"otaEnabled": true,
+	"latestVersion": "v5.1.3",
+	"discontinued": false,
+	"deviceChangelog": null,
+	"releases": [
+		{
+			"type": "vanilla",
+			"generatedAt": 1628464479,
+			"fileName": "dotOS-R-v5.1.3-bonito-OFFICIAL-20210808-2235.zip",
+			"url": "https://downloads.droidontime.com/dot11/bonito/vanilla/dotOS-R-v5.1.3-bonito-OFFICIAL-20210808-2235.zip",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "627ed7a4ccd794bdad009593e428b4a3",
+			"size": 858016890,
+			"version": "v5.1.3"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1628465884,
+			"fileName": "dotOS-R-v5.1.3-bonito-GAPPS-20210808-2331.zip",
+			"url": "https://downloads.droidontime.com/dot11/bonito/gapps/dotOS-R-v5.1.3-bonito-GAPPS-20210808-2331.zip",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "30de9913e88f5ecf41bee09d9c1a2d02",
+			"size": 1289488512,
+			"version": "v5.1.3"
+		}
+	],
+	"links": {
+		"xda": "https://forum.xda-developers.com/t/https://forum.xda-developers.com/t/rom-android-11-bonito-dotos-v5-x-unofficial.4288615/",
+		"telegram": null
+	},
+	"maintainerInfo": {
+		"name": "Martin",
+		"profileURL": "https://github.com/zapmicro"
+	}
 }

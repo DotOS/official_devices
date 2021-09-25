@@ -1,41 +1,41 @@
 {
-  "codename": "dumpling",
-  "deviceName": "Oneplus 5T",
-  "brandName": "Oneplus",
-  "otaEnabled": true,
-  "latestVersion": "v5.1.3",
-  "discontinued": false,
-  "deviceChangelog": null,
-  "releases": [
-    {
-      "type": "vanilla",
-      "generatedAt": 1628490236,
-      "fileName": "dotOS-R-v5.1.3-dumpling-OFFICIAL-20210809-0544.zip",
-      "url": "https://downloads.droidontime.com/dot11/dumpling/vanilla/dotOS-R-v5.1.3-dumpling-OFFICIAL-20210809-0544.zip",
-      "requireCleanFlash": false,
-      "images": null,
-      "hash": "124bef549eed5e11f97ac6935dc62725",
-      "size": 749602287,
-      "version": "v5.1.3"
-    },
-    {
-      "type": "gapps",
-      "generatedAt": 1628491412,
-      "fileName": "dotOS-R-v5.1.3-dumpling-GAPPS-20210809-0638.zip",
-      "url": "https://downloads.droidontime.com/dot11/dumpling/gapps/dotOS-R-v5.1.3-dumpling-GAPPS-20210809-0638.zip",
-      "requireCleanFlash": false,
-      "images": null,
-      "hash": "f4ad2472320bb4d00725e419ff880888",
-      "size": 1195640341,
-      "version": "v5.1.3"
-    }
-  ],
-  "links": {
-    "xda": "https://forum.xda-developers.com/t/rom-11-0-dotos-5-0-oneplus-5-t-official-22-mar-2021.4233475/",
-    "telegram": null
-  },
-  "maintainerInfo": {
-    "name": "Karthik N",
-    "profileURL": "https://github.com/karthik990"
-  }
+	"codename": "dumpling",
+	"deviceName": "Oneplus 5T",
+	"brandName": "Oneplus",
+	"otaEnabled": true,
+	"latestVersion": "v5.1.3",
+	"discontinued": false,
+	"deviceChangelog": null,
+	"releases": [
+		{
+			"type": "vanilla",
+			"generatedAt": 1628490236,
+			"fileName": "dotOS-R-v5.1.3-dumpling-OFFICIAL-20210809-0544.zip",
+			"url": "https://downloads.droidontime.com/dot11/dumpling/vanilla/dotOS-R-v5.1.3-dumpling-OFFICIAL-20210809-0544.zip",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "124bef549eed5e11f97ac6935dc62725",
+			"size": 749602287,
+			"version": "v5.1.3"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1628491412,
+			"fileName": "dotOS-R-v5.1.3-dumpling-GAPPS-20210809-0638.zip",
+			"url": "https://downloads.droidontime.com/dot11/dumpling/gapps/dotOS-R-v5.1.3-dumpling-GAPPS-20210809-0638.zip",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "f4ad2472320bb4d00725e419ff880888",
+			"size": 1195640341,
+			"version": "v5.1.3"
+		}
+	],
+	"links": {
+		"xda": "https://forum.xda-developers.com/t/rom-11-0-dotos-5-0-oneplus-5-t-official-22-mar-2021.4233475/",
+		"telegram": null
+	},
+	"maintainerInfo": {
+		"name": "Karthik N",
+		"profileURL": "https://github.com/karthik990"
+	}
 }

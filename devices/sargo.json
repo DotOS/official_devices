@@ -1,41 +1,41 @@
 {
-  "codename": "sargo",
-  "deviceName": "Pixel 3a",
-  "brandName": "Google",
-  "otaEnabled": true,
-  "latestVersion": "v5.1.3",
-  "discontinued": false,
-  "deviceChangelog": null,
-  "releases": [
-    {
-      "type": "vanilla",
-      "generatedAt": 1628677060,
-      "fileName": "dotOS-R-v5.1.3-sargo-OFFICIAL-20210811-0938.zip",
-      "url": "https://downloads.droidontime.com/dot11/sargo/vanilla/dotOS-R-v5.1.3-sargo-OFFICIAL-20210811-0938.zip",
-      "requireCleanFlash": false,
-      "images": null,
-      "hash": "12536e712e955df9e56f5f7c37dd3298",
-      "size": 858414375,
-      "version": "v5.1.3"
-    },
-    {
-      "type": "gapps",
-      "generatedAt": 1628678459,
-      "fileName": "dotOS-R-v5.1.3-sargo-GAPPS-20210811-1034.zip",
-      "url": "https://downloads.droidontime.com/dot11/sargo/gapps/dotOS-R-v5.1.3-sargo-GAPPS-20210811-1034.zip",
-      "requireCleanFlash": false,
-      "images": null,
-      "hash": "9148b5593574879e44b2d802f453e053",
-      "size": 1289798659,
-      "version": "v5.1.3"
-    }
-  ],
-  "links": {
-    "xda": "https://forum.xda-developers.com/t/https://forum.xda-developers.com/t/rom-android-11-sargo-dotos-v5-x-unofficial.4288297/",
-    "telegram": null
-  },
-  "maintainerInfo": {
-    "name": "Martin",
-    "profileURL": "https://github.com/zapmicro"
-  }
+	"codename": "sargo",
+	"deviceName": "Pixel 3a",
+	"brandName": "Google",
+	"otaEnabled": true,
+	"latestVersion": "v5.1.3",
+	"discontinued": false,
+	"deviceChangelog": null,
+	"releases": [
+		{
+			"type": "vanilla",
+			"generatedAt": 1628677060,
+			"fileName": "dotOS-R-v5.1.3-sargo-OFFICIAL-20210811-0938.zip",
+			"url": "https://downloads.droidontime.com/dot11/sargo/vanilla/dotOS-R-v5.1.3-sargo-OFFICIAL-20210811-0938.zip",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "12536e712e955df9e56f5f7c37dd3298",
+			"size": 858414375,
+			"version": "v5.1.3"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1628678459,
+			"fileName": "dotOS-R-v5.1.3-sargo-GAPPS-20210811-1034.zip",
+			"url": "https://downloads.droidontime.com/dot11/sargo/gapps/dotOS-R-v5.1.3-sargo-GAPPS-20210811-1034.zip",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "9148b5593574879e44b2d802f453e053",
+			"size": 1289798659,
+			"version": "v5.1.3"
+		}
+	],
+	"links": {
+		"xda": "https://forum.xda-developers.com/t/https://forum.xda-developers.com/t/rom-android-11-sargo-dotos-v5-x-unofficial.4288297/",
+		"telegram": null
+	},
+	"maintainerInfo": {
+		"name": "Martin",
+		"profileURL": "https://github.com/zapmicro"
+	}
 }

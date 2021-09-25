@@ -1,18 +1,18 @@
 {
-  "codename": "perseus",
-  "deviceName": "Mi Mix 3",
-  "brandName": "Xiaomi",
-  "otaEnabled": true,
-  "latestVersion": null,
-  "discontinued": false,
-  "deviceChangelog": null,
-  "releases": null,
-  "links": {
-    "xda": "https://forum.xda-developers.com/t/rom-11-0-0-perseus-dotos-5-1-2-unofficial.4277575/",
-    "telegram": null
-  },
-  "maintainerInfo": {
-    "name": "Saran Thongplong",
-    "profileURL": "https://github.com/lolipuru"
-  }
+	"codename": "perseus",
+	"deviceName": "Mi Mix 3",
+	"brandName": "Xiaomi",
+	"otaEnabled": true,
+	"latestVersion": null,
+	"discontinued": false,
+	"deviceChangelog": null,
+	"releases": null,
+	"links": {
+		"xda": "https://forum.xda-developers.com/t/rom-11-0-0-perseus-dotos-5-1-2-unofficial.4277575/",
+		"telegram": null
+	},
+	"maintainerInfo": {
+		"name": "Saran Thongplong",
+		"profileURL": "https://github.com/lolipuru"
+	}
 }

@@ -1,41 +1,41 @@
 {
-  "codename": "RMX1921",
-  "deviceName": "Realme XT",
-  "brandName": "Realme",
-  "otaEnabled": true,
-  "latestVersion": "v5.1.3",
-  "discontinued": false,
-  "deviceChangelog": null,
-  "releases": [
-    {
-      "type": "vanilla",
-      "generatedAt": 1628573340,
-      "fileName": "dotOS-R-v5.1.3-RMX1921-OFFICIAL-20210810-0447.zip",
-      "url": "https://downloads.droidontime.com/dot11/RMX1921/vanilla/dotOS-R-v5.1.3-RMX1921-OFFICIAL-20210810-0447.zip",
-      "requireCleanFlash": false,
-      "images": null,
-      "hash": "88f4b0087dae63ce0ceb5ffd747d142e",
-      "size": 1138762096,
-      "version": "v5.1.3"
-    },
-    {
-      "type": "gapps",
-      "generatedAt": 1628575031,
-      "fileName": "dotOS-R-v5.1.3-RMX1921-GAPPS-20210810-0549.zip",
-      "url": "https://downloads.droidontime.com/dot11/RMX1921/gapps/dotOS-R-v5.1.3-RMX1921-GAPPS-20210810-0549.zip",
-      "requireCleanFlash": false,
-      "images": null,
-      "hash": "238ac7844eb74926f4077df9267bd4ce",
-      "size": 1509911910,
-      "version": "v5.1.3"
-    }
-  ],
-  "links": {
-    "xda": "https://forum.xda-developers.com/t/dotos-v5-0-0-rmx1921.4243945/",
-    "telegram": null
-  },
-  "maintainerInfo": {
-    "name": "Deepak Jangir",
-    "profileURL": "https://github.com/Deepak5310"
-  }
+	"codename": "RMX1921",
+	"deviceName": "Realme XT",
+	"brandName": "Realme",
+	"otaEnabled": true,
+	"latestVersion": "v5.1.3",
+	"discontinued": false,
+	"deviceChangelog": null,
+	"releases": [
+		{
+			"type": "vanilla",
+			"generatedAt": 1628573340,
+			"fileName": "dotOS-R-v5.1.3-RMX1921-OFFICIAL-20210810-0447.zip",
+			"url": "https://downloads.droidontime.com/dot11/RMX1921/vanilla/dotOS-R-v5.1.3-RMX1921-OFFICIAL-20210810-0447.zip",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "88f4b0087dae63ce0ceb5ffd747d142e",
+			"size": 1138762096,
+			"version": "v5.1.3"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1628575031,
+			"fileName": "dotOS-R-v5.1.3-RMX1921-GAPPS-20210810-0549.zip",
+			"url": "https://downloads.droidontime.com/dot11/RMX1921/gapps/dotOS-R-v5.1.3-RMX1921-GAPPS-20210810-0549.zip",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "238ac7844eb74926f4077df9267bd4ce",
+			"size": 1509911910,
+			"version": "v5.1.3"
+		}
+	],
+	"links": {
+		"xda": "https://forum.xda-developers.com/t/dotos-v5-0-0-rmx1921.4243945/",
+		"telegram": null
+	},
+	"maintainerInfo": {
+		"name": "Deepak Jangir",
+		"profileURL": "https://github.com/Deepak5310"
+	}
 }

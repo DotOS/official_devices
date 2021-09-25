@@ -1,41 +1,41 @@
 {
-  "codename": "phoenix",
-  "deviceName": "Poco X2",
-  "brandName": "POCO",
-  "otaEnabled": true,
-  "latestVersion": "v5.1.3",
-  "discontinued": false,
-  "deviceChangelog": null,
-  "releases": [
-    {
-      "type": "vanilla",
-      "generatedAt": 1628553695,
-      "fileName": "dotOS-R-v5.1.3-phoenix-OFFICIAL-20210809-2319.zip",
-      "url": "https://downloads.droidontime.com/dot11/phoenix/vanilla/dotOS-R-v5.1.3-phoenix-OFFICIAL-20210809-2319.zip",
-      "requireCleanFlash": false,
-      "images": null,
-      "hash": "b6eea3dd1af343b27abdbf0a16905658",
-      "size": 1020415684,
-      "version": "v5.1.3"
-    },
-    {
-      "type": "gapps",
-      "generatedAt": 1628555333,
-      "fileName": "dotOS-R-v5.1.3-phoenix-GAPPS-20210810-0021.zip",
-      "url": "https://downloads.droidontime.com/dot11/phoenix/gapps/dotOS-R-v5.1.3-phoenix-GAPPS-20210810-0021.zip",
-      "requireCleanFlash": false,
-      "images": null,
-      "hash": "29bf52d3c0d06e86723e53b11baa6c55",
-      "size": 1463882044,
-      "version": "v5.1.3"
-    }
-  ],
-  "links": {
-    "xda": "https://forum.xda-developers.com/t/rom-r-phoenix-unofficial-dot-os-v5-1-09-06-21.4289621/",
-    "telegram": null
-  },
-  "maintainerInfo": {
-    "name": "AtomicX",
-    "profileURL": "https://github.com/AtomicXZ"
-  }
+	"codename": "phoenix",
+	"deviceName": "Poco X2",
+	"brandName": "POCO",
+	"otaEnabled": true,
+	"latestVersion": "v5.1.3",
+	"discontinued": false,
+	"deviceChangelog": null,
+	"releases": [
+		{
+			"type": "vanilla",
+			"generatedAt": 1628553695,
+			"fileName": "dotOS-R-v5.1.3-phoenix-OFFICIAL-20210809-2319.zip",
+			"url": "https://downloads.droidontime.com/dot11/phoenix/vanilla/dotOS-R-v5.1.3-phoenix-OFFICIAL-20210809-2319.zip",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "b6eea3dd1af343b27abdbf0a16905658",
+			"size": 1020415684,
+			"version": "v5.1.3"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1628555333,
+			"fileName": "dotOS-R-v5.1.3-phoenix-GAPPS-20210810-0021.zip",
+			"url": "https://downloads.droidontime.com/dot11/phoenix/gapps/dotOS-R-v5.1.3-phoenix-GAPPS-20210810-0021.zip",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "29bf52d3c0d06e86723e53b11baa6c55",
+			"size": 1463882044,
+			"version": "v5.1.3"
+		}
+	],
+	"links": {
+		"xda": "https://forum.xda-developers.com/t/rom-r-phoenix-unofficial-dot-os-v5-1-09-06-21.4289621/",
+		"telegram": null
+	},
+	"maintainerInfo": {
+		"name": "AtomicX",
+		"profileURL": "https://github.com/AtomicXZ"
+	}
 }

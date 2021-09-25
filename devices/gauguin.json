@@ -1,38 +1,38 @@
 {
-  "codename": "gauguin",
-  "deviceName": "Redmi Note9 Pro 5G/Mi10i/Mi10T Lite",
-  "brandName": "Xiaomi",
-  "otaEnabled": true,
-  "latestVersion": "v5.1.3",
-  "discontinued": false,
-  "deviceChangelog": null,
-  "releases": [
-    {
-      "type": "vanilla",
-      "generatedAt": 1628503855,
-      "fileName": "dotOS-R-v5.1.3-gauguin-OFFICIAL-20210809-0933.zip",
-      "url": "https://downloads.droidontime.com/dot11/gauguin/vanilla/dotOS-R-v5.1.3-gauguin-OFFICIAL-20210809-0933.zip",
-      "requireCleanFlash": false,
-      "images": null,
-      "hash": "194906abb95cd03a1dab9d4dc0ccd66e",
-      "size": 708086410,
-      "version": "v5.1.3"
-    },
-    {
-      "type": "gapps",
-      "generatedAt": 1628505196,
-      "fileName": "dotOS-R-v5.1.3-gauguin-GAPPS-20210809-1027.zip",
-      "url": "https://downloads.droidontime.com/dot11/gauguin/gapps/dotOS-R-v5.1.3-gauguin-GAPPS-20210809-1027.zip",
-      "requireCleanFlash": false,
-      "images": null,
-      "hash": "c2c72acd66092c8aa4d1198ea6218397",
-      "size": 1196390409,
-      "version": "v5.1.3"
-    }
-  ],
-  "links": { "xda": "", "telegram": null },
-  "maintainerInfo": {
-    "name": "DtHnAme",
-    "profileURL": "https://github.com/DtHnAme/"
-  }
+	"codename": "gauguin",
+	"deviceName": "Redmi Note9 Pro 5G/Mi10i/Mi10T Lite",
+	"brandName": "Xiaomi",
+	"otaEnabled": true,
+	"latestVersion": "v5.1.3",
+	"discontinued": false,
+	"deviceChangelog": null,
+	"releases": [
+		{
+			"type": "vanilla",
+			"generatedAt": 1628503855,
+			"fileName": "dotOS-R-v5.1.3-gauguin-OFFICIAL-20210809-0933.zip",
+			"url": "https://downloads.droidontime.com/dot11/gauguin/vanilla/dotOS-R-v5.1.3-gauguin-OFFICIAL-20210809-0933.zip",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "194906abb95cd03a1dab9d4dc0ccd66e",
+			"size": 708086410,
+			"version": "v5.1.3"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1628505196,
+			"fileName": "dotOS-R-v5.1.3-gauguin-GAPPS-20210809-1027.zip",
+			"url": "https://downloads.droidontime.com/dot11/gauguin/gapps/dotOS-R-v5.1.3-gauguin-GAPPS-20210809-1027.zip",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "c2c72acd66092c8aa4d1198ea6218397",
+			"size": 1196390409,
+			"version": "v5.1.3"
+		}
+	],
+	"links": { "xda": "", "telegram": null },
+	"maintainerInfo": {
+		"name": "DtHnAme",
+		"profileURL": "https://github.com/DtHnAme/"
+	}
 }
