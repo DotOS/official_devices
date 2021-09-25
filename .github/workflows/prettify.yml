@@ -1,0 +1,19 @@
+name: Prettier
+on:
+  push:
+    branches:
+      - dot11
+jobs:
+  prettify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: ✅ | Checkout
+        uses: actions/checkout@v2
+        with:
+          ref: ${{ github.head_ref }}
+
+      - name: 🚨 | Prettify JSONs
+        uses: creyD/prettier_action@v4.0
+        with:
+          prettier_options: --write devices/*.json --use-tabs --trailing-comma none --arrow-parens avoid
+          commit_message: "style(devices): Prettify jsons"
