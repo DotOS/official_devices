@@ -1,0 +1,18 @@
+{
+	"codename": "RMX1971",
+	"deviceName": "Realme 5 Pro",
+	"brandName": "Realme",
+	"otaEnabled": true,
+	"latestVersion": null,
+	"discontinued": false,
+	"deviceChangelog": null,
+	"releases": null,
+	"links": {
+		"xda": "https://forum.xda-developers.com/t/rom-android-11-unofficial-dot-os-5-1-3-for-realme-5-pro-q-aug2021.4320631",
+		"telegram": "https://t.me/Dotos_Official_RMX1971"
+	},
+	"maintainerInfo": {
+		"name": "KSSRAO",
+		"profileURL": "https://t.me/kssrao13882"
+	}
+}
