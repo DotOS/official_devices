@@ -1,0 +1,18 @@
+{
+	"codename": "mojito",
+	"deviceName": "Redmi Note 10",
+	"brandName": "Xiaomi",
+	"otaEnabled": true,
+	"latestVersion": null,
+	"discontinued": false,
+	"deviceChangelog": null,
+	"releases": null,
+	"links": {
+		"xda": "https://forum.xda-developers.com/t/rom-unofficial-oss-dot-os-5-2-gapps-vanilla.4339341/",
+		"telegram": "https://t.me/dot_mojito"
+	},
+	"maintainerInfo": {
+		"name": "Royal King",
+		"profileURL": "https://t.me/Royal_King_0"
+	}
+}
