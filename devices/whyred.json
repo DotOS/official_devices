@@ -31,11 +31,11 @@
 		}
 	],
 	"links": {
-		"xda": "https://forum.xda-developers.com/t/official-eleven-dotos-for-whyred-16-04-2021.3900498/",
-		"telegram": "https://t.me/Darkstar085"
+		"xda": null,
+		"telegram": null
 	},
 	"maintainerInfo": {
-		"name": "Sipun Ku Mahanta",
-		"profileURL": "https://github.com/Darkstar085"
+		"name": null,
+		"profileURL": null
 	}
 }

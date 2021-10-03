@@ -31,11 +31,11 @@
 		}
 	],
 	"links": {
-		"xda": "https://forum.xda-developers.com/t/rom-official-stable-r-realme6-update-dotos-5-0-1-17-04-2021.4263399/",
+		"xda": null,
 		"telegram": null
 	},
 	"maintainerInfo": {
-		"name": "Himanshu Tyagi",
-		"profileURL": "https://github.com/ManshuTyagi"
+		"name": null,
+		"profileURL": null
 	}
 }

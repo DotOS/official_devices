@@ -31,11 +31,11 @@
 		}
 	],
 	"links": {
-		"xda": "https://forum.xda-developers.com/t/rom-11-0-0-dotos-v5-0-official-begonia-begoniain-non-cfw-2021-02-08.4229621/",
+		"xda": null,
 		"telegram": null
 	},
 	"maintainerInfo": {
-		"name": "Sahil Sonar",
-		"profileURL": "https://github.com/SahilSonar"
+		"name": null,
+		"profileURL": null
 	}
 }

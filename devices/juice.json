@@ -31,11 +31,11 @@
 		}
 	],
 	"links": {
-		"xda": "https://forum.xda-developers.com/t/rom-android-11-dotos-poco-m3-redmi-9t-redmi-9-power-redmi-note-9-4g-juice-official.4279019/",
+		"xda": null,
 		"telegram": null
 	},
 	"maintainerInfo": {
-		"name": "Aseel P Sathar",
-		"profileURL": "https://github.com/aseelps"
+		"name": null,
+		"profileURL": null
 	}
 }

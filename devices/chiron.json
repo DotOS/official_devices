@@ -31,11 +31,11 @@
 		}
 	],
 	"links": {
-		"xda": "https://forum.xda-developers.com/t/rom-11-0-official-dotos-v5-0.4245535",
+		"xda": null,
 		"telegram": null
 	},
 	"maintainerInfo": {
-		"name": "WhiterWalt",
-		"profileURL": "https://github.com/WhiterWalt"
+		"name": null,
+		"profileURL": null
 	}
 }

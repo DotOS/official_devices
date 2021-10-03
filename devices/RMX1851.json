@@ -31,11 +31,11 @@
 		}
 	],
 	"links": {
-		"xda": "https://forum.xda-developers.com/t/dotos-r-v5-0-1-unofficial-for-realme-3-pro-rmx1851.4232545/",
+		"xda": null,
 		"telegram": null
 	},
 	"maintainerInfo": {
-		"name": "Ali Shahawez Khan",
-		"profileURL": "https://github.com/viralbanda/"
+		"name": null,
+		"profileURL": null
 	}
 }
