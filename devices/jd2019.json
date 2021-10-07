@@ -3,49 +3,31 @@
 	"deviceName": "Z5s",
 	"brandName": "Lenovo",
 	"otaEnabled": true,
-	"latestVersion": "v5.2",
+	"latestVersion": "v5.1.3",
 	"discontinued": false,
 	"deviceChangelog": null,
 	"releases": [
 		{
 			"type": "vanilla",
-			"generatedAt": 1631658403,
-			"fileName": "dotOS-R-v5.2-jd2019-OFFICIAL-20210914-2228.zip",
-			"url": "https://api.droidontime.com/api/download/jd2019/v5.2/vanilla",
+			"generatedAt": 1629699032,
+			"fileName": "dotOS-R-v5.1.3-jd2019-OFFICIAL-20210823-0529.zip",
+			"url": "https://downloads.droidontime.com/dot11/jd2019/vanilla/dotOS-R-v5.1.3-jd2019-OFFICIAL-20210823-0529.zip",
 			"requireCleanFlash": false,
-			"images": [
-				{
-					"type": "boot",
-					"url": "https://api.droidontime.com/api/download/jd2019/v5.2/vanilla/boot"
-				},
-				{
-					"type": "recovery",
-					"url": "https://api.droidontime.com/api/download/jd2019/v5.2/vanilla/recovery"
-				}
-			],
-			"hash": "7b77f3702ff4f1a5e99888a0a9386afd",
-			"size": 929956152,
-			"version": "v5.2"
+			"images": null,
+			"hash": "2ee9784b12b404e4b7fe83814a34e8a0",
+			"size": 966459585,
+			"version": "v5.1.3"
 		},
 		{
 			"type": "gapps",
-			"generatedAt": 1631661588,
-			"fileName": "dotOS-R-v5.2-jd2019-GAPPS-20210914-2320.zip",
-			"url": "https://api.droidontime.com/api/download/jd2019/v5.2/gapps",
+			"generatedAt": 1629700628,
+			"fileName": "dotOS-R-v5.1.3-jd2019-GAPPS-20210823-0630.zip",
+			"url": "https://downloads.droidontime.com/dot11/jd2019/gapps/dotOS-R-v5.1.3-jd2019-GAPPS-20210823-0630.zip",
 			"requireCleanFlash": false,
-			"images": [
-				{
-					"type": "boot",
-					"url": "https://api.droidontime.com/api/download/jd2019/v5.2/gapps/boot"
-				},
-				{
-					"type": "recovery",
-					"url": "https://api.droidontime.com/api/download/jd2019/v5.2/gapps/recovery"
-				}
-			],
-			"hash": "4225b41c7d16fe07a0c1bbe9cc603aa4",
-			"size": 1373441241,
-			"version": "v5.2"
+			"images": null,
+			"hash": "6ffd4d1479c347770e5066dafce1abca",
+			"size": 1409941700,
+			"version": "v5.1.3"
 		}
 	],
 	"links": {

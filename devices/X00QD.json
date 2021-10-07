@@ -3,49 +3,31 @@
 	"deviceName": "Zenfone 5",
 	"brandName": "Asus",
 	"otaEnabled": true,
-	"latestVersion": "v5.2",
+	"latestVersion": "v5.1.3",
 	"discontinued": false,
 	"deviceChangelog": null,
 	"releases": [
 		{
 			"type": "vanilla",
-			"generatedAt": 1631666852,
-			"fileName": "dotOS-R-v5.2-X00QD-OFFICIAL-20210915-0048.zip",
-			"url": "https://api.droidontime.com/api/download/X00QD/v5.2/vanilla",
+			"generatedAt": 1628699204,
+			"fileName": "dotOS-R-v5.1.3-X00QD-OFFICIAL-20210811-1547.zip",
+			"url": "https://downloads.droidontime.com/dot11/X00QD/vanilla/dotOS-R-v5.1.3-X00QD-OFFICIAL-20210811-1547.zip",
 			"requireCleanFlash": false,
-			"images": [
-				{
-					"type": "boot",
-					"url": "https://api.droidontime.com/api/download/X00QD/v5.2/vanilla/boot"
-				},
-				{
-					"type": "recovery",
-					"url": "https://api.droidontime.com/api/download/X00QD/v5.2/vanilla/recovery"
-				}
-			],
-			"hash": "7413a3725e66d858cf34ce883792717c",
-			"size": 820045960,
-			"version": "v5.2"
+			"images": null,
+			"hash": "94195ceded49fe66b36f032cc810f695",
+			"size": 793460217,
+			"version": "v5.1.3"
 		},
 		{
 			"type": "gapps",
-			"generatedAt": 1631669880,
-			"fileName": "dotOS-R-v5.2-X00QD-GAPPS-20210915-0139.zip",
-			"url": "https://api.droidontime.com/api/download/X00QD/v5.2/gapps",
+			"generatedAt": 1628700468,
+			"fileName": "dotOS-R-v5.1.3-X00QD-GAPPS-20210811-1642.zip",
+			"url": "https://downloads.droidontime.com/dot11/X00QD/gapps/dotOS-R-v5.1.3-X00QD-GAPPS-20210811-1642.zip",
 			"requireCleanFlash": false,
-			"images": [
-				{
-					"type": "boot",
-					"url": "https://api.droidontime.com/api/download/X00QD/v5.2/gapps/boot"
-				},
-				{
-					"type": "recovery",
-					"url": "https://api.droidontime.com/api/download/X00QD/v5.2/gapps/recovery"
-				}
-			],
-			"hash": "61a28ba114d0f82ad09b1273012f1477",
-			"size": 1254628499,
-			"version": "v5.2"
+			"images": null,
+			"hash": "43dfd3fb37c82834bd63bd704cd5c83d",
+			"size": 1227964643,
+			"version": "v5.1.3"
 		}
 	],
 	"links": {

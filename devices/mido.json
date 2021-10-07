@@ -3,49 +3,31 @@
 	"deviceName": "Redmi Note 4",
 	"brandName": "Xiaomi",
 	"otaEnabled": true,
-	"latestVersion": "v5.2",
+	"latestVersion": "v5.1.3",
 	"discontinued": false,
 	"deviceChangelog": null,
 	"releases": [
 		{
 			"type": "vanilla",
-			"generatedAt": 1631649523,
-			"fileName": "dotOS-R-v5.2-mido-OFFICIAL-20210914-2000.zip",
-			"url": "https://api.droidontime.com/api/download/mido/v5.2/vanilla",
+			"generatedAt": 1628454026,
+			"fileName": "dotOS-R-v5.1.3-mido-OFFICIAL-20210808-1941.zip",
+			"url": "https://downloads.droidontime.com/dot11/mido/vanilla/dotOS-R-v5.1.3-mido-OFFICIAL-20210808-1941.zip",
 			"requireCleanFlash": false,
-			"images": [
-				{
-					"type": "boot",
-					"url": "https://api.droidontime.com/api/download/mido/v5.2/vanilla/boot"
-				},
-				{
-					"type": "recovery",
-					"url": "https://api.droidontime.com/api/download/mido/v5.2/vanilla/recovery"
-				}
-			],
-			"hash": "d0af509ba26484c7ecef0128dceb27cd",
-			"size": 701377715,
-			"version": "v5.2"
+			"images": null,
+			"hash": "0f73712dc3ae511cf415eb1078502db4",
+			"size": 678640091,
+			"version": "v5.1.3"
 		},
 		{
 			"type": "gapps",
-			"generatedAt": 1631652406,
-			"fileName": "dotOS-R-v5.2-mido-GAPPS-20210914-2047.zip",
-			"url": "https://api.droidontime.com/api/download/mido/v5.2/gapps",
+			"generatedAt": 1628456192,
+			"fileName": "dotOS-R-v5.1.3-mido-GAPPS-20210808-2051.zip",
+			"url": "https://downloads.droidontime.com/dot11/mido/gapps/dotOS-R-v5.1.3-mido-GAPPS-20210808-2051.zip",
 			"requireCleanFlash": false,
-			"images": [
-				{
-					"type": "boot",
-					"url": "https://api.droidontime.com/api/download/mido/v5.2/gapps/boot"
-				},
-				{
-					"type": "recovery",
-					"url": "https://api.droidontime.com/api/download/mido/v5.2/gapps/recovery"
-				}
-			],
-			"hash": "481fdb160ed0d9b21f3561e962e0fca9",
-			"size": 1139885825,
-			"version": "v5.2"
+			"images": null,
+			"hash": "118e1fe171a0accf88f5967137b9a4a7",
+			"size": 1116642610,
+			"version": "v5.1.3"
 		}
 	],
 	"links": {
