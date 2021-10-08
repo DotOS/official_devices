@@ -3,7 +3,7 @@
 	"deviceName": "Poco M2 Pro/Redmi Note 9S/Pro/Pro Max",
 	"brandName": "POCO",
 	"otaEnabled": true,
-	"latestVersion": "v5.1.3",
+	"latestVersion": "v5.2",
 	"discontinued": false,
 	"deviceChangelog": null,
 	"releases": [
@@ -28,6 +28,46 @@
 			"hash": "8841026023d59adf1d57a52a4ee17998",
 			"size": 1574632900,
 			"version": "v5.1.3"
+		},
+		{
+			"type": "vanilla",
+			"generatedAt": 1633841257,
+			"fileName": "dotOS-R-v5.2-miatoll-OFFICIAL-20211010-0449.zip",
+			"url": "https://api.droidontime.com/api/download/miatoll/v5.2/vanilla",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/miatoll/v5.2/vanilla/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/miatoll/v5.2/vanilla/recovery"
+				}
+			],
+			"hash": "1711ab1b54764c312a10a3e998aa4495",
+			"size": 1203479142,
+			"version": "v5.2"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1633844754,
+			"fileName": "dotOS-R-v5.2-miatoll-GAPPS-20211010-0547.zip",
+			"url": "https://api.droidontime.com/api/download/miatoll/v5.2/gapps",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/miatoll/v5.2/gapps/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/miatoll/v5.2/gapps/recovery"
+				}
+			],
+			"hash": "d71f8699cbf8a90941c981e39971f8d3",
+			"size": 1606013437,
+			"version": "v5.2"
 		}
 	],
 	"links": {

@@ -3,7 +3,7 @@
 	"deviceName": "Redmi Note9 Pro 5G/Mi10i/Mi10T Lite",
 	"brandName": "Xiaomi",
 	"otaEnabled": true,
-	"latestVersion": "v5.1.3",
+	"latestVersion": "v5.2",
 	"discontinued": false,
 	"deviceChangelog": null,
 	"releases": [
@@ -28,9 +28,52 @@
 			"hash": "c2c72acd66092c8aa4d1198ea6218397",
 			"size": 1196390409,
 			"version": "v5.1.3"
+		},
+		{
+			"type": "vanilla",
+			"generatedAt": 1633870011,
+			"fileName": "dotOS-R-v5.2-gauguin-OFFICIAL-20211010-1248.zip",
+			"url": "https://api.droidontime.com/api/download/gauguin/v5.2/vanilla",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/gauguin/v5.2/vanilla/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/gauguin/v5.2/vanilla/recovery"
+				}
+			],
+			"hash": "e447ae20a1a2e3affd71252f265639a7",
+			"size": 730480221,
+			"version": "v5.2"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1633873081,
+			"fileName": "dotOS-R-v5.2-gauguin-GAPPS-20211010-1339.zip",
+			"url": "https://api.droidontime.com/api/download/gauguin/v5.2/gapps",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/gauguin/v5.2/gapps/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/gauguin/v5.2/gapps/recovery"
+				}
+			],
+			"hash": "597f063414fd05df4cdda656c41ef530",
+			"size": 1222026755,
+			"version": "v5.2"
 		}
 	],
-	"links": { "xda": "", "telegram": null },
+	"links": {
+		"xda": "",
+		"telegram": null
+	},
 	"maintainerInfo": {
 		"name": "DtHnAme",
 		"profileURL": "https://github.com/DtHnAme/"

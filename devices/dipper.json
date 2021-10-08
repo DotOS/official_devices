@@ -3,7 +3,7 @@
 	"deviceName": "Xiaomi 8",
 	"brandName": "Xiaomi",
 	"otaEnabled": true,
-	"latestVersion": "v5.1.3",
+	"latestVersion": "v5.2",
 	"discontinued": false,
 	"deviceChangelog": null,
 	"releases": [
@@ -28,6 +28,46 @@
 			"hash": "0e0558caf0ffa7ac932082442cd583ee",
 			"size": 1353965663,
 			"version": "v5.1.3"
+		},
+		{
+			"type": "vanilla",
+			"generatedAt": 1633855141,
+			"fileName": "dotOS-R-v5.2-dipper-OFFICIAL-20211010-0840.zip",
+			"url": "https://api.droidontime.com/api/download/dipper/v5.2/vanilla",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/dipper/v5.2/vanilla/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/dipper/v5.2/vanilla/recovery"
+				}
+			],
+			"hash": "202d425e7cddda9bab7a899db0647830",
+			"size": 930508339,
+			"version": "v5.2"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1633858305,
+			"fileName": "dotOS-R-v5.2-dipper-GAPPS-20211010-0932.zip",
+			"url": "https://api.droidontime.com/api/download/dipper/v5.2/gapps",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/dipper/v5.2/gapps/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/dipper/v5.2/gapps/recovery"
+				}
+			],
+			"hash": "00a173ed5c47a40b1276861b62a6bff7",
+			"size": 1374496200,
+			"version": "v5.2"
 		}
 	],
 	"links": {

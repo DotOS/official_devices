@@ -48,6 +48,46 @@
 			"hash": "82574b0a5b9627d187b419249ab1e326",
 			"size": 795382317,
 			"version": "v5.2"
+		},
+		{
+			"type": "vanilla",
+			"generatedAt": 1633827781,
+			"fileName": "dotOS-R-v5.2-potter-OFFICIAL-20211010-0104.zip",
+			"url": "https://api.droidontime.com/api/download/potter/v5.2/vanilla",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/potter/v5.2/vanilla/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/potter/v5.2/vanilla/recovery"
+				}
+			],
+			"hash": "8d91e735a82111d1ec6c162c95983e8c",
+			"size": 751955821,
+			"version": "v5.2"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1633832413,
+			"fileName": "dotOS-R-v5.2-potter-GAPPS-20211010-0221.zip",
+			"url": "https://api.droidontime.com/api/download/potter/v5.2/gapps",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/potter/v5.2/gapps/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/potter/v5.2/gapps/recovery"
+				}
+			],
+			"hash": "614643d9601bccc78c43ffcc0e802a32",
+			"size": 1191211974,
+			"version": "v5.2"
 		}
 	],
 	"links": {

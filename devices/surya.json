@@ -3,7 +3,7 @@
 	"deviceName": "POCO X3 NFC",
 	"brandName": "POCO",
 	"otaEnabled": true,
-	"latestVersion": "v5.1.3",
+	"latestVersion": "v5.2",
 	"discontinued": false,
 	"deviceChangelog": null,
 	"releases": [
@@ -28,6 +28,46 @@
 			"hash": "e7d08cdaee37628f096c19d7b0d13027",
 			"size": 1428602498,
 			"version": "v5.1.3"
+		},
+		{
+			"type": "vanilla",
+			"generatedAt": 1633806339,
+			"fileName": "dotOS-R-v5.2-surya-OFFICIAL-20211009-1907.zip",
+			"url": "https://api.droidontime.com/api/download/surya/v5.2/vanilla",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/surya/v5.2/vanilla/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/surya/v5.2/vanilla/recovery"
+				}
+			],
+			"hash": "2880cf301a445489f6421e44dcfd1c0b",
+			"size": 1004763468,
+			"version": "v5.2"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1633809608,
+			"fileName": "dotOS-R-v5.2-surya-GAPPS-20211009-2001.zip",
+			"url": "https://api.droidontime.com/api/download/surya/v5.2/gapps",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/surya/v5.2/gapps/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/surya/v5.2/gapps/recovery"
+				}
+			],
+			"hash": "dd42199fa8c1d413d82530ab680752f1",
+			"size": 1440559737,
+			"version": "v5.2"
 		}
 	],
 	"links": {

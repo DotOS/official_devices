@@ -3,7 +3,7 @@
 	"deviceName": "Redmi 4A/5a",
 	"brandName": "Xiaomi",
 	"otaEnabled": true,
-	"latestVersion": "v5.1.3",
+	"latestVersion": "v5.2",
 	"discontinued": false,
 	"deviceChangelog": null,
 	"releases": [
@@ -28,6 +28,46 @@
 			"hash": "b0631eca8012a1dd4bac871537f86406",
 			"size": 1129048401,
 			"version": "v5.1.3"
+		},
+		{
+			"type": "vanilla",
+			"generatedAt": 1633717328,
+			"fileName": "dotOS-R-v5.2-rolex-OFFICIAL-20211008-1823.zip",
+			"url": "https://api.droidontime.com/api/download/rolex/v5.2/vanilla",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/rolex/v5.2/vanilla/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/rolex/v5.2/vanilla/recovery"
+				}
+			],
+			"hash": "c5c3f7ec9696d2db9c021d6f903d63b1",
+			"size": 704357023,
+			"version": "v5.2"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1633720243,
+			"fileName": "dotOS-R-v5.2-rolex-GAPPS-20211008-1911.zip",
+			"url": "https://api.droidontime.com/api/download/rolex/v5.2/gapps",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/rolex/v5.2/gapps/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/rolex/v5.2/gapps/recovery"
+				}
+			],
+			"hash": "b786174ffc2b11a24bfb862f99fb57f9",
+			"size": 1148677645,
+			"version": "v5.2"
 		}
 	],
 	"links": {

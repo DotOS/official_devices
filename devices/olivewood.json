@@ -3,7 +3,7 @@
 	"deviceName": "Redmi 8A Dual",
 	"brandName": "Xiaomi",
 	"otaEnabled": true,
-	"latestVersion": "v5.1.3",
+	"latestVersion": "v5.2",
 	"discontinued": false,
 	"deviceChangelog": null,
 	"releases": [
@@ -28,6 +28,46 @@
 			"hash": "52b41e5f56237a17de40094a43d2a08c",
 			"size": 1336221086,
 			"version": "v5.1.3"
+		},
+		{
+			"type": "vanilla",
+			"generatedAt": 1634023906,
+			"fileName": "dotOS-R-v5.2-olivewood-OFFICIAL-20211012-0733.zip",
+			"url": "https://api.droidontime.com/api/download/olivewood/v5.2/vanilla",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/olivewood/v5.2/vanilla/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/olivewood/v5.2/vanilla/recovery"
+				}
+			],
+			"hash": "684dffda4aab994ffb695eb1adfe239a",
+			"size": 891427682,
+			"version": "v5.2"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1634027183,
+			"fileName": "dotOS-R-v5.2-olivewood-GAPPS-20211012-0827.zip",
+			"url": "https://api.droidontime.com/api/download/olivewood/v5.2/gapps",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/olivewood/v5.2/gapps/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/olivewood/v5.2/gapps/recovery"
+				}
+			],
+			"hash": "52d994efcd7a96c47e8171d90dcc21b7",
+			"size": 1336059891,
+			"version": "v5.2"
 		}
 	],
 	"links": {

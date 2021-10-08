@@ -3,7 +3,7 @@
 	"deviceName": "Redmi K20 Pro",
 	"brandName": "Xiaomi",
 	"otaEnabled": true,
-	"latestVersion": "v5.1.3",
+	"latestVersion": "v5.2",
 	"discontinued": false,
 	"deviceChangelog": null,
 	"releases": [
@@ -28,6 +28,46 @@
 			"hash": "66f0e8bc8d9b64f90ff995de7b5ebc7b",
 			"size": 1189926181,
 			"version": "v5.1.3"
+		},
+		{
+			"type": "vanilla",
+			"generatedAt": 1633772736,
+			"fileName": "dotOS-R-v5.2-raphael-OFFICIAL-20211009-0947.zip",
+			"url": "https://api.droidontime.com/api/download/raphael/v5.2/vanilla",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/raphael/v5.2/vanilla/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/raphael/v5.2/vanilla/recovery"
+				}
+			],
+			"hash": "b0264a2d878595e5edf019857da605db",
+			"size": 804627467,
+			"version": "v5.2"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1633775520,
+			"fileName": "dotOS-R-v5.2-raphael-GAPPS-20211009-1033.zip",
+			"url": "https://api.droidontime.com/api/download/raphael/v5.2/gapps",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/raphael/v5.2/gapps/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/raphael/v5.2/gapps/recovery"
+				}
+			],
+			"hash": "c1a8f1a5c05ca37de4ea762ba833b212",
+			"size": 1214762928,
+			"version": "v5.2"
 		}
 	],
 	"links": {

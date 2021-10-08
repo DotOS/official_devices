@@ -3,7 +3,7 @@
 	"deviceName": "Oneplus 7T",
 	"brandName": "Oneplus",
 	"otaEnabled": true,
-	"latestVersion": "v5.1.3",
+	"latestVersion": "v5.2",
 	"discontinued": false,
 	"deviceChangelog": null,
 	"releases": [
@@ -28,6 +28,46 @@
 			"hash": "58c42734ccfebf0ab8b8ffb2bc6ab36a",
 			"size": 1266855162,
 			"version": "v5.1.3"
+		},
+		{
+			"type": "vanilla",
+			"generatedAt": 1633834592,
+			"fileName": "dotOS-R-v5.2-hotdogb-OFFICIAL-20211010-0257.zip",
+			"url": "https://api.droidontime.com/api/download/hotdogb/v5.2/vanilla",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/hotdogb/v5.2/vanilla/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/hotdogb/v5.2/vanilla/recovery"
+				}
+			],
+			"hash": "a2b1b9fe43c28a4cf1866d1d1dcdf82b",
+			"size": 889932688,
+			"version": "v5.2"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1633837589,
+			"fileName": "dotOS-R-v5.2-hotdogb-GAPPS-20211010-0347.zip",
+			"url": "https://api.droidontime.com/api/download/hotdogb/v5.2/gapps",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/hotdogb/v5.2/gapps/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/hotdogb/v5.2/gapps/recovery"
+				}
+			],
+			"hash": "3da68b7234fc79ccb763f1a17d31d642",
+			"size": 1289818246,
+			"version": "v5.2"
 		}
 	],
 	"links": {

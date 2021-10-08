@@ -3,10 +3,51 @@
 	"deviceName": "Redmi Note 10",
 	"brandName": "Xiaomi",
 	"otaEnabled": true,
-	"latestVersion": null,
+	"latestVersion": "v5.2",
 	"discontinued": false,
 	"deviceChangelog": null,
-	"releases": null,
+	"releases": [
+		{
+			"type": "vanilla",
+			"generatedAt": 1633846696,
+			"fileName": "dotOS-R-v5.2-mojito-OFFICIAL-20211010-0619.zip",
+			"url": "https://api.droidontime.com/api/download/mojito/v5.2/vanilla",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/mojito/v5.2/vanilla/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/mojito/v5.2/vanilla/recovery"
+				}
+			],
+			"hash": "46319d0fd23ec56552c49ff6bd31a217",
+			"size": 941492703,
+			"version": "v5.2"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1633849826,
+			"fileName": "dotOS-R-v5.2-mojito-GAPPS-20211010-0711.zip",
+			"url": "https://api.droidontime.com/api/download/mojito/v5.2/gapps",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/mojito/v5.2/gapps/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/mojito/v5.2/gapps/recovery"
+				}
+			],
+			"hash": "28b3503a3f1a2362dec30fa74ee74847",
+			"size": 1332558232,
+			"version": "v5.2"
+		}
+	],
 	"links": {
 		"xda": "https://forum.xda-developers.com/t/rom-unofficial-oss-dot-os-5-2-gapps-vanilla.4339341/",
 		"telegram": "https://t.me/dot_mojito"

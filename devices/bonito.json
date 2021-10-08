@@ -3,7 +3,7 @@
 	"deviceName": "Pixel 3a XL",
 	"brandName": "Google",
 	"otaEnabled": true,
-	"latestVersion": "v5.1.3",
+	"latestVersion": "v5.2",
 	"discontinued": false,
 	"deviceChangelog": null,
 	"releases": [
@@ -28,6 +28,46 @@
 			"hash": "30de9913e88f5ecf41bee09d9c1a2d02",
 			"size": 1289488512,
 			"version": "v5.1.3"
+		},
+		{
+			"type": "vanilla",
+			"generatedAt": 1633750883,
+			"fileName": "dotOS-R-v5.2-bonito-OFFICIAL-20211009-0342.zip",
+			"url": "https://api.droidontime.com/api/download/bonito/v5.2/vanilla",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/bonito/v5.2/vanilla/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/bonito/v5.2/vanilla/recovery"
+				}
+			],
+			"hash": "abbbf723bd213ceb963e72e3b7f1edd6",
+			"size": 878619268,
+			"version": "v5.2"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1633754314,
+			"fileName": "dotOS-R-v5.2-bonito-GAPPS-20211009-0439.zip",
+			"url": "https://api.droidontime.com/api/download/bonito/v5.2/gapps",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/bonito/v5.2/gapps/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/bonito/v5.2/gapps/recovery"
+				}
+			],
+			"hash": "57df89d0fa1bbf241fcbacffc82d5a19",
+			"size": 1312391327,
+			"version": "v5.2"
 		}
 	],
 	"links": {
