@@ -3,7 +3,7 @@
 	"deviceName": "Redmi Note 4",
 	"brandName": "Xiaomi",
 	"otaEnabled": true,
-	"latestVersion": "v5.1.3",
+	"latestVersion": "v5.2",
 	"discontinued": false,
 	"deviceChangelog": null,
 	"releases": [
@@ -28,6 +28,46 @@
 			"hash": "118e1fe171a0accf88f5967137b9a4a7",
 			"size": 1116642610,
 			"version": "v5.1.3"
+		},
+		{
+			"type": "vanilla",
+			"generatedAt": 1633658252,
+			"fileName": "dotOS-R-v5.2-mido-OFFICIAL-20211008-0158.zip",
+			"url": "https://api.droidontime.com/api/download/mido/v5.2/vanilla",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/mido/v5.2/vanilla/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/mido/v5.2/vanilla/recovery"
+				}
+			],
+			"hash": "6e397fbe329dcd4e10e94a53fd7b98f8",
+			"size": 698006052,
+			"version": "v5.2"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1633661169,
+			"fileName": "dotOS-R-v5.2-mido-GAPPS-20211008-0247.zip",
+			"url": "https://api.droidontime.com/api/download/mido/v5.2/gapps",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/mido/v5.2/gapps/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/mido/v5.2/gapps/recovery"
+				}
+			],
+			"hash": "d5fd0b553d7c34cf49897ced593c5708",
+			"size": 1137199912,
+			"version": "v5.2"
 		}
 	],
 	"links": {

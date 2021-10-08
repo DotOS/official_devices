@@ -3,7 +3,7 @@
 	"deviceName": "Z5s",
 	"brandName": "Lenovo",
 	"otaEnabled": true,
-	"latestVersion": "v5.1.3",
+	"latestVersion": "v5.2",
 	"discontinued": false,
 	"deviceChangelog": null,
 	"releases": [
@@ -28,6 +28,46 @@
 			"hash": "6ffd4d1479c347770e5066dafce1abca",
 			"size": 1409941700,
 			"version": "v5.1.3"
+		},
+		{
+			"type": "vanilla",
+			"generatedAt": 1633681676,
+			"fileName": "dotOS-R-v5.2-jd2019-OFFICIAL-20211008-0829.zip",
+			"url": "https://api.droidontime.com/api/download/jd2019/v5.2/vanilla",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/jd2019/v5.2/vanilla/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/jd2019/v5.2/vanilla/recovery"
+				}
+			],
+			"hash": "3e25edf4aeb283e8314fa328f9fa8bdd",
+			"size": 931285383,
+			"version": "v5.2"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1633684916,
+			"fileName": "dotOS-R-v5.2-jd2019-GAPPS-20211008-0923.zip",
+			"url": "https://api.droidontime.com/api/download/jd2019/v5.2/gapps",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/jd2019/v5.2/gapps/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/jd2019/v5.2/gapps/recovery"
+				}
+			],
+			"hash": "91d5cfeeac0a528591057d52c507fe16",
+			"size": 1376063057,
+			"version": "v5.2"
 		}
 	],
 	"links": {
