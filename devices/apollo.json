@@ -71,8 +71,8 @@
 		}
 	],
 	"links": {
-		"xda": "",
-		"telegram": null
+		"xda": "https://forum.xda-developers.com/t/rom-official-a11-dotos-5-1-2-vanilla-gapps.4262103/",
+		"telegram": "https://t.me/ejbtrdsspaceship"
 	},
 	"maintainerInfo": {
 		"name": "ejbtrd",
