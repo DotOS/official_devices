@@ -4,7 +4,7 @@
 	"brandName": "POCO",
 	"otaEnabled": true,
 	"latestVersion": "v5.2",
-	"discontinued": false,
+	"discontinued": true,
 	"deviceChangelog": null,
 	"releases": [
 		{
@@ -71,11 +71,11 @@
 		}
 	],
 	"links": {
-		"xda": "https://forum.xda-developers.com/t/rom-r-phoenix-unofficial-dot-os-v5-1-09-06-21.4289621/",
-		"telegram": "https://t.me/AtomicXchat"
+		"xda": null,
+		"telegram": null
 	},
 	"maintainerInfo": {
-		"name": "AtomicX",
-		"profileURL": "https://github.com/AtomicXZ"
+		"name": null,
+		"profileURL": null
 	}
 }

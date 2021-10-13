@@ -4,15 +4,15 @@
 	"brandName": "Xiaomi",
 	"otaEnabled": true,
 	"latestVersion": null,
-	"discontinued": false,
+	"discontinued": true,
 	"deviceChangelog": null,
 	"releases": null,
 	"links": {
-		"xda": "https://forum.xda-developers.com/t/rom-11-0-dotos-for-merlin-v5-2-redmi-note-9-redmi-10x-4g-unofficial.4334019/",
-		"telegram": "https://telegram.me/DotOS_merlinx"
+		"xda": null,
+		"telegram": null
 	},
 	"maintainerInfo": {
-		"name": "PinCredible",
-		"profileURL": "https://telegram.me/PinCredible"
+		"name": null,
+		"profileURL": null
 	}
 }
