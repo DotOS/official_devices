@@ -1,12 +1,34 @@
 {
 	"codename": "a64",
-	"deviceName": "GSI - A64 (A only)",
+	"deviceName": "GSI - A64",
 	"brandName": "Android",
 	"otaEnabled": false,
-	"latestVersion": "v5.1.3",
+	"latestVersion": "v5.2",
 	"discontinued": false,
 	"deviceChangelog": null,
 	"releases": [
+		{
+			"type": "vanilla",
+			"generatedAt": 1634240718,
+			"fileName": "dotOS-R-v5.2-arm32-binder64-ab-VANILLA-OFFICIAL.img.xz",
+			"url": "https://github.com/dotos-downloads/a64/releases/download/v5.2/dotOS-R-v5.2-arm32-binder64-ab-VANILLA-OFFICIAL.img.xz",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "b17d290191111a1eb4d536b1d70dfaa5",
+			"size": 520756800,
+			"version": "v5.2"
+		},
+		{
+			"type": "vanilla",
+			"generatedAt": 1634240718,
+			"fileName": "dotOS-R-v5.2-arm32_binder64-ab-vndklite-VANILLA-OFFICIAL.img.xz",
+			"url": "https://github.com/dotos-downloads/a64/releases/download/v5.2/dotOS-R-v5.2-arm32_binder64-ab-vndklite-VANILLA-OFFICIAL.img.xz",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "08615935490d528d0d3f761ec539ff86",
+			"size": 563419848,
+			"version": "v5.2"
+		},
 		{
 			"type": "vanilla",
 			"generatedAt": 1628949431,
