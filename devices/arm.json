@@ -1,12 +1,34 @@
 {
 	"codename": "arm",
-	"deviceName": "GSI - ARM (A only)",
+	"deviceName": "GSI - ARM",
 	"brandName": "Android",
 	"otaEnabled": false,
-	"latestVersion": "v5.1.3",
+	"latestVersion": "v5.2",
 	"discontinued": false,
 	"deviceChangelog": null,
 	"releases": [
+		{
+			"type": "vanilla",
+			"generatedAt": 1634240718,
+			"fileName": "dotOS-R-v5.2-arm-ab-VANILLA-OFFICIAL.img.xz",
+			"url": "https://github.com/dotos-downloads/arm/releases/download/v5.2/dotOS-R-v5.2-arm-ab-VANILLA-OFFICIAL.img.xz",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "5a174ef7b92bddfa665e93afbb708ca6",
+			"size": 535616948,
+			"version": "v5.2"
+		},
+		{
+			"type": "vanilla",
+			"generatedAt": 1634240718,
+			"fileName": "dotOS-R-v5.2-arm-aonly-VANILLA-OFFICIAL.img.xz",
+			"url": "https://github.com/dotos-downloads/arm/releases/download/v5.2/dotOS-R-v5.2-arm-aonly-VANILLA-OFFICIAL.img.xz",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "3f2bbdcb2a0f9c215bb2259a9c8f49f7",
+			"size": 586693312,
+			"version": "v5.2"
+		},
 		{
 			"type": "vanilla",
 			"generatedAt": 1628949431,
