@@ -1,81 +1,81 @@
 {
-    "codename": "payton",
-    "deviceName": "Motorola moto X4",
-    "brandName": "Motorola",
-    "otaEnabled": true,
-    "latestVersion": "v5.2",
-    "discontinued": false,
-    "deviceChangelog": null,
-    "releases": [
-        {
-            "type": "vanilla",
-            "generatedAt": 1628549234,
-            "fileName": "dotOS-R-v5.1.3-payton-OFFICIAL-20210809-2208.zip",
-            "url": "https://downloads.droidontime.com/dot11/payton/vanilla/dotOS-R-v5.1.3-payton-OFFICIAL-20210809-2208.zip",
-            "requireCleanFlash": false,
-            "images": null,
-            "hash": "fdead4218991df4eb9a19e103c66462e",
-            "size": 687362014,
-            "version": "v5.1.3"
-        },
-        {
-            "type": "gapps",
-            "generatedAt": 1628550209,
-            "fileName": "dotOS-R-v5.1.3-payton-GAPPS-20210809-2259.zip",
-            "url": "https://downloads.droidontime.com/dot11/payton/gapps/dotOS-R-v5.1.3-payton-GAPPS-20210809-2259.zip",
-            "requireCleanFlash": false,
-            "images": null,
-            "hash": "17d2a1938a8d53dc64086465ca789fc9",
-            "size": 1080672560,
-            "version": "v5.1.3"
-        },
-        {
-            "type": "vanilla",
-            "generatedAt": 1634395366,
-            "fileName": "dotOS-R-v5.2-payton-OFFICIAL-20211016-1444.zip",
-            "url": "https://api.droidontime.com/api/download/payton/v5.2/vanilla",
-            "requireCleanFlash": false,
-            "images": [
-                {
-                    "type": "boot",
-                    "url": "https://api.droidontime.com/api/download/payton/v5.2/vanilla/boot"
-                },
-                {
-                    "type": "recovery",
-                    "url": "https://api.droidontime.com/api/download/payton/v5.2/vanilla/recovery"
-                }
-            ],
-            "hash": "55c1a8f8b54026cbb536afdbd98e5de7",
-            "size": 723939613,
-            "version": "v5.2"
-        },
-        {
-            "type": "gapps",
-            "generatedAt": 1634398298,
-            "fileName": "dotOS-R-v5.2-payton-GAPPS-20211016-1532.zip",
-            "url": "https://api.droidontime.com/api/download/payton/v5.2/gapps",
-            "requireCleanFlash": false,
-            "images": [
-                {
-                    "type": "boot",
-                    "url": "https://api.droidontime.com/api/download/payton/v5.2/gapps/boot"
-                },
-                {
-                    "type": "recovery",
-                    "url": "https://api.droidontime.com/api/download/payton/v5.2/gapps/recovery"
-                }
-            ],
-            "hash": "da849cdad6352c1c682d2ac25f4b82bf",
-            "size": 1118842744,
-            "version": "v5.2"
-        }
-    ],
-    "links": {
-        "xda": "https://forum.xda-developers.com/f/moto-x4-roms-kernels-recoveries-other-develop.6916/",
-        "telegram": null
-    },
-    "maintainerInfo": {
-        "name": "AadityaZeo",
-        "profileURL": "https://github.com/aadityazeo"
-    }
+	"codename": "payton",
+	"deviceName": "Motorola moto X4",
+	"brandName": "Motorola",
+	"otaEnabled": true,
+	"latestVersion": "v5.2",
+	"discontinued": false,
+	"deviceChangelog": null,
+	"releases": [
+		{
+			"type": "vanilla",
+			"generatedAt": 1628549234,
+			"fileName": "dotOS-R-v5.1.3-payton-OFFICIAL-20210809-2208.zip",
+			"url": "https://downloads.droidontime.com/dot11/payton/vanilla/dotOS-R-v5.1.3-payton-OFFICIAL-20210809-2208.zip",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "fdead4218991df4eb9a19e103c66462e",
+			"size": 687362014,
+			"version": "v5.1.3"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1628550209,
+			"fileName": "dotOS-R-v5.1.3-payton-GAPPS-20210809-2259.zip",
+			"url": "https://downloads.droidontime.com/dot11/payton/gapps/dotOS-R-v5.1.3-payton-GAPPS-20210809-2259.zip",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "17d2a1938a8d53dc64086465ca789fc9",
+			"size": 1080672560,
+			"version": "v5.1.3"
+		},
+		{
+			"type": "vanilla",
+			"generatedAt": 1634395366,
+			"fileName": "dotOS-R-v5.2-payton-OFFICIAL-20211016-1444.zip",
+			"url": "https://api.droidontime.com/api/download/payton/v5.2/vanilla",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/payton/v5.2/vanilla/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/payton/v5.2/vanilla/recovery"
+				}
+			],
+			"hash": "55c1a8f8b54026cbb536afdbd98e5de7",
+			"size": 723939613,
+			"version": "v5.2"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1634398298,
+			"fileName": "dotOS-R-v5.2-payton-GAPPS-20211016-1532.zip",
+			"url": "https://api.droidontime.com/api/download/payton/v5.2/gapps",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/payton/v5.2/gapps/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/payton/v5.2/gapps/recovery"
+				}
+			],
+			"hash": "da849cdad6352c1c682d2ac25f4b82bf",
+			"size": 1118842744,
+			"version": "v5.2"
+		}
+	],
+	"links": {
+		"xda": "https://forum.xda-developers.com/f/moto-x4-roms-kernels-recoveries-other-develop.6916/",
+		"telegram": null
+	},
+	"maintainerInfo": {
+		"name": "AadityaZeo",
+		"profileURL": "https://github.com/aadityazeo"
+	}
 }
