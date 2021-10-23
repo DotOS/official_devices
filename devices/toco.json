@@ -1,81 +1,121 @@
 {
-	"codename": "toco",
-	"deviceName": "Mi Note 10 Lite",
-	"brandName": "Xiaomi",
-	"otaEnabled": true,
-	"latestVersion": "v5.2",
-	"discontinued": false,
-	"deviceChangelog": null,
-	"releases": [
-		{
-			"type": "vanilla",
-			"generatedAt": 1628613235,
-			"fileName": "dotOS-R-v5.1.3-toco-OFFICIAL-20210810-1552.zip",
-			"url": "https://downloads.droidontime.com/dot11/toco/vanilla/dotOS-R-v5.1.3-toco-OFFICIAL-20210810-1552.zip",
-			"requireCleanFlash": false,
-			"images": null,
-			"hash": "10b1f51c70cc6e0760230d0c1003dfe4",
-			"size": 1122087188,
-			"version": "v5.1.3"
-		},
-		{
-			"type": "gapps",
-			"generatedAt": 1628614916,
-			"fileName": "dotOS-R-v5.1.3-toco-GAPPS-20210810-1654.zip",
-			"url": "https://downloads.droidontime.com/dot11/toco/gapps/dotOS-R-v5.1.3-toco-GAPPS-20210810-1654.zip",
-			"requireCleanFlash": false,
-			"images": null,
-			"hash": "3786644621a0fa78663aab47bd873252",
-			"size": 1600341935,
-			"version": "v5.1.3"
-		},
-		{
-			"type": "vanilla",
-			"generatedAt": 1633730500,
-			"fileName": "dotOS-R-v5.2-toco-OFFICIAL-20211008-2203.zip",
-			"url": "https://api.droidontime.com/api/download/toco/v5.2/vanilla",
-			"requireCleanFlash": false,
-			"images": [
-				{
-					"type": "boot",
-					"url": "https://api.droidontime.com/api/download/toco/v5.2/vanilla/boot"
-				},
-				{
-					"type": "recovery",
-					"url": "https://api.droidontime.com/api/download/toco/v5.2/vanilla/recovery"
-				}
-			],
-			"hash": "1f85c56c29ad35c635d1b81e614a4899",
-			"size": 1144902116,
-			"version": "v5.2"
-		},
-		{
-			"type": "gapps",
-			"generatedAt": 1633733867,
-			"fileName": "dotOS-R-v5.2-toco-GAPPS-20211008-2258.zip",
-			"url": "https://api.droidontime.com/api/download/toco/v5.2/gapps",
-			"requireCleanFlash": false,
-			"images": [
-				{
-					"type": "boot",
-					"url": "https://api.droidontime.com/api/download/toco/v5.2/gapps/boot"
-				},
-				{
-					"type": "recovery",
-					"url": "https://api.droidontime.com/api/download/toco/v5.2/gapps/recovery"
-				}
-			],
-			"hash": "a7bda37e2e006c0235c96e0adbf12fd6",
-			"size": 1626008712,
-			"version": "v5.2"
-		}
-	],
-	"links": {
-		"xda": "https://forum.xda-developers.com/t/rom-11-toco-official-dotos-v5-0-1.4235853/",
-		"telegram": "https://t.me/DennisMurimiWachira"
-	},
-	"maintainerInfo": {
-		"name": "Dennis Murimi",
-		"profileURL": "https://github.com/AndroidHQ254/"
-	}
+    "codename": "toco",
+    "deviceName": "Mi Note 10 Lite",
+    "brandName": "Xiaomi",
+    "otaEnabled": true,
+    "latestVersion": "v5.2",
+    "discontinued": false,
+    "deviceChangelog": null,
+    "releases": [
+        {
+            "type": "vanilla",
+            "generatedAt": 1628613235,
+            "fileName": "dotOS-R-v5.1.3-toco-OFFICIAL-20210810-1552.zip",
+            "url": "https://downloads.droidontime.com/dot11/toco/vanilla/dotOS-R-v5.1.3-toco-OFFICIAL-20210810-1552.zip",
+            "requireCleanFlash": false,
+            "images": null,
+            "hash": "10b1f51c70cc6e0760230d0c1003dfe4",
+            "size": 1122087188,
+            "version": "v5.1.3"
+        },
+        {
+            "type": "gapps",
+            "generatedAt": 1628614916,
+            "fileName": "dotOS-R-v5.1.3-toco-GAPPS-20210810-1654.zip",
+            "url": "https://downloads.droidontime.com/dot11/toco/gapps/dotOS-R-v5.1.3-toco-GAPPS-20210810-1654.zip",
+            "requireCleanFlash": false,
+            "images": null,
+            "hash": "3786644621a0fa78663aab47bd873252",
+            "size": 1600341935,
+            "version": "v5.1.3"
+        },
+        {
+            "type": "vanilla",
+            "generatedAt": 1633730500,
+            "fileName": "dotOS-R-v5.2-toco-OFFICIAL-20211008-2203.zip",
+            "url": "https://api.droidontime.com/api/download/toco/v5.2/vanilla",
+            "requireCleanFlash": false,
+            "images": [
+                {
+                    "type": "boot",
+                    "url": "https://api.droidontime.com/api/download/toco/v5.2/vanilla/boot"
+                },
+                {
+                    "type": "recovery",
+                    "url": "https://api.droidontime.com/api/download/toco/v5.2/vanilla/recovery"
+                }
+            ],
+            "hash": "1f85c56c29ad35c635d1b81e614a4899",
+            "size": 1144902116,
+            "version": "v5.2"
+        },
+        {
+            "type": "gapps",
+            "generatedAt": 1633733867,
+            "fileName": "dotOS-R-v5.2-toco-GAPPS-20211008-2258.zip",
+            "url": "https://api.droidontime.com/api/download/toco/v5.2/gapps",
+            "requireCleanFlash": false,
+            "images": [
+                {
+                    "type": "boot",
+                    "url": "https://api.droidontime.com/api/download/toco/v5.2/gapps/boot"
+                },
+                {
+                    "type": "recovery",
+                    "url": "https://api.droidontime.com/api/download/toco/v5.2/gapps/recovery"
+                }
+            ],
+            "hash": "a7bda37e2e006c0235c96e0adbf12fd6",
+            "size": 1626008712,
+            "version": "v5.2"
+        },
+        {
+            "type": "vanilla",
+            "generatedAt": 1634972975,
+            "fileName": "dotOS-R-v5.2-toco-OFFICIAL-20211023-0711.zip",
+            "url": "https://api.droidontime.com/api/download/toco/v5.2/vanilla",
+            "requireCleanFlash": false,
+            "images": [
+                {
+                    "type": "boot",
+                    "url": "https://api.droidontime.com/api/download/toco/v5.2/vanilla/boot"
+                },
+                {
+                    "type": "recovery",
+                    "url": "https://api.droidontime.com/api/download/toco/v5.2/vanilla/recovery"
+                }
+            ],
+            "hash": "8ed11bdcc3cb0985065f22c503c58753",
+            "size": 1145449550,
+            "version": "v5.2"
+        },
+        {
+            "type": "gapps",
+            "generatedAt": 1634976355,
+            "fileName": "dotOS-R-v5.2-toco-GAPPS-20211023-0807.zip",
+            "url": "https://api.droidontime.com/api/download/toco/v5.2/gapps",
+            "requireCleanFlash": false,
+            "images": [
+                {
+                    "type": "boot",
+                    "url": "https://api.droidontime.com/api/download/toco/v5.2/gapps/boot"
+                },
+                {
+                    "type": "recovery",
+                    "url": "https://api.droidontime.com/api/download/toco/v5.2/gapps/recovery"
+                }
+            ],
+            "hash": "610e34390b081afb65d10601a212ff2c",
+            "size": 1626548802,
+            "version": "v5.2"
+        }
+    ],
+    "links": {
+        "xda": "https://forum.xda-developers.com/t/rom-11-toco-official-dotos-v5-0-1.4235853/",
+        "telegram": "https://t.me/DennisMurimiWachira"
+    },
+    "maintainerInfo": {
+        "name": "Dennis Murimi",
+        "profileURL": "https://github.com/AndroidHQ254/"
+    }
 }
