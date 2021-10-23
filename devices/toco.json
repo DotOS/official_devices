@@ -31,46 +31,6 @@
 		},
 		{
 			"type": "vanilla",
-			"generatedAt": 1633730500,
-			"fileName": "dotOS-R-v5.2-toco-OFFICIAL-20211008-2203.zip",
-			"url": "https://api.droidontime.com/api/download/toco/v5.2/vanilla",
-			"requireCleanFlash": false,
-			"images": [
-				{
-					"type": "boot",
-					"url": "https://api.droidontime.com/api/download/toco/v5.2/vanilla/boot"
-				},
-				{
-					"type": "recovery",
-					"url": "https://api.droidontime.com/api/download/toco/v5.2/vanilla/recovery"
-				}
-			],
-			"hash": "1f85c56c29ad35c635d1b81e614a4899",
-			"size": 1144902116,
-			"version": "v5.2"
-		},
-		{
-			"type": "gapps",
-			"generatedAt": 1633733867,
-			"fileName": "dotOS-R-v5.2-toco-GAPPS-20211008-2258.zip",
-			"url": "https://api.droidontime.com/api/download/toco/v5.2/gapps",
-			"requireCleanFlash": false,
-			"images": [
-				{
-					"type": "boot",
-					"url": "https://api.droidontime.com/api/download/toco/v5.2/gapps/boot"
-				},
-				{
-					"type": "recovery",
-					"url": "https://api.droidontime.com/api/download/toco/v5.2/gapps/recovery"
-				}
-			],
-			"hash": "a7bda37e2e006c0235c96e0adbf12fd6",
-			"size": 1626008712,
-			"version": "v5.2"
-		},
-		{
-			"type": "vanilla",
 			"generatedAt": 1634972975,
 			"fileName": "dotOS-R-v5.2-toco-OFFICIAL-20211023-0711.zip",
 			"url": "https://api.droidontime.com/api/download/toco/v5.2/vanilla",

@@ -31,46 +31,6 @@
 		},
 		{
 			"type": "vanilla",
-			"generatedAt": 1633686562,
-			"fileName": "dotOS-R-v5.2-violet-OFFICIAL-20211008-0950.zip",
-			"url": "https://api.droidontime.com/api/download/violet/v5.2/vanilla",
-			"requireCleanFlash": false,
-			"images": [
-				{
-					"type": "boot",
-					"url": "https://api.droidontime.com/api/download/violet/v5.2/vanilla/boot"
-				},
-				{
-					"type": "recovery",
-					"url": "https://api.droidontime.com/api/download/violet/v5.2/vanilla/recovery"
-				}
-			],
-			"hash": "902eda65d4b32ac6e74275b9e33dffda",
-			"size": 1098799628,
-			"version": "v5.2"
-		},
-		{
-			"type": "gapps",
-			"generatedAt": 1633689816,
-			"fileName": "dotOS-R-v5.2-violet-GAPPS-20211008-1044.zip",
-			"url": "https://api.droidontime.com/api/download/violet/v5.2/gapps",
-			"requireCleanFlash": false,
-			"images": [
-				{
-					"type": "boot",
-					"url": "https://api.droidontime.com/api/download/violet/v5.2/gapps/boot"
-				},
-				{
-					"type": "recovery",
-					"url": "https://api.droidontime.com/api/download/violet/v5.2/gapps/recovery"
-				}
-			],
-			"hash": "363a0471ca6663fd2e7c0142c8a000d9",
-			"size": 1541458464,
-			"version": "v5.2"
-		},
-		{
-			"type": "vanilla",
 			"generatedAt": 1634979132,
 			"fileName": "dotOS-R-v5.2-violet-OFFICIAL-20211023-0853.zip",
 			"url": "https://api.droidontime.com/api/download/violet/v5.2/vanilla",
