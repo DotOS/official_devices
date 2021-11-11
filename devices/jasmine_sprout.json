@@ -4,7 +4,7 @@
 	"brandName": "Xiaomi",
 	"otaEnabled": true,
 	"latestVersion": "v5.1.3",
-	"discontinued": false,
+	"discontinued": true,
 	"deviceChangelog": null,
 	"releases": [
 		{
@@ -31,11 +31,11 @@
 		}
 	],
 	"links": {
-		"xda": "https://forum.xda-developers.com/t/stable-official-20210322-dotos-5-0-for-mi-a2-jasmine_sprout.4250683/",
+		"xda": null,
 		"telegram": null
 	},
 	"maintainerInfo": {
-		"name": "Bhargav Gajare",
-		"profileURL": "https://github.com/TechWiz007"
+		"name": null,
+		"profileURL": null
 	}
 }
