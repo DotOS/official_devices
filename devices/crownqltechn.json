@@ -1,81 +1,121 @@
 {
-	"codename": "crownqltechn",
-	"deviceName": "Samsung Galaxy N9",
-	"brandName": "Samsung",
-	"otaEnabled": true,
-	"latestVersion": "v5.2",
-	"discontinued": false,
-	"deviceChangelog": null,
-	"releases": [
-		{
-			"type": "vanilla",
-			"generatedAt": 1628474232,
-			"fileName": "dotOS-R-v5.1.3-crownqltechn-OFFICIAL-20210809-0120.zip",
-			"url": "https://downloads.droidontime.com/dot11/crownqltechn/vanilla/dotOS-R-v5.1.3-crownqltechn-OFFICIAL-20210809-0120.zip",
-			"requireCleanFlash": false,
-			"images": null,
-			"hash": "bebaa99c94f4e266406b1cd920282ee0",
-			"size": 614745033,
-			"version": "v5.1.3"
-		},
-		{
-			"type": "gapps",
-			"generatedAt": 1628475253,
-			"fileName": "dotOS-R-v5.1.3-crownqltechn-GAPPS-20210809-0209.zip",
-			"url": "https://downloads.droidontime.com/dot11/crownqltechn/gapps/dotOS-R-v5.1.3-crownqltechn-GAPPS-20210809-0209.zip",
-			"requireCleanFlash": false,
-			"images": null,
-			"hash": "30a518cd81e69fdcf460f15bb33384d2",
-			"size": 1052531021,
-			"version": "v5.1.3"
-		},
-		{
-			"type": "vanilla",
-			"generatedAt": 1633811656,
-			"fileName": "dotOS-R-v5.2-crownqltechn-OFFICIAL-20211009-2035.zip",
-			"url": "https://api.droidontime.com/api/download/crownqltechn/v5.2/vanilla",
-			"requireCleanFlash": false,
-			"images": [
-				{
-					"type": "boot",
-					"url": "https://api.droidontime.com/api/download/crownqltechn/v5.2/vanilla/boot"
-				},
-				{
-					"type": "recovery",
-					"url": "https://api.droidontime.com/api/download/crownqltechn/v5.2/vanilla/recovery"
-				}
-			],
-			"hash": "ae53ef7c6b3937c4ad7d0f6e84a54dc3",
-			"size": 633802392,
-			"version": "v5.2"
-		},
-		{
-			"type": "gapps",
-			"generatedAt": 1633814422,
-			"fileName": "dotOS-R-v5.2-crownqltechn-GAPPS-20211009-2121.zip",
-			"url": "https://api.droidontime.com/api/download/crownqltechn/v5.2/gapps",
-			"requireCleanFlash": false,
-			"images": [
-				{
-					"type": "boot",
-					"url": "https://api.droidontime.com/api/download/crownqltechn/v5.2/gapps/boot"
-				},
-				{
-					"type": "recovery",
-					"url": "https://api.droidontime.com/api/download/crownqltechn/v5.2/gapps/recovery"
-				}
-			],
-			"hash": "1656abf3cc3f0f4e6cf34503c6f0e7a3",
-			"size": 1073197607,
-			"version": "v5.2"
-		}
-	],
-	"links": {
-		"xda": "https://forum.xda-developers.com/t/rom-android-11-dotos-samsung-galaxy-n9-official-crownqltechn.4262581/",
-		"telegram": null
-	},
-	"maintainerInfo": {
-		"name": "Nyoutaaa",
-		"profileURL": "https://github.com/Nyoutaaa"
-	}
+    "codename": "crownqltechn",
+    "deviceName": "Samsung Galaxy N9",
+    "brandName": "Samsung",
+    "otaEnabled": true,
+    "latestVersion": "v5.2.1",
+    "discontinued": false,
+    "deviceChangelog": null,
+    "releases": [
+        {
+            "type": "vanilla",
+            "generatedAt": 1628474232,
+            "fileName": "dotOS-R-v5.1.3-crownqltechn-OFFICIAL-20210809-0120.zip",
+            "url": "https://downloads.droidontime.com/dot11/crownqltechn/vanilla/dotOS-R-v5.1.3-crownqltechn-OFFICIAL-20210809-0120.zip",
+            "requireCleanFlash": false,
+            "images": null,
+            "hash": "bebaa99c94f4e266406b1cd920282ee0",
+            "size": 614745033,
+            "version": "v5.1.3"
+        },
+        {
+            "type": "gapps",
+            "generatedAt": 1628475253,
+            "fileName": "dotOS-R-v5.1.3-crownqltechn-GAPPS-20210809-0209.zip",
+            "url": "https://downloads.droidontime.com/dot11/crownqltechn/gapps/dotOS-R-v5.1.3-crownqltechn-GAPPS-20210809-0209.zip",
+            "requireCleanFlash": false,
+            "images": null,
+            "hash": "30a518cd81e69fdcf460f15bb33384d2",
+            "size": 1052531021,
+            "version": "v5.1.3"
+        },
+        {
+            "type": "vanilla",
+            "generatedAt": 1633811656,
+            "fileName": "dotOS-R-v5.2-crownqltechn-OFFICIAL-20211009-2035.zip",
+            "url": "https://api.droidontime.com/api/download/crownqltechn/v5.2/vanilla",
+            "requireCleanFlash": false,
+            "images": [
+                {
+                    "type": "boot",
+                    "url": "https://api.droidontime.com/api/download/crownqltechn/v5.2/vanilla/boot"
+                },
+                {
+                    "type": "recovery",
+                    "url": "https://api.droidontime.com/api/download/crownqltechn/v5.2/vanilla/recovery"
+                }
+            ],
+            "hash": "ae53ef7c6b3937c4ad7d0f6e84a54dc3",
+            "size": 633802392,
+            "version": "v5.2"
+        },
+        {
+            "type": "gapps",
+            "generatedAt": 1633814422,
+            "fileName": "dotOS-R-v5.2-crownqltechn-GAPPS-20211009-2121.zip",
+            "url": "https://api.droidontime.com/api/download/crownqltechn/v5.2/gapps",
+            "requireCleanFlash": false,
+            "images": [
+                {
+                    "type": "boot",
+                    "url": "https://api.droidontime.com/api/download/crownqltechn/v5.2/gapps/boot"
+                },
+                {
+                    "type": "recovery",
+                    "url": "https://api.droidontime.com/api/download/crownqltechn/v5.2/gapps/recovery"
+                }
+            ],
+            "hash": "1656abf3cc3f0f4e6cf34503c6f0e7a3",
+            "size": 1073197607,
+            "version": "v5.2"
+        },
+        {
+            "type": "vanilla",
+            "generatedAt": 1637614135,
+            "fileName": "dotOS-R-v5.2.1-crownqltechn-OFFICIAL-20211122-2050.zip",
+            "url": "https://api.droidontime.com/api/download/crownqltechn/v5.2.1/vanilla",
+            "requireCleanFlash": false,
+            "images": [
+                {
+                    "type": "boot",
+                    "url": "https://api.droidontime.com/api/download/crownqltechn/v5.2.1/vanilla/boot"
+                },
+                {
+                    "type": "recovery",
+                    "url": "https://api.droidontime.com/api/download/crownqltechn/v5.2.1/vanilla/recovery"
+                }
+            ],
+            "hash": "4b26db8ba8d9d77cc60167fd0b39d84c",
+            "size": 634231601,
+            "version": "v5.2.1"
+        },
+        {
+            "type": "gapps",
+            "generatedAt": 1637616939,
+            "fileName": "dotOS-R-v5.2.1-crownqltechn-GAPPS-20211122-2136.zip",
+            "url": "https://api.droidontime.com/api/download/crownqltechn/v5.2.1/gapps",
+            "requireCleanFlash": false,
+            "images": [
+                {
+                    "type": "boot",
+                    "url": "https://api.droidontime.com/api/download/crownqltechn/v5.2.1/gapps/boot"
+                },
+                {
+                    "type": "recovery",
+                    "url": "https://api.droidontime.com/api/download/crownqltechn/v5.2.1/gapps/recovery"
+                }
+            ],
+            "hash": "ad9302747d15750fcc6dcd44659e943e",
+            "size": 1073128259,
+            "version": "v5.2.1"
+        }
+    ],
+    "links": {
+        "xda": "https://forum.xda-developers.com/t/rom-android-11-dotos-samsung-galaxy-n9-official-crownqltechn.4262581/",
+        "telegram": null
+    },
+    "maintainerInfo": {
+        "name": "Nyoutaaa",
+        "profileURL": "https://github.com/Nyoutaaa"
+    }
 }
