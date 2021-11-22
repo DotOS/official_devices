@@ -1,81 +1,121 @@
 {
-	"codename": "apollo",
-	"deviceName": "Mi 10T/10T Pro",
-	"brandName": "Xiaomi",
-	"otaEnabled": true,
-	"latestVersion": "v5.2",
-	"discontinued": false,
-	"deviceChangelog": null,
-	"releases": [
-		{
-			"type": "vanilla",
-			"generatedAt": 1628801443,
-			"fileName": "dotOS-R-v5.1.3-apollo-OFFICIAL-20210812-2008.zip",
-			"url": "https://downloads.droidontime.com/dot11/apollo/vanilla/dotOS-R-v5.1.3-apollo-OFFICIAL-20210812-2008.zip",
-			"requireCleanFlash": false,
-			"images": null,
-			"hash": "ee314bb6c16f44d7de0be839287d1f7e",
-			"size": 1176188685,
-			"version": "v5.1.3"
-		},
-		{
-			"type": "gapps",
-			"generatedAt": 1628803288,
-			"fileName": "dotOS-R-v5.1.3-apollo-GAPPS-20210812-2113.zip",
-			"url": "https://downloads.droidontime.com/dot11/apollo/gapps/dotOS-R-v5.1.3-apollo-GAPPS-20210812-2113.zip",
-			"requireCleanFlash": false,
-			"images": null,
-			"hash": "cf77ad8d47dc433f76c036bf267d7b71",
-			"size": 1598754638,
-			"version": "v5.1.3"
-		},
-		{
-			"type": "vanilla",
-			"generatedAt": 1633740566,
-			"fileName": "dotOS-R-v5.2-apollo-OFFICIAL-20211009-0050.zip",
-			"url": "https://api.droidontime.com/api/download/apollo/v5.2/vanilla",
-			"requireCleanFlash": false,
-			"images": [
-				{
-					"type": "boot",
-					"url": "https://api.droidontime.com/api/download/apollo/v5.2/vanilla/boot"
-				},
-				{
-					"type": "recovery",
-					"url": "https://api.droidontime.com/api/download/apollo/v5.2/vanilla/recovery"
-				}
-			],
-			"hash": "766e55cf0da814efb7967c734dec4f15",
-			"size": 1195962572,
-			"version": "v5.2"
-		},
-		{
-			"type": "gapps",
-			"generatedAt": 1633744024,
-			"fileName": "dotOS-R-v5.2-apollo-GAPPS-20211009-0148.zip",
-			"url": "https://api.droidontime.com/api/download/apollo/v5.2/gapps",
-			"requireCleanFlash": false,
-			"images": [
-				{
-					"type": "boot",
-					"url": "https://api.droidontime.com/api/download/apollo/v5.2/gapps/boot"
-				},
-				{
-					"type": "recovery",
-					"url": "https://api.droidontime.com/api/download/apollo/v5.2/gapps/recovery"
-				}
-			],
-			"hash": "120b92bda45d289e1440828acc2fddc6",
-			"size": 1618945206,
-			"version": "v5.2"
-		}
-	],
-	"links": {
-		"xda": "https://forum.xda-developers.com/t/rom-official-a11-dotos-5-1-2-vanilla-gapps.4262103/",
-		"telegram": "https://t.me/ejbtrdsspaceship"
-	},
-	"maintainerInfo": {
-		"name": "ejbtrd",
-		"profileURL": "https://github.com/ejbtrd/"
-	}
+    "codename": "apollo",
+    "deviceName": "Mi 10T/10T Pro",
+    "brandName": "Xiaomi",
+    "otaEnabled": true,
+    "latestVersion": "v5.2.1",
+    "discontinued": false,
+    "deviceChangelog": null,
+    "releases": [
+        {
+            "type": "vanilla",
+            "generatedAt": 1628801443,
+            "fileName": "dotOS-R-v5.1.3-apollo-OFFICIAL-20210812-2008.zip",
+            "url": "https://downloads.droidontime.com/dot11/apollo/vanilla/dotOS-R-v5.1.3-apollo-OFFICIAL-20210812-2008.zip",
+            "requireCleanFlash": false,
+            "images": null,
+            "hash": "ee314bb6c16f44d7de0be839287d1f7e",
+            "size": 1176188685,
+            "version": "v5.1.3"
+        },
+        {
+            "type": "gapps",
+            "generatedAt": 1628803288,
+            "fileName": "dotOS-R-v5.1.3-apollo-GAPPS-20210812-2113.zip",
+            "url": "https://downloads.droidontime.com/dot11/apollo/gapps/dotOS-R-v5.1.3-apollo-GAPPS-20210812-2113.zip",
+            "requireCleanFlash": false,
+            "images": null,
+            "hash": "cf77ad8d47dc433f76c036bf267d7b71",
+            "size": 1598754638,
+            "version": "v5.1.3"
+        },
+        {
+            "type": "vanilla",
+            "generatedAt": 1633740566,
+            "fileName": "dotOS-R-v5.2-apollo-OFFICIAL-20211009-0050.zip",
+            "url": "https://api.droidontime.com/api/download/apollo/v5.2/vanilla",
+            "requireCleanFlash": false,
+            "images": [
+                {
+                    "type": "boot",
+                    "url": "https://api.droidontime.com/api/download/apollo/v5.2/vanilla/boot"
+                },
+                {
+                    "type": "recovery",
+                    "url": "https://api.droidontime.com/api/download/apollo/v5.2/vanilla/recovery"
+                }
+            ],
+            "hash": "766e55cf0da814efb7967c734dec4f15",
+            "size": 1195962572,
+            "version": "v5.2"
+        },
+        {
+            "type": "gapps",
+            "generatedAt": 1633744024,
+            "fileName": "dotOS-R-v5.2-apollo-GAPPS-20211009-0148.zip",
+            "url": "https://api.droidontime.com/api/download/apollo/v5.2/gapps",
+            "requireCleanFlash": false,
+            "images": [
+                {
+                    "type": "boot",
+                    "url": "https://api.droidontime.com/api/download/apollo/v5.2/gapps/boot"
+                },
+                {
+                    "type": "recovery",
+                    "url": "https://api.droidontime.com/api/download/apollo/v5.2/gapps/recovery"
+                }
+            ],
+            "hash": "120b92bda45d289e1440828acc2fddc6",
+            "size": 1618945206,
+            "version": "v5.2"
+        },
+        {
+            "type": "vanilla",
+            "generatedAt": 1637598186,
+            "fileName": "dotOS-R-v5.2.1-apollo-OFFICIAL-20211122-1624.zip",
+            "url": "https://api.droidontime.com/api/download/apollo/v5.2.1/vanilla",
+            "requireCleanFlash": false,
+            "images": [
+                {
+                    "type": "boot",
+                    "url": "https://api.droidontime.com/api/download/apollo/v5.2.1/vanilla/boot"
+                },
+                {
+                    "type": "recovery",
+                    "url": "https://api.droidontime.com/api/download/apollo/v5.2.1/vanilla/recovery"
+                }
+            ],
+            "hash": "fbc46d34507abc0143bbf2c99e6662cf",
+            "size": 1196210065,
+            "version": "v5.2.1"
+        },
+        {
+            "type": "gapps",
+            "generatedAt": 1637603041,
+            "fileName": "dotOS-R-v5.2.1-apollo-GAPPS-20211122-1745.zip",
+            "url": "https://api.droidontime.com/api/download/apollo/v5.2.1/gapps",
+            "requireCleanFlash": false,
+            "images": [
+                {
+                    "type": "boot",
+                    "url": "https://api.droidontime.com/api/download/apollo/v5.2.1/gapps/boot"
+                },
+                {
+                    "type": "recovery",
+                    "url": "https://api.droidontime.com/api/download/apollo/v5.2.1/gapps/recovery"
+                }
+            ],
+            "hash": "b8c60bfc011e9d95bc5a8c0cd44bd958",
+            "size": 1619028416,
+            "version": "v5.2.1"
+        }
+    ],
+    "links": {
+        "xda": "https://forum.xda-developers.com/t/rom-official-a11-dotos-5-1-2-vanilla-gapps.4262103/",
+        "telegram": "https://t.me/ejbtrdsspaceship"
+    },
+    "maintainerInfo": {
+        "name": "ejbtrd",
+        "profileURL": "https://github.com/ejbtrd/"
+    }
 }
