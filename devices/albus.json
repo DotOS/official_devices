@@ -1,81 +1,121 @@
 {
-	"codename": "albus",
-	"deviceName": "Moto Z2 Play",
-	"brandName": "Motorola",
-	"otaEnabled": true,
-	"latestVersion": "v5.2",
-	"discontinued": false,
-	"deviceChangelog": null,
-	"releases": [
-		{
-			"type": "vanilla",
-			"generatedAt": 1628459581,
-			"fileName": "dotOS-R-v5.1.3-albus-OFFICIAL-20210808-2114.zip",
-			"url": "https://downloads.droidontime.com/dot11/albus/vanilla/dotOS-R-v5.1.3-albus-OFFICIAL-20210808-2114.zip",
-			"requireCleanFlash": false,
-			"images": null,
-			"hash": "79f6b14b5251d04a356fa7d5e962c3e9",
-			"size": 765523384,
-			"version": "v5.1.3"
-		},
-		{
-			"type": "gapps",
-			"generatedAt": 1628460779,
-			"fileName": "dotOS-R-v5.1.3-albus-GAPPS-20210808-2207.zip",
-			"url": "https://downloads.droidontime.com/dot11/albus/gapps/dotOS-R-v5.1.3-albus-GAPPS-20210808-2207.zip",
-			"requireCleanFlash": false,
-			"images": null,
-			"hash": "50188dc5741d42c4c9f6a23ecf96a609",
-			"size": 1261986708,
-			"version": "v5.1.3"
-		},
-		{
-			"type": "vanilla",
-			"generatedAt": 1633778652,
-			"fileName": "dotOS-R-v5.2-albus-OFFICIAL-20211009-1125.zip",
-			"url": "https://api.droidontime.com/api/download/albus/v5.2/vanilla",
-			"requireCleanFlash": false,
-			"images": [
-				{
-					"type": "boot",
-					"url": "https://api.droidontime.com/api/download/albus/v5.2/vanilla/boot"
-				},
-				{
-					"type": "recovery",
-					"url": "https://api.droidontime.com/api/download/albus/v5.2/vanilla/recovery"
-				}
-			],
-			"hash": "9128d8d8fc33b2e8c4fb3ce84c30c84a",
-			"size": 785021295,
-			"version": "v5.2"
-		},
-		{
-			"type": "gapps",
-			"generatedAt": 1633781566,
-			"fileName": "dotOS-R-v5.2-albus-GAPPS-20211009-1213.zip",
-			"url": "https://api.droidontime.com/api/download/albus/v5.2/gapps",
-			"requireCleanFlash": false,
-			"images": [
-				{
-					"type": "boot",
-					"url": "https://api.droidontime.com/api/download/albus/v5.2/gapps/boot"
-				},
-				{
-					"type": "recovery",
-					"url": "https://api.droidontime.com/api/download/albus/v5.2/gapps/recovery"
-				}
-			],
-			"hash": "5be507ac9a7dc39b7f5d5d66f692f49e",
-			"size": 1282072688,
-			"version": "v5.2"
-		}
-	],
-	"links": {
-		"xda": "https://forum.xda-developers.com/t/rom-11-motoz2play-dotos-5-0-1-unofficial-07-05-2021-albus.4260441/",
-		"telegram": "https://t.me/dot_albus"
-	},
-	"maintainerInfo": {
-		"name": "Helton Vezzoni",
-		"profileURL": "https://github.com/HeltonMax"
-	}
+    "codename": "albus",
+    "deviceName": "Moto Z2 Play",
+    "brandName": "Motorola",
+    "otaEnabled": true,
+    "latestVersion": "v5.2.1",
+    "discontinued": false,
+    "deviceChangelog": null,
+    "releases": [
+        {
+            "type": "vanilla",
+            "generatedAt": 1628459581,
+            "fileName": "dotOS-R-v5.1.3-albus-OFFICIAL-20210808-2114.zip",
+            "url": "https://downloads.droidontime.com/dot11/albus/vanilla/dotOS-R-v5.1.3-albus-OFFICIAL-20210808-2114.zip",
+            "requireCleanFlash": false,
+            "images": null,
+            "hash": "79f6b14b5251d04a356fa7d5e962c3e9",
+            "size": 765523384,
+            "version": "v5.1.3"
+        },
+        {
+            "type": "gapps",
+            "generatedAt": 1628460779,
+            "fileName": "dotOS-R-v5.1.3-albus-GAPPS-20210808-2207.zip",
+            "url": "https://downloads.droidontime.com/dot11/albus/gapps/dotOS-R-v5.1.3-albus-GAPPS-20210808-2207.zip",
+            "requireCleanFlash": false,
+            "images": null,
+            "hash": "50188dc5741d42c4c9f6a23ecf96a609",
+            "size": 1261986708,
+            "version": "v5.1.3"
+        },
+        {
+            "type": "vanilla",
+            "generatedAt": 1633778652,
+            "fileName": "dotOS-R-v5.2-albus-OFFICIAL-20211009-1125.zip",
+            "url": "https://api.droidontime.com/api/download/albus/v5.2/vanilla",
+            "requireCleanFlash": false,
+            "images": [
+                {
+                    "type": "boot",
+                    "url": "https://api.droidontime.com/api/download/albus/v5.2/vanilla/boot"
+                },
+                {
+                    "type": "recovery",
+                    "url": "https://api.droidontime.com/api/download/albus/v5.2/vanilla/recovery"
+                }
+            ],
+            "hash": "9128d8d8fc33b2e8c4fb3ce84c30c84a",
+            "size": 785021295,
+            "version": "v5.2"
+        },
+        {
+            "type": "gapps",
+            "generatedAt": 1633781566,
+            "fileName": "dotOS-R-v5.2-albus-GAPPS-20211009-1213.zip",
+            "url": "https://api.droidontime.com/api/download/albus/v5.2/gapps",
+            "requireCleanFlash": false,
+            "images": [
+                {
+                    "type": "boot",
+                    "url": "https://api.droidontime.com/api/download/albus/v5.2/gapps/boot"
+                },
+                {
+                    "type": "recovery",
+                    "url": "https://api.droidontime.com/api/download/albus/v5.2/gapps/recovery"
+                }
+            ],
+            "hash": "5be507ac9a7dc39b7f5d5d66f692f49e",
+            "size": 1282072688,
+            "version": "v5.2"
+        },
+        {
+            "type": "vanilla",
+            "generatedAt": 1637594011,
+            "fileName": "dotOS-R-v5.2.1-albus-OFFICIAL-20211122-1514.zip",
+            "url": "https://api.droidontime.com/api/download/albus/v5.2.1/vanilla",
+            "requireCleanFlash": false,
+            "images": [
+                {
+                    "type": "boot",
+                    "url": "https://api.droidontime.com/api/download/albus/v5.2.1/vanilla/boot"
+                },
+                {
+                    "type": "recovery",
+                    "url": "https://api.droidontime.com/api/download/albus/v5.2.1/vanilla/recovery"
+                }
+            ],
+            "hash": "84a7b24ed8c53087b6f41e7c90589e9c",
+            "size": 784933441,
+            "version": "v5.2.1"
+        },
+        {
+            "type": "gapps",
+            "generatedAt": 1637596952,
+            "fileName": "dotOS-R-v5.2.1-albus-GAPPS-20211122-1603.zip",
+            "url": "https://api.droidontime.com/api/download/albus/v5.2.1/gapps",
+            "requireCleanFlash": false,
+            "images": [
+                {
+                    "type": "boot",
+                    "url": "https://api.droidontime.com/api/download/albus/v5.2.1/gapps/boot"
+                },
+                {
+                    "type": "recovery",
+                    "url": "https://api.droidontime.com/api/download/albus/v5.2.1/gapps/recovery"
+                }
+            ],
+            "hash": "921d896fa47f4e70b088cb3a72d8de09",
+            "size": 1281914342,
+            "version": "v5.2.1"
+        }
+    ],
+    "links": {
+        "xda": "https://forum.xda-developers.com/t/rom-11-motoz2play-dotos-5-0-1-unofficial-07-05-2021-albus.4260441/",
+        "telegram": "https://t.me/dot_albus"
+    },
+    "maintainerInfo": {
+        "name": "Helton Vezzoni",
+        "profileURL": "https://github.com/HeltonMax"
+    }
 }
