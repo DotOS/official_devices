@@ -1,81 +1,121 @@
 {
-	"codename": "fajita",
-	"deviceName": "OnePlus 6T",
-	"brandName": "Oneplus",
-	"otaEnabled": true,
-	"latestVersion": "v5.2",
-	"discontinued": false,
-	"deviceChangelog": null,
-	"releases": [
-		{
-			"type": "vanilla",
-			"generatedAt": 1628499215,
-			"fileName": "dotOS-R-v5.1.3-fajita-OFFICIAL-20210809-0817.zip",
-			"url": "https://downloads.droidontime.com/dot11/fajita/vanilla/dotOS-R-v5.1.3-fajita-OFFICIAL-20210809-0817.zip",
-			"requireCleanFlash": false,
-			"images": null,
-			"hash": "b48ac66ffc56c25b290f3f966aa1f273",
-			"size": 752313967,
-			"version": "v5.1.3"
-		},
-		{
-			"type": "gapps",
-			"generatedAt": 1628500484,
-			"fileName": "dotOS-R-v5.1.3-fajita-GAPPS-20210809-0909.zip",
-			"url": "https://downloads.droidontime.com/dot11/fajita/gapps/dotOS-R-v5.1.3-fajita-GAPPS-20210809-0909.zip",
-			"requireCleanFlash": false,
-			"images": null,
-			"hash": "4bef3385e4c7a48e448c7e78bbb198e8",
-			"size": 1116368373,
-			"version": "v5.1.3"
-		},
-		{
-			"type": "vanilla",
-			"generatedAt": 1633866029,
-			"fileName": "dotOS-R-v5.2-fajita-OFFICIAL-20211010-1141.zip",
-			"url": "https://api.droidontime.com/api/download/fajita/v5.2/vanilla",
-			"requireCleanFlash": false,
-			"images": [
-				{
-					"type": "boot",
-					"url": "https://api.droidontime.com/api/download/fajita/v5.2/vanilla/boot"
-				},
-				{
-					"type": "recovery",
-					"url": "https://api.droidontime.com/api/download/fajita/v5.2/vanilla/recovery"
-				}
-			],
-			"hash": "bc85f09fac71c60904d61cc23dddce62",
-			"size": 767959776,
-			"version": "v5.2"
-		},
-		{
-			"type": "gapps",
-			"generatedAt": 1633868948,
-			"fileName": "dotOS-R-v5.2-fajita-GAPPS-20211010-1230.zip",
-			"url": "https://api.droidontime.com/api/download/fajita/v5.2/gapps",
-			"requireCleanFlash": false,
-			"images": [
-				{
-					"type": "boot",
-					"url": "https://api.droidontime.com/api/download/fajita/v5.2/gapps/boot"
-				},
-				{
-					"type": "recovery",
-					"url": "https://api.droidontime.com/api/download/fajita/v5.2/gapps/recovery"
-				}
-			],
-			"hash": "209b6c3a9acc0c15418c75a392b7ee1a",
-			"size": 1160150070,
-			"version": "v5.2"
-		}
-	],
-	"links": {
-		"xda": "https://forum.xda-developers.com/t/rom-11-official-dotos-5-0-1-fajita.4257317/",
-		"telegram": "https://t.me/dotos_fajita"
-	},
-	"maintainerInfo": {
-		"name": "Alexander Chycherin",
-		"profileURL": "https://github.com/sevralt"
-	}
+    "codename": "fajita",
+    "deviceName": "OnePlus 6T",
+    "brandName": "Oneplus",
+    "otaEnabled": true,
+    "latestVersion": "v5.2.1",
+    "discontinued": false,
+    "deviceChangelog": null,
+    "releases": [
+        {
+            "type": "vanilla",
+            "generatedAt": 1628499215,
+            "fileName": "dotOS-R-v5.1.3-fajita-OFFICIAL-20210809-0817.zip",
+            "url": "https://downloads.droidontime.com/dot11/fajita/vanilla/dotOS-R-v5.1.3-fajita-OFFICIAL-20210809-0817.zip",
+            "requireCleanFlash": false,
+            "images": null,
+            "hash": "b48ac66ffc56c25b290f3f966aa1f273",
+            "size": 752313967,
+            "version": "v5.1.3"
+        },
+        {
+            "type": "gapps",
+            "generatedAt": 1628500484,
+            "fileName": "dotOS-R-v5.1.3-fajita-GAPPS-20210809-0909.zip",
+            "url": "https://downloads.droidontime.com/dot11/fajita/gapps/dotOS-R-v5.1.3-fajita-GAPPS-20210809-0909.zip",
+            "requireCleanFlash": false,
+            "images": null,
+            "hash": "4bef3385e4c7a48e448c7e78bbb198e8",
+            "size": 1116368373,
+            "version": "v5.1.3"
+        },
+        {
+            "type": "vanilla",
+            "generatedAt": 1633866029,
+            "fileName": "dotOS-R-v5.2-fajita-OFFICIAL-20211010-1141.zip",
+            "url": "https://api.droidontime.com/api/download/fajita/v5.2/vanilla",
+            "requireCleanFlash": false,
+            "images": [
+                {
+                    "type": "boot",
+                    "url": "https://api.droidontime.com/api/download/fajita/v5.2/vanilla/boot"
+                },
+                {
+                    "type": "recovery",
+                    "url": "https://api.droidontime.com/api/download/fajita/v5.2/vanilla/recovery"
+                }
+            ],
+            "hash": "bc85f09fac71c60904d61cc23dddce62",
+            "size": 767959776,
+            "version": "v5.2"
+        },
+        {
+            "type": "gapps",
+            "generatedAt": 1633868948,
+            "fileName": "dotOS-R-v5.2-fajita-GAPPS-20211010-1230.zip",
+            "url": "https://api.droidontime.com/api/download/fajita/v5.2/gapps",
+            "requireCleanFlash": false,
+            "images": [
+                {
+                    "type": "boot",
+                    "url": "https://api.droidontime.com/api/download/fajita/v5.2/gapps/boot"
+                },
+                {
+                    "type": "recovery",
+                    "url": "https://api.droidontime.com/api/download/fajita/v5.2/gapps/recovery"
+                }
+            ],
+            "hash": "209b6c3a9acc0c15418c75a392b7ee1a",
+            "size": 1160150070,
+            "version": "v5.2"
+        },
+        {
+            "type": "vanilla",
+            "generatedAt": 1637627317,
+            "fileName": "dotOS-R-v5.2.1-fajita-OFFICIAL-20211123-0030.zip",
+            "url": "https://api.droidontime.com/api/download/fajita/v5.2.1/vanilla",
+            "requireCleanFlash": false,
+            "images": [
+                {
+                    "type": "boot",
+                    "url": "https://api.droidontime.com/api/download/fajita/v5.2.1/vanilla/boot"
+                },
+                {
+                    "type": "recovery",
+                    "url": "https://api.droidontime.com/api/download/fajita/v5.2.1/vanilla/recovery"
+                }
+            ],
+            "hash": "fb0aa8ec8065bbc79ae075010ea4c51a",
+            "size": 768198466,
+            "version": "v5.2.1"
+        },
+        {
+            "type": "gapps",
+            "generatedAt": 1637630210,
+            "fileName": "dotOS-R-v5.2.1-fajita-GAPPS-20211123-0117.zip",
+            "url": "https://api.droidontime.com/api/download/fajita/v5.2.1/gapps",
+            "requireCleanFlash": false,
+            "images": [
+                {
+                    "type": "boot",
+                    "url": "https://api.droidontime.com/api/download/fajita/v5.2.1/gapps/boot"
+                },
+                {
+                    "type": "recovery",
+                    "url": "https://api.droidontime.com/api/download/fajita/v5.2.1/gapps/recovery"
+                }
+            ],
+            "hash": "717e6120528a2eb6730af67a72ab96d8",
+            "size": 1160338866,
+            "version": "v5.2.1"
+        }
+    ],
+    "links": {
+        "xda": "https://forum.xda-developers.com/t/rom-11-official-dotos-5-0-1-fajita.4257317/",
+        "telegram": "https://t.me/dotos_fajita"
+    },
+    "maintainerInfo": {
+        "name": "Alexander Chycherin",
+        "profileURL": "https://github.com/sevralt"
+    }
 }
