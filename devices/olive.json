@@ -1,121 +1,121 @@
 {
-    "codename": "olive",
-    "deviceName": "Redmi 8",
-    "brandName": "Xiaomi",
-    "otaEnabled": true,
-    "latestVersion": "v5.2.1",
-    "discontinued": false,
-    "deviceChangelog": null,
-    "releases": [
-        {
-            "type": "vanilla",
-            "generatedAt": 1628684708,
-            "fileName": "dotOS-R-v5.1.3-olive-OFFICIAL-20210811-1144.zip",
-            "url": "https://downloads.droidontime.com/dot11/olive/vanilla/dotOS-R-v5.1.3-olive-OFFICIAL-20210811-1144.zip",
-            "requireCleanFlash": false,
-            "images": null,
-            "hash": "e2c42734e5db8a83054affdb1548157f",
-            "size": 809062369,
-            "version": "v5.1.3"
-        },
-        {
-            "type": "gapps",
-            "generatedAt": 1628686054,
-            "fileName": "dotOS-R-v5.1.3-olive-GAPPS-20210811-1240.zip",
-            "url": "https://downloads.droidontime.com/dot11/olive/gapps/dotOS-R-v5.1.3-olive-GAPPS-20210811-1240.zip",
-            "requireCleanFlash": false,
-            "images": null,
-            "hash": "10131fdc7ffe2d63c3814b06f545b5a9",
-            "size": 1252511397,
-            "version": "v5.1.3"
-        },
-        {
-            "type": "vanilla",
-            "generatedAt": 1633887133,
-            "fileName": "dotOS-R-v5.2-olive-OFFICIAL-20211010-1733.zip",
-            "url": "https://api.droidontime.com/api/download/olive/v5.2/vanilla",
-            "requireCleanFlash": false,
-            "images": [
-                {
-                    "type": "boot",
-                    "url": "https://api.droidontime.com/api/download/olive/v5.2/vanilla/boot"
-                },
-                {
-                    "type": "recovery",
-                    "url": "https://api.droidontime.com/api/download/olive/v5.2/vanilla/recovery"
-                }
-            ],
-            "hash": "e171a1ae60b6486307de3148b3fa2e1a",
-            "size": 832031660,
-            "version": "v5.2"
-        },
-        {
-            "type": "gapps",
-            "generatedAt": 1633890263,
-            "fileName": "dotOS-R-v5.2-olive-GAPPS-20211010-1825.zip",
-            "url": "https://api.droidontime.com/api/download/olive/v5.2/gapps",
-            "requireCleanFlash": false,
-            "images": [
-                {
-                    "type": "boot",
-                    "url": "https://api.droidontime.com/api/download/olive/v5.2/gapps/boot"
-                },
-                {
-                    "type": "recovery",
-                    "url": "https://api.droidontime.com/api/download/olive/v5.2/gapps/recovery"
-                }
-            ],
-            "hash": "2e82c7704ad25bdcd6cd046a3d9ceb9b",
-            "size": 1276491469,
-            "version": "v5.2"
-        },
-        {
-            "type": "vanilla",
-            "generatedAt": 1637653869,
-            "fileName": "dotOS-R-v5.2.1-olive-OFFICIAL-20211123-0752.zip",
-            "url": "https://api.droidontime.com/api/download/olive/v5.2.1/vanilla",
-            "requireCleanFlash": false,
-            "images": [
-                {
-                    "type": "boot",
-                    "url": "https://api.droidontime.com/api/download/olive/v5.2.1/vanilla/boot"
-                },
-                {
-                    "type": "recovery",
-                    "url": "https://api.droidontime.com/api/download/olive/v5.2.1/vanilla/recovery"
-                }
-            ],
-            "hash": "7875e8833e0283f424aaf40680c3d9fd",
-            "size": 835566862,
-            "version": "v5.2.1"
-        },
-        {
-            "type": "gapps",
-            "generatedAt": 1637656984,
-            "fileName": "dotOS-R-v5.2.1-olive-GAPPS-20211123-0844.zip",
-            "url": "https://api.droidontime.com/api/download/olive/v5.2.1/gapps",
-            "requireCleanFlash": false,
-            "images": [
-                {
-                    "type": "boot",
-                    "url": "https://api.droidontime.com/api/download/olive/v5.2.1/gapps/boot"
-                },
-                {
-                    "type": "recovery",
-                    "url": "https://api.droidontime.com/api/download/olive/v5.2.1/gapps/recovery"
-                }
-            ],
-            "hash": "e8125e8749a2d70417ab3d56554fe444",
-            "size": 1279904921,
-            "version": "v5.2.1"
-        }
-    ],
-    "links": {
-        "xda": "https://forum.xda-developers.com/t/rom-aosp-11-0-unofficial-olive-dotos-v5-1-2-for-redmi-8.4302385/",
-        "telegram": "https://t.me/dotos_olive"
-    },
-    "maintainerInfo": {
-        "name": "deadlylxrd",
-        "profileURL": "https://github.com/IAmDeadlylxrd"
-    }
+	"codename": "olive",
+	"deviceName": "Redmi 8",
+	"brandName": "Xiaomi",
+	"otaEnabled": true,
+	"latestVersion": "v5.2.1",
+	"discontinued": false,
+	"deviceChangelog": null,
+	"releases": [
+		{
+			"type": "vanilla",
+			"generatedAt": 1628684708,
+			"fileName": "dotOS-R-v5.1.3-olive-OFFICIAL-20210811-1144.zip",
+			"url": "https://downloads.droidontime.com/dot11/olive/vanilla/dotOS-R-v5.1.3-olive-OFFICIAL-20210811-1144.zip",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "e2c42734e5db8a83054affdb1548157f",
+			"size": 809062369,
+			"version": "v5.1.3"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1628686054,
+			"fileName": "dotOS-R-v5.1.3-olive-GAPPS-20210811-1240.zip",
+			"url": "https://downloads.droidontime.com/dot11/olive/gapps/dotOS-R-v5.1.3-olive-GAPPS-20210811-1240.zip",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "10131fdc7ffe2d63c3814b06f545b5a9",
+			"size": 1252511397,
+			"version": "v5.1.3"
+		},
+		{
+			"type": "vanilla",
+			"generatedAt": 1633887133,
+			"fileName": "dotOS-R-v5.2-olive-OFFICIAL-20211010-1733.zip",
+			"url": "https://api.droidontime.com/api/download/olive/v5.2/vanilla",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/olive/v5.2/vanilla/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/olive/v5.2/vanilla/recovery"
+				}
+			],
+			"hash": "e171a1ae60b6486307de3148b3fa2e1a",
+			"size": 832031660,
+			"version": "v5.2"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1633890263,
+			"fileName": "dotOS-R-v5.2-olive-GAPPS-20211010-1825.zip",
+			"url": "https://api.droidontime.com/api/download/olive/v5.2/gapps",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/olive/v5.2/gapps/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/olive/v5.2/gapps/recovery"
+				}
+			],
+			"hash": "2e82c7704ad25bdcd6cd046a3d9ceb9b",
+			"size": 1276491469,
+			"version": "v5.2"
+		},
+		{
+			"type": "vanilla",
+			"generatedAt": 1637653869,
+			"fileName": "dotOS-R-v5.2.1-olive-OFFICIAL-20211123-0752.zip",
+			"url": "https://api.droidontime.com/api/download/olive/v5.2.1/vanilla",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/olive/v5.2.1/vanilla/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/olive/v5.2.1/vanilla/recovery"
+				}
+			],
+			"hash": "7875e8833e0283f424aaf40680c3d9fd",
+			"size": 835566862,
+			"version": "v5.2.1"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1637656984,
+			"fileName": "dotOS-R-v5.2.1-olive-GAPPS-20211123-0844.zip",
+			"url": "https://api.droidontime.com/api/download/olive/v5.2.1/gapps",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/olive/v5.2.1/gapps/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/olive/v5.2.1/gapps/recovery"
+				}
+			],
+			"hash": "e8125e8749a2d70417ab3d56554fe444",
+			"size": 1279904921,
+			"version": "v5.2.1"
+		}
+	],
+	"links": {
+		"xda": "https://forum.xda-developers.com/t/rom-aosp-11-0-unofficial-olive-dotos-v5-1-2-for-redmi-8.4302385/",
+		"telegram": "https://t.me/dotos_olive"
+	},
+	"maintainerInfo": {
+		"name": "deadlylxrd",
+		"profileURL": "https://github.com/IAmDeadlylxrd"
+	}
 }
