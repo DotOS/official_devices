@@ -1,81 +1,121 @@
 {
-	"codename": "sargo",
-	"deviceName": "Pixel 3a",
-	"brandName": "Google",
-	"otaEnabled": true,
-	"latestVersion": "v5.2",
-	"discontinued": false,
-	"deviceChangelog": null,
-	"releases": [
-		{
-			"type": "vanilla",
-			"generatedAt": 1628677060,
-			"fileName": "dotOS-R-v5.1.3-sargo-OFFICIAL-20210811-0938.zip",
-			"url": "https://downloads.droidontime.com/dot11/sargo/vanilla/dotOS-R-v5.1.3-sargo-OFFICIAL-20210811-0938.zip",
-			"requireCleanFlash": false,
-			"images": null,
-			"hash": "12536e712e955df9e56f5f7c37dd3298",
-			"size": 858414375,
-			"version": "v5.1.3"
-		},
-		{
-			"type": "gapps",
-			"generatedAt": 1628678459,
-			"fileName": "dotOS-R-v5.1.3-sargo-GAPPS-20210811-1034.zip",
-			"url": "https://downloads.droidontime.com/dot11/sargo/gapps/dotOS-R-v5.1.3-sargo-GAPPS-20210811-1034.zip",
-			"requireCleanFlash": false,
-			"images": null,
-			"hash": "9148b5593574879e44b2d802f453e053",
-			"size": 1289798659,
-			"version": "v5.1.3"
-		},
-		{
-			"type": "vanilla",
-			"generatedAt": 1633755691,
-			"fileName": "dotOS-R-v5.2-sargo-OFFICIAL-20211009-0502.zip",
-			"url": "https://api.droidontime.com/api/download/sargo/v5.2/vanilla",
-			"requireCleanFlash": false,
-			"images": [
-				{
-					"type": "boot",
-					"url": "https://api.droidontime.com/api/download/sargo/v5.2/vanilla/boot"
-				},
-				{
-					"type": "recovery",
-					"url": "https://api.droidontime.com/api/download/sargo/v5.2/vanilla/recovery"
-				}
-			],
-			"hash": "fed1867b3ab503946fbf04a644407a2a",
-			"size": 878825617,
-			"version": "v5.2"
-		},
-		{
-			"type": "gapps",
-			"generatedAt": 1633758838,
-			"fileName": "dotOS-R-v5.2-sargo-GAPPS-20211009-0555.zip",
-			"url": "https://api.droidontime.com/api/download/sargo/v5.2/gapps",
-			"requireCleanFlash": false,
-			"images": [
-				{
-					"type": "boot",
-					"url": "https://api.droidontime.com/api/download/sargo/v5.2/gapps/boot"
-				},
-				{
-					"type": "recovery",
-					"url": "https://api.droidontime.com/api/download/sargo/v5.2/gapps/recovery"
-				}
-			],
-			"hash": "8127a300b69d83eb08fd5b6e67552f13",
-			"size": 1312644499,
-			"version": "v5.2"
-		}
-	],
-	"links": {
-		"xda": "https://forum.xda-developers.com/t/https://forum.xda-developers.com/t/rom-android-11-sargo-dotos-v5-x-unofficial.4288297/",
-		"telegram": null
-	},
-	"maintainerInfo": {
-		"name": "Martin",
-		"profileURL": "https://github.com/zapmicro"
-	}
+    "codename": "sargo",
+    "deviceName": "Pixel 3a",
+    "brandName": "Google",
+    "otaEnabled": true,
+    "latestVersion": "v5.2.1",
+    "discontinued": false,
+    "deviceChangelog": null,
+    "releases": [
+        {
+            "type": "vanilla",
+            "generatedAt": 1628677060,
+            "fileName": "dotOS-R-v5.1.3-sargo-OFFICIAL-20210811-0938.zip",
+            "url": "https://downloads.droidontime.com/dot11/sargo/vanilla/dotOS-R-v5.1.3-sargo-OFFICIAL-20210811-0938.zip",
+            "requireCleanFlash": false,
+            "images": null,
+            "hash": "12536e712e955df9e56f5f7c37dd3298",
+            "size": 858414375,
+            "version": "v5.1.3"
+        },
+        {
+            "type": "gapps",
+            "generatedAt": 1628678459,
+            "fileName": "dotOS-R-v5.1.3-sargo-GAPPS-20210811-1034.zip",
+            "url": "https://downloads.droidontime.com/dot11/sargo/gapps/dotOS-R-v5.1.3-sargo-GAPPS-20210811-1034.zip",
+            "requireCleanFlash": false,
+            "images": null,
+            "hash": "9148b5593574879e44b2d802f453e053",
+            "size": 1289798659,
+            "version": "v5.1.3"
+        },
+        {
+            "type": "vanilla",
+            "generatedAt": 1633755691,
+            "fileName": "dotOS-R-v5.2-sargo-OFFICIAL-20211009-0502.zip",
+            "url": "https://api.droidontime.com/api/download/sargo/v5.2/vanilla",
+            "requireCleanFlash": false,
+            "images": [
+                {
+                    "type": "boot",
+                    "url": "https://api.droidontime.com/api/download/sargo/v5.2/vanilla/boot"
+                },
+                {
+                    "type": "recovery",
+                    "url": "https://api.droidontime.com/api/download/sargo/v5.2/vanilla/recovery"
+                }
+            ],
+            "hash": "fed1867b3ab503946fbf04a644407a2a",
+            "size": 878825617,
+            "version": "v5.2"
+        },
+        {
+            "type": "gapps",
+            "generatedAt": 1633758838,
+            "fileName": "dotOS-R-v5.2-sargo-GAPPS-20211009-0555.zip",
+            "url": "https://api.droidontime.com/api/download/sargo/v5.2/gapps",
+            "requireCleanFlash": false,
+            "images": [
+                {
+                    "type": "boot",
+                    "url": "https://api.droidontime.com/api/download/sargo/v5.2/gapps/boot"
+                },
+                {
+                    "type": "recovery",
+                    "url": "https://api.droidontime.com/api/download/sargo/v5.2/gapps/recovery"
+                }
+            ],
+            "hash": "8127a300b69d83eb08fd5b6e67552f13",
+            "size": 1312644499,
+            "version": "v5.2"
+        },
+        {
+            "type": "vanilla",
+            "generatedAt": 1637700506,
+            "fileName": "dotOS-R-v5.2.1-sargo-OFFICIAL-20211123-2049.zip",
+            "url": "https://api.droidontime.com/api/download/sargo/v5.2.1/vanilla",
+            "requireCleanFlash": false,
+            "images": [
+                {
+                    "type": "boot",
+                    "url": "https://api.droidontime.com/api/download/sargo/v5.2.1/vanilla/boot"
+                },
+                {
+                    "type": "recovery",
+                    "url": "https://api.droidontime.com/api/download/sargo/v5.2.1/vanilla/recovery"
+                }
+            ],
+            "hash": "7315d897699c9cd36273b8044b84087d",
+            "size": 878562347,
+            "version": "v5.2.1"
+        },
+        {
+            "type": "gapps",
+            "generatedAt": 1637703679,
+            "fileName": "dotOS-R-v5.2.1-sargo-GAPPS-20211123-2142.zip",
+            "url": "https://api.droidontime.com/api/download/sargo/v5.2.1/gapps",
+            "requireCleanFlash": false,
+            "images": [
+                {
+                    "type": "boot",
+                    "url": "https://api.droidontime.com/api/download/sargo/v5.2.1/gapps/boot"
+                },
+                {
+                    "type": "recovery",
+                    "url": "https://api.droidontime.com/api/download/sargo/v5.2.1/gapps/recovery"
+                }
+            ],
+            "hash": "1cbe94417d5a2c6dcf89db341c2b84c1",
+            "size": 1312697643,
+            "version": "v5.2.1"
+        }
+    ],
+    "links": {
+        "xda": "https://forum.xda-developers.com/t/https://forum.xda-developers.com/t/rom-android-11-sargo-dotos-v5-x-unofficial.4288297/",
+        "telegram": null
+    },
+    "maintainerInfo": {
+        "name": "Martin",
+        "profileURL": "https://github.com/zapmicro"
+    }
 }
