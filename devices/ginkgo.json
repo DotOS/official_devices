@@ -1,81 +1,121 @@
 {
-	"codename": "ginkgo",
-	"deviceName": "Redmi Note 8",
-	"brandName": "Xiaomi",
-	"otaEnabled": true,
-	"latestVersion": "v5.2",
-	"discontinued": false,
-	"deviceChangelog": null,
-	"releases": [
-		{
-			"type": "vanilla",
-			"generatedAt": 1628508941,
-			"fileName": "dotOS-R-v5.1.3-ginkgo-OFFICIAL-20210809-1053.zip",
-			"url": "https://downloads.droidontime.com/dot11/ginkgo/vanilla/dotOS-R-v5.1.3-ginkgo-OFFICIAL-20210809-1053.zip",
-			"requireCleanFlash": false,
-			"images": null,
-			"hash": "71fd9b55cde8591c6055c0d90d595820",
-			"size": 913010547,
-			"version": "v5.1.3"
-		},
-		{
-			"type": "gapps",
-			"generatedAt": 1628510453,
-			"fileName": "dotOS-R-v5.1.3-ginkgo-GAPPS-20210809-1153.zip",
-			"url": "https://downloads.droidontime.com/dot11/ginkgo/gapps/dotOS-R-v5.1.3-ginkgo-GAPPS-20210809-1153.zip",
-			"requireCleanFlash": false,
-			"images": null,
-			"hash": "2312d712db553794487ed516da2207ee",
-			"size": 1356367256,
-			"version": "v5.1.3"
-		},
-		{
-			"type": "vanilla",
-			"generatedAt": 1633676548,
-			"fileName": "dotOS-R-v5.2-ginkgo-OFFICIAL-20211008-0703.zip",
-			"url": "https://api.droidontime.com/api/download/ginkgo/v5.2/vanilla",
-			"requireCleanFlash": false,
-			"images": [
-				{
-					"type": "boot",
-					"url": "https://api.droidontime.com/api/download/ginkgo/v5.2/vanilla/boot"
-				},
-				{
-					"type": "recovery",
-					"url": "https://api.droidontime.com/api/download/ginkgo/v5.2/vanilla/recovery"
-				}
-			],
-			"hash": "6d77d89ca91d6fa3004394d5d9d379a5",
-			"size": 931922891,
-			"version": "v5.2"
-		},
-		{
-			"type": "gapps",
-			"generatedAt": 1633679749,
-			"fileName": "dotOS-R-v5.2-ginkgo-GAPPS-20211008-0757.zip",
-			"url": "https://api.droidontime.com/api/download/ginkgo/v5.2/gapps",
-			"requireCleanFlash": false,
-			"images": [
-				{
-					"type": "boot",
-					"url": "https://api.droidontime.com/api/download/ginkgo/v5.2/gapps/boot"
-				},
-				{
-					"type": "recovery",
-					"url": "https://api.droidontime.com/api/download/ginkgo/v5.2/gapps/recovery"
-				}
-			],
-			"hash": "4c7288e2c62a5888be9f6d67f00ea501",
-			"size": 1376352313,
-			"version": "v5.2"
-		}
-	],
-	"links": {
-		"xda": "https://forum.xda-developers.com/t/rom-11-0-official-dotos-v5-0-1-aosp-2021-04-13.4233715/",
-		"telegram": "https://t.me/DotOSGinkgo"
-	},
-	"maintainerInfo": {
-		"name": "Yash Kachave",
-		"profileURL": "https://github.com/Introdructor"
-	}
+    "codename": "ginkgo",
+    "deviceName": "Redmi Note 8",
+    "brandName": "Xiaomi",
+    "otaEnabled": true,
+    "latestVersion": "v5.2.1",
+    "discontinued": false,
+    "deviceChangelog": null,
+    "releases": [
+        {
+            "type": "vanilla",
+            "generatedAt": 1628508941,
+            "fileName": "dotOS-R-v5.1.3-ginkgo-OFFICIAL-20210809-1053.zip",
+            "url": "https://downloads.droidontime.com/dot11/ginkgo/vanilla/dotOS-R-v5.1.3-ginkgo-OFFICIAL-20210809-1053.zip",
+            "requireCleanFlash": false,
+            "images": null,
+            "hash": "71fd9b55cde8591c6055c0d90d595820",
+            "size": 913010547,
+            "version": "v5.1.3"
+        },
+        {
+            "type": "gapps",
+            "generatedAt": 1628510453,
+            "fileName": "dotOS-R-v5.1.3-ginkgo-GAPPS-20210809-1153.zip",
+            "url": "https://downloads.droidontime.com/dot11/ginkgo/gapps/dotOS-R-v5.1.3-ginkgo-GAPPS-20210809-1153.zip",
+            "requireCleanFlash": false,
+            "images": null,
+            "hash": "2312d712db553794487ed516da2207ee",
+            "size": 1356367256,
+            "version": "v5.1.3"
+        },
+        {
+            "type": "vanilla",
+            "generatedAt": 1633676548,
+            "fileName": "dotOS-R-v5.2-ginkgo-OFFICIAL-20211008-0703.zip",
+            "url": "https://api.droidontime.com/api/download/ginkgo/v5.2/vanilla",
+            "requireCleanFlash": false,
+            "images": [
+                {
+                    "type": "boot",
+                    "url": "https://api.droidontime.com/api/download/ginkgo/v5.2/vanilla/boot"
+                },
+                {
+                    "type": "recovery",
+                    "url": "https://api.droidontime.com/api/download/ginkgo/v5.2/vanilla/recovery"
+                }
+            ],
+            "hash": "6d77d89ca91d6fa3004394d5d9d379a5",
+            "size": 931922891,
+            "version": "v5.2"
+        },
+        {
+            "type": "gapps",
+            "generatedAt": 1633679749,
+            "fileName": "dotOS-R-v5.2-ginkgo-GAPPS-20211008-0757.zip",
+            "url": "https://api.droidontime.com/api/download/ginkgo/v5.2/gapps",
+            "requireCleanFlash": false,
+            "images": [
+                {
+                    "type": "boot",
+                    "url": "https://api.droidontime.com/api/download/ginkgo/v5.2/gapps/boot"
+                },
+                {
+                    "type": "recovery",
+                    "url": "https://api.droidontime.com/api/download/ginkgo/v5.2/gapps/recovery"
+                }
+            ],
+            "hash": "4c7288e2c62a5888be9f6d67f00ea501",
+            "size": 1376352313,
+            "version": "v5.2"
+        },
+        {
+            "type": "vanilla",
+            "generatedAt": 1637635683,
+            "fileName": "dotOS-R-v5.2.1-ginkgo-OFFICIAL-20211123-0249.zip",
+            "url": "https://api.droidontime.com/api/download/ginkgo/v5.2.1/vanilla",
+            "requireCleanFlash": false,
+            "images": [
+                {
+                    "type": "boot",
+                    "url": "https://api.droidontime.com/api/download/ginkgo/v5.2.1/vanilla/boot"
+                },
+                {
+                    "type": "recovery",
+                    "url": "https://api.droidontime.com/api/download/ginkgo/v5.2.1/vanilla/recovery"
+                }
+            ],
+            "hash": "20d6a74aad10fbf5058500a017eda421",
+            "size": 932080987,
+            "version": "v5.2.1"
+        },
+        {
+            "type": "gapps",
+            "generatedAt": 1637638899,
+            "fileName": "dotOS-R-v5.2.1-ginkgo-GAPPS-20211123-0342.zip",
+            "url": "https://api.droidontime.com/api/download/ginkgo/v5.2.1/gapps",
+            "requireCleanFlash": false,
+            "images": [
+                {
+                    "type": "boot",
+                    "url": "https://api.droidontime.com/api/download/ginkgo/v5.2.1/gapps/boot"
+                },
+                {
+                    "type": "recovery",
+                    "url": "https://api.droidontime.com/api/download/ginkgo/v5.2.1/gapps/recovery"
+                }
+            ],
+            "hash": "7a1ff85116c54909d0c212b5a09662c5",
+            "size": 1376274319,
+            "version": "v5.2.1"
+        }
+    ],
+    "links": {
+        "xda": "https://forum.xda-developers.com/t/rom-11-0-official-dotos-v5-0-1-aosp-2021-04-13.4233715/",
+        "telegram": "https://t.me/DotOSGinkgo"
+    },
+    "maintainerInfo": {
+        "name": "Yash Kachave",
+        "profileURL": "https://github.com/Introdructor"
+    }
 }
