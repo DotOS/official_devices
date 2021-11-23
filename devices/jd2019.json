@@ -1,121 +1,121 @@
 {
-    "codename": "jd2019",
-    "deviceName": "Z5s",
-    "brandName": "Lenovo",
-    "otaEnabled": true,
-    "latestVersion": "v5.2.1",
-    "discontinued": false,
-    "deviceChangelog": null,
-    "releases": [
-        {
-            "type": "vanilla",
-            "generatedAt": 1629699032,
-            "fileName": "dotOS-R-v5.1.3-jd2019-OFFICIAL-20210823-0529.zip",
-            "url": "https://downloads.droidontime.com/dot11/jd2019/vanilla/dotOS-R-v5.1.3-jd2019-OFFICIAL-20210823-0529.zip",
-            "requireCleanFlash": false,
-            "images": null,
-            "hash": "2ee9784b12b404e4b7fe83814a34e8a0",
-            "size": 966459585,
-            "version": "v5.1.3"
-        },
-        {
-            "type": "gapps",
-            "generatedAt": 1629700628,
-            "fileName": "dotOS-R-v5.1.3-jd2019-GAPPS-20210823-0630.zip",
-            "url": "https://downloads.droidontime.com/dot11/jd2019/gapps/dotOS-R-v5.1.3-jd2019-GAPPS-20210823-0630.zip",
-            "requireCleanFlash": false,
-            "images": null,
-            "hash": "6ffd4d1479c347770e5066dafce1abca",
-            "size": 1409941700,
-            "version": "v5.1.3"
-        },
-        {
-            "type": "vanilla",
-            "generatedAt": 1633681676,
-            "fileName": "dotOS-R-v5.2-jd2019-OFFICIAL-20211008-0829.zip",
-            "url": "https://api.droidontime.com/api/download/jd2019/v5.2/vanilla",
-            "requireCleanFlash": false,
-            "images": [
-                {
-                    "type": "boot",
-                    "url": "https://api.droidontime.com/api/download/jd2019/v5.2/vanilla/boot"
-                },
-                {
-                    "type": "recovery",
-                    "url": "https://api.droidontime.com/api/download/jd2019/v5.2/vanilla/recovery"
-                }
-            ],
-            "hash": "3e25edf4aeb283e8314fa328f9fa8bdd",
-            "size": 931285383,
-            "version": "v5.2"
-        },
-        {
-            "type": "gapps",
-            "generatedAt": 1633684916,
-            "fileName": "dotOS-R-v5.2-jd2019-GAPPS-20211008-0923.zip",
-            "url": "https://api.droidontime.com/api/download/jd2019/v5.2/gapps",
-            "requireCleanFlash": false,
-            "images": [
-                {
-                    "type": "boot",
-                    "url": "https://api.droidontime.com/api/download/jd2019/v5.2/gapps/boot"
-                },
-                {
-                    "type": "recovery",
-                    "url": "https://api.droidontime.com/api/download/jd2019/v5.2/gapps/recovery"
-                }
-            ],
-            "hash": "91d5cfeeac0a528591057d52c507fe16",
-            "size": 1376063057,
-            "version": "v5.2"
-        },
-        {
-            "type": "vanilla",
-            "generatedAt": 1637640241,
-            "fileName": "dotOS-R-v5.2.1-jd2019-OFFICIAL-20211123-0405.zip",
-            "url": "https://api.droidontime.com/api/download/jd2019/v5.2.1/vanilla",
-            "requireCleanFlash": false,
-            "images": [
-                {
-                    "type": "boot",
-                    "url": "https://api.droidontime.com/api/download/jd2019/v5.2.1/vanilla/boot"
-                },
-                {
-                    "type": "recovery",
-                    "url": "https://api.droidontime.com/api/download/jd2019/v5.2.1/vanilla/recovery"
-                }
-            ],
-            "hash": "855117063de5e614365d47bb9004de6d",
-            "size": 931319138,
-            "version": "v5.2.1"
-        },
-        {
-            "type": "gapps",
-            "generatedAt": 1637643443,
-            "fileName": "dotOS-R-v5.2.1-jd2019-GAPPS-20211123-0458.zip",
-            "url": "https://api.droidontime.com/api/download/jd2019/v5.2.1/gapps",
-            "requireCleanFlash": false,
-            "images": [
-                {
-                    "type": "boot",
-                    "url": "https://api.droidontime.com/api/download/jd2019/v5.2.1/gapps/boot"
-                },
-                {
-                    "type": "recovery",
-                    "url": "https://api.droidontime.com/api/download/jd2019/v5.2.1/gapps/recovery"
-                }
-            ],
-            "hash": "0f68c2f3e03700bd03f90c557975eb71",
-            "size": 1375870590,
-            "version": "v5.2.1"
-        }
-    ],
-    "links": {
-        "xda": "https://forum.xda-developers.com/t/rom-11-dotos-r-v5-0-1-official-for-lenovo-z5s-jd2019-13-04-2021.4230967/",
-        "telegram": "https://t.me/lenovoz5s"
-    },
-    "maintainerInfo": {
-        "name": "Husker",
-        "profileURL": "https://github.com/HsyHusker"
-    }
+	"codename": "jd2019",
+	"deviceName": "Z5s",
+	"brandName": "Lenovo",
+	"otaEnabled": true,
+	"latestVersion": "v5.2.1",
+	"discontinued": false,
+	"deviceChangelog": null,
+	"releases": [
+		{
+			"type": "vanilla",
+			"generatedAt": 1629699032,
+			"fileName": "dotOS-R-v5.1.3-jd2019-OFFICIAL-20210823-0529.zip",
+			"url": "https://downloads.droidontime.com/dot11/jd2019/vanilla/dotOS-R-v5.1.3-jd2019-OFFICIAL-20210823-0529.zip",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "2ee9784b12b404e4b7fe83814a34e8a0",
+			"size": 966459585,
+			"version": "v5.1.3"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1629700628,
+			"fileName": "dotOS-R-v5.1.3-jd2019-GAPPS-20210823-0630.zip",
+			"url": "https://downloads.droidontime.com/dot11/jd2019/gapps/dotOS-R-v5.1.3-jd2019-GAPPS-20210823-0630.zip",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "6ffd4d1479c347770e5066dafce1abca",
+			"size": 1409941700,
+			"version": "v5.1.3"
+		},
+		{
+			"type": "vanilla",
+			"generatedAt": 1633681676,
+			"fileName": "dotOS-R-v5.2-jd2019-OFFICIAL-20211008-0829.zip",
+			"url": "https://api.droidontime.com/api/download/jd2019/v5.2/vanilla",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/jd2019/v5.2/vanilla/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/jd2019/v5.2/vanilla/recovery"
+				}
+			],
+			"hash": "3e25edf4aeb283e8314fa328f9fa8bdd",
+			"size": 931285383,
+			"version": "v5.2"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1633684916,
+			"fileName": "dotOS-R-v5.2-jd2019-GAPPS-20211008-0923.zip",
+			"url": "https://api.droidontime.com/api/download/jd2019/v5.2/gapps",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/jd2019/v5.2/gapps/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/jd2019/v5.2/gapps/recovery"
+				}
+			],
+			"hash": "91d5cfeeac0a528591057d52c507fe16",
+			"size": 1376063057,
+			"version": "v5.2"
+		},
+		{
+			"type": "vanilla",
+			"generatedAt": 1637640241,
+			"fileName": "dotOS-R-v5.2.1-jd2019-OFFICIAL-20211123-0405.zip",
+			"url": "https://api.droidontime.com/api/download/jd2019/v5.2.1/vanilla",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/jd2019/v5.2.1/vanilla/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/jd2019/v5.2.1/vanilla/recovery"
+				}
+			],
+			"hash": "855117063de5e614365d47bb9004de6d",
+			"size": 931319138,
+			"version": "v5.2.1"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1637643443,
+			"fileName": "dotOS-R-v5.2.1-jd2019-GAPPS-20211123-0458.zip",
+			"url": "https://api.droidontime.com/api/download/jd2019/v5.2.1/gapps",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/jd2019/v5.2.1/gapps/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/jd2019/v5.2.1/gapps/recovery"
+				}
+			],
+			"hash": "0f68c2f3e03700bd03f90c557975eb71",
+			"size": 1375870590,
+			"version": "v5.2.1"
+		}
+	],
+	"links": {
+		"xda": "https://forum.xda-developers.com/t/rom-11-dotos-r-v5-0-1-official-for-lenovo-z5s-jd2019-13-04-2021.4230967/",
+		"telegram": "https://t.me/lenovoz5s"
+	},
+	"maintainerInfo": {
+		"name": "Husker",
+		"profileURL": "https://github.com/HsyHusker"
+	}
 }
