@@ -1,121 +1,121 @@
 {
-    "codename": "dipper",
-    "deviceName": "Xiaomi 8",
-    "brandName": "Xiaomi",
-    "otaEnabled": true,
-    "latestVersion": "v5.2.1",
-    "discontinued": false,
-    "deviceChangelog": null,
-    "releases": [
-        {
-            "type": "vanilla",
-            "generatedAt": 1628484987,
-            "fileName": "dotOS-R-v5.1.3-dipper-OFFICIAL-20210809-0416.zip",
-            "url": "https://downloads.droidontime.com/dot11/dipper/vanilla/dotOS-R-v5.1.3-dipper-OFFICIAL-20210809-0416.zip",
-            "requireCleanFlash": false,
-            "images": null,
-            "hash": "9ba5c4976a4425a247192bd31488f59c",
-            "size": 910609073,
-            "version": "v5.1.3"
-        },
-        {
-            "type": "gapps",
-            "generatedAt": 1628486353,
-            "fileName": "dotOS-R-v5.1.3-dipper-GAPPS-20210809-0512.zip",
-            "url": "https://downloads.droidontime.com/dot11/dipper/gapps/dotOS-R-v5.1.3-dipper-GAPPS-20210809-0512.zip",
-            "requireCleanFlash": false,
-            "images": null,
-            "hash": "0e0558caf0ffa7ac932082442cd583ee",
-            "size": 1353965663,
-            "version": "v5.1.3"
-        },
-        {
-            "type": "vanilla",
-            "generatedAt": 1633855141,
-            "fileName": "dotOS-R-v5.2-dipper-OFFICIAL-20211010-0840.zip",
-            "url": "https://api.droidontime.com/api/download/dipper/v5.2/vanilla",
-            "requireCleanFlash": false,
-            "images": [
-                {
-                    "type": "boot",
-                    "url": "https://api.droidontime.com/api/download/dipper/v5.2/vanilla/boot"
-                },
-                {
-                    "type": "recovery",
-                    "url": "https://api.droidontime.com/api/download/dipper/v5.2/vanilla/recovery"
-                }
-            ],
-            "hash": "202d425e7cddda9bab7a899db0647830",
-            "size": 930508339,
-            "version": "v5.2"
-        },
-        {
-            "type": "gapps",
-            "generatedAt": 1633858305,
-            "fileName": "dotOS-R-v5.2-dipper-GAPPS-20211010-0932.zip",
-            "url": "https://api.droidontime.com/api/download/dipper/v5.2/gapps",
-            "requireCleanFlash": false,
-            "images": [
-                {
-                    "type": "boot",
-                    "url": "https://api.droidontime.com/api/download/dipper/v5.2/gapps/boot"
-                },
-                {
-                    "type": "recovery",
-                    "url": "https://api.droidontime.com/api/download/dipper/v5.2/gapps/recovery"
-                }
-            ],
-            "hash": "00a173ed5c47a40b1276861b62a6bff7",
-            "size": 1374496200,
-            "version": "v5.2"
-        },
-        {
-            "type": "vanilla",
-            "generatedAt": 1637622822,
-            "fileName": "dotOS-R-v5.2.1-dipper-OFFICIAL-20211122-2315.zip",
-            "url": "https://api.droidontime.com/api/download/dipper/v5.2.1/vanilla",
-            "requireCleanFlash": false,
-            "images": [
-                {
-                    "type": "boot",
-                    "url": "https://api.droidontime.com/api/download/dipper/v5.2.1/vanilla/boot"
-                },
-                {
-                    "type": "recovery",
-                    "url": "https://api.droidontime.com/api/download/dipper/v5.2.1/vanilla/recovery"
-                }
-            ],
-            "hash": "077c30baec87599cd07cdd373fadae14",
-            "size": 930484990,
-            "version": "v5.2.1"
-        },
-        {
-            "type": "gapps",
-            "generatedAt": 1637625995,
-            "fileName": "dotOS-R-v5.2.1-dipper-GAPPS-20211123-0007.zip",
-            "url": "https://api.droidontime.com/api/download/dipper/v5.2.1/gapps",
-            "requireCleanFlash": false,
-            "images": [
-                {
-                    "type": "boot",
-                    "url": "https://api.droidontime.com/api/download/dipper/v5.2.1/gapps/boot"
-                },
-                {
-                    "type": "recovery",
-                    "url": "https://api.droidontime.com/api/download/dipper/v5.2.1/gapps/recovery"
-                }
-            ],
-            "hash": "725ec040fbccfd0a817f84c776dbae92",
-            "size": 1374951047,
-            "version": "v5.2.1"
-        }
-    ],
-    "links": {
-        "xda": "https://forum.xda-developers.com/t/rom-official-stable-r-dotos-5-1-3-09-08-2021.4230437/",
-        "telegram": "https://t.me/Kyuofox"
-    },
-    "maintainerInfo": {
-        "name": "Kyuofox",
-        "profileURL": "https://github.com/KyuoFoxHuyu"
-    }
+	"codename": "dipper",
+	"deviceName": "Xiaomi 8",
+	"brandName": "Xiaomi",
+	"otaEnabled": true,
+	"latestVersion": "v5.2.1",
+	"discontinued": false,
+	"deviceChangelog": null,
+	"releases": [
+		{
+			"type": "vanilla",
+			"generatedAt": 1628484987,
+			"fileName": "dotOS-R-v5.1.3-dipper-OFFICIAL-20210809-0416.zip",
+			"url": "https://downloads.droidontime.com/dot11/dipper/vanilla/dotOS-R-v5.1.3-dipper-OFFICIAL-20210809-0416.zip",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "9ba5c4976a4425a247192bd31488f59c",
+			"size": 910609073,
+			"version": "v5.1.3"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1628486353,
+			"fileName": "dotOS-R-v5.1.3-dipper-GAPPS-20210809-0512.zip",
+			"url": "https://downloads.droidontime.com/dot11/dipper/gapps/dotOS-R-v5.1.3-dipper-GAPPS-20210809-0512.zip",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "0e0558caf0ffa7ac932082442cd583ee",
+			"size": 1353965663,
+			"version": "v5.1.3"
+		},
+		{
+			"type": "vanilla",
+			"generatedAt": 1633855141,
+			"fileName": "dotOS-R-v5.2-dipper-OFFICIAL-20211010-0840.zip",
+			"url": "https://api.droidontime.com/api/download/dipper/v5.2/vanilla",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/dipper/v5.2/vanilla/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/dipper/v5.2/vanilla/recovery"
+				}
+			],
+			"hash": "202d425e7cddda9bab7a899db0647830",
+			"size": 930508339,
+			"version": "v5.2"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1633858305,
+			"fileName": "dotOS-R-v5.2-dipper-GAPPS-20211010-0932.zip",
+			"url": "https://api.droidontime.com/api/download/dipper/v5.2/gapps",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/dipper/v5.2/gapps/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/dipper/v5.2/gapps/recovery"
+				}
+			],
+			"hash": "00a173ed5c47a40b1276861b62a6bff7",
+			"size": 1374496200,
+			"version": "v5.2"
+		},
+		{
+			"type": "vanilla",
+			"generatedAt": 1637622822,
+			"fileName": "dotOS-R-v5.2.1-dipper-OFFICIAL-20211122-2315.zip",
+			"url": "https://api.droidontime.com/api/download/dipper/v5.2.1/vanilla",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/dipper/v5.2.1/vanilla/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/dipper/v5.2.1/vanilla/recovery"
+				}
+			],
+			"hash": "077c30baec87599cd07cdd373fadae14",
+			"size": 930484990,
+			"version": "v5.2.1"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1637625995,
+			"fileName": "dotOS-R-v5.2.1-dipper-GAPPS-20211123-0007.zip",
+			"url": "https://api.droidontime.com/api/download/dipper/v5.2.1/gapps",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/dipper/v5.2.1/gapps/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/dipper/v5.2.1/gapps/recovery"
+				}
+			],
+			"hash": "725ec040fbccfd0a817f84c776dbae92",
+			"size": 1374951047,
+			"version": "v5.2.1"
+		}
+	],
+	"links": {
+		"xda": "https://forum.xda-developers.com/t/rom-official-stable-r-dotos-5-1-3-09-08-2021.4230437/",
+		"telegram": "https://t.me/Kyuofox"
+	},
+	"maintainerInfo": {
+		"name": "Kyuofox",
+		"profileURL": "https://github.com/KyuoFoxHuyu"
+	}
 }
