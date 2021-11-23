@@ -1,81 +1,121 @@
 {
-	"codename": "sakura",
-	"deviceName": "Redmi 6 Pro",
-	"brandName": "Xiaomi",
-	"otaEnabled": true,
-	"latestVersion": "v5.2",
-	"discontinued": false,
-	"deviceChangelog": null,
-	"releases": [
-		{
-			"type": "vanilla",
-			"generatedAt": 1629576082,
-			"fileName": "dotOS-R-v5.1.3-sakura-OFFICIAL-20210821-1921.zip",
-			"url": "https://downloads.droidontime.com/dot11/sakura/vanilla/dotOS-R-v5.1.3-sakura-OFFICIAL-20210821-1921.zip",
-			"requireCleanFlash": false,
-			"images": null,
-			"hash": "181d8c822a039c7d9934eee3aea5eaad",
-			"size": 754083503,
-			"version": "v5.1.3"
-		},
-		{
-			"type": "gapps",
-			"generatedAt": 1629577222,
-			"fileName": "dotOS-R-v5.1.3-sakura-GAPPS-20210821-2014.zip",
-			"url": "https://downloads.droidontime.com/dot11/sakura/gapps/dotOS-R-v5.1.3-sakura-GAPPS-20210821-2014.zip",
-			"requireCleanFlash": false,
-			"images": null,
-			"hash": "f9b960a97f90ea08c8d778ee5d3c5172",
-			"size": 1196549474,
-			"version": "v5.1.3"
-		},
-		{
-			"type": "vanilla",
-			"generatedAt": 1634399288,
-			"fileName": "dotOS-R-v5.2-sakura-OFFICIAL-20211016-1549.zip",
-			"url": "https://api.droidontime.com/api/download/sakura/v5.2/vanilla",
-			"requireCleanFlash": false,
-			"images": [
-				{
-					"type": "boot",
-					"url": "https://api.droidontime.com/api/download/sakura/v5.2/vanilla/boot"
-				},
-				{
-					"type": "recovery",
-					"url": "https://api.droidontime.com/api/download/sakura/v5.2/vanilla/recovery"
-				}
-			],
-			"hash": "1caebb8b83810dfd7afa81d90348ee17",
-			"size": 773119437,
-			"version": "v5.2"
-		},
-		{
-			"type": "gapps",
-			"generatedAt": 1634402253,
-			"fileName": "dotOS-R-v5.2-sakura-GAPPS-20211016-1638.zip",
-			"url": "https://api.droidontime.com/api/download/sakura/v5.2/gapps",
-			"requireCleanFlash": false,
-			"images": [
-				{
-					"type": "boot",
-					"url": "https://api.droidontime.com/api/download/sakura/v5.2/gapps/boot"
-				},
-				{
-					"type": "recovery",
-					"url": "https://api.droidontime.com/api/download/sakura/v5.2/gapps/recovery"
-				}
-			],
-			"hash": "bc918e565fbba0d64712daede4e0d6d4",
-			"size": 1216553517,
-			"version": "v5.2"
-		}
-	],
-	"links": {
-		"xda": "https://forum.xda-developers.com/t/rom-android-11-dotos-redmi-6-pro-official-sakura.4231767/",
-		"telegram": "https://t.me/mystohub"
-	},
-	"maintainerInfo": {
-		"name": "Geo Emmanuel",
-		"profileURL": "https://github.com/geopd"
-	}
+    "codename": "sakura",
+    "deviceName": "Redmi 6 Pro",
+    "brandName": "Xiaomi",
+    "otaEnabled": true,
+    "latestVersion": "v5.2.1",
+    "discontinued": false,
+    "deviceChangelog": null,
+    "releases": [
+        {
+            "type": "vanilla",
+            "generatedAt": 1629576082,
+            "fileName": "dotOS-R-v5.1.3-sakura-OFFICIAL-20210821-1921.zip",
+            "url": "https://downloads.droidontime.com/dot11/sakura/vanilla/dotOS-R-v5.1.3-sakura-OFFICIAL-20210821-1921.zip",
+            "requireCleanFlash": false,
+            "images": null,
+            "hash": "181d8c822a039c7d9934eee3aea5eaad",
+            "size": 754083503,
+            "version": "v5.1.3"
+        },
+        {
+            "type": "gapps",
+            "generatedAt": 1629577222,
+            "fileName": "dotOS-R-v5.1.3-sakura-GAPPS-20210821-2014.zip",
+            "url": "https://downloads.droidontime.com/dot11/sakura/gapps/dotOS-R-v5.1.3-sakura-GAPPS-20210821-2014.zip",
+            "requireCleanFlash": false,
+            "images": null,
+            "hash": "f9b960a97f90ea08c8d778ee5d3c5172",
+            "size": 1196549474,
+            "version": "v5.1.3"
+        },
+        {
+            "type": "vanilla",
+            "generatedAt": 1634399288,
+            "fileName": "dotOS-R-v5.2-sakura-OFFICIAL-20211016-1549.zip",
+            "url": "https://api.droidontime.com/api/download/sakura/v5.2/vanilla",
+            "requireCleanFlash": false,
+            "images": [
+                {
+                    "type": "boot",
+                    "url": "https://api.droidontime.com/api/download/sakura/v5.2/vanilla/boot"
+                },
+                {
+                    "type": "recovery",
+                    "url": "https://api.droidontime.com/api/download/sakura/v5.2/vanilla/recovery"
+                }
+            ],
+            "hash": "1caebb8b83810dfd7afa81d90348ee17",
+            "size": 773119437,
+            "version": "v5.2"
+        },
+        {
+            "type": "gapps",
+            "generatedAt": 1634402253,
+            "fileName": "dotOS-R-v5.2-sakura-GAPPS-20211016-1638.zip",
+            "url": "https://api.droidontime.com/api/download/sakura/v5.2/gapps",
+            "requireCleanFlash": false,
+            "images": [
+                {
+                    "type": "boot",
+                    "url": "https://api.droidontime.com/api/download/sakura/v5.2/gapps/boot"
+                },
+                {
+                    "type": "recovery",
+                    "url": "https://api.droidontime.com/api/download/sakura/v5.2/gapps/recovery"
+                }
+            ],
+            "hash": "bc918e565fbba0d64712daede4e0d6d4",
+            "size": 1216553517,
+            "version": "v5.2"
+        },
+        {
+            "type": "vanilla",
+            "generatedAt": 1637687463,
+            "fileName": "dotOS-R-v5.2.1-sakura-OFFICIAL-20211123-1712.zip",
+            "url": "https://api.droidontime.com/api/download/sakura/v5.2.1/vanilla",
+            "requireCleanFlash": false,
+            "images": [
+                {
+                    "type": "boot",
+                    "url": "https://api.droidontime.com/api/download/sakura/v5.2.1/vanilla/boot"
+                },
+                {
+                    "type": "recovery",
+                    "url": "https://api.droidontime.com/api/download/sakura/v5.2.1/vanilla/recovery"
+                }
+            ],
+            "hash": "117d2bca5282a72bee2c245b6f32687f",
+            "size": 773130811,
+            "version": "v5.2.1"
+        },
+        {
+            "type": "gapps",
+            "generatedAt": 1637690439,
+            "fileName": "dotOS-R-v5.2.1-sakura-GAPPS-20211123-1801.zip",
+            "url": "https://api.droidontime.com/api/download/sakura/v5.2.1/gapps",
+            "requireCleanFlash": false,
+            "images": [
+                {
+                    "type": "boot",
+                    "url": "https://api.droidontime.com/api/download/sakura/v5.2.1/gapps/boot"
+                },
+                {
+                    "type": "recovery",
+                    "url": "https://api.droidontime.com/api/download/sakura/v5.2.1/gapps/recovery"
+                }
+            ],
+            "hash": "4068329b224936b60705a8205344ccf6",
+            "size": 1216800334,
+            "version": "v5.2.1"
+        }
+    ],
+    "links": {
+        "xda": "https://forum.xda-developers.com/t/rom-android-11-dotos-redmi-6-pro-official-sakura.4231767/",
+        "telegram": "https://t.me/mystohub"
+    },
+    "maintainerInfo": {
+        "name": "Geo Emmanuel",
+        "profileURL": "https://github.com/geopd"
+    }
 }
