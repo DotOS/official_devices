@@ -1,99 +1,99 @@
 {
-    "codename": "rosy",
-    "deviceName": "Redmi 5",
-    "brandName": "Xiaomi",
-    "otaEnabled": true,
-    "latestVersion": "v5.2.1",
-    "discontinued": false,
-    "deviceChangelog": null,
-    "releases": [
-        {
-            "type": "vanilla",
-            "generatedAt": 1634019757,
-            "fileName": "dotOS-R-v5.2-rosy-OFFICIAL-20211012-0624.zip",
-            "url": "https://api.droidontime.com/api/download/rosy/v5.2/vanilla",
-            "requireCleanFlash": false,
-            "images": [
-                {
-                    "type": "boot",
-                    "url": "https://api.droidontime.com/api/download/rosy/v5.2/vanilla/boot"
-                },
-                {
-                    "type": "recovery",
-                    "url": "https://api.droidontime.com/api/download/rosy/v5.2/vanilla/recovery"
-                }
-            ],
-            "hash": "34b8ce3bc3ee37e73be0923cfafa2dd8",
-            "size": 738032103,
-            "version": "v5.2"
-        },
-        {
-            "type": "gapps",
-            "generatedAt": 1634022843,
-            "fileName": "dotOS-R-v5.2-rosy-GAPPS-20211012-0715.zip",
-            "url": "https://api.droidontime.com/api/download/rosy/v5.2/gapps",
-            "requireCleanFlash": false,
-            "images": [
-                {
-                    "type": "boot",
-                    "url": "https://api.droidontime.com/api/download/rosy/v5.2/gapps/boot"
-                },
-                {
-                    "type": "recovery",
-                    "url": "https://api.droidontime.com/api/download/rosy/v5.2/gapps/recovery"
-                }
-            ],
-            "hash": "67ea0e90d9b3724e6fbfaf1fd6b5d2ed",
-            "size": 1175722651,
-            "version": "v5.2"
-        },
-        {
-            "type": "vanilla",
-            "generatedAt": 1637692375,
-            "fileName": "dotOS-R-v5.2.1-rosy-OFFICIAL-20211123-1834.zip",
-            "url": "https://api.droidontime.com/api/download/rosy/v5.2.1/vanilla",
-            "requireCleanFlash": false,
-            "images": [
-                {
-                    "type": "boot",
-                    "url": "https://api.droidontime.com/api/download/rosy/v5.2.1/vanilla/boot"
-                },
-                {
-                    "type": "recovery",
-                    "url": "https://api.droidontime.com/api/download/rosy/v5.2.1/vanilla/recovery"
-                }
-            ],
-            "hash": "a1a7ff21da2dddc66d77a4f0744a62b4",
-            "size": 738367762,
-            "version": "v5.2.1"
-        },
-        {
-            "type": "gapps",
-            "generatedAt": 1637695399,
-            "fileName": "dotOS-R-v5.2.1-rosy-GAPPS-20211123-1924.zip",
-            "url": "https://api.droidontime.com/api/download/rosy/v5.2.1/gapps",
-            "requireCleanFlash": false,
-            "images": [
-                {
-                    "type": "boot",
-                    "url": "https://api.droidontime.com/api/download/rosy/v5.2.1/gapps/boot"
-                },
-                {
-                    "type": "recovery",
-                    "url": "https://api.droidontime.com/api/download/rosy/v5.2.1/gapps/recovery"
-                }
-            ],
-            "hash": "b1a0446174b17e6158745b9afba83985",
-            "size": 1175718526,
-            "version": "v5.2.1"
-        }
-    ],
-    "links": {
-        "xda": "https://forum.xda-developers.com/t/rom-unofficial-dotos-5-0-redmi5-rosy-android-11.4231269/",
-        "telegram": "https://t.me/EbinsProjects"
-    },
-    "maintainerInfo": {
-        "name": "Ebin A",
-        "profileURL": "https://github.com/arulebin"
-    }
+	"codename": "rosy",
+	"deviceName": "Redmi 5",
+	"brandName": "Xiaomi",
+	"otaEnabled": true,
+	"latestVersion": "v5.2.1",
+	"discontinued": false,
+	"deviceChangelog": null,
+	"releases": [
+		{
+			"type": "vanilla",
+			"generatedAt": 1634019757,
+			"fileName": "dotOS-R-v5.2-rosy-OFFICIAL-20211012-0624.zip",
+			"url": "https://api.droidontime.com/api/download/rosy/v5.2/vanilla",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/rosy/v5.2/vanilla/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/rosy/v5.2/vanilla/recovery"
+				}
+			],
+			"hash": "34b8ce3bc3ee37e73be0923cfafa2dd8",
+			"size": 738032103,
+			"version": "v5.2"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1634022843,
+			"fileName": "dotOS-R-v5.2-rosy-GAPPS-20211012-0715.zip",
+			"url": "https://api.droidontime.com/api/download/rosy/v5.2/gapps",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/rosy/v5.2/gapps/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/rosy/v5.2/gapps/recovery"
+				}
+			],
+			"hash": "67ea0e90d9b3724e6fbfaf1fd6b5d2ed",
+			"size": 1175722651,
+			"version": "v5.2"
+		},
+		{
+			"type": "vanilla",
+			"generatedAt": 1637692375,
+			"fileName": "dotOS-R-v5.2.1-rosy-OFFICIAL-20211123-1834.zip",
+			"url": "https://api.droidontime.com/api/download/rosy/v5.2.1/vanilla",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/rosy/v5.2.1/vanilla/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/rosy/v5.2.1/vanilla/recovery"
+				}
+			],
+			"hash": "a1a7ff21da2dddc66d77a4f0744a62b4",
+			"size": 738367762,
+			"version": "v5.2.1"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1637695399,
+			"fileName": "dotOS-R-v5.2.1-rosy-GAPPS-20211123-1924.zip",
+			"url": "https://api.droidontime.com/api/download/rosy/v5.2.1/gapps",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/rosy/v5.2.1/gapps/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/rosy/v5.2.1/gapps/recovery"
+				}
+			],
+			"hash": "b1a0446174b17e6158745b9afba83985",
+			"size": 1175718526,
+			"version": "v5.2.1"
+		}
+	],
+	"links": {
+		"xda": "https://forum.xda-developers.com/t/rom-unofficial-dotos-5-0-redmi5-rosy-android-11.4231269/",
+		"telegram": "https://t.me/EbinsProjects"
+	},
+	"maintainerInfo": {
+		"name": "Ebin A",
+		"profileURL": "https://github.com/arulebin"
+	}
 }
