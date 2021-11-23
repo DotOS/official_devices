@@ -1,99 +1,99 @@
 {
-    "codename": "sanders",
-    "deviceName": "Moto G (5S) Plus",
-    "brandName": "Motorola",
-    "otaEnabled": true,
-    "latestVersion": "v5.2.1",
-    "discontinued": false,
-    "deviceChangelog": null,
-    "releases": [
-        {
-            "type": "vanilla",
-            "generatedAt": 1634223251,
-            "fileName": "dotOS-R-v5.2-sanders-OFFICIAL-20211014-1455.zip",
-            "url": "https://api.droidontime.com/api/download/sanders/v5.2/vanilla",
-            "requireCleanFlash": false,
-            "images": [
-                {
-                    "type": "boot",
-                    "url": "https://api.droidontime.com/api/download/sanders/v5.2/vanilla/boot"
-                },
-                {
-                    "type": "recovery",
-                    "url": "https://api.droidontime.com/api/download/sanders/v5.2/vanilla/recovery"
-                }
-            ],
-            "hash": "8e69c7f803bae26b414577825dccb0af",
-            "size": 755405613,
-            "version": "v5.2"
-        },
-        {
-            "type": "gapps",
-            "generatedAt": 1634226203,
-            "fileName": "dotOS-R-v5.2-sanders-GAPPS-20211014-1544.zip",
-            "url": "https://api.droidontime.com/api/download/sanders/v5.2/gapps",
-            "requireCleanFlash": false,
-            "images": [
-                {
-                    "type": "boot",
-                    "url": "https://api.droidontime.com/api/download/sanders/v5.2/gapps/boot"
-                },
-                {
-                    "type": "recovery",
-                    "url": "https://api.droidontime.com/api/download/sanders/v5.2/gapps/recovery"
-                }
-            ],
-            "hash": "186207047875eb89a0eb7c0d2e683592",
-            "size": 1194730035,
-            "version": "v5.2"
-        },
-        {
-            "type": "vanilla",
-            "generatedAt": 1637696455,
-            "fileName": "dotOS-R-v5.2.1-sanders-OFFICIAL-20211123-1942.zip",
-            "url": "https://api.droidontime.com/api/download/sanders/v5.2.1/vanilla",
-            "requireCleanFlash": false,
-            "images": [
-                {
-                    "type": "boot",
-                    "url": "https://api.droidontime.com/api/download/sanders/v5.2.1/vanilla/boot"
-                },
-                {
-                    "type": "recovery",
-                    "url": "https://api.droidontime.com/api/download/sanders/v5.2.1/vanilla/recovery"
-                }
-            ],
-            "hash": "a704881022a600789a5c6e27ca3781fe",
-            "size": 755200881,
-            "version": "v5.2.1"
-        },
-        {
-            "type": "gapps",
-            "generatedAt": 1637699381,
-            "fileName": "dotOS-R-v5.2.1-sanders-GAPPS-20211123-2030.zip",
-            "url": "https://api.droidontime.com/api/download/sanders/v5.2.1/gapps",
-            "requireCleanFlash": false,
-            "images": [
-                {
-                    "type": "boot",
-                    "url": "https://api.droidontime.com/api/download/sanders/v5.2.1/gapps/boot"
-                },
-                {
-                    "type": "recovery",
-                    "url": "https://api.droidontime.com/api/download/sanders/v5.2.1/gapps/recovery"
-                }
-            ],
-            "hash": "cad6ff8d305695a29d6cd7eaa37f594d",
-            "size": 1194480820,
-            "version": "v5.2.1"
-        }
-    ],
-    "links": {
-        "xda": "https://forum.xda-developers.com/t/rom-11-sanders-dotos-v5-1-3-unofficial.4320871/",
-        "telegram": "https://t.me/Pint0s"
-    },
-    "maintainerInfo": {
-        "name": "Lucas Ponez",
-        "profileURL": "https://github.com/lucasponez"
-    }
+	"codename": "sanders",
+	"deviceName": "Moto G (5S) Plus",
+	"brandName": "Motorola",
+	"otaEnabled": true,
+	"latestVersion": "v5.2.1",
+	"discontinued": false,
+	"deviceChangelog": null,
+	"releases": [
+		{
+			"type": "vanilla",
+			"generatedAt": 1634223251,
+			"fileName": "dotOS-R-v5.2-sanders-OFFICIAL-20211014-1455.zip",
+			"url": "https://api.droidontime.com/api/download/sanders/v5.2/vanilla",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/sanders/v5.2/vanilla/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/sanders/v5.2/vanilla/recovery"
+				}
+			],
+			"hash": "8e69c7f803bae26b414577825dccb0af",
+			"size": 755405613,
+			"version": "v5.2"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1634226203,
+			"fileName": "dotOS-R-v5.2-sanders-GAPPS-20211014-1544.zip",
+			"url": "https://api.droidontime.com/api/download/sanders/v5.2/gapps",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/sanders/v5.2/gapps/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/sanders/v5.2/gapps/recovery"
+				}
+			],
+			"hash": "186207047875eb89a0eb7c0d2e683592",
+			"size": 1194730035,
+			"version": "v5.2"
+		},
+		{
+			"type": "vanilla",
+			"generatedAt": 1637696455,
+			"fileName": "dotOS-R-v5.2.1-sanders-OFFICIAL-20211123-1942.zip",
+			"url": "https://api.droidontime.com/api/download/sanders/v5.2.1/vanilla",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/sanders/v5.2.1/vanilla/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/sanders/v5.2.1/vanilla/recovery"
+				}
+			],
+			"hash": "a704881022a600789a5c6e27ca3781fe",
+			"size": 755200881,
+			"version": "v5.2.1"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1637699381,
+			"fileName": "dotOS-R-v5.2.1-sanders-GAPPS-20211123-2030.zip",
+			"url": "https://api.droidontime.com/api/download/sanders/v5.2.1/gapps",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/sanders/v5.2.1/gapps/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/sanders/v5.2.1/gapps/recovery"
+				}
+			],
+			"hash": "cad6ff8d305695a29d6cd7eaa37f594d",
+			"size": 1194480820,
+			"version": "v5.2.1"
+		}
+	],
+	"links": {
+		"xda": "https://forum.xda-developers.com/t/rom-11-sanders-dotos-v5-1-3-unofficial.4320871/",
+		"telegram": "https://t.me/Pint0s"
+	},
+	"maintainerInfo": {
+		"name": "Lucas Ponez",
+		"profileURL": "https://github.com/lucasponez"
+	}
 }
