@@ -1,59 +1,99 @@
 {
-	"codename": "mojito",
-	"deviceName": "Redmi Note 10",
-	"brandName": "Xiaomi",
-	"otaEnabled": true,
-	"latestVersion": "v5.2",
-	"discontinued": false,
-	"deviceChangelog": null,
-	"releases": [
-		{
-			"type": "vanilla",
-			"generatedAt": 1633846696,
-			"fileName": "dotOS-R-v5.2-mojito-OFFICIAL-20211010-0619.zip",
-			"url": "https://api.droidontime.com/api/download/mojito/v5.2/vanilla",
-			"requireCleanFlash": false,
-			"images": [
-				{
-					"type": "boot",
-					"url": "https://api.droidontime.com/api/download/mojito/v5.2/vanilla/boot"
-				},
-				{
-					"type": "recovery",
-					"url": "https://api.droidontime.com/api/download/mojito/v5.2/vanilla/recovery"
-				}
-			],
-			"hash": "46319d0fd23ec56552c49ff6bd31a217",
-			"size": 941492703,
-			"version": "v5.2"
-		},
-		{
-			"type": "gapps",
-			"generatedAt": 1633849826,
-			"fileName": "dotOS-R-v5.2-mojito-GAPPS-20211010-0711.zip",
-			"url": "https://api.droidontime.com/api/download/mojito/v5.2/gapps",
-			"requireCleanFlash": false,
-			"images": [
-				{
-					"type": "boot",
-					"url": "https://api.droidontime.com/api/download/mojito/v5.2/gapps/boot"
-				},
-				{
-					"type": "recovery",
-					"url": "https://api.droidontime.com/api/download/mojito/v5.2/gapps/recovery"
-				}
-			],
-			"hash": "28b3503a3f1a2362dec30fa74ee74847",
-			"size": 1332558232,
-			"version": "v5.2"
-		}
-	],
-	"links": {
-		"xda": "https://forum.xda-developers.com/t/rom-unofficial-oss-dot-os-5-2-gapps-vanilla.4339341/",
-		"telegram": "https://t.me/dot_mojito"
-	},
-	"maintainerInfo": {
-		"name": "Royal King",
-		"profileURL": "https://t.me/Royal_King_0"
-	}
+    "codename": "mojito",
+    "deviceName": "Redmi Note 10",
+    "brandName": "Xiaomi",
+    "otaEnabled": true,
+    "latestVersion": "v5.2.1",
+    "discontinued": false,
+    "deviceChangelog": null,
+    "releases": [
+        {
+            "type": "vanilla",
+            "generatedAt": 1633846696,
+            "fileName": "dotOS-R-v5.2-mojito-OFFICIAL-20211010-0619.zip",
+            "url": "https://api.droidontime.com/api/download/mojito/v5.2/vanilla",
+            "requireCleanFlash": false,
+            "images": [
+                {
+                    "type": "boot",
+                    "url": "https://api.droidontime.com/api/download/mojito/v5.2/vanilla/boot"
+                },
+                {
+                    "type": "recovery",
+                    "url": "https://api.droidontime.com/api/download/mojito/v5.2/vanilla/recovery"
+                }
+            ],
+            "hash": "46319d0fd23ec56552c49ff6bd31a217",
+            "size": 941492703,
+            "version": "v5.2"
+        },
+        {
+            "type": "gapps",
+            "generatedAt": 1633849826,
+            "fileName": "dotOS-R-v5.2-mojito-GAPPS-20211010-0711.zip",
+            "url": "https://api.droidontime.com/api/download/mojito/v5.2/gapps",
+            "requireCleanFlash": false,
+            "images": [
+                {
+                    "type": "boot",
+                    "url": "https://api.droidontime.com/api/download/mojito/v5.2/gapps/boot"
+                },
+                {
+                    "type": "recovery",
+                    "url": "https://api.droidontime.com/api/download/mojito/v5.2/gapps/recovery"
+                }
+            ],
+            "hash": "28b3503a3f1a2362dec30fa74ee74847",
+            "size": 1332558232,
+            "version": "v5.2"
+        },
+        {
+            "type": "vanilla",
+            "generatedAt": 1637644786,
+            "fileName": "dotOS-R-v5.2.1-mojito-OFFICIAL-20211123-0521.zip",
+            "url": "https://api.droidontime.com/api/download/mojito/v5.2.1/vanilla",
+            "requireCleanFlash": false,
+            "images": [
+                {
+                    "type": "boot",
+                    "url": "https://api.droidontime.com/api/download/mojito/v5.2.1/vanilla/boot"
+                },
+                {
+                    "type": "recovery",
+                    "url": "https://api.droidontime.com/api/download/mojito/v5.2.1/vanilla/recovery"
+                }
+            ],
+            "hash": "c5772bbdf196d80f587314c42508d134",
+            "size": 941537469,
+            "version": "v5.2.1"
+        },
+        {
+            "type": "gapps",
+            "generatedAt": 1637647900,
+            "fileName": "dotOS-R-v5.2.1-mojito-GAPPS-20211123-0612.zip",
+            "url": "https://api.droidontime.com/api/download/mojito/v5.2.1/gapps",
+            "requireCleanFlash": false,
+            "images": [
+                {
+                    "type": "boot",
+                    "url": "https://api.droidontime.com/api/download/mojito/v5.2.1/gapps/boot"
+                },
+                {
+                    "type": "recovery",
+                    "url": "https://api.droidontime.com/api/download/mojito/v5.2.1/gapps/recovery"
+                }
+            ],
+            "hash": "763de1bad93aad310308c446c9871557",
+            "size": 1332885389,
+            "version": "v5.2.1"
+        }
+    ],
+    "links": {
+        "xda": "https://forum.xda-developers.com/t/rom-unofficial-oss-dot-os-5-2-gapps-vanilla.4339341/",
+        "telegram": "https://t.me/dot_mojito"
+    },
+    "maintainerInfo": {
+        "name": "Royal King",
+        "profileURL": "https://t.me/Royal_King_0"
+    }
 }
