@@ -1,121 +1,121 @@
 {
-    "codename": "sweet",
-    "deviceName": "Redmi Note 10 Pro/Pro Max",
-    "brandName": "Xiaomi",
-    "otaEnabled": true,
-    "latestVersion": "v5.2.1",
-    "discontinued": false,
-    "deviceChangelog": null,
-    "releases": [
-        {
-            "type": "vanilla",
-            "generatedAt": 1628603463,
-            "fileName": "dotOS-R-v5.1.3-sweet-OFFICIAL-20210810-1312.zip",
-            "url": "https://downloads.droidontime.com/dot11/sweet/vanilla/dotOS-R-v5.1.3-sweet-OFFICIAL-20210810-1312.zip",
-            "requireCleanFlash": false,
-            "images": null,
-            "hash": "2e7d0fa7f66788305291d93396d23212",
-            "size": 670921418,
-            "version": "v5.1.3"
-        },
-        {
-            "type": "gapps",
-            "generatedAt": 1628604856,
-            "fileName": "dotOS-R-v5.1.3-sweet-GAPPS-20210810-1408.zip",
-            "url": "https://downloads.droidontime.com/dot11/sweet/gapps/dotOS-R-v5.1.3-sweet-GAPPS-20210810-1408.zip",
-            "requireCleanFlash": false,
-            "images": null,
-            "hash": "2d020f0c9c9f51d89529b04d46f994be",
-            "size": 1089725487,
-            "version": "v5.1.3"
-        },
-        {
-            "type": "vanilla",
-            "generatedAt": 1633797691,
-            "fileName": "dotOS-R-v5.2-sweet-OFFICIAL-20211009-1643.zip",
-            "url": "https://api.droidontime.com/api/download/sweet/v5.2/vanilla",
-            "requireCleanFlash": false,
-            "images": [
-                {
-                    "type": "boot",
-                    "url": "https://api.droidontime.com/api/download/sweet/v5.2/vanilla/boot"
-                },
-                {
-                    "type": "recovery",
-                    "url": "https://api.droidontime.com/api/download/sweet/v5.2/vanilla/recovery"
-                }
-            ],
-            "hash": "5e76099edf06a896414ca23b508e188d",
-            "size": 693265430,
-            "version": "v5.2"
-        },
-        {
-            "type": "gapps",
-            "generatedAt": 1633800781,
-            "fileName": "dotOS-R-v5.2-sweet-GAPPS-20211009-1734.zip",
-            "url": "https://api.droidontime.com/api/download/sweet/v5.2/gapps",
-            "requireCleanFlash": false,
-            "images": [
-                {
-                    "type": "boot",
-                    "url": "https://api.droidontime.com/api/download/sweet/v5.2/gapps/boot"
-                },
-                {
-                    "type": "recovery",
-                    "url": "https://api.droidontime.com/api/download/sweet/v5.2/gapps/recovery"
-                }
-            ],
-            "hash": "2fc1a3c04c956c04604c59c94789f840",
-            "size": 1115148168,
-            "version": "v5.2"
-        },
-        {
-            "type": "vanilla",
-            "generatedAt": 1637712831,
-            "fileName": "dotOS-R-v5.2.1-sweet-OFFICIAL-20211124-0015.zip",
-            "url": "https://api.droidontime.com/api/download/sweet/v5.2.1/vanilla",
-            "requireCleanFlash": false,
-            "images": [
-                {
-                    "type": "boot",
-                    "url": "https://api.droidontime.com/api/download/sweet/v5.2.1/vanilla/boot"
-                },
-                {
-                    "type": "recovery",
-                    "url": "https://api.droidontime.com/api/download/sweet/v5.2.1/vanilla/recovery"
-                }
-            ],
-            "hash": "8277970728285aecd73ffd68ea66eb8d",
-            "size": 693407814,
-            "version": "v5.2.1"
-        },
-        {
-            "type": "gapps",
-            "generatedAt": 1637715898,
-            "fileName": "dotOS-R-v5.2.1-sweet-GAPPS-20211124-0106.zip",
-            "url": "https://api.droidontime.com/api/download/sweet/v5.2.1/gapps",
-            "requireCleanFlash": false,
-            "images": [
-                {
-                    "type": "boot",
-                    "url": "https://api.droidontime.com/api/download/sweet/v5.2.1/gapps/boot"
-                },
-                {
-                    "type": "recovery",
-                    "url": "https://api.droidontime.com/api/download/sweet/v5.2.1/gapps/recovery"
-                }
-            ],
-            "hash": "65b20a35bc1be0b0f07cefaa8713c5e6",
-            "size": 1115216898,
-            "version": "v5.2.1"
-        }
-    ],
-    "links": {
-        "xda": "https://forum.xda-developers.com/t/rom-dotos-android-11-sweet.4271097/",
-        "telegram": null
-    },
-    "maintainerInfo": {
-        "name": "Adarsh Grewal",
-        "profileURL": "https://github.com/AdarshGrewal/"
-    }
+	"codename": "sweet",
+	"deviceName": "Redmi Note 10 Pro/Pro Max",
+	"brandName": "Xiaomi",
+	"otaEnabled": true,
+	"latestVersion": "v5.2.1",
+	"discontinued": false,
+	"deviceChangelog": null,
+	"releases": [
+		{
+			"type": "vanilla",
+			"generatedAt": 1628603463,
+			"fileName": "dotOS-R-v5.1.3-sweet-OFFICIAL-20210810-1312.zip",
+			"url": "https://downloads.droidontime.com/dot11/sweet/vanilla/dotOS-R-v5.1.3-sweet-OFFICIAL-20210810-1312.zip",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "2e7d0fa7f66788305291d93396d23212",
+			"size": 670921418,
+			"version": "v5.1.3"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1628604856,
+			"fileName": "dotOS-R-v5.1.3-sweet-GAPPS-20210810-1408.zip",
+			"url": "https://downloads.droidontime.com/dot11/sweet/gapps/dotOS-R-v5.1.3-sweet-GAPPS-20210810-1408.zip",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "2d020f0c9c9f51d89529b04d46f994be",
+			"size": 1089725487,
+			"version": "v5.1.3"
+		},
+		{
+			"type": "vanilla",
+			"generatedAt": 1633797691,
+			"fileName": "dotOS-R-v5.2-sweet-OFFICIAL-20211009-1643.zip",
+			"url": "https://api.droidontime.com/api/download/sweet/v5.2/vanilla",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/sweet/v5.2/vanilla/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/sweet/v5.2/vanilla/recovery"
+				}
+			],
+			"hash": "5e76099edf06a896414ca23b508e188d",
+			"size": 693265430,
+			"version": "v5.2"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1633800781,
+			"fileName": "dotOS-R-v5.2-sweet-GAPPS-20211009-1734.zip",
+			"url": "https://api.droidontime.com/api/download/sweet/v5.2/gapps",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/sweet/v5.2/gapps/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/sweet/v5.2/gapps/recovery"
+				}
+			],
+			"hash": "2fc1a3c04c956c04604c59c94789f840",
+			"size": 1115148168,
+			"version": "v5.2"
+		},
+		{
+			"type": "vanilla",
+			"generatedAt": 1637712831,
+			"fileName": "dotOS-R-v5.2.1-sweet-OFFICIAL-20211124-0015.zip",
+			"url": "https://api.droidontime.com/api/download/sweet/v5.2.1/vanilla",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/sweet/v5.2.1/vanilla/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/sweet/v5.2.1/vanilla/recovery"
+				}
+			],
+			"hash": "8277970728285aecd73ffd68ea66eb8d",
+			"size": 693407814,
+			"version": "v5.2.1"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1637715898,
+			"fileName": "dotOS-R-v5.2.1-sweet-GAPPS-20211124-0106.zip",
+			"url": "https://api.droidontime.com/api/download/sweet/v5.2.1/gapps",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/sweet/v5.2.1/gapps/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/sweet/v5.2.1/gapps/recovery"
+				}
+			],
+			"hash": "65b20a35bc1be0b0f07cefaa8713c5e6",
+			"size": 1115216898,
+			"version": "v5.2.1"
+		}
+	],
+	"links": {
+		"xda": "https://forum.xda-developers.com/t/rom-dotos-android-11-sweet.4271097/",
+		"telegram": null
+	},
+	"maintainerInfo": {
+		"name": "Adarsh Grewal",
+		"profileURL": "https://github.com/AdarshGrewal/"
+	}
 }
