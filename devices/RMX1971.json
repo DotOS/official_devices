@@ -1,59 +1,59 @@
 {
-    "codename": "RMX1971",
-    "deviceName": "Realme 5 Pro",
-    "brandName": "Realme",
-    "otaEnabled": true,
-    "latestVersion": "v5.2.1",
-    "discontinued": false,
-    "deviceChangelog": null,
-    "releases": [
-        {
-            "type": "vanilla",
-            "generatedAt": 1637768964,
-            "fileName": "dotOS-R-v5.2.1-RMX1971-OFFICIAL-20211124-1550.zip",
-            "url": "https://api.droidontime.com/api/download/RMX1971/v5.2.1/vanilla",
-            "requireCleanFlash": false,
-            "images": [
-                {
-                    "type": "boot",
-                    "url": "https://api.droidontime.com/api/download/RMX1971/v5.2.1/vanilla/boot"
-                },
-                {
-                    "type": "recovery",
-                    "url": "https://api.droidontime.com/api/download/RMX1971/v5.2.1/vanilla/recovery"
-                }
-            ],
-            "hash": "ed1ff4e3bf808f09d831b2a4268ffbbc",
-            "size": 1031040718,
-            "version": "v5.2.1"
-        },
-        {
-            "type": "gapps",
-            "generatedAt": 1637772190,
-            "fileName": "dotOS-R-v5.2.1-RMX1971-GAPPS-20211124-1644.zip",
-            "url": "https://api.droidontime.com/api/download/RMX1971/v5.2.1/gapps",
-            "requireCleanFlash": false,
-            "images": [
-                {
-                    "type": "boot",
-                    "url": "https://api.droidontime.com/api/download/RMX1971/v5.2.1/gapps/boot"
-                },
-                {
-                    "type": "recovery",
-                    "url": "https://api.droidontime.com/api/download/RMX1971/v5.2.1/gapps/recovery"
-                }
-            ],
-            "hash": "99733292d831e5a0a8fc602f66806440",
-            "size": 1475543766,
-            "version": "v5.2.1"
-        }
-    ],
-    "links": {
-        "xda": "https://forum.xda-developers.com/t/rom-android-11-unofficial-dot-os-5-1-3-for-realme-5-pro-q-aug2021.4320631",
-        "telegram": "https://t.me/Dotos_Official_RMX1971"
-    },
-    "maintainerInfo": {
-        "name": "KSSRAO",
-        "profileURL": "https://t.me/kssrao13882"
-    }
+	"codename": "RMX1971",
+	"deviceName": "Realme 5 Pro",
+	"brandName": "Realme",
+	"otaEnabled": true,
+	"latestVersion": "v5.2.1",
+	"discontinued": false,
+	"deviceChangelog": null,
+	"releases": [
+		{
+			"type": "vanilla",
+			"generatedAt": 1637768964,
+			"fileName": "dotOS-R-v5.2.1-RMX1971-OFFICIAL-20211124-1550.zip",
+			"url": "https://api.droidontime.com/api/download/RMX1971/v5.2.1/vanilla",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/RMX1971/v5.2.1/vanilla/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/RMX1971/v5.2.1/vanilla/recovery"
+				}
+			],
+			"hash": "ed1ff4e3bf808f09d831b2a4268ffbbc",
+			"size": 1031040718,
+			"version": "v5.2.1"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1637772190,
+			"fileName": "dotOS-R-v5.2.1-RMX1971-GAPPS-20211124-1644.zip",
+			"url": "https://api.droidontime.com/api/download/RMX1971/v5.2.1/gapps",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/RMX1971/v5.2.1/gapps/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/RMX1971/v5.2.1/gapps/recovery"
+				}
+			],
+			"hash": "99733292d831e5a0a8fc602f66806440",
+			"size": 1475543766,
+			"version": "v5.2.1"
+		}
+	],
+	"links": {
+		"xda": "https://forum.xda-developers.com/t/rom-android-11-unofficial-dot-os-5-1-3-for-realme-5-pro-q-aug2021.4320631",
+		"telegram": "https://t.me/Dotos_Official_RMX1971"
+	},
+	"maintainerInfo": {
+		"name": "KSSRAO",
+		"profileURL": "https://t.me/kssrao13882"
+	}
 }
