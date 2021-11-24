@@ -1,81 +1,121 @@
 {
-	"codename": "surya",
-	"deviceName": "POCO X3 NFC",
-	"brandName": "POCO",
-	"otaEnabled": true,
-	"latestVersion": "v5.2",
-	"discontinued": false,
-	"deviceChangelog": null,
-	"releases": [
-		{
-			"type": "vanilla",
-			"generatedAt": 1628597806,
-			"fileName": "dotOS-R-v5.1.3-surya-OFFICIAL-20210810-1135.zip",
-			"url": "https://downloads.droidontime.com/dot11/surya/vanilla/dotOS-R-v5.1.3-surya-OFFICIAL-20210810-1135.zip",
-			"requireCleanFlash": false,
-			"images": null,
-			"hash": "c9795fd723bb03854f5395f3a07f0f25",
-			"size": 1015258419,
-			"version": "v5.1.3"
-		},
-		{
-			"type": "gapps",
-			"generatedAt": 1628599563,
-			"fileName": "dotOS-R-v5.1.3-surya-GAPPS-20210810-1238.zip",
-			"url": "https://downloads.droidontime.com/dot11/surya/gapps/dotOS-R-v5.1.3-surya-GAPPS-20210810-1238.zip",
-			"requireCleanFlash": false,
-			"images": null,
-			"hash": "e7d08cdaee37628f096c19d7b0d13027",
-			"size": 1428602498,
-			"version": "v5.1.3"
-		},
-		{
-			"type": "vanilla",
-			"generatedAt": 1633806339,
-			"fileName": "dotOS-R-v5.2-surya-OFFICIAL-20211009-1907.zip",
-			"url": "https://api.droidontime.com/api/download/surya/v5.2/vanilla",
-			"requireCleanFlash": false,
-			"images": [
-				{
-					"type": "boot",
-					"url": "https://api.droidontime.com/api/download/surya/v5.2/vanilla/boot"
-				},
-				{
-					"type": "recovery",
-					"url": "https://api.droidontime.com/api/download/surya/v5.2/vanilla/recovery"
-				}
-			],
-			"hash": "2880cf301a445489f6421e44dcfd1c0b",
-			"size": 1004763468,
-			"version": "v5.2"
-		},
-		{
-			"type": "gapps",
-			"generatedAt": 1633809608,
-			"fileName": "dotOS-R-v5.2-surya-GAPPS-20211009-2001.zip",
-			"url": "https://api.droidontime.com/api/download/surya/v5.2/gapps",
-			"requireCleanFlash": false,
-			"images": [
-				{
-					"type": "boot",
-					"url": "https://api.droidontime.com/api/download/surya/v5.2/gapps/boot"
-				},
-				{
-					"type": "recovery",
-					"url": "https://api.droidontime.com/api/download/surya/v5.2/gapps/recovery"
-				}
-			],
-			"hash": "dd42199fa8c1d413d82530ab680752f1",
-			"size": 1440559737,
-			"version": "v5.2"
-		}
-	],
-	"links": {
-		"xda": "https://https://forum.xda-developers.com/t/rom-official-11-0-dot-os-v5-0-poco-x3-surya-karna-18-04-2021.4227955/",
-		"telegram": "https://t.me/ChrisL7SupportRN7"
-	},
-	"maintainerInfo": {
-		"name": "CHRISL7",
-		"profileURL": "https://github.com/chrisw444"
-	}
+    "codename": "surya",
+    "deviceName": "POCO X3 NFC",
+    "brandName": "POCO",
+    "otaEnabled": true,
+    "latestVersion": "v5.2.1",
+    "discontinued": false,
+    "deviceChangelog": null,
+    "releases": [
+        {
+            "type": "vanilla",
+            "generatedAt": 1628597806,
+            "fileName": "dotOS-R-v5.1.3-surya-OFFICIAL-20210810-1135.zip",
+            "url": "https://downloads.droidontime.com/dot11/surya/vanilla/dotOS-R-v5.1.3-surya-OFFICIAL-20210810-1135.zip",
+            "requireCleanFlash": false,
+            "images": null,
+            "hash": "c9795fd723bb03854f5395f3a07f0f25",
+            "size": 1015258419,
+            "version": "v5.1.3"
+        },
+        {
+            "type": "gapps",
+            "generatedAt": 1628599563,
+            "fileName": "dotOS-R-v5.1.3-surya-GAPPS-20210810-1238.zip",
+            "url": "https://downloads.droidontime.com/dot11/surya/gapps/dotOS-R-v5.1.3-surya-GAPPS-20210810-1238.zip",
+            "requireCleanFlash": false,
+            "images": null,
+            "hash": "e7d08cdaee37628f096c19d7b0d13027",
+            "size": 1428602498,
+            "version": "v5.1.3"
+        },
+        {
+            "type": "vanilla",
+            "generatedAt": 1633806339,
+            "fileName": "dotOS-R-v5.2-surya-OFFICIAL-20211009-1907.zip",
+            "url": "https://api.droidontime.com/api/download/surya/v5.2/vanilla",
+            "requireCleanFlash": false,
+            "images": [
+                {
+                    "type": "boot",
+                    "url": "https://api.droidontime.com/api/download/surya/v5.2/vanilla/boot"
+                },
+                {
+                    "type": "recovery",
+                    "url": "https://api.droidontime.com/api/download/surya/v5.2/vanilla/recovery"
+                }
+            ],
+            "hash": "2880cf301a445489f6421e44dcfd1c0b",
+            "size": 1004763468,
+            "version": "v5.2"
+        },
+        {
+            "type": "gapps",
+            "generatedAt": 1633809608,
+            "fileName": "dotOS-R-v5.2-surya-GAPPS-20211009-2001.zip",
+            "url": "https://api.droidontime.com/api/download/surya/v5.2/gapps",
+            "requireCleanFlash": false,
+            "images": [
+                {
+                    "type": "boot",
+                    "url": "https://api.droidontime.com/api/download/surya/v5.2/gapps/boot"
+                },
+                {
+                    "type": "recovery",
+                    "url": "https://api.droidontime.com/api/download/surya/v5.2/gapps/recovery"
+                }
+            ],
+            "hash": "dd42199fa8c1d413d82530ab680752f1",
+            "size": 1440559737,
+            "version": "v5.2"
+        },
+        {
+            "type": "vanilla",
+            "generatedAt": 1637782984,
+            "fileName": "dotOS-R-v5.2.1-surya-OFFICIAL-20211124-1944.zip",
+            "url": "https://api.droidontime.com/api/download/surya/v5.2.1/vanilla",
+            "requireCleanFlash": false,
+            "images": [
+                {
+                    "type": "boot",
+                    "url": "https://api.droidontime.com/api/download/surya/v5.2.1/vanilla/boot"
+                },
+                {
+                    "type": "recovery",
+                    "url": "https://api.droidontime.com/api/download/surya/v5.2.1/vanilla/recovery"
+                }
+            ],
+            "hash": "7f7e304e51e2849d541b21a5ece87d6a",
+            "size": 1016426347,
+            "version": "v5.2.1"
+        },
+        {
+            "type": "gapps",
+            "generatedAt": 1637786248,
+            "fileName": "dotOS-R-v5.2.1-surya-GAPPS-20211124-2038.zip",
+            "url": "https://api.droidontime.com/api/download/surya/v5.2.1/gapps",
+            "requireCleanFlash": false,
+            "images": [
+                {
+                    "type": "boot",
+                    "url": "https://api.droidontime.com/api/download/surya/v5.2.1/gapps/boot"
+                },
+                {
+                    "type": "recovery",
+                    "url": "https://api.droidontime.com/api/download/surya/v5.2.1/gapps/recovery"
+                }
+            ],
+            "hash": "1d5d8bde7fed588b5a347eed2ea53765",
+            "size": 1452557724,
+            "version": "v5.2.1"
+        }
+    ],
+    "links": {
+        "xda": "https://https://forum.xda-developers.com/t/rom-official-11-0-dot-os-v5-0-poco-x3-surya-karna-18-04-2021.4227955/",
+        "telegram": "https://t.me/ChrisL7SupportRN7"
+    },
+    "maintainerInfo": {
+        "name": "CHRISL7",
+        "profileURL": "https://github.com/chrisw444"
+    }
 }
