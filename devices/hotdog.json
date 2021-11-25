@@ -1,81 +1,121 @@
 {
-	"codename": "hotdog",
-	"deviceName": "Oneplus 7T Pro",
-	"brandName": "Oneplus",
-	"otaEnabled": true,
-	"latestVersion": "v5.2",
-	"discontinued": false,
-	"deviceChangelog": null,
-	"releases": [
-		{
-			"type": "vanilla",
-			"generatedAt": 1628514163,
-			"fileName": "dotOS-R-v5.1.3-hotdog-OFFICIAL-20210809-1223.zip",
-			"url": "https://downloads.droidontime.com/dot11/hotdog/vanilla/dotOS-R-v5.1.3-hotdog-OFFICIAL-20210809-1223.zip",
-			"requireCleanFlash": false,
-			"images": null,
-			"hash": "619050c1a39dfbe18094b8bee260f17c",
-			"size": 900384681,
-			"version": "v5.1.3"
-		},
-		{
-			"type": "gapps",
-			"generatedAt": 1628515343,
-			"fileName": "dotOS-R-v5.1.3-hotdog-GAPPS-20210809-1317.zip",
-			"url": "https://downloads.droidontime.com/dot11/hotdog/gapps/dotOS-R-v5.1.3-hotdog-GAPPS-20210809-1317.zip",
-			"requireCleanFlash": false,
-			"images": null,
-			"hash": "1f514cbe99db73ec3e8878d6e42bdba1",
-			"size": 1268305473,
-			"version": "v5.1.3"
-		},
-		{
-			"type": "vanilla",
-			"generatedAt": 1633725953,
-			"fileName": "dotOS-R-v5.2-hotdog-OFFICIAL-20211008-2047.zip",
-			"url": "https://api.droidontime.com/api/download/hotdog/v5.2/vanilla",
-			"requireCleanFlash": false,
-			"images": [
-				{
-					"type": "boot",
-					"url": "https://api.droidontime.com/api/download/hotdog/v5.2/vanilla/boot"
-				},
-				{
-					"type": "recovery",
-					"url": "https://api.droidontime.com/api/download/hotdog/v5.2/vanilla/recovery"
-				}
-			],
-			"hash": "feafa11c4c47b3605c2c580c527725d3",
-			"size": 923059064,
-			"version": "v5.2"
-		},
-		{
-			"type": "gapps",
-			"generatedAt": 1633729040,
-			"fileName": "dotOS-R-v5.2-hotdog-GAPPS-20211008-2138.zip",
-			"url": "https://api.droidontime.com/api/download/hotdog/v5.2/gapps",
-			"requireCleanFlash": false,
-			"images": [
-				{
-					"type": "boot",
-					"url": "https://api.droidontime.com/api/download/hotdog/v5.2/gapps/boot"
-				},
-				{
-					"type": "recovery",
-					"url": "https://api.droidontime.com/api/download/hotdog/v5.2/gapps/recovery"
-				}
-			],
-			"hash": "ea0a0690bd25fe337b719f2936809747",
-			"size": 1292842523,
-			"version": "v5.2"
-		}
-	],
-	"links": {
-		"xda": "https://forum.xda-developers.com/t/rom-official-11-0-oneplus-7t-pro-dotos-aosp.4285269/page-3#post-85182221",
-		"telegram": null
-	},
-	"maintainerInfo": {
-		"name": "Mohan C M",
-		"profileURL": "https://github.com/mohancm"
-	}
+    "codename": "hotdog",
+    "deviceName": "Oneplus 7T Pro",
+    "brandName": "Oneplus",
+    "otaEnabled": true,
+    "latestVersion": "v5.2.1",
+    "discontinued": false,
+    "deviceChangelog": null,
+    "releases": [
+        {
+            "type": "vanilla",
+            "generatedAt": 1628514163,
+            "fileName": "dotOS-R-v5.1.3-hotdog-OFFICIAL-20210809-1223.zip",
+            "url": "https://downloads.droidontime.com/dot11/hotdog/vanilla/dotOS-R-v5.1.3-hotdog-OFFICIAL-20210809-1223.zip",
+            "requireCleanFlash": false,
+            "images": null,
+            "hash": "619050c1a39dfbe18094b8bee260f17c",
+            "size": 900384681,
+            "version": "v5.1.3"
+        },
+        {
+            "type": "gapps",
+            "generatedAt": 1628515343,
+            "fileName": "dotOS-R-v5.1.3-hotdog-GAPPS-20210809-1317.zip",
+            "url": "https://downloads.droidontime.com/dot11/hotdog/gapps/dotOS-R-v5.1.3-hotdog-GAPPS-20210809-1317.zip",
+            "requireCleanFlash": false,
+            "images": null,
+            "hash": "1f514cbe99db73ec3e8878d6e42bdba1",
+            "size": 1268305473,
+            "version": "v5.1.3"
+        },
+        {
+            "type": "vanilla",
+            "generatedAt": 1633725953,
+            "fileName": "dotOS-R-v5.2-hotdog-OFFICIAL-20211008-2047.zip",
+            "url": "https://api.droidontime.com/api/download/hotdog/v5.2/vanilla",
+            "requireCleanFlash": false,
+            "images": [
+                {
+                    "type": "boot",
+                    "url": "https://api.droidontime.com/api/download/hotdog/v5.2/vanilla/boot"
+                },
+                {
+                    "type": "recovery",
+                    "url": "https://api.droidontime.com/api/download/hotdog/v5.2/vanilla/recovery"
+                }
+            ],
+            "hash": "feafa11c4c47b3605c2c580c527725d3",
+            "size": 923059064,
+            "version": "v5.2"
+        },
+        {
+            "type": "gapps",
+            "generatedAt": 1633729040,
+            "fileName": "dotOS-R-v5.2-hotdog-GAPPS-20211008-2138.zip",
+            "url": "https://api.droidontime.com/api/download/hotdog/v5.2/gapps",
+            "requireCleanFlash": false,
+            "images": [
+                {
+                    "type": "boot",
+                    "url": "https://api.droidontime.com/api/download/hotdog/v5.2/gapps/boot"
+                },
+                {
+                    "type": "recovery",
+                    "url": "https://api.droidontime.com/api/download/hotdog/v5.2/gapps/recovery"
+                }
+            ],
+            "hash": "ea0a0690bd25fe337b719f2936809747",
+            "size": 1292842523,
+            "version": "v5.2"
+        },
+        {
+            "type": "vanilla",
+            "generatedAt": 1637845015,
+            "fileName": "dotOS-R-v5.2.1-hotdog-OFFICIAL-20211125-1258.zip",
+            "url": "https://api.droidontime.com/api/download/hotdog/v5.2.1/vanilla",
+            "requireCleanFlash": false,
+            "images": [
+                {
+                    "type": "boot",
+                    "url": "https://api.droidontime.com/api/download/hotdog/v5.2.1/vanilla/boot"
+                },
+                {
+                    "type": "recovery",
+                    "url": "https://api.droidontime.com/api/download/hotdog/v5.2.1/vanilla/recovery"
+                }
+            ],
+            "hash": "6668a010d30f56a75b14e2952e52d1cd",
+            "size": 923256790,
+            "version": "v5.2.1"
+        },
+        {
+            "type": "gapps",
+            "generatedAt": 1637848076,
+            "fileName": "dotOS-R-v5.2.1-hotdog-GAPPS-20211125-1349.zip",
+            "url": "https://api.droidontime.com/api/download/hotdog/v5.2.1/gapps",
+            "requireCleanFlash": false,
+            "images": [
+                {
+                    "type": "boot",
+                    "url": "https://api.droidontime.com/api/download/hotdog/v5.2.1/gapps/boot"
+                },
+                {
+                    "type": "recovery",
+                    "url": "https://api.droidontime.com/api/download/hotdog/v5.2.1/gapps/recovery"
+                }
+            ],
+            "hash": "810ffa8525fe5efc243dd286d5ced602",
+            "size": 1293011740,
+            "version": "v5.2.1"
+        }
+    ],
+    "links": {
+        "xda": "https://forum.xda-developers.com/t/rom-official-11-0-oneplus-7t-pro-dotos-aosp.4285269/page-3#post-85182221",
+        "telegram": null
+    },
+    "maintainerInfo": {
+        "name": "Mohan C M",
+        "profileURL": "https://github.com/mohancm"
+    }
 }
