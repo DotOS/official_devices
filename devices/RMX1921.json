@@ -1,81 +1,81 @@
 {
-    "codename": "RMX1921",
-    "deviceName": "Realme XT",
-    "brandName": "Realme",
-    "otaEnabled": true,
-    "latestVersion": "v5.2.1",
-    "discontinued": false,
-    "deviceChangelog": null,
-    "releases": [
-        {
-            "type": "vanilla",
-            "generatedAt": 1628573340,
-            "fileName": "dotOS-R-v5.1.3-RMX1921-OFFICIAL-20210810-0447.zip",
-            "url": "https://downloads.droidontime.com/dot11/RMX1921/vanilla/dotOS-R-v5.1.3-RMX1921-OFFICIAL-20210810-0447.zip",
-            "requireCleanFlash": false,
-            "images": null,
-            "hash": "88f4b0087dae63ce0ceb5ffd747d142e",
-            "size": 1138762096,
-            "version": "v5.1.3"
-        },
-        {
-            "type": "gapps",
-            "generatedAt": 1628575031,
-            "fileName": "dotOS-R-v5.1.3-RMX1921-GAPPS-20210810-0549.zip",
-            "url": "https://downloads.droidontime.com/dot11/RMX1921/gapps/dotOS-R-v5.1.3-RMX1921-GAPPS-20210810-0549.zip",
-            "requireCleanFlash": false,
-            "images": null,
-            "hash": "238ac7844eb74926f4077df9267bd4ce",
-            "size": 1509911910,
-            "version": "v5.1.3"
-        },
-        {
-            "type": "vanilla",
-            "generatedAt": 1637849354,
-            "fileName": "dotOS-R-v5.2.1-RMX1921-OFFICIAL-20211125-1410.zip",
-            "url": "https://api.droidontime.com/api/download/RMX1921/v5.2.1/vanilla",
-            "requireCleanFlash": false,
-            "images": [
-                {
-                    "type": "boot",
-                    "url": "https://api.droidontime.com/api/download/RMX1921/v5.2.1/vanilla/boot"
-                },
-                {
-                    "type": "recovery",
-                    "url": "https://api.droidontime.com/api/download/RMX1921/v5.2.1/vanilla/recovery"
-                }
-            ],
-            "hash": "fdc1fadce4057858a8d6b65dbf6e36e9",
-            "size": 1161490741,
-            "version": "v5.2.1"
-        },
-        {
-            "type": "gapps",
-            "generatedAt": 1637852596,
-            "fileName": "dotOS-R-v5.2.1-RMX1921-GAPPS-20211125-1504.zip",
-            "url": "https://api.droidontime.com/api/download/RMX1921/v5.2.1/gapps",
-            "requireCleanFlash": false,
-            "images": [
-                {
-                    "type": "boot",
-                    "url": "https://api.droidontime.com/api/download/RMX1921/v5.2.1/gapps/boot"
-                },
-                {
-                    "type": "recovery",
-                    "url": "https://api.droidontime.com/api/download/RMX1921/v5.2.1/gapps/recovery"
-                }
-            ],
-            "hash": "5b33493569efc72f31f9f2c94746c88c",
-            "size": 1535714790,
-            "version": "v5.2.1"
-        }
-    ],
-    "links": {
-        "xda": "https://forum.xda-developers.com/t/dotos-v5-0-0-rmx1921.4243945/",
-        "telegram": null
-    },
-    "maintainerInfo": {
-        "name": "Deepak Jangir",
-        "profileURL": "https://github.com/Deepak5310"
-    }
+	"codename": "RMX1921",
+	"deviceName": "Realme XT",
+	"brandName": "Realme",
+	"otaEnabled": true,
+	"latestVersion": "v5.2.1",
+	"discontinued": false,
+	"deviceChangelog": null,
+	"releases": [
+		{
+			"type": "vanilla",
+			"generatedAt": 1628573340,
+			"fileName": "dotOS-R-v5.1.3-RMX1921-OFFICIAL-20210810-0447.zip",
+			"url": "https://downloads.droidontime.com/dot11/RMX1921/vanilla/dotOS-R-v5.1.3-RMX1921-OFFICIAL-20210810-0447.zip",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "88f4b0087dae63ce0ceb5ffd747d142e",
+			"size": 1138762096,
+			"version": "v5.1.3"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1628575031,
+			"fileName": "dotOS-R-v5.1.3-RMX1921-GAPPS-20210810-0549.zip",
+			"url": "https://downloads.droidontime.com/dot11/RMX1921/gapps/dotOS-R-v5.1.3-RMX1921-GAPPS-20210810-0549.zip",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "238ac7844eb74926f4077df9267bd4ce",
+			"size": 1509911910,
+			"version": "v5.1.3"
+		},
+		{
+			"type": "vanilla",
+			"generatedAt": 1637849354,
+			"fileName": "dotOS-R-v5.2.1-RMX1921-OFFICIAL-20211125-1410.zip",
+			"url": "https://api.droidontime.com/api/download/RMX1921/v5.2.1/vanilla",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/RMX1921/v5.2.1/vanilla/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/RMX1921/v5.2.1/vanilla/recovery"
+				}
+			],
+			"hash": "fdc1fadce4057858a8d6b65dbf6e36e9",
+			"size": 1161490741,
+			"version": "v5.2.1"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1637852596,
+			"fileName": "dotOS-R-v5.2.1-RMX1921-GAPPS-20211125-1504.zip",
+			"url": "https://api.droidontime.com/api/download/RMX1921/v5.2.1/gapps",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/RMX1921/v5.2.1/gapps/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/RMX1921/v5.2.1/gapps/recovery"
+				}
+			],
+			"hash": "5b33493569efc72f31f9f2c94746c88c",
+			"size": 1535714790,
+			"version": "v5.2.1"
+		}
+	],
+	"links": {
+		"xda": "https://forum.xda-developers.com/t/dotos-v5-0-0-rmx1921.4243945/",
+		"telegram": null
+	},
+	"maintainerInfo": {
+		"name": "Deepak Jangir",
+		"profileURL": "https://github.com/Deepak5310"
+	}
 }
