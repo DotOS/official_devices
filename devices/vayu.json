@@ -1,121 +1,81 @@
 {
-    "codename": "vayu",
-    "deviceName": "Poco X3 Pro",
-    "brandName": "POCO",
-    "otaEnabled": true,
-    "latestVersion": "v5.2.1",
-    "discontinued": false,
-    "deviceChangelog": null,
-    "releases": [
-        {
-            "type": "vanilla",
-            "generatedAt": 1628619100,
-            "fileName": "dotOS-R-v5.1.3-vayu-OFFICIAL-20210810-1729.zip",
-            "url": "https://downloads.droidontime.com/dot11/vayu/vanilla/dotOS-R-v5.1.3-vayu-OFFICIAL-20210810-1729.zip",
-            "requireCleanFlash": false,
-            "images": null,
-            "hash": "7aa08fd38489e58b4649936ea2633650",
-            "size": 1103466985,
-            "version": "v5.1.3"
-        },
-        {
-            "type": "gapps",
-            "generatedAt": 1628620788,
-            "fileName": "dotOS-R-v5.1.3-vayu-GAPPS-20210810-1832.zip",
-            "url": "https://downloads.droidontime.com/dot11/vayu/gapps/dotOS-R-v5.1.3-vayu-GAPPS-20210810-1832.zip",
-            "requireCleanFlash": false,
-            "images": null,
-            "hash": "8ad5f0707740479cc50d3b45ab9e050f",
-            "size": 1526235979,
-            "version": "v5.1.3"
-        },
-        {
-            "type": "vanilla",
-            "generatedAt": 1633694713,
-            "fileName": "dotOS-R-v5.2-vayu-OFFICIAL-20211008-1206.zip",
-            "url": "https://api.droidontime.com/api/download/vayu/v5.2/vanilla",
-            "requireCleanFlash": false,
-            "images": [
-                {
-                    "type": "boot",
-                    "url": "https://api.droidontime.com/api/download/vayu/v5.2/vanilla/boot"
-                },
-                {
-                    "type": "recovery",
-                    "url": "https://api.droidontime.com/api/download/vayu/v5.2/vanilla/recovery"
-                }
-            ],
-            "hash": "2740127bcc5ddc8ca818f3eb557f04cf",
-            "size": 1238044341,
-            "version": "v5.2"
-        },
-        {
-            "type": "gapps",
-            "generatedAt": 1633698401,
-            "fileName": "dotOS-R-v5.2-vayu-GAPPS-20211008-1307.zip",
-            "url": "https://api.droidontime.com/api/download/vayu/v5.2/gapps",
-            "requireCleanFlash": false,
-            "images": [
-                {
-                    "type": "boot",
-                    "url": "https://api.droidontime.com/api/download/vayu/v5.2/gapps/boot"
-                },
-                {
-                    "type": "recovery",
-                    "url": "https://api.droidontime.com/api/download/vayu/v5.2/gapps/recovery"
-                }
-            ],
-            "hash": "a03316cf5acd2d5537064da1ac8452d6",
-            "size": 1596375665,
-            "version": "v5.2"
-        },
-        {
-            "type": "vanilla",
-            "generatedAt": 1637725969,
-            "fileName": "dotOS-R-v5.2.1-vayu-OFFICIAL-20211124-0354.zip",
-            "url": "https://api.droidontime.com/api/download/vayu/v5.2.1/vanilla",
-            "requireCleanFlash": false,
-            "images": [
-                {
-                    "type": "boot",
-                    "url": "https://api.droidontime.com/api/download/vayu/v5.2.1/vanilla/boot"
-                },
-                {
-                    "type": "recovery",
-                    "url": "https://api.droidontime.com/api/download/vayu/v5.2.1/vanilla/recovery"
-                }
-            ],
-            "hash": "5af2c5b689068bdca7a651fd73951c33",
-            "size": 1238372621,
-            "version": "v5.2.1"
-        },
-        {
-            "type": "gapps",
-            "generatedAt": 1637729465,
-            "fileName": "dotOS-R-v5.2.1-vayu-GAPPS-20211124-0452.zip",
-            "url": "https://api.droidontime.com/api/download/vayu/v5.2.1/gapps",
-            "requireCleanFlash": false,
-            "images": [
-                {
-                    "type": "boot",
-                    "url": "https://api.droidontime.com/api/download/vayu/v5.2.1/gapps/boot"
-                },
-                {
-                    "type": "recovery",
-                    "url": "https://api.droidontime.com/api/download/vayu/v5.2.1/gapps/recovery"
-                }
-            ],
-            "hash": "399d8a18486e89dfacfe4cb4420997d0",
-            "size": 1596731876,
-            "version": "v5.2.1"
-        }
-    ],
-    "links": {
-        "xda": "https://forum.xda-developers.com/t/rom-unofficial-dotos-5-0-1-android-11-0-vayu-bhima.4273177/",
-        "telegram": "https://t.me/DotOSPocoX3pro"
-    },
-    "maintainerInfo": {
-        "name": "Ahmed",
-        "profileURL": "https://github.com/luckYViii"
-    }
+	"codename": "vayu",
+	"deviceName": "Poco X3 Pro",
+	"brandName": "POCO",
+	"otaEnabled": true,
+	"latestVersion": "v5.2",
+	"discontinued": false,
+	"deviceChangelog": null,
+	"releases": [
+		{
+			"type": "vanilla",
+			"generatedAt": 1628619100,
+			"fileName": "dotOS-R-v5.1.3-vayu-OFFICIAL-20210810-1729.zip",
+			"url": "https://downloads.droidontime.com/dot11/vayu/vanilla/dotOS-R-v5.1.3-vayu-OFFICIAL-20210810-1729.zip",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "7aa08fd38489e58b4649936ea2633650",
+			"size": 1103466985,
+			"version": "v5.1.3"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1628620788,
+			"fileName": "dotOS-R-v5.1.3-vayu-GAPPS-20210810-1832.zip",
+			"url": "https://downloads.droidontime.com/dot11/vayu/gapps/dotOS-R-v5.1.3-vayu-GAPPS-20210810-1832.zip",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "8ad5f0707740479cc50d3b45ab9e050f",
+			"size": 1526235979,
+			"version": "v5.1.3"
+		},
+		{
+			"type": "vanilla",
+			"generatedAt": 1633694713,
+			"fileName": "dotOS-R-v5.2-vayu-OFFICIAL-20211008-1206.zip",
+			"url": "https://api.droidontime.com/api/download/vayu/v5.2/vanilla",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/vayu/v5.2/vanilla/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/vayu/v5.2/vanilla/recovery"
+				}
+			],
+			"hash": "2740127bcc5ddc8ca818f3eb557f04cf",
+			"size": 1238044341,
+			"version": "v5.2"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1633698401,
+			"fileName": "dotOS-R-v5.2-vayu-GAPPS-20211008-1307.zip",
+			"url": "https://api.droidontime.com/api/download/vayu/v5.2/gapps",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/vayu/v5.2/gapps/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/vayu/v5.2/gapps/recovery"
+				}
+			],
+			"hash": "a03316cf5acd2d5537064da1ac8452d6",
+			"size": 1596375665,
+			"version": "v5.2"
+		}
+	],
+	"links": {
+		"xda": "https://forum.xda-developers.com/t/rom-unofficial-dotos-5-0-1-android-11-0-vayu-bhima.4273177/",
+		"telegram": "https://t.me/DotOSPocoX3pro"
+	},
+	"maintainerInfo": {
+		"name": "Ahmed",
+		"profileURL": "https://github.com/luckYViii"
+	}
 }
