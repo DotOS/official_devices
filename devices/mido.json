@@ -108,6 +108,28 @@
 			"hash": "d86e7d8b3573993c2f3291015ae37b67",
 			"size": 1137031750,
 			"version": "v5.2.1"
+		},
+		{
+			"type": "vanilla",
+			"generatedAt": 1649350200,
+			"fileName": "dotOS-v6.0-mido-BETA-VANILLA-20220407-1514.zip",
+			"url": "https://api.droidontime.com/api/download/mido/v6.0-beta/vanilla",
+			"requireCleanFlash": true,
+			"images": null,
+			"hash": "4e91fb69278731462dbe2280e925e35b",
+			"size": 697929909,
+			"version": "v6.0.0-beta"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1649350200,
+			"fileName": "dotOS-v6.0-mido-BETA-GAPPS-20220407-1514.zip",
+			"url": "https://api.droidontime.com/api/download/mido/v6.0-beta/gapps",
+			"requireCleanFlash": true,
+			"images": null,
+			"hash": "cbf00241e2eee44005d786c437c62696",
+			"size": 1397707455,
+			"version": "v6.0.0-beta"
 		}
 	],
 	"links": {

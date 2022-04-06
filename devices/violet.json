@@ -108,6 +108,28 @@
 			"hash": "f590d80082debd6af796790b90f02c82",
 			"size": 1542327412,
 			"version": "v5.2.1"
+		},
+		{
+			"type": "vanilla",
+			"generatedAt": 1649442540,
+			"fileName": "dotOS-v6.0-violet-BETA-VANILLA-20220406-2029.zip",
+			"url": "https://api.droidontime.com/api/download/violet/v6.0-beta/vanilla",
+			"requireCleanFlash": true,
+			"images": null,
+			"hash": "21dfeb94de2d789936da564fe2ebacf1",
+			"size": 1270635290,
+			"version": "v6.0.0-beta"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1649442540,
+			"fileName": "dotOS-v6.0-violet-BETA-GAPPS-20220407-0804.zip",
+			"url": "https://api.droidontime.com/api/download/violet/v6.0-beta/gapps",
+			"requireCleanFlash": true,
+			"images": null,
+			"hash": "6333b3a9f795a5fce9807683382f698d",
+			"size": 1788830328,
+			"version": "v6.0.0-beta"
 		}
 	],
 	"links": {

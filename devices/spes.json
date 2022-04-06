@@ -1,0 +1,18 @@
+{
+	"codename": "spes",
+	"deviceName": "Redmi Note 11",
+	"brandName": "Xiaomi",
+	"otaEnabled": true,
+	"latestVersion": null,
+	"discontinued": false,
+	"deviceChangelog": null,
+	"releases": [],
+	"links": {
+		"xda": null,
+		"telegram": null
+	},
+	"maintainerInfo": {
+		"name": "Enweazu Daniel",
+		"profileURL": "https://github.com/enweazudaniel"
+	}
+}

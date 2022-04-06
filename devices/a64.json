@@ -1,7 +1,7 @@
 {
 	"codename": "a64",
-	"deviceName": "GSI - A64",
-	"brandName": "Android",
+	"deviceName": "A64",
+	"brandName": "GSI",
 	"otaEnabled": false,
 	"latestVersion": "v5.2",
 	"discontinued": false,

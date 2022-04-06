@@ -4,7 +4,7 @@
 	"brandName": "Xiaomi",
 	"otaEnabled": true,
 	"latestVersion": "v5.1.3",
-	"discontinued": false,
+	"discontinued": true,
 	"deviceChangelog": null,
 	"releases": [
 		{
@@ -31,11 +31,11 @@
 		}
 	],
 	"links": {
-		"xda": "https://forum.xda-developers.com/t/rom-11-unofficial-dotos-v5-1-1-aosp-jason.4268815/",
+		"xda": null,
 		"telegram": null
 	},
 	"maintainerInfo": {
-		"name": "Enweazu Daniel",
-		"profileURL": "https://github.com/enweazudaniel"
+		"name": null,
+		"profileURL": null
 	}
 }

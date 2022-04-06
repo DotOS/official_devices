@@ -27,7 +27,7 @@ interface Releases {
 	latest: boolean;
 }
 interface Images {
-	type: "boot" | "recovery";
+	type: "boot" | "recovery" | "vendor_boot";
 	url: string;
 }
 interface Maintainer {

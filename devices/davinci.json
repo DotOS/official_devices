@@ -108,6 +108,46 @@
 			"hash": "d489f9b1f34c251b8decb71a410ed88b",
 			"size": 1828984972,
 			"version": "v5.2.1"
+		},
+		{
+			"type": "vanilla",
+			"generatedAt": 1649683800,
+			"fileName": "dotOS-v6.0-davinci-BETA-VANILLA-20220411-1206.zip",
+			"url": "https://api.droidontime.com/api/download/davinci/v6.0-beta/vanilla",
+			"requireCleanFlash": true,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/davinci/v6.0-beta/vanilla/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/davinci/v6.0-beta/vanilla/recovery"
+				}
+			],
+			"hash": "ed37f481d508844d9ef36b8a4d697a6e",
+			"size": 1103069891,
+			"version": "v6.0.0-beta"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1649683800,
+			"fileName": "dotOS-v6.0-davinci-BETA-GAPPS-20220411-1156.zip",
+			"url": "https://api.droidontime.com/api/download/davinci/v6.0-beta/gapps",
+			"requireCleanFlash": true,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/davinci/v6.0-beta/gapps/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/davinci/v6.0-beta/gapps/recovery"
+				}
+			],
+			"hash": "b045350b0df4915151e85423becfa759",
+			"size": 1764597505,
+			"version": "v6.0.0-beta"
 		}
 	],
 	"links": {

@@ -1,8 +1,8 @@
 {
-	"Android": {
-		"a64": "GSI - A64",
-		"arm": "GSI - ARM",
-		"arm64": "GSI - ARM64"
+	"GSI (Universal Builds)": {
+		"a64": "A64",
+		"arm": "ARM",
+		"arm64": "ARM64"
 	},
 	"Asus": {
 		"X00QD": "Zenfone 5",
@@ -28,7 +28,6 @@
 		"sanders": "Moto G (5S) Plus"
 	},
 	"Oneplus": {
-		"avicii": "OnePlus Nord",
 		"cheeseburger": "Oneplus 5",
 		"dumpling": "Oneplus 5T",
 		"enchilada": "OnePlus 6",
@@ -78,9 +77,11 @@
 		"perseus": "Mi Mix 3",
 		"pine": "Redmi 7A",
 		"raphael": "Redmi K20 Pro",
+		"renoir": "Mi 11 Lite 5G",
 		"rolex": "Redmi 4A/5a",
 		"rosy": "Redmi 5",
 		"sakura": "Redmi 6 Pro",
+		"spes": "Redmi Note 11",
 		"sweet": "Redmi Note 10 Pro/Pro Max",
 		"tissot": "Mi A1",
 		"toco": "Mi Note 10 Lite",

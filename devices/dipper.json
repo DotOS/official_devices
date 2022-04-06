@@ -108,6 +108,28 @@
 			"hash": "725ec040fbccfd0a817f84c776dbae92",
 			"size": 1374951047,
 			"version": "v5.2.1"
+		},
+		{
+			"type": "vanilla",
+			"generatedAt": 1649510940,
+			"fileName": "dotOS-v6.0-dipper-BETA-VANILLA-20220409-1500.zip",
+			"url": "https://api.droidontime.com/api/download/dipper/v6.0-beta/vanilla",
+			"requireCleanFlash": true,
+			"images": null,
+			"hash": "a11dc39a37b8f9a8b57437432cfde3fc",
+			"size": 996171103,
+			"version": "v6.0.0-beta"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1649510940,
+			"fileName": "dotOS-v6.0-dipper-BETA-GAPPS-20220409-1529.zip",
+			"url": "https://api.droidontime.com/api/download/dipper/v6.0-beta/gapps",
+			"requireCleanFlash": true,
+			"images": null,
+			"hash": "53b41d12f0014063114df3d0666da7f2",
+			"size": 1648427857,
+			"version": "v6.0.0-beta"
 		}
 	],
 	"links": {

@@ -28,6 +28,46 @@
 			"hash": "fc24c4746a44ef36919452303cb5c67c",
 			"size": 1253139600,
 			"version": "v5.1.3"
+		},
+		{
+			"type": "vanilla",
+			"generatedAt": 1638176513,
+			"fileName": "dotOS-R-v5.2.1-tulip-OFFICIAL-20211129-0815.zip",
+			"url": "https://api.droidontime.com/api/download/tulip/v5.2.1/vanilla",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/tulip/v5.2.1/vanilla/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/tulip/v5.2.1/vanilla/recovery"
+				}
+			],
+			"hash": "dd1fc980dabd80f36eda89a0a336c5bd",
+			"size": 843346606,
+			"version": "v5.2.1"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1638176513,
+			"fileName": "dotOS-R-v5.2.1-tulip-GAPPS-20211129-0904.zip",
+			"url": "https://api.droidontime.com/api/download/tulip/v5.2.1/gapps",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/tulip/v5.2.1/gapps/boot"
+				},
+				{
+					"type": "recovery",
+					"url": "https://api.droidontime.com/api/download/tulip/v5.2.1/gapps/recovery"
+				}
+			],
+			"hash": "f25ac8cb0f9614f4bd07a9eb2fabe3f1",
+			"size": 1280898235,
+			"version": "v5.2.1"
 		}
 	],
 	"links": {

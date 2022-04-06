@@ -3,7 +3,7 @@
 	"deviceName": "Realme 5 Pro",
 	"brandName": "Realme",
 	"otaEnabled": true,
-	"latestVersion": "v5.2.1",
+	"latestVersion": "v6.0.0",
 	"discontinued": false,
 	"deviceChangelog": null,
 	"releases": [
@@ -46,6 +46,50 @@
 			"hash": "99733292d831e5a0a8fc602f66806440",
 			"size": 1475543766,
 			"version": "v5.2.1"
+		},
+		{
+			"type": "vanilla",
+			"generatedAt": 1649570760,
+			"fileName": "dotOS-v6.0-RMX1971-BETA-VANILLA-20220410-0806.zip",
+			"url": "https://api.droidontime.com/api/download/RMX1971/v6.0-beta/vanilla",
+			"requireCleanFlash": true,
+			"images": null,
+			"hash": "00b4eff47a3cc18a180d50d75b5954a9",
+			"size": 1138124961,
+			"version": "v6.0.0-beta"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1649570760,
+			"fileName": "dotOS-v6.0-RMX1971-BETA-GAPPS-20220410-1044.zip",
+			"url": "https://api.droidontime.com/api/download/RMX1971/v6.0-beta/gapps",
+			"requireCleanFlash": true,
+			"images": null,
+			"hash": "a390dd1e8a4688c51ee0254a36621164",
+			"size": 1704843857,
+			"version": "v6.0.0-beta"
+		},
+		{
+			"type": "vanilla",
+			"generatedAt": 1662789240,
+			"fileName": "dotOS-v6.0.0-RMX1971-OFFICIAL-20220910.zip",
+			"url": "https://api.droidontime.com/api/download/RMX1971/v6.0.0/vanilla",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "7f3a99e67035718cfc7a5326b277b98b",
+			"size": 1299838916,
+			"version": "v6.0.0"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1662778676,
+			"fileName": "dotOS-v6.0.0-RMX1971-GAPPS-20220910.zip",
+			"url": "https://api.droidontime.com/api/download/RMX1971/v6.0.0/gapps",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "9ec835bcf40b7baf4bf471cd9e45f897",
+			"size": 1858837664,
+			"version": "v6.0.0"
 		}
 	],
 	"links": {
