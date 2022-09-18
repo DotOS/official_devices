@@ -3,7 +3,7 @@
 	"deviceName": "Mi Note 10 Lite",
 	"brandName": "Xiaomi",
 	"otaEnabled": true,
-	"latestVersion": "v5.2.1",
+	"latestVersion": "v6.0.0",
 	"discontinued": false,
 	"deviceChangelog": null,
 	"releases": [
@@ -108,6 +108,28 @@
 			"hash": "af5762390c5e7c0f73e79d278678345e",
 			"size": 1626576379,
 			"version": "v5.2.1"
+		},
+		{
+			"type": "vanilla",
+			"generatedAt": 1662905931,
+			"fileName": "dotOS-v6.0.0-toco-OFFICIAL-20220911.zip",
+			"url": "https://api.droidontime.com/api/download/toco/v6.0.0/vanilla",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "78164f9b1ffc359f4a5b297a334c6935",
+			"size": 1477958552,
+			"version": "v6.0.0"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1662902229,
+			"fileName": "dotOS-v6.0.0-toco-GAPPS-20220911.zip",
+			"url": "https://api.droidontime.com/api/download/toco/v6.0.0/gapps",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "3011652a62f79dcd79f7143bc23e95e8",
+			"size": 2106178689,
+			"version": "v6.0.0"
 		}
 	],
 	"links": {
