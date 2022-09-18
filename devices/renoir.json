@@ -106,6 +106,26 @@
 			"hash": "8446c338149e645b80939e37bd3c0a27",
 			"size": 2014474621,
 			"version": "v6.0.0"
+		},
+		{
+			"type": "vanilla",
+			"generatedAt": 1662638515,
+			"fileName": "dotOS-v6.0-renoir-OFFICIAL-20220917.zip",
+			"url": "https://api.droidontime.com/api/download/renoir/v6.0.0/vanilla",
+			"requireCleanFlash": false,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://api.droidontime.com/api/download/renoir/v6.0.0/vanilla/boot"
+				},
+				{
+					"type": "vendor_boot",
+					"url": "https://api.droidontime.com/api/download/renoir/v6.0.0/vanilla/vendor_boot"
+				}
+			],
+			"hash": "0aa6c5b3c3cab8ef629af8b56d050b3b",
+			"size": 1408577984,
+			"version": "v6.0.0"
 		}
 	],
 	"links": {
