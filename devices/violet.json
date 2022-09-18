@@ -3,7 +3,7 @@
 	"deviceName": "Redmi Note 7 Pro",
 	"brandName": "Xiaomi",
 	"otaEnabled": true,
-	"latestVersion": "v5.2.1",
+	"latestVersion": "v6.0.0",
 	"discontinued": false,
 	"deviceChangelog": null,
 	"releases": [
@@ -130,6 +130,28 @@
 			"hash": "6333b3a9f795a5fce9807683382f698d",
 			"size": 1788830328,
 			"version": "v6.0.0-beta"
+		},
+		{
+			"type": "vanilla",
+			"generatedAt": 1662821608,
+			"fileName": "dotOS-v6.0.0-violet-OFFICIAL-20220910.zip",
+			"url": "https://api.droidontime.com/api/download/violet/v6.0.0/vanilla",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "daf34ca4c149df2b3db57b0b78eaa9a1",
+			"size": 1307998657,
+			"version": "v6.0.0"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1662870966,
+			"fileName": "dotOS-v6.0.0-violet-GAPPS-20220911.zip",
+			"url": "https://api.droidontime.com/api/download/violet/v6.0.0/gapps",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "a72512372a052bb40731f1a22d7f2252",
+			"size": 1922191708,
+			"version": "v6.0.0"
 		}
 	],
 	"links": {

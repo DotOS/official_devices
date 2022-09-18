@@ -3,10 +3,33 @@
 	"deviceName": "Redmi Note 11",
 	"brandName": "Xiaomi",
 	"otaEnabled": true,
-	"latestVersion": null,
+	"latestVersion": "v6.0.0",
 	"discontinued": false,
 	"deviceChangelog": null,
-	"releases": [],
+	"releases": [
+		{
+			"type": "vanilla",
+			"generatedAt": 1662821608,
+			"fileName": "dotOS-v6.0.0-spes-OFFICIAL-20220911.zip",
+			"url": "https://api.droidontime.com/api/download/spes/v6.0.0/vanilla",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "90e5e053c701daae218426dc00af37f0",
+			"size": 1670089524,
+			"version": "v6.0.0"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1662894368,
+			"fileName": "dotOS-v6.0.0-spes-GAPPS-20220911.zip",
+			"url": "https://api.droidontime.com/api/download/spes/v6.0.0/gapps",
+			"requireCleanFlash": false,
+			"images": null,
+			"hash": "e6b7cb808f275159453a8e8d83a7bb0c",
+			"size": 1673924916,
+			"version": "v6.0.0"
+		}
+	],
 	"links": {
 		"xda": null,
 		"telegram": null
